@@ -158,7 +158,7 @@ ul.posts .author {
 }
 
 .site .header .title a:hover {
-  color: #F9895A;
+  color: #CBC4AB;
 }
 
 .site .header .title code {
@@ -171,6 +171,11 @@ ul.posts .author {
   text-align: right;
   color: #a00;
   margin-bottom: 0.5em;
+  transition: color 1s;
+}
+
+.site .header .subtitle:hover {
+    color: #CBC4AB;
 }
 
 /*    MENU OPTIONS  */
