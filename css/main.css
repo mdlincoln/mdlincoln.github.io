@@ -165,6 +165,14 @@ ul.posts .author {
   font-size: 1.3em;
 }
 
+.site .header .subtitle {
+  font-size: 1em;
+  font-family: "Ubuntu";
+  text-align: right;
+  color: #a00;
+  margin-bottom: 0.5em;
+}
+
 /*    MENU OPTIONS  */
 
 .site .menu {
