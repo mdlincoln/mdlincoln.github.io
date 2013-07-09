@@ -1,9 +1,16 @@
 ---
 layout: default
-title: Home
-slug: home
+title: home
 ---
 
-> # Currently under construction.
->
-> All pages on here are mockups of a possible web platform for this project.
+# Blog posts
+
+<div id="home">
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+</div>
+
+# Projects
