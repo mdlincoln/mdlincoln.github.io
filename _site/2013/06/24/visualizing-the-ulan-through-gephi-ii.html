@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Looking through the ULAN with Gephi, II</title>
+        <meta name="viewport" content="width=device-width">
+
+        <!-- syntax highlighting CSS -->
+        <link rel="stylesheet" href="/css/syntax.css">
+
+        <!-- Custom CSS -->
+        <link rel="stylesheet" href="/css/main.css">
+
+        <!-- Fonts -->
+        <link href='http://fonts.googleapis.com/css?family=Ubuntu+Mono:700|Open+Sans:400italic,400,700&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+
+    </head>
+    <body>
+
+      <div class="container">
+        <div class="site">
+          <div class="header">
+            <div class="title"><a href="/">Matthew D. Lincoln</a></div>
+            <div><h1>Art History Ph.D student, University of Maryland</h1></div>
+            <div class="image"></div>
+            <div class="menu">
+              <a href="/about.html">About</a>
+              <a href="/blog.html">Essays</a>
+            </div>
+          </div>
+          <div class="content">
+            <div class="ptitle">Looking through the ULAN with Gephi, II</div>
+
+                <p class="meta">24 Jun 2013, by Matthew Lincoln</p>
+
+<div class="post">
+<p><em>Cross-posted on <a href='http://mlincoln.wordpress.com/2013/06/24/visualizing-the-ulan-through-gephi-ii/'>mlincoln.wordpress.com</a></em></p>
+
+<p>In a recent <a href='http://sixdegreesoffrancisbacon.com/post/53595757782/networks-as-constructs-the-curious-case-of-margaret'>guest post</a> on the Six Degrees of Francis Bacon project, Shawn Moore discusses the curious networks of Maria Cavendish. Moore writes:</p>
+
+<blockquote>
+<p>In many ways, her networks are non-traditional in that they often exist outside of and beyond Cavendish herself…</p>
+</blockquote>
+
+<p>Of significant interest is that the DNB data shows how important extra-personal (looking for a word that indicates connections beyond the intra-personal) connections are for the network Cavendish constructs, and to the networks that are constructed around the reception and reputation of “Margaret Cavendish,” thus exposing an important structure in the sociable practices at play during the period.</p>
+
+<p>In other words, it seems that understanding the reception of a figure&#8217;s work through network graphs requires surveying more than the immediate neighborhood, or ego network, of figures just one edge away from Margaret Cavendish (or Rembrandt van Rijn, for that matter.) It is, of course, the relationships between these first, second, or third-level nodes that actually constitute the public conversation about the root author or artist, the conversation we are so eager to better understand.</p>
+
+<p>It was after I dove into Gephi last week that I found Scott Weingart&#8217;s excellent <a href='http://journalofdigitalhumanities.org/1-1/demystifying-networks-by-scott-weingart/'>overview of network analysis for humanitsts</a>.<sup id='fnref:1'><a href='#fn:1' rel='footnote'>1</a></sup> After a cogent introduction to the basics, Weingart offers some pointed warnings to humanists about creating multimodal networks - that is, networks with different classes of nodes (e.g. artists and organizations, illustrated below.) These require their own analytical and layout tools.</p>
+
+<p><a href='http://mlincoln.files.wordpress.com/2013/06/screen-shot-2013-06-23-at-3-47-03-pm.png'><img alt='A graph of the Black Mountain College network, with both artist and organization nodes. (visualization by Matthew Lincoln, underlying data © 2013 The J. Paul Getty Trust. All rights reserved.)' src='http://mlincoln.files.wordpress.com/2013/06/screen-shot-2013-06-23-at-3-47-03-pm.png' /></a> A graph of the Black Mountain College network, with both artist and organization nodes. (visualization by Matthew Lincoln, underlying data © 2013 The J. Paul Getty Trust. All rights reserved.)</p>
+
+<p>Although for my own purposes I am content to filter out organizations from the ULAN dataset, I also want to take advantage of the rich variations of relationships it describes. This means devising some scheme for weighting relationship types by their attribute (&#8220;master of&#8221; assigned a weight of 10, for example, while &#8220;collaborator with&#8221; gets a weight of 5).<sup id='fnref:2'><a href='#fn:2' rel='footnote'>2</a></sup></p>
+
+<p>One would have to customize such a scheme depending on what type of influence you were interested in visualizing; interpretation and all its accompanying biases will be layered on fast and thick. I predict this will be one of the biggest hurdles to overcome as we move forward with this project.</p>
+<div class='footnotes'><hr /><ol><li id='fn:1'>
+<p>Scott B. Weingart, “Demystifying Networks, Parts I &amp; II”, <em>Journal of Digital Humanities</em> 1, no. 1 (Winter 2011) (<a href='http://journalofdigitalhumanities.org/1-1/demystifying-networks-by-scott-weingart/'>URL</a>)</p>
+<a href='#fnref:1' rev='footnote'>&#8617;</a></li><li id='fn:2'>
+<p>I am curious how the next version of Gephi (0.9), which will implement <a href='https://gephi.org/2013/rebuilding-gephis-core-for-the-0-9-version/'>multigraph support</a>, might aid this process.</p>
+<a href='#fnref:2' rev='footnote'>&#8617;</a></li></ol></div>
+</div>
+
+            </div>
+            <div class="footer">
+              <div class="contact">
+                <p>
+                  © 2013, Matthew D. Lincoln<br />
+                  Ph.D Student, Graduate Assistant in the Digital Humanities<br />
+                  <a href="http://michellesmithcollaboratory.umd.edu">The Michelle Smith Collaboratory for Visual Culture</a><br />
+                  <a href="http://arthistory.umd.edu">Department of Art History & Archaeology</a><br />
+                  University of Maryland, College Park<br />
+                </p>
+              </div>
+              <div class="contact">
+                <p>
+                  Contact Information<br />
+                  <a href="http://mlincoln.wordpress.com">Personal website</a><br />
+                    <a href="http://twitter.com/matthewdlincoln">@matthewdlincoln</a>
+                </p>
+              </div>
+              <p>Powered by <a href="http://jekyllrb.com">Jekyll</a></p>
+            </div>
+          </div>
+        </div>
+    </body>
+</html>
