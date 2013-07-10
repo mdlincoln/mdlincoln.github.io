@@ -1,7 +1,9 @@
 ---
-title: Biography
-layout: default
+title: About the author
+layout: page
 ---
+
+![author in Shanghai, 2013](/assets/images/author.jpg)
 
 Matthew Lincoln is a Ph.D. student studying sixteenth and seventeenth-century northern European art under Dr. Arthur Wheelock, with a particular interest in Dutch mannerism, print culture, and early modern word/image relations. Ongoing projects include incorporating technology into humanities research, including geographic and social network visualizations, and generating interactive tools for exploring primary source texts in art history.
 
