@@ -5,7 +5,7 @@ date: 2013-07-10
 tags: github, humor
 ---
 
-I [ran accross this stylesheet](https://github.com/golman/print.css) by David Bushell while searching for a simple CSS for printing.
+I ran accross [this stylesheet](https://github.com/golman/print.css) by David Bushell while searching for a simple CSS for printing.
 	
 	@media only print
 		{
