@@ -3,7 +3,7 @@ author: mlincoln
 comments: true
 date: 2013-09-16 15:00:20+00:00
 layout: post
-published: true
+published: false
 slug: presenting-at-the-sixteenth-century-society-conference
 title: Presenting at the Sixteenth Century Society Conference
 wordpress_id: 1225
