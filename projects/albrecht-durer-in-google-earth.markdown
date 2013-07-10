@@ -2,7 +2,7 @@
 author: mlincoln
 comments: true
 date: 2013-06-14 16:51:57+00:00
-layout: default
+layout: page
 slug: albrecht-durer-in-google-earth
 title: Albrecht Dürer in Google Earth
 wordpress_id: 1191

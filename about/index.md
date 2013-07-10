@@ -3,7 +3,35 @@ title: About the author
 layout: page
 ---
 
+# Contact Information
+
 ![author in Shanghai, 2013](/assets/images/author.jpg)
+
+
+Matthew D. Lincoln  
+Ph.D Student, Graduate Assistant in the Digital Humanities  
+[The Michelle Smith Collaboratory for Visual Culture](http://michellesmithcollaboratory.umd.edu)  
+[Department of Art History & Archaeology](http://arthistory.umd.edu)  
+University of Maryland, College Park
+
+## Links
+
+- [Current CV](https://docs.google.com/document/d/1D26djrb4BUMYkLiif01vQM5nXty2ziCqctzF1wQb_sA/edit?usp=sharing
+)
+
+- [Department profile](http://arthistory.umd.edu/graduate-students/Matthew%20Lincoln)
+
+- [Academia.edu](htt[://umd.academia.edu/MatthewLincoln)
+
+- [GitHub](https://github.com/mdlincoln)
+
+- [LinkedIn](http://www.linkedin.com/profile/view?id=49520669)
+
+- [Twitter](http://twitter.com/matthewdlincoln)
+
+
+# Interests
+
 
 Matthew Lincoln is a Ph.D. student studying sixteenth and seventeenth-century northern European art under Dr. Arthur Wheelock, with a particular interest in Dutch mannerism, print culture, and early modern word/image relations. Ongoing projects include incorporating technology into humanities research, including geographic and social network visualizations, and generating interactive tools for exploring primary source texts in art history.
 
