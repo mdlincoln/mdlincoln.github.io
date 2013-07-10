@@ -41,10 +41,10 @@ One would have to customize such a scheme depending on what type of influence yo
 
 
 	
-[^1]: Scott B. Weingart, “Demystifying Networks, Parts I & II”, _Journal of Digital Humanities_ 1, no. 1 (Winter 2011) ([URL](http://journalofdigitalhumanities.org/1-1/demystifying-networks-by-scott-weingart/))[↩](1)
+[^1]: Scott B. Weingart, “Demystifying Networks, Parts I & II”, *Journal of Digital Humanities* 1, no. 1 (Winter 2011) ([URL](http://journalofdigitalhumanities.org/1-1/demystifying-networks-by-scott-weingart/))
 
 	
-[^2]: I am curious how the next version of Gephi (0.9), which will implement [multigraph support](https://gephi.org/2013/rebuilding-gephis-core-for-the-0-9-version/), might aid this process.[↩](2)
+[^2]: I am curious how the next version of Gephi (0.9), which will implement [multigraph support](https://gephi.org/2013/rebuilding-gephis-core-for-the-0-9-version/), might aid this process.
 
 
 

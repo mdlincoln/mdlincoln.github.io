@@ -28,7 +28,7 @@ The ULAN does, however, richly characterize artistic, professional, and familial
 
 There’s no denying that this nicely-styled network graph is pretty. But is it useful?
 
-In the above graph, nodes are scaled by their degree (how many immediate connections they have to other nodes) and colored by their eigenvector centrality (a measure of their relative centrality to the network at large)[^1] Though the array of artists in the sample data is idiosyncratic (from Raphael to Hans Hoffman), it isn’t surprising to see big names like Jacques-Louis David appear, well, _big_ due to their well-connectedness.
+In the above graph, nodes are scaled by their degree (how many immediate connections they have to other nodes) and colored by their eigenvector centrality (a measure of their relative centrality to the network at large)[^1] Though the array of artists in the sample data is idiosyncratic (from Raphael to Hans Hoffman), it isn’t surprising to see big names like Jacques-Louis David appear, well, *big* due to their well-connectedness.
 
 However looking at color in this graph is a bit more interesting. A node (like David) important to its immediate social neighborhood does not necessarily connect as many disparate groups as a node (like David’s close neighbor Jean-Baptiste Regnault) with greater eigenvector centrality.
 
@@ -53,9 +53,9 @@ The practice of distant looking at historical networks will need to establish it
 
 
 
-[^1]: For more on this measure, and on network mapping in general, see Robert A. and Mark Riddle, _Introduction to Social Network Methods._ (Riverside, CA, University of California, Riverside, 2005), ch. 10. ([online version](http://www.faculty.ucr.edu/~hanneman/nettext/C10_Centrality.html#Eigenvector))↩
+[^1]: For more on this measure, and on network mapping in general, see Robert A. and Mark Riddle, *Introduction to Social Network Methods.* (Riverside, CA, University of California, Riverside, 2005), ch. 10. ([online version](http://www.faculty.ucr.edu/~hanneman/nettext/C10_Centrality.html#Eigenvector))
 
-[^2]: Bear in mind I am speaking only of the attachments described by this small, un-representative sample set of the ULAN. The relationships of these communities would be much more fleshed out in the full version of the ULAN.↩
+[^2]: Bear in mind I am speaking only of the attachments described by this small, un-representative sample set of the ULAN. The relationships of these communities would be much more fleshed out in the full version of the ULAN.
 
 
 

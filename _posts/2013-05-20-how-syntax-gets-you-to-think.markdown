@@ -15,6 +15,7 @@ tags:
 - linguistics
 ---
 
-<http://www.vimeo.com/65186730 w=500&h;=240>
+<iframe src="http://player.vimeo.com/video/65186730" width="500" height="277" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+
 
 Check out some interesting non-art-historical [research being done by a friend in the UMD Linguistics department](http://posterhall.org/igert2013/posters/443).

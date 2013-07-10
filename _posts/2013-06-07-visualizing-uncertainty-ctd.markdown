@@ -16,4 +16,4 @@ tags:
 - visualization
 ---
 
-The [communal](http://chnm2013.thatcamp.org/notepads/session-notes/)[notepad](http://chnm2013.thatcamp.org/notepads/session-notes/) for our THATcamp Prime session this morning is online. Go take a look to see what was said! More reflections to come.
+The [communal](http://chnm2013.thatcamp.org/notepads/session-notes/) [notepad](http://chnm2013.thatcamp.org/notepads/session-notes/) for our THATcamp Prime session this morning is online. Go take a look to see what was said! More reflections to come.
