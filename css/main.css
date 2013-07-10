@@ -155,6 +155,7 @@ ul.posts .author {
 }
 .pagination {
   margin: 5em 0;
+  text-align: center;
 }
 .pagination ul {
   display: inline-block;
@@ -222,12 +223,12 @@ ul.posts .author {
   -moz-border-radius-bottomright: 4px;
   border-bottom-right-radius: 4px;
 }
-.pagination-centered {
+/*.pagination-centered {
   text-align: center;
 }
 .pagination-right {
   text-align: right;
-}
+}*/
 
 
 /*****************************************************************************/
@@ -240,6 +241,7 @@ ul.posts .author {
   font-size: 115%;
   text-align: left;
   width: 65%;
+  max-width: 50em;
   margin: 3em auto 2em;
   line-height: 1.5em;
 }
@@ -247,11 +249,11 @@ ul.posts .author {
 /*    Header    */
 
 .site .header .image {
-  background-image: url('http://mlincoln.files.wordpress.com/2013/05/cropped-philips-galle-1582-cr.jpg');
+  background-image: url('/assets/images/header.png');
   background-position: center;
   background-repeat: no-repeat;
-  height: 317px;
-  box-shadow: 2px 2px 3px #888888;
+  height: 321px;
+  box-shadow: 2px 2px 1px #888888;
   border-radius: 2px;
 }
 

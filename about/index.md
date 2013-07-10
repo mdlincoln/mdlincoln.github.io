@@ -5,7 +5,9 @@ layout: page
 
 # Contact Information
 
-![author in Shanghai, 2013](/assets/images/author.jpg)
+![author in Shanghai, 2012][author]
+
+[author]: /assets/images/author.jpg "Author in Shanghai, 2012"
 
 
 Matthew D. Lincoln  
