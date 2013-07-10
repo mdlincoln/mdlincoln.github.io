@@ -31,6 +31,6 @@ The Michelle Smith Collaboratory has been developing resources to help our facul
 
 One of my favorite tools made this spring is a series of short videos written by [Molly Harrington](http://arthistory.umd.edu/graduate-students/Molly%20Harrington) and edited by [Madeline Gent](http://arthistory.umd.edu/graduate-students/Madeline%20Gent) that verbally explain and visually illustrate core concepts of formal analysis in art history. Assign this series as homework for your students, so the next week you can spend the whole time evaluating and honing their skills, rather than spending class time on initial definitions.
 
-
+<iframe src="http://player.vimeo.com/video/69115726?color=ff9933" width="600" height="337" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
 [Talking about Art: Atmospheric Perspective](http://vimeo.com/69115726) from [TerpCollaboratory](http://vimeo.com/terpcollaboratory) on [Vimeo](http://vimeo.com).
