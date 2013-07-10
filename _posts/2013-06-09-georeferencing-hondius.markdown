@@ -19,6 +19,8 @@ tags:
 - maps
 ---
 
-![A lightly-georeferenced version of Jodocus Hondius'  1611 "Leo Belgicus"](http://mlincoln.files.wordpress.com/2013/06/screen-shot-2013-06-08-at-8-00-33-pm.jpg?w=625)
+![A lightly-georeferenced version of Jodocus Hondius'  1611 "Leo Belgicus"][hondius]
+
+[hondius]: http://mlincoln.files.wordpress.com/2013/06/screen-shot-2013-06-08-at-8-00-33-pm.jpg?w=625 "A lightly-georeferenced version of Jodocus Hondius' 1611 'Leo Belgicus'"
 
 After a long and inspiring day at THATCamp, I've been relaxing by trying my hand at a little georeferencing of one of my [favorite maps](http://s.mound.free.fr/longuenesse/cartes/hondius1611.jpg).

@@ -24,7 +24,9 @@ I was initially interested in the ULAN for its geographic information, hoping to
 
 The ULAN does, however, richly characterize artistic, professional, and familial relationships between its many entries. After meeting with [Abram](http://abramfox.com/) this week to learn more about his social network map of [Benjamin West’s studio](http://abramfox.com/cv/caa-2013/) generated using [Gephi](https://www.gephi.org/), I was inspired to try the program out on a “small” sample of the ULAN database [made available for download](http://www.getty.edu/research/tools/vocabularies/obtain/download.html) by the Getty.
 
-[![A force-directed graph generated from the association fields contained in a small sample of the Getty's ULAN (visualization by Matthew Lincoln, underlying data © 2013 The J. Paul Getty Trust. All rights reserved.)](http://mlincoln.files.wordpress.com/2013/06/screen-shot-2013-06-20-at-1-49-53-pm.png)](http://mlincoln.files.wordpress.com/2013/06/screen-shot-2013-06-20-at-1-49-53-pm.png)
+[![A force-directed graph generated from the association fields contained in a small sample of the Getty's ULAN (visualization by Matthew Lincoln, underlying data © 2013 The J. Paul Getty Trust. All rights reserved.)][forcedir]](http://mlincoln.files.wordpress.com/2013/06/screen-shot-2013-06-20-at-1-49-53-pm.png)
+
+[forcedir]: http://mlincoln.files.wordpress.com/2013/06/screen-shot-2013-06-20-at-1-49-53-pm.png "A force-directed graph generated from the association fields contained in a small sample of the Getty's ULAN (visualization by Matthew Lincoln, underlying data © 2013 The J. Paul Getty Trust. All rights reserved.)"
 
 There’s no denying that this nicely-styled network graph is pretty. But is it useful?
 
@@ -36,11 +38,15 @@ What does this measure tell us about artists like Regnault? How should it inform
 
 But when trying to measure influence from a distant perspective, looking at dozens or hundreds of artists at the same time (something uniquely suited to a digital approach), we cannot make decisions case-by-case. We must instead define rules. These may be finely-tuned filters, but nonetheless they call on us to make generalizations. When I graphed the sample ULAN data, I established a filter that would only show artistic relationships, and would cut out familial ones.
 
-[![A graph of Rembrandt's social network, including only artistic relationships. (visualization by Matthew Lincoln, underlying data © 2013 The J. Paul Getty Trust. All rights reserved.)](http://mlincoln.files.wordpress.com/2013/06/screen-shot-2013-06-20-at-1-50-34-pm.png?w=625)](http://mlincoln.files.wordpress.com/2013/06/screen-shot-2013-06-20-at-1-50-34-pm.png)
+[![A graph of Rembrandt's social network, including only artistic relationships. (visualization by Matthew Lincoln, underlying data © 2013 The J. Paul Getty Trust. All rights reserved.)][artistsonly]](http://mlincoln.files.wordpress.com/2013/06/screen-shot-2013-06-20-at-1-50-34-pm.png)
+
+[artistsonly]: http://mlincoln.files.wordpress.com/2013/06/screen-shot-2013-06-20-at-1-50-34-pm.png?w=625 "A graph of Rembrandt's social network, including only artistic relationships. (visualization by Matthew Lincoln, underlying data © 2013 The J. Paul Getty Trust. All rights reserved.)"
 
 The corner of my graph showing Rembrandt reacted notably when I redrew the graph incorporating every type of relationship. Suddenly, Rembrandt was not only a central connector of individuals, but a connector of distinct communities that would otherwise not be attached.[^2]
 
-[![A graph of Rembrandt's social network, including artistic, professional, and familial relationships. (visualization by Matthew Lincoln, underlying data © 2013 The J. Paul Getty Trust. All rights reserved.)](http://mlincoln.files.wordpress.com/2013/06/screen-shot-2013-06-20-at-1-49-10-pm.png?w=625)](http://mlincoln.files.wordpress.com/2013/06/screen-shot-2013-06-20-at-1-49-10-pm.png)
+[![A graph of Rembrandt's social network, including artistic, professional, and familial relationships. (visualization by Matthew Lincoln, underlying data © 2013 The J. Paul Getty Trust. All rights reserved.)][allrels]](http://mlincoln.files.wordpress.com/2013/06/screen-shot-2013-06-20-at-1-49-10-pm.png)
+
+[allrels]: http://mlincoln.files.wordpress.com/2013/06/screen-shot-2013-06-20-at-1-49-10-pm.png?w=625 "A graph of Rembrandt's social network, including artistic, professional, and familial relationships. (visualization by Matthew Lincoln, underlying data © 2013 The J. Paul Getty Trust. All rights reserved.)"
 
 Much of this change is caused by the addition of several more nodes when I allowed Gephi to graph the full range of relationships described by the ULAN. However, note that non-artistic interconnections also appeared between nodes that had no other connections besides Rembrandt in the first iteration of my graph. In cleaning my data, I inadvertently undervalued nodes like Rembrandt that actually connected integrated communities, not just disparate individuals.
 

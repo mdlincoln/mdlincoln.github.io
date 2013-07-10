@@ -18,7 +18,9 @@ tags:
 
 Drucker and Nowviskie see the potential for radical shifts in the union of computing and of humanistic research. They wish to transcend the "concrete" structures of authorities and hierarchical models that dominate present digital humanities practices (think of the [Getty Vocabularies](http://www.getty.edu/research/tools/vocabularies/)) and instead define more flexible spaces for visualization that can lead to new insights and paradigms for interpreting cultural materials. I am interested in one of the challenges facing digital humanists that they set out at the start of their essay: "overcom\[ing\] humanists' long-standing resistance (ranging from passively ignorant to actively hostile) to visual forms of knowledge production." Drucker and Nowviskie characterize current humanities research as deeply ended in textual modes of thinking and argumentation (in their words, a "logocentric" mode).
 
-[![Rembrandt - Old Woman Reading - 1631 - Rijksmuseum, Amsterdam](http://mlincoln.files.wordpress.com/2013/05/rembrandt-old-woman-reading-1631-rkm-sk-a-3066.png)](http://www.rijksmuseum.nl/en/search/objecten?q=rembrandt+boek&js=1&p=3&ps=12#/SK-A-3066,25)
+[![Rembrandt - Old Woman Reading - 1631 - Rijksmuseum, Amsterdam][remb]](http://www.rijksmuseum.nl/en/search/objecten?q=rembrandt+boek&js=1&p=3&ps=12#/SK-A-3066,25)
+
+[remb]: http://mlincoln.files.wordpress.com/2013/05/rembrandt-old-woman-reading-1631-rkm-sk-a-3066.png "Rembrandt - Old Woman Reading - 1631 - Rijksmuseum, Amsterdam"
 
 An art historian might react to this assertion by arguing that they are indeed "visual" thinkers, and so aren't hobbled by this problem that supposedly infects literary studies. I've heard this expressed occasionally in seminars, often when criticizing an historian or literary scholar for using an artwork as an objective illustration and not an embedded cultural object. Yet this defensive stance misunderstands Drucker and Nowviskie's characterization. More importantly, I think, it misunderstands what it means to think visually (admittedly a squishy term if there ever was one.)
 

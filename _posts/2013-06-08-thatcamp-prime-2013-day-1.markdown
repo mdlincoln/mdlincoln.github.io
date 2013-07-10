@@ -14,7 +14,9 @@ tags:
 - THATCamp
 ---
 
-[![A panel excerpted from Sharon Birch's gleeful comic book of THATCamp Prime 2013](http://mlincoln.files.wordpress.com/2013/06/screen-shot-2013-06-07-at-9-54-17-pm.jpg)](https://www.dropbox.com/s/jq39aglfp29erub/Retro.pdf)
+[![A panel excerpted from Sharon Birch's gleeful comic book of THATCamp Prime 2013][book]](https://www.dropbox.com/s/jq39aglfp29erub/Retro.pdf)
+
+[book]: http://mlincoln.files.wordpress.com/2013/06/screen-shot-2013-06-07-at-9-54-17-pm.jpg "A panel excerpted from Sharon Birch's gleeful comic book of THATCamp Prime 2013"
 
 
 Some bullet points from my personal experience of [THATCamp Prime 2013](http://chnm2013.thatcamp.org/) day one follow. Others' mileage may vary:
@@ -25,13 +27,13 @@ Some bullet points from my personal experience of [THATCamp Prime 2013](http://c
 
 - My session on visualizing uncertainty got accepted, and it was standing/floor-sitting room only! Thanks to everyone who participated (and thanks especially to the individuals who took the lion's share of notes on the Participad [attached to our page](http://chnm2013.thatcamp.org/notepads/session-notes/).)
 
-- I loved how quick our group was to engage both sides of the visualization coin: the challenge of categorizing, quantifying, and structuring your humanities data; and the difficulty of defining visualization solution(s) that make it usefully accessible.
+	- I loved how quick our group was to engage both sides of the visualization coin: the challenge of categorizing, quantifying, and structuring your humanities data; and the difficulty of defining visualization solution(s) that make it usefully accessible.
 
-- On the definition of dates, I was really excited to be introduced to Bruce Robertson's [Historical Event Markup Language](http://heml.mta.ca/heml-cocoon/)
+	- On the definition of dates, I was really excited to be introduced to Bruce Robertson's [Historical Event Markup Language](http://heml.mta.ca/heml-cocoon/)
 
-- We also started to lay out the tough choices one must make that will restrict what your visualization offers, but which will allow you to actually create it.
+	- We also started to lay out the tough choices one must make that will restrict what your visualization offers, but which will allow you to actually create it.
 
-- The notes have lots of links, but two other interesting examples I hadn't yet explored are [Stanford's Spatial History Project Gallery](http://www.stanford.edu/group/spatialhistory/cgi-bin/site/gallery.php) and Richmond's ["Visualizing Emancipation"](http://dsl.richmond.edu/emancipation/).
+	- The notes have lots of links, but two other interesting examples I hadn't yet explored are [Stanford's Spatial History Project Gallery](http://www.stanford.edu/group/spatialhistory/cgi-bin/site/gallery.php) and Richmond's ["Visualizing Emancipation"](http://dsl.richmond.edu/emancipation/).
 
 - During lunch, I met up with two instructional technologists from my brother's Gettysburg College (and James, you should know that they are died-in-the-wool [Shots in the Dark](http://www.youtube.com/watch?v=Ffdt0Zw1BG8) fans). One of them, Sharon Birch, made [this brilliant comic](https://www.dropbox.com/s/jq39aglfp29erub/Retro.pdf) of the first day!
 

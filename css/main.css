@@ -13,7 +13,7 @@
 html, body { height: 100%; }
 
 body {
-  background-color: #FFF;
+  background-color: #fdfdfd;
   font: 13.34px "Open Sans", Helvetica, Arial, sans-serif;
   color: #555555;
   font-size: small;
@@ -55,11 +55,11 @@ blockquote {
 }
 
 body img {
-  float: left;
+  float: right;
   margin-right: 1em;
   margin-left: 1em;
   margin-bottom: 1em;
-  max-width: 70%;
+  max-width: 50%;
   height: auto;
 }
 
@@ -81,7 +81,7 @@ table {
   font: 100%;
 }
 
-.content li {
+li {
   margin-left: 3em;
   margin-bottom: 1em;
 }
@@ -239,7 +239,7 @@ ul.posts .author {
 .site {
   font-size: 115%;
   text-align: left;
-  width: 70%;
+  width: 65%;
   margin: 3em auto 2em;
   line-height: 1.5em;
 }
@@ -310,7 +310,7 @@ ul.posts .author {
 /*    Footnotes    */
 
 .footnotes {
-  border-top: 4px solid #eee;
+  border-top: 4px dashed #eee;
   margin-top: 6em;
 }
 

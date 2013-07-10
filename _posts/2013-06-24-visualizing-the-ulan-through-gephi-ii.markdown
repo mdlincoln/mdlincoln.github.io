@@ -28,16 +28,13 @@ In other words, it seems that understanding the reception of a figure's work thr
 
 It was after I dove into Gephi last week that I found Scott Weingart's excellent [overview of network analysis for humanitsts](http://journalofdigitalhumanities.org/1-1/demystifying-networks-by-scott-weingart/).[^1] After a cogent introduction to the basics, Weingart offers some pointed warnings to humanists about creating multimodal networks - that is, networks with different classes of nodes (e.g. artists and organizations, illustrated below.) These require their own analytical and layout tools.
 
-[![A graph of the Black Mountain College network, with both artist and organization nodes. (visualization by Matthew Lincoln, underlying data © 2013 The J. Paul Getty Trust. All rights reserved.)](http://mlincoln.files.wordpress.com/2013/06/screen-shot-2013-06-23-at-3-47-03-pm.png)](http://mlincoln.files.wordpress.com/2013/06/screen-shot-2013-06-23-at-3-47-03-pm.png)
+[![A graph of the Black Mountain College network, with both artist and organization nodes. (visualization by Matthew Lincoln, underlying data © 2013 The J. Paul Getty Trust. All rights reserved.)][blackmountain]](http://mlincoln.files.wordpress.com/2013/06/screen-shot-2013-06-23-at-3-47-03-pm.png)
+
+[blackmountain]: http://mlincoln.files.wordpress.com/2013/06/screen-shot-2013-06-23-at-3-47-03-pm.png "A graph of the Black Mountain College network, with both artist and organization nodes. (visualization by Matthew Lincoln, underlying data © 2013 The J. Paul Getty Trust. All rights reserved.)"
 
 Although for my own purposes I am content to filter out organizations from the ULAN dataset, I also want to take advantage of the rich variations of relationships it describes. This means devising some scheme for weighting relationship types by their attribute ("master of" assigned a weight of 10, for example, while "collaborator with" gets a weight of 5).[^2]
 
 One would have to customize such a scheme depending on what type of influence you were interested in visualizing; interpretation and all its accompanying biases will be layered on fast and thick. I predict this will be one of the biggest hurdles to overcome as we move forward with this project.
-
-
-
-
-
 
 
 	
