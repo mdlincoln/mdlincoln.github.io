@@ -3,12 +3,12 @@ title: Projects
 layout: page
 ---
 
-# Traditional Scholarship
 
-- [Patriotic and Religious Geographies in Emanuel de Witte’s Church Paintings](patriotic-and-religious-geographies-in-emanuel-de-wittes-church-paintings.html)
+{% for page in site.pages %}
 
-# Digital Humanities Projects
+{% if page.layout == 'project' %}
+<h2><a href="{{ page.url }}">{{ page.title }}</a>: {{ page.snippet }}</h2>
+{% else %}
+{% endif %}
+{% endfor %}
 
-- [Albrecht Dürer in Google Earth](albrecht-durer-in-google-earth.html)
-
-- [Early modern TimeSpan elements in KML](timespan-elements-in-kml.html)

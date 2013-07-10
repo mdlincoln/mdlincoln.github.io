@@ -2,10 +2,11 @@
 author: mlincoln
 comments: true
 date: 2013-06-14 02:26:07+00:00
-layout: page
+layout: project
 slug: patriotic-and-religious-geographies-in-emanuel-de-wittes-church-paintings
 title: Patriotic and Religious Geographies in Emanuel de Witte’s Church Paintings
 wordpress_id: 1165
+snippet: Paper examining the intersection of civic pride and memory in paintings by Emanuel de Witte.
 ---
 
 
