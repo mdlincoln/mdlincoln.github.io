@@ -4,7 +4,7 @@
 	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-ga('create', 'UA-42379158-1', 'mdlincoln.github.io');
+ga('create', 'UA-42379158-1', 'matthewlincoln.net');
 ga('send', 'pageview');
 
 </script>
