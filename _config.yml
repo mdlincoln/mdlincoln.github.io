@@ -6,3 +6,4 @@ paginate: 5
 markdown: kramdown
 url: http://matthewlincoln.net
 future: false
+timezone: America/New_York
