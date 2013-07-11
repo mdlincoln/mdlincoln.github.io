@@ -4,5 +4,5 @@ pygments: true
 permalink: /:year/:month/:day/:title.html
 paginate: 5
 markdown: kramdown
-url: http://mdlincoln.github.io
+url: http://matthewlincoln.net
 future: false
