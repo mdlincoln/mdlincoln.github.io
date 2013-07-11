@@ -11,7 +11,8 @@ layout: page
 
 
 Matthew D. Lincoln  
-Ph.D Student, Graduate Assistant in the Digital Humanities  
+Ph.D Student  
+Graduate Assistant in the Digital Humanities  
 [The Michelle Smith Collaboratory for Visual Culture](http://michellesmithcollaboratory.umd.edu)  
 [Department of Art History & Archaeology](http://arthistory.umd.edu)  
 University of Maryland, College Park
