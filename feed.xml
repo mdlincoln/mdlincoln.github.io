@@ -7,7 +7,7 @@ layout: none
 		<title>{{ site.title }}</title>
 		<description>{{ site.subtitle }}</description>
 		<link>{{ site.url }}</link>
-		<updated>{{ site.time | date_to_xmlschema }}</updated>
+		<pubDate>{{ site.time | date_to_xmlschema }}</pubDate>
 		<atom:link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml" />
 		{% for post in site.posts limit:10 %}
 			<item>
