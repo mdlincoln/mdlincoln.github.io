@@ -3,7 +3,7 @@ title: Projects
 layout: page
 ---
 
-
+<!-- Automatic project list generator -->
 {% for page in site.pages %}
 
 {% if page.layout == 'project' %}
