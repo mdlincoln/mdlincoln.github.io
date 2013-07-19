@@ -1,6 +1,7 @@
 ---
 title: Environmentally-friendly print.css
 layout: post
+comments: true
 date: 2013-07-10
 tags: github, humor
 ---

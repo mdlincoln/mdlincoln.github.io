@@ -1,5 +1,6 @@
 ---
 Layout: post
+comments: true
 Date: 2013-07-12 10:52:38.869024
 Title: muse-tech-central on GitHub
 ---

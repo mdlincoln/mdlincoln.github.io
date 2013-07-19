@@ -1,6 +1,7 @@
 ---
 title: Moved this blog to Jekyll
 layout: post
+comments: true
 date: 2013-07-11
 ---
 
