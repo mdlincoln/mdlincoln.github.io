@@ -25,7 +25,7 @@ University of Maryland, College Park
 
 - [Department profile](http://arthistory.umd.edu/graduate-students/Matthew%20Lincoln)
 
-- [Academia.edu](htt[://umd.academia.edu/MatthewLincoln)
+- [Academia.edu](http://umd.academia.edu/MatthewLincoln)
 
 - [GitHub](https://github.com/mdlincoln)
 
