@@ -17,6 +17,8 @@ Graduate Assistant in the Digital Humanities
 [Department of Art History & Archaeology](http://arthistory.umd.edu)  
 University of Maryland, College Park
 
+<mlincol1@umd.edu>
+
 ## Links
 
 - [Current CV](https://docs.google.com/document/d/1D26djrb4BUMYkLiif01vQM5nXty2ziCqctzF1wQb_sA/edit?usp=sharing
