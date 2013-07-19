@@ -1,8 +1,8 @@
 ---
-Layout: post
+layout: post
+title: Muse Tech Central on GitHub
 comments: true
-Date: 2013-07-12 10:52:38.869024
-Title: muse-tech-central on GitHub
+date: 2013-07-12 10:52:38.869024
 ---
 [Sheila Brennan](https://twitter.com/sherah1918/status/355301842109992960) notes a new listing on GutHub devoted to museums active on the open source community. [Muse-tech-central](https://github.com/MuseCompNet/muse-tech-central).
 
