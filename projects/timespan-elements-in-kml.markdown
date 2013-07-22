@@ -17,11 +17,11 @@ Google Earth can be a very useful tool for visualizing historical change, howeve
 
 When you save your GE map, you have an option to save it as **.kmz** or **.kml**. These are related files, but they do very different things. KML stands for Keyhole Markup Language, and it is the real meat of your map file that holds all of the placemarks, polygons, lines, description texts, and folder structure of your map.
 
-Some GE maps pull in image overlays. When you save your map as a **.kml**, GE references the location of these images in your file system but does not actually save the images themselves in the map file. In order to see it properly, the user needs the **.kml** file _as well as _all the separate image files that you've referenced.
+Some GE maps pull in image overlays. When you save your map as a **.kml**, GE references the location of these images in your file system but does not actually save the images themselves in the map file. In order to see it properly, the user needs the **.kml** file as well as all the separate image files that you've referenced.
 
 To make sharing and publishing easy, you can later save the file as a **.kmz**, which automatically bundles any external images with your **.kml** file. Don't save your file as **.kmz** until you are ready to send it to another computer or upload it to ELMS
 
-You will need to save your in-progress map (as a **.kml** file!!) to your desktop or some other folder on your computer so that we can open it up in a text editor_._ We need to manipulate the **.kml** file in order to add `TimeSpan` elements. Once we have added them and are ready to bundle our images, _then_ we can save the file as **.kmz**_._
+You will need to save your in-progress map (as a **.kml** file!!) to your desktop or some other folder on your computer so that we can open it up in a text editor. We need to manipulate the **.kml** file in order to add `TimeSpan` elements. Once we have added them and are ready to bundle our images, *then* we can save the file as **.kmz**.
 
 
 # Inserting new tags in KML code
