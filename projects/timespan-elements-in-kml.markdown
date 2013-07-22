@@ -27,7 +27,7 @@ You will need to save your in-progress map (as a **.kml** file!!) to your deskt
 # Inserting new tags in KML code
 
 
-To look at the underlying code of your GE map, you need to open the .kml file with a text editor. You can use the built-in applications like Notepad or Text Edit, but it is even better to get an app that will color-code elements, making them easier to read. Great **free** apps with code highlighting include [TextWrangler (OS X)](http://www.barebones.com/products/textwrangler/) and [Notepad++ (Windows)](http://notepad-plus-plus.org/)**.
+To look at the underlying code of your GE map, you need to open the .kml file with a text editor. You can use the built-in applications like Notepad or Text Edit, but it is even better to get an app that will color-code elements, making them easier to read. Great **free** apps with code highlighting include [TextWrangler (OS X)](http://www.barebones.com/products/textwrangler/) and [Notepad++ (Windows)](http://notepad-plus-plus.org/).
 
 Once you have a good text editor set up, open your KML file. The start of the file ought to look something like this:
 
