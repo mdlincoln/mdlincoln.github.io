@@ -1,6 +1,7 @@
 ---
 title: Augustine's City of God
 comments: true
+layout: post
 date: 2013-07-24 11:39:28.763759
 tags: quotation, Augustine, religion
 ---
