@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<h2 class="post_title">{{page.title}}</h2>
+<ul>
+  {% for page in site.pages %}
+  {% for tag in page.tags %}
+  {% if tag == page.tag %}
+  <li class="archive_list">
+    <time style="color:#666;font-size:11px;" datetime='{{page.date | date: "%Y-%m-%d"}}'>{{page.date | date: "%m/%d/%y"}}</time> <a class="archive_list_article_link" href='{{page.url}}'>{{page.title}}</a>
+    <p class="summary">{{page.summary}}
+    <ul class="tag_list">
+      {% for tag in page.tags %}
+      <li class="inline archive_list"><a class="tag_list_link" href="/tag/{{ tag }}">{{ tag }}</a></li>
+      {% endfor %}
+    </ul>
+  </li>
+  {% endif %}
+  {% endfor %}
+  {% endfor %}
+</ul>
