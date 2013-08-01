@@ -1,7 +1,9 @@
 ---
-layout: page
+layout: default
 title: Archive
 ---
+
+<div class="ptitle">{{ page.title }}</div>
 
 <div id="home">
   <ul class="posts">

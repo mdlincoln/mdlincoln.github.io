@@ -1,7 +1,9 @@
 ---
 title: About the author
-layout: page
+layout: default
 ---
+
+<div class="ptitle">{{ page.title }}</div>
 
 # Contact Information
 

@@ -1,7 +1,9 @@
 ---
 title: Projects
-layout: page
+layout: default
 ---
+
+<div class="ptitle">{{ page.title }}</div>
 
 <!-- Automatic project list generator -->
 {% for page in site.pages %}
