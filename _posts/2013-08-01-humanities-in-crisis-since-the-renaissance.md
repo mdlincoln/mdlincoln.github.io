@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2013-08-01 13:22:46.646714
+date: 2013-08-01 08:44:07.859182
 title: Humanities in Crisis... since the Renaissance?
 tags:
 - academia
