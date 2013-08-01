@@ -6,13 +6,10 @@ layout: post
 slug: how-syntax-gets-you-to-think
 title: How syntax gets you to "think"
 wordpress_id: 1013
-categories:
-- Academia
-post_format:
-- Aside
 tags:
-- IGERT
-- linguistics
+- Academia
+- Linguistics
+- Video
 ---
 
 <iframe src="http://player.vimeo.com/video/65186730" width="500" height="277" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>

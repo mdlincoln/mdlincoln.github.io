@@ -6,15 +6,11 @@ layout: post
 slug: looking-through-the-ulan-with-gephi
 title: Looking through the ULAN with Gephi, I
 wordpress_id: 1252
-categories:
+tags:
 - Art History
 - Digital Humanities
-tags:
-- gephi
-- Getty
-- Rembrandt
-- social networks
-- ULAN
+- Gephi
+- Network analysis
 ---
 
 These past few weeks I have been sorting through the data available in the Getty’s [Union List of Artist Names](http://www.getty.edu/research/tools/vocabularies/ulan/about.html), learning how to parse its raw XML and create tables of relevant data.

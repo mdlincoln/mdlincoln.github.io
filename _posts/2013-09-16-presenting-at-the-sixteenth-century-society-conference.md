@@ -5,12 +5,6 @@ date: 2013-09-16 15:00:20+00:00
 layout: post
 title: Presenting at the Sixteenth Century Society Conference
 tags:
-- calligraphy
-- Georg Bocskay
-- illumination
-- Joris Hoefnagel
-- magic
-- Rudolf II
 - Conferences
 - Art History
 ---

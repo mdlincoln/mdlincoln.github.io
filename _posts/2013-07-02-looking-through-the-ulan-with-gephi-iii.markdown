@@ -6,16 +6,11 @@ layout: post
 slug: looking-through-the-ulan-with-gephi-iii
 title: Looking through the ULAN with Gephi, III
 wordpress_id: 1281
-categories:
+tags:
 - Art History
 - Digital Humanities
-tags:
-- geography
-- gephi
-- Getty
-- maps
-- ruby
-- ULAN
+- Gephi
+- Network analysis
 ---
 
 In my [last](http://matthewlincoln.net/2013/06/20/looking-through-the-ulan-with-gephi.html) [two](http://matthewlincoln.net/2013/06/24/visualizing-the-ulan-through-gephi-ii.html) posts on using Gephi to read the Getty Union List of Artist Names, I have been straightforwardly visualizing the relationships explicitly described by the dataset. This approach was a natural first step. The ULAN's structure is artist-centric; creating a list of nodes meant reading the list from top to bottom, creating a list of edges was essentially the same task.
@@ -24,7 +19,7 @@ However it was the ULAN's geographic information that had initially interested m
 
 [![A graph of geographic locations described in the ULAN, connected by artists' relationships. (visualization by Matthew Lincoln, underlying data © 2013 The J. Paul Getty Trust. All rights reserved.)](http://mlincoln.files.wordpress.com/2013/07/geo_snapshot.png)](http://mlincoln.files.wordpress.com/2013/07/geo_snapshot.png)
 
-I rewrote my [Ruby scripts](https://github.com/mdlincoln/ulangraph) to create a node list from the many geographic locations mentioned in the database, and to create an edge between cities where a relationship is described between artists inhabiting those locations.
+I rewrote my Ruby scripts to create a node list from the many geographic locations mentioned in the database, and to create an edge between cities where a relationship is described between artists inhabiting those locations.
 
 This meant reading against the grain of the ULAN. Its hierarchy is artist-, not location-centric. While each artist entry in the ULAN has all the info you need to define an edge to another artist, this is not true when defining edges between locations. Instead of reading through the ULAN from start to end, the computer would have to skip around the data out of order, climbing up and down the XML hierarchy to find names and addresses of its artists every time it defined a new edge between nodes. To ease this process, I asked Ruby to re-copy the ULAN into a new, slimmed-down format (a series of nested hashes) that the computer could query much, much faster than slogging through the original XML file.
 

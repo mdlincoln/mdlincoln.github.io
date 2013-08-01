@@ -6,13 +6,8 @@ layout: post
 slug: boosting-creativity-through-constraints
 title: Boosting Creativity Through Constraints
 wordpress_id: 1160
-categories:
-- Articles
-post_format:
-- Link
 tags:
-- creativity
-- harvard business review
+- Articles
 ---
 
 After my experience with the unstructured un-conference model last weekend, I was interested to read Adam Richardson's thoughts on [constraints and creativity](http://blogs.hbr.org/cs/2013/06/boosting_creativity_through_co.html) in Harvard Business Review. I liked this analogy:

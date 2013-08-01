@@ -6,12 +6,8 @@ layout: post
 slug: what-is-digital-humanities
 title: What is Digital Humanities?
 wordpress_id: 1118
-categories:
-- Digital Humanities
-post_format:
-- Link
 tags:
-- digital humanities
+- Digital Humanities
 ---
 
 From concise to jargon-riddled: more than 500 responses to the question ["What is Digital Humanities?"](http://whatisdigitalhumanities.com/)

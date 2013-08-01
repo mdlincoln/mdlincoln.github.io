@@ -4,7 +4,7 @@ title: Muse Tech Central on GitHub
 comments: true
 date: 2013-07-12 10:52:38.869024
 tags:
-- museums
+- Museums
 - Digital Humanities
 - Github
 ---

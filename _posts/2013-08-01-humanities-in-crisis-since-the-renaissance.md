@@ -4,6 +4,7 @@ date: 2013-08-01 08:44:07.859182
 title: Humanities in Crisis... since the Renaissance?
 tags:
 - Academia
+- Humanities
 ---
 
 Andrew Keener [smartly notes](http://andrewkeener.wordpress.com/2013/07/31/jacob-burckhardt-and-the-crisis-in-renaissance-humanities/) that Jacob Burckhardt described a kind of "crisis in the humanities" that took place in the sixteenth century. In Burckhardt's 1860 *Die Kultur der Renaissance in Italien*, we read about the rise of scholarly acrimony:

@@ -6,20 +6,14 @@ layout: post
 slug: georeferencing-hondius
 title: Georeferencing Hondius
 wordpress_id: 1142
-categories:
-- Art
-- Digital Humanities
-post_format:
-- Image
 tags:
-- georeferencing
+- Art History
+- Digital Humanities
 - GIS
-- jodocus hondius
-- Leo Belgicus
-- maps
+- Maps
 ---
 
-![A lightly-georeferenced version of Jodocus Hondius'  1611 "Leo Belgicus"][hondius]
+[![A lightly-georeferenced version of Jodocus Hondius'  1611 "Leo Belgicus"][hondius]](http://mlincoln.files.wordpress.com/2013/06/screen-shot-2013-06-08-at-8-00-33-pm.jpg)
 
 [hondius]: http://mlincoln.files.wordpress.com/2013/06/screen-shot-2013-06-08-at-8-00-33-pm.jpg?w=625 "A lightly-georeferenced version of Jodocus Hondius' 1611 'Leo Belgicus'"
 

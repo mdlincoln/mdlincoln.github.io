@@ -6,11 +6,9 @@ layout: post
 slug: thatcamp-prime-2013-day-2
 title: THATCamp Prime 2013, day 2
 wordpress_id: 1136
-categories:
+tags:
 - Academia
 - Digital Humanities
-tags:
-- coding
 - GIS
 - THATCamp
 ---

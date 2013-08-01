@@ -6,14 +6,11 @@ layout: post
 slug: visualizing-uncertainty-ctd
 title: Visualizing Uncertainty, Ctd.
 wordpress_id: 1121
-categories:
-- Digital Humanities
-post_format:
-- Link
 tags:
-- collaboration
+- Digital Humanities
+- Collaboration
 - THATCamp
-- visualization
+- Visualization
 ---
 
 The [communal](http://chnm2013.thatcamp.org/notepads/session-notes/) [notepad](http://chnm2013.thatcamp.org/notepads/session-notes/) for our THATcamp Prime session this morning is online. Go take a look to see what was said! More reflections to come.

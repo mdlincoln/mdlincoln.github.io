@@ -6,14 +6,11 @@ layout: post
 slug: visualizing-the-ulan-through-gephi-ii
 title: Looking through the ULAN with Gephi, II
 wordpress_id: 1270
-categories:
+tags:
 - Art History
 - Digital Humanities
-tags:
-- gephi
-- network analysis
-- ULAN
-- visualization
+- Gephi
+- Network analysis
 ---
 
 In a recent [guest post](http://sixdegreesoffrancisbacon.com/post/53595757782/networks-as-constructs-the-curious-case-of-margaret) on the Six Degrees of Francis Bacon project, Shawn Moore discusses the curious networks of Maria Cavendish. Moore writes:

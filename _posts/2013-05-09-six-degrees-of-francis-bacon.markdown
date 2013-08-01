@@ -6,11 +6,9 @@ layout: post
 slug: six-degrees-of-francis-bacon
 title: Six Degrees of Francis Bacon
 wordpress_id: 980
-categories:
-- Digital Humanities
 tags:
-- digital humanities
-- visualization
+- Digital Humanities
+- Visualization
 ---
 
 I feel so energized and excited after reading posts on [Six Degrees of Francis Bacon](http://sixdegreesoffrancisbacon.com/), which tracks a project to analyze the Oxford Dictionary of National Biography and generate a digital representation of the English early modern social network. They are just beginning to post early-stage, large-scale visualizations of their current database.

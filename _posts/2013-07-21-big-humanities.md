@@ -4,7 +4,7 @@ comments: true
 title: Big Humanities
 date: 2013-07-21 10:04:30.338405
 tags:
-- conferences
+- Conferences
 - Digital Humanities
 ---
 

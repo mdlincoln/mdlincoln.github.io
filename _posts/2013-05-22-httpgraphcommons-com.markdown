@@ -6,12 +6,9 @@ layout: post
 slug: httpgraphcommons-com
 title: http://graphcommons.com/
 wordpress_id: 1030
-categories:
-- Digital Humanities
-post_format:
-- Link
 tags:
-- network mapping
+- Network analysis
+- Digital Humanities
 ---
 
 I just signed up for a beta invite to this [collaborative network mapping platform](http://graphcommons.com/). One of its developers, Burak Arıkan, just published a [short note](http://dx.doi.org/10.1162/LEON_a_00567) in a special section of the latest _Leonardo* devoted to arts, humanities and complex networks.

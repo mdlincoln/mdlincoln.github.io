@@ -6,11 +6,10 @@ layout: post
 slug: thatcamp-prime-2013-day-1
 title: THATCamp Prime 2013, day 1
 wordpress_id: 1123
-categories:
+tags:
 - Academia
 - Digital Humanities
 - Publishing
-tags:
 - THATCamp
 ---
 

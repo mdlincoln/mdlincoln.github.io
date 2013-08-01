@@ -6,7 +6,7 @@ layout: post
 slug: relaunching
 title: Relaunching
 wordpress_id: 911
-categories:
+tags:
 - Academia
 - Digital Humanities
 ---
