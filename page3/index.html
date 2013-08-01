@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Home - Matthew Lincoln</title>
+
+        <!-- Meta tags -->
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta name="viewport" content="width=device-width">
+        <meta name="author" content="Matthew Lincoln">
+        <meta name="keywords" content="">
+
+        <!-- RSS feed -->
+        <link rel="alternate" type="application/rss+xml" title="Matthew Lincoln" href="http://matthewlincoln.net/feed.xml">
+
+        <!-- syntax highlighting CSS -->
+        <link rel="stylesheet" href="/css/syntax.css">
+
+        <!-- Custom CSS -->
+        <link rel="stylesheet" href="/css/main.css">
+
+        <!-- Fonts -->
+        <link href='http://fonts.googleapis.com/css?family=Ubuntu:400,400italic|Open+Sans:400italic,400,700' rel='stylesheet' type='text/css'>
+
+        <!-- Google Analytics -->
+        <script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-42379158-1', 'matthewlincoln.net');
+ga('send', 'pageview');
+
+</script>
+
+    </head>
+    <body>
+
+      <div class="container">
+        <div class="site">
+          <div class="header">
+            <div class="title">
+	<div class="maintitle"><a href="/">Matthew Lincoln</a></div>
+	<div class="subtitle">Art History Ph.D student, University of Maryland</div>
+</div>
+<div class="image"></div>
+<div class="menu">
+	<a href="/">Home</a>
+	<a href="/archive">Archive</a>
+	<a href="/about">About</a>
+	<a href="/projects">Projects</a>
+</div>
+          </div>
+          <div class="content">
+                <!-- This loops through the paginated posts -->
+
+<h1><a href="/2013/07/10/environmentally-friendly-print-css.html">Environmentally-friendly print.css</a></h1>
+<p class="author">
+	<span class="meta">10 Jul 2013</span>
+</p>
+<div class="content">
+	<p>I ran accross <a href="https://github.com/golman/print.css">this stylesheet</a> by David Bushell while searching for a simple CSS for printing.</p>
+
+<pre><code>@media only print
+	{
+	    /* hide every element within the body */
+	    body * { display: none !important; }
+	    /* add a friendy reminder not to waste paper after the body */
+	    body:after { content: "Don't waste paper!"; }
+	}
+</code></pre>
+
+<p>Har har har.</p>
+
+</div>
+
+<h1><a href="/2013/07/02/looking-through-the-ulan-with-gephi-iii.html">Looking through the ULAN with Gephi, III</a></h1>
+<p class="author">
+	<span class="meta">02 Jul 2013</span>
+</p>
+<div class="content">
+	<p>In my <a href="http://matthewlincoln.net/2013/06/20/looking-through-the-ulan-with-gephi.html">last</a> <a href="http://matthewlincoln.net/2013/06/24/visualizing-the-ulan-through-gephi-ii.html">two</a> posts on using Gephi to read the Getty Union List of Artist Names, I have been straightforwardly visualizing the relationships explicitly described by the dataset. This approach was a natural first step. The ULAN’s structure is artist-centric; creating a list of nodes meant reading the list from top to bottom, creating a list of edges was essentially the same task.</p>
+
+<p>However it was the ULAN’s geographic information that had initially interested me. Could we usefully combine a geographic visualization with a social network visualization?</p>
+
+<p><a href="http://mlincoln.files.wordpress.com/2013/07/geo_snapshot.png"><img src="http://mlincoln.files.wordpress.com/2013/07/geo_snapshot.png" alt="A graph of geographic locations described in the ULAN, connected by artists' relationships. (visualization by Matthew Lincoln, underlying data © 2013 The J. Paul Getty Trust. All rights reserved.)" /></a></p>
+
+<p>I rewrote my Ruby scripts to create a node list from the many geographic locations mentioned in the database, and to create an edge between cities where a relationship is described between artists inhabiting those locations.</p>
+
+<p>This meant reading against the grain of the ULAN. Its hierarchy is artist-, not location-centric. While each artist entry in the ULAN has all the info you need to define an edge to another artist, this is not true when defining edges between locations. Instead of reading through the ULAN from start to end, the computer would have to skip around the data out of order, climbing up and down the XML hierarchy to find names and addresses of its artists every time it defined a new edge between nodes. To ease this process, I asked Ruby to re-copy the ULAN into a new, slimmed-down format (a series of nested hashes) that the computer could query much, much faster than slogging through the original XML file.</p>
+
+<p>The resulting graph looks a bit sparse. Like my earlier graphs, this is the result of using only a tiny subset of the full ULAN. It also only represents connections between two artists who each have full geographic location, which filters out many of the entries from this subset of the database. But it offers some exciting prospects for a full-fledged geo-graph of the ULAN. Because every artist comes with life dates, we can associate every edge in the graph with a time range, which lets us easily filter our view of the graph. With some more refining, it would be possible to animate the evolving continental (or global) links between artists over the centuries, fleshing out, or even problematizing, our current narratives of artistic communication.</p>
+
+<p>However I felt not a small amount of pride after putting this all together. The initial graphs are exciting and useful, but they are very literal visualizations of the ULAN - i.e., low-hanging fruit. Reading geographically, on the other hand, pushes against the structure of the original dataset. It is a testament to the folks at the Getty that the ULAN is so consistently structured that it is possible to extract a visualization like this, even when it does not follow the dominant grain of its source database.</p>
+
+</div>
+
+<h1><a href="/2013/06/27/rotating-the-classroom.html">Rotating the classroom</a></h1>
+<p class="author">
+	<span class="meta">27 Jun 2013</span>
+</p>
+<div class="content">
+	<p>The “flipped” or “inverted” classroom is a hot trend in higher-ed (<a href="http://chronicle.com/search/?search_siteId=5&amp;contextId=&amp;action=rem&amp;searchQueryString=flipped">peruse the <em>Chronicle</em>’s archives</a> to get an idea.) In brief, the instructor in a flipped classroom channels most of their content delivery (lectures, readings) <em>outisde</em> the classroom, often through screencasts students can watch on their own time. This frees up time in the classroom for critical discussion, questions, and student collaboration, thus taking advantage of the best part of a traditional classroom: having bodies in the room! (Or <a href="http://archives.williams.edu/williamshistory/greylock/mhopkins.php">seated on ends of a log</a>, if, like me, you prefer a Williams College analogy.)</p>
+
+<p>The Michelle Smith Collaboratory has been developing resources to help our faculty and teaching assistants transition to this new format. We like to say we’re “rotating the classroom”, helping to ease our instructors gradually into a more completely  flipped course.</p>
+
+<p>One of my favorite tools made this spring is a series of short videos written by <a href="http://arthistory.umd.edu/graduate-students/Molly%20Harrington">Molly Harrington</a> and edited by <a href="http://arthistory.umd.edu/graduate-students/Madeline%20Gent">Madeline Gent</a> that verbally explain and visually illustrate core concepts of formal analysis in art history. Assign this series as homework for your students, so the next week you can spend the whole time evaluating and honing their skills, rather than spending class time on initial definitions.</p>
+
+<iframe src="http://player.vimeo.com/video/69115726?color=ff9933" width="600" height="337" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+
+<p><a href="http://vimeo.com/69115726">Talking about Art: Atmospheric Perspective</a> from <a href="http://vimeo.com/terpcollaboratory">TerpCollaboratory</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+
+</div>
+
+<h1><a href="/2013/06/24/visualizing-the-ulan-through-gephi-ii.html">Looking through the ULAN with Gephi, II</a></h1>
+<p class="author">
+	<span class="meta">24 Jun 2013</span>
+</p>
+<div class="content">
+	<p>In a recent <a href="http://sixdegreesoffrancisbacon.com/post/53595757782/networks-as-constructs-the-curious-case-of-margaret">guest post</a> on the Six Degrees of Francis Bacon project, Shawn Moore discusses the curious networks of Maria Cavendish. Moore writes:</p>
+
+<blockquote>
+  <p>In many ways, her networks are non-traditional in that they often exist outside of and beyond Cavendish herself…</p>
+</blockquote>
+
+<p>Of significant interest is that the DNB data shows how important extra-personal (looking for a word that indicates connections beyond the intra-personal) connections are for the network Cavendish constructs, and to the networks that are constructed around the reception and reputation of “Margaret Cavendish,” thus exposing an important structure in the sociable practices at play during the period.</p>
+
+<p>In other words, it seems that understanding the reception of a figure’s work through network graphs requires surveying more than the immediate neighborhood, or ego network, of figures just one edge away from Margaret Cavendish (or Rembrandt van Rijn, for that matter.) It is, of course, the relationships between these first, second, or third-level nodes that actually constitute the public conversation about the root author or artist, the conversation we are so eager to better understand.</p>
+
+<p>It was after I dove into Gephi last week that I found Scott Weingart’s excellent <a href="http://journalofdigitalhumanities.org/1-1/demystifying-networks-by-scott-weingart/">overview of network analysis for humanitsts</a>.<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup> After a cogent introduction to the basics, Weingart offers some pointed warnings to humanists about creating multimodal networks - that is, networks with different classes of nodes (e.g. artists and organizations, illustrated below.) These require their own analytical and layout tools.</p>
+
+<p><a href="http://mlincoln.files.wordpress.com/2013/06/screen-shot-2013-06-23-at-3-47-03-pm.png"><img src="http://mlincoln.files.wordpress.com/2013/06/screen-shot-2013-06-23-at-3-47-03-pm.png" alt="A graph of the Black Mountain College network, with both artist and organization nodes. (visualization by Matthew Lincoln, underlying data © 2013 The J. Paul Getty Trust. All rights reserved.)" title="A graph of the Black Mountain College network, with both artist and organization nodes. (visualization by Matthew Lincoln, underlying data © 2013 The J. Paul Getty Trust. All rights reserved.)" /></a></p>
+
+<p>Although for my own purposes I am content to filter out organizations from the ULAN dataset, I also want to take advantage of the rich variations of relationships it describes. This means devising some scheme for weighting relationship types by their attribute (“master of” assigned a weight of 10, for example, while “collaborator with” gets a weight of 5).<sup id="fnref:2"><a href="#fn:2" class="footnote">2</a></sup></p>
+
+<p>One would have to customize such a scheme depending on what type of influence you were interested in visualizing; interpretation and all its accompanying biases will be layered on fast and thick. I predict this will be one of the biggest hurdles to overcome as we move forward with this project.</p>
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p>Scott B. Weingart, “Demystifying Networks, Parts I &amp; II”, <em>Journal of Digital Humanities</em> 1, no. 1 (Winter 2011) (<a href="http://journalofdigitalhumanities.org/1-1/demystifying-networks-by-scott-weingart/">URL</a>)<a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
+    </li>
+    <li id="fn:2">
+      <p>I am curious how the next version of Gephi (0.9), which will implement <a href="https://gephi.org/2013/rebuilding-gephis-core-for-the-0-9-version/">multigraph support</a>, might aid this process.<a href="#fnref:2" class="reversefootnote">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+
+</div>
+
+<h1><a href="/2013/06/20/looking-through-the-ulan-with-gephi.html">Looking through the ULAN with Gephi, I</a></h1>
+<p class="author">
+	<span class="meta">20 Jun 2013</span>
+</p>
+<div class="content">
+	<p>These past few weeks I have been sorting through the data available in the Getty’s <a href="http://www.getty.edu/research/tools/vocabularies/ulan/about.html">Union List of Artist Names</a>, learning how to parse its raw XML and create tables of relevant data.</p>
+
+<p>I was initially interested in the ULAN for its geographic information, hoping to use it in visualizing on a large scale the evolving connections between Netherlandish artists and the broader European, and global, community in the sixteenth and seventeenth centuries. However, I was largely disappointed by the ULAN’s sparse geographic and chronological information. Most artists have only one, maybe two entries for their active locations; for example, poor Peter Paul Rubens, a continent-skipping artist, courtier, and diplomat/spy, is <a href="http://www.getty.edu/vow/ULANFullDisplay?find=rubens&amp;role=&amp;nation=&amp;prev_page=1&amp;subjectid=500002921">attached only to Antwerp</a>.</p>
+
+<p>The ULAN does, however, richly characterize artistic, professional, and familial relationships between its many entries. After meeting with <a href="http://abramfox.com/">Abram</a> this week to learn more about his social network map of <a href="http://abramfox.com/cv/caa-2013/">Benjamin West’s studio</a> generated using <a href="https://www.gephi.org/">Gephi</a>, I was inspired to try the program out on a “small” sample of the ULAN database <a href="http://www.getty.edu/research/tools/vocabularies/obtain/download.html">made available for download</a> by the Getty.</p>
+
+<p><a href="http://mlincoln.files.wordpress.com/2013/06/screen-shot-2013-06-20-at-1-49-53-pm.png"><img src="http://mlincoln.files.wordpress.com/2013/06/screen-shot-2013-06-20-at-1-49-53-pm.png" alt="A force-directed graph generated from the association fields contained in a small sample of the Getty's ULAN (visualization by Matthew Lincoln, underlying data © 2013 The J. Paul Getty Trust. All rights reserved.)" title="A force-directed graph generated from the association fields contained in a small sample of the Getty's ULAN (visualization by Matthew Lincoln, underlying data © 2013 The J. Paul Getty Trust. All rights reserved.)" /></a></p>
+
+<p>There’s no denying that this nicely-styled network graph is pretty. But is it useful?</p>
+
+<p>In the above graph, nodes are scaled by their degree (how many immediate connections they have to other nodes) and colored by their eigenvector centrality (a measure of their relative centrality to the network at large)<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup> Though the array of artists in the sample data is idiosyncratic (from Raphael to Hans Hoffman), it isn’t surprising to see big names like Jacques-Louis David appear, well, <em>big</em> due to their well-connectedness.</p>
+
+<p>However looking at color in this graph is a bit more interesting. A node (like David) important to its immediate social neighborhood does not necessarily connect as many disparate groups as a node (like David’s close neighbor Jean-Baptiste Regnault) with greater eigenvector centrality.</p>
+
+<p>What does this measure tell us about artists like Regnault? How should it inform the way we define and value relationships when thinking about art historical problems? The ULAN has a comprehensive vocabulary of association types, from professional associations like “teacher of” or “apprentice of”, to familial ones like “spouse of” or “child of”. On the scale of micro-art-history, we treat these relationships individually, valuing relationships sure to communicate stylistic influence over others. At this scale, our weighting can happen on a case-by-case basis; we can generate our narratives holistically.</p>
+
+<p>But when trying to measure influence from a distant perspective, looking at dozens or hundreds of artists at the same time (something uniquely suited to a digital approach), we cannot make decisions case-by-case. We must instead define rules. These may be finely-tuned filters, but nonetheless they call on us to make generalizations. When I graphed the sample ULAN data, I established a filter that would only show artistic relationships, and would cut out familial ones.</p>
+
+<p><a href="http://mlincoln.files.wordpress.com/2013/06/screen-shot-2013-06-20-at-1-50-34-pm.png"><img src="http://mlincoln.files.wordpress.com/2013/06/screen-shot-2013-06-20-at-1-50-34-pm.png?w=625" alt="A graph of Rembrandt's social network, including only artistic relationships. (visualization by Matthew Lincoln, underlying data © 2013 The J. Paul Getty Trust. All rights reserved.)" title="A graph of Rembrandt's social network, including only artistic relationships. (visualization by Matthew Lincoln, underlying data © 2013 The J. Paul Getty Trust. All rights reserved.)" /></a></p>
+
+<p>The corner of my graph showing Rembrandt reacted notably when I redrew the graph incorporating every type of relationship. Suddenly, Rembrandt was not only a central connector of individuals, but a connector of distinct communities that would otherwise not be attached.<sup id="fnref:2"><a href="#fn:2" class="footnote">2</a></sup></p>
+
+<p><a href="http://mlincoln.files.wordpress.com/2013/06/screen-shot-2013-06-20-at-1-49-10-pm.png"><img src="http://mlincoln.files.wordpress.com/2013/06/screen-shot-2013-06-20-at-1-49-10-pm.png?w=625" alt="A graph of Rembrandt's social network, including artistic, professional, and familial relationships. (visualization by Matthew Lincoln, underlying data © 2013 The J. Paul Getty Trust. All rights reserved.)" title="A graph of Rembrandt's social network, including artistic, professional, and familial relationships. (visualization by Matthew Lincoln, underlying data © 2013 The J. Paul Getty Trust. All rights reserved.)" /></a></p>
+
+<p>Much of this change is caused by the addition of several more nodes when I allowed Gephi to graph the full range of relationships described by the ULAN. However, note that non-artistic interconnections also appeared between nodes that had no other connections besides Rembrandt in the first iteration of my graph. In cleaning my data, I inadvertently undervalued nodes like Rembrandt that actually connected integrated communities, not just disparate individuals.</p>
+
+<p>I initially thought to myself that this visualization and analysis would require a lot of preparatory planning to establish correct filtering and weighting rules. But distant looking might rather demand that the researcher iterate several visualizations, not to approach some platonic ideal visualization, but instead to generate layers to be superimposed and stitched together in a convincing narrative, <a href="http://matthewlincoln.net/2013/06/19/open-data-and-the-humanities.html">much like Tim Sherratt suggested</a>. In other words, I now wonder if this process of distant looking might have its own kind of holistic process distinct from, yet related to the close looking model.</p>
+
+<p>The practice of distant looking at historical networks will need to establish its own critical methods as digital humanities fields mature (look to the folks behind <a href="http://sixdegreesoffrancisbacon.com/">Six Degrees of Francis Bacon</a> for some deep posts on this topic.) Again and again, I think we will find that the processes of the digital humanities have much in common with the alternately-maligned-and-enshrined traditional methodologies.</p>
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p>For more on this measure, and on network mapping in general, see Robert A. and Mark Riddle, <em>Introduction to Social Network Methods.</em> (Riverside, CA, University of California, Riverside, 2005), ch. 10. (<a href="http://www.faculty.ucr.edu/~hanneman/nettext/C10_Centrality.html#Eigenvector">online version</a>)<a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
+    </li>
+    <li id="fn:2">
+      <p>Bear in mind I am speaking only of the attachments described by this small, un-representative sample set of the ULAN. The relationships of these communities would be much more fleshed out in the full version of the ULAN.<a href="#fnref:2" class="reversefootnote">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+
+</div>
+
+
+<!-- Pagination links -->
+<div class="pagination">
+	
+	<a href="/page2" class="previous">Previous</a>
+	
+	<span class="page_number ">Page: 3 of 8</span>
+	
+	<a href="/page4" class="next">Next</a>
+	
+</div>
+  
+            </div>
+            <div class="footer">
+              <div class="contact">
+    <p>© 2013, Matthew D. Lincoln</p>
+    <p>Header image: Hendrick Goltzius, detail of "Portrait of Philip Galle", 1582, engraving, Rijksmuseum, Amsterdam (<a href="http://www.rijksmuseum.nl/">Image source</a>)</p>
+    <p>Powered by <a href="http://jekyllrb.com">Jekyll</a> - <a href="http://mdlincoln.github.io/feed.xml">RSS feed</a></p>
+</div>
+
+            </div>
+            
+        </div>
+    </body>
+</html>

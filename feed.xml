@@ -1,22 +1,230 @@
----
-layout: none
----
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>{{ site.title }}</title>
-		<description>{{ site.subtitle }}</description>
-		<link>{{ site.url }}</link>
-		<pubDate>{{ site.time | date_to_xmlschema }}</pubDate>
-		<atom:link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml" />
-		{% for post in site.posts limit:10 %}
+		<title>Matthew Lincoln</title>
+		<description>Art History Ph.D student, University of Maryland</description>
+		<link>http://matthewlincoln.net</link>
+		<pubDate>2013-08-01T12:56:47-04:00</pubDate>
+		<atom:link href="http://matthewlincoln.net/feed.xml" rel="self" type="application/rss+xml" />
+		
 			<item>
-				<title>{{ post.title }}</title>
-				<description>{{ post.content | xml_escape }}</description>
-				<pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
-				<link>{{ site.url }}{{ post.url }}</link>
-				<guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
+				<title>Humanities in Crisis... since the Renaissance?</title>
+				<description>&lt;p&gt;Andrew Keener &lt;a href=&quot;http://andrewkeener.wordpress.com/2013/07/31/jacob-burckhardt-and-the-crisis-in-renaissance-humanities/&quot;&gt;smartly notes&lt;/a&gt; that Jacob Burckhardt described a kind of “crisis in the humanities” that took place in the sixteenth century. In Burckhardt’s 1860 &lt;em&gt;Die Kultur der Renaissance in Italien&lt;/em&gt;, we read about the rise of scholarly acrimony:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Of all men who ever formed a class, they had the last sense of their common interests…. All means were held lawful, if one of them saw a change of supplanting another. From literary discussion they passed with astonishing suddenness to the fiercest and most groundless vituperation. Not satisfied with refuting, they sought to annihilate an opponent. (272-73)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Keener sees parallels to the current humanities crisis rhetoric:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I want to emphasize that Burckhardt’s account, composed during the mid-nineteenth century, delivers a picture of sixteenth-century Europe in which the humanist struggled to get by. The wide availability of printed books rendered his lectures and expertise less relevant or necessary. He faced opposition from the public, and was scorned as self-indulgent, extravagant, and atheistic. However, he also attacked and was attacked by other humanists in a heated race for influence and glory. Wandering up and down the country in search of stable income, the humanist ultimately found it difficult to settle in one place, and found himself disconnected from the public, which “demanded something new.”&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+				<pubDate>Thu, 01 Aug 2013 04:44:07 -0400</pubDate>
+				<link>http://matthewlincoln.net/2013/08/01/humanities-in-crisis-since-the-renaissance.html</link>
+				<guid isPermaLink="true">http://matthewlincoln.net/2013/08/01/humanities-in-crisis-since-the-renaissance.html</guid>
 			</item>
-		{% endfor %}
+		
+			<item>
+				<title>A life in an infographic</title>
+				<description>&lt;p&gt;Something interesting that cropped up while I was on vacation last week. The design agency &lt;a href=&quot;http://accurat.it&quot;&gt;Accurat&lt;/a&gt; (which has developed several other novel visualizations of cultural texts and histories) has created intriguing infographics &lt;a href=&quot;http://www.flickr.com/photos/accurat/sets/72157633953437972/with/8961090343/&quot;&gt;visualizing ten modern painters’ lives&lt;/a&gt;. (hat tip: &lt;a href=&quot;http://hyperallergic.com/76259/10-painters-lives-chronicled-as-infographics/&quot;&gt;hyperallergic&lt;/a&gt; via the &lt;a href=&quot;https://twitter.com/MSCollaboratory/status/360456068507250688&quot;&gt;MSCVC&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.flickr.com/photos/accurat/8961090259/&quot;&gt;&lt;img src=&quot;http://farm4.staticflickr.com/3806/8961090259_ba40cf018d_c.jpg&quot; alt=&quot;Visualising Painters&#39; Lives by accurat.it, on Flickr&quot; title=&quot;Visualising Painters&#39; Lives by accurat.it, on Flickr&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;They have structured the infographics as multi-layered timelines marked with single-point events, spans of time indicating things such as a career in a studio or academy, or a romantic or professional relationship. Affixed to these representations of the artist’s life are timelines of their work signposted with landmark paintings, sigils rendered in the color schemes observed at that phase in the painter’s career, and histograms that claim to mark out that artist’s participation in a certain artistic school or movement. The iconography is delightfully idiosyncratic, shaped to resemble motifs that have come to be associated with each of the ten artists.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/images/matisselegend.png&quot;&gt;&lt;img src=&quot;/assets/images/matisselegend.png&quot; alt=&quot;Detail from Henri Matisse&quot; title=&quot;Detail of the histogram legend from the Matisse infographic. By accurat.it&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I’m particularly interested in the histograms charting artwork style, size, and palette. Accurat did a particularly admirable job visualizing the many schools and movements interweaved through each artist’s oeuvre: color-coded words are clustered and stacked near concentrations of paintings that exhibit a certain style, e.g. expressionism or cubism. But because bars on the histogram are keyed to these colors, it is also possible to clearly indicate one instance of late cubism in Matisse’s oeuvre, while still legibly showing that most of his experimentation with that style happened earlier in his life.&lt;/p&gt;
+
+&lt;p&gt;Some errant thoughts on the project:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;While Accurat points out these graphs are by no means comprehensive or “scientific”, they mention that they drew data from open online databases like Wikipedia, so I wonder to what extent they automated this process.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Could one do something similar with data culled from &lt;a href=&quot;http://artstor.org&quot;&gt;ARTstor&lt;/a&gt;, which has very solid date and repository information, or &lt;a href=&quot;http://artsy.net/&quot;&gt;artsy&lt;/a&gt;, which has tagged a wealth of works with more squishy metadata like color and movement?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;A histogram of different styles works quite well for the exhaustively-taxonimized twentieth century, but I suspect this might not be quite as illuminating for earlier periods that haven’t been dissected into named stylistic movements. Maybe it would be productive to make a histogram of genres (portraits, landscapes, altarpieces) or sizes and compositional schemes.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+				<pubDate>Wed, 31 Jul 2013 06:09:26 -0400</pubDate>
+				<link>http://matthewlincoln.net/2013/07/31/a-life-in-an-infographic.html</link>
+				<guid isPermaLink="true">http://matthewlincoln.net/2013/07/31/a-life-in-an-infographic.html</guid>
+			</item>
+		
+			<item>
+				<title>Race Point, Provincetown, MA</title>
+				<description>&lt;!-- Photo sphere JS --&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;https://apis.google.com/js/plusone.js&quot;&gt;&lt;/script&gt;
+
+&lt;g:panoembed imageurl=&quot;https://lh4.googleusercontent.com/-rBS1zG2wpgY/UfiSmxk9c3I/AAAAAAAAAkk/9sLOd618_DY/w1594-h797-no/&quot; fullsize=&quot;4000,2000&quot; croppedsize=&quot;4000,2000&quot; offset=&quot;0,0&quot; displaysize=&quot;600,400&quot; /&gt;
+
+</description>
+				<pubDate>Wed, 31 Jul 2013 03:39:40 -0400</pubDate>
+				<link>http://matthewlincoln.net/2013/07/31/race-point-provincetown.html</link>
+				<guid isPermaLink="true">http://matthewlincoln.net/2013/07/31/race-point-provincetown.html</guid>
+			</item>
+		
+			<item>
+				<title>Augustine's City of God</title>
+				<description>&lt;blockquote&gt;
+  &lt;p&gt;Man, by worshiping the works of his own hands, may more easily cease to be man, than the works of his hands can, through his worship of them, become gods.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Augustine, &lt;em&gt;City of God&lt;/em&gt;.&lt;/p&gt;
+</description>
+				<pubDate>Wed, 24 Jul 2013 07:39:28 -0400</pubDate>
+				<link>http://matthewlincoln.net/2013/07/24/augustine%27s-city-of-god.html</link>
+				<guid isPermaLink="true">http://matthewlincoln.net/2013/07/24/augustine%27s-city-of-god.html</guid>
+			</item>
+		
+			<item>
+				<title>Academia's four letter word</title>
+				<description>&lt;p&gt;There’s been some hubub over the weekend about San Jose State University &lt;a href=&quot;http://www.slate.com/blogs/future_tense/2013/07/19/san_jose_state_suspends_udacity_online_classes_after_students_fail_final.html&quot;&gt;dropping its partnership with Udacity&lt;/a&gt;, an online-learning startup, because of an abysmal failure rate running from 56 to 76 percent over five different massive open online courses. A Chronicle blogger &lt;a href=&quot;http://chronicle.com/blognetwork/tenuredradical/2013/07/f-is-for-failure-or-dont-invest-your-pension-in-moocs-yet/&quot;&gt;offers a good read&lt;/a&gt; on the underlying problems of MOOC trials at SJSU, although others suggest that Udacity’s bust &lt;a href=&quot;https://twitter.com/Elijah_Meeks/status/359090677654630401&quot;&gt;should be thought of as online education’s “Pets.com”&lt;/a&gt;, an early failure of paradigm-shifting online retail. And some &lt;a href=&quot;https://twitter.com/jtheibault/status/357604686162968576&quot;&gt;just don’t want to talk about the M-word at all&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I’ve little to add to the larger debate over the place of MOOCs in the future of higher ed writ large. From my own small corner though, I’m interested if open courses could be useful to graduate students who find themselves needing to supplement their program’s coursework with ancillary technical or administrative skills, like scripting languages or grant writing.&lt;/p&gt;
+
+&lt;p&gt;Could the current surplus of technical MOOCs be especially useful for budding digital humanities scholars? In the spirit of trying it before I knock it, I’ve enrolled in a &lt;a href=&quot;https://www.coursera.org/course/sna&quot;&gt;MOOC on social network analysis&lt;/a&gt; for this fall, and a faculty colleague will be working through one on &lt;a href=&quot;https://www.coursera.org/course/maps&quot;&gt;GIS&lt;/a&gt;. We’ll find out soon enough.&lt;/p&gt;
+</description>
+				<pubDate>Mon, 22 Jul 2013 06:05:04 -0400</pubDate>
+				<link>http://matthewlincoln.net/2013/07/22/academias-four-letter-word.html</link>
+				<guid isPermaLink="true">http://matthewlincoln.net/2013/07/22/academias-four-letter-word.html</guid>
+			</item>
+		
+			<item>
+				<title>Big Humanities</title>
+				<description>&lt;p&gt;&lt;a href=&quot;http://www.ischool.drexel.edu/bigdata/bigdata2013/&quot;&gt;IEEE BigData 2013&lt;/a&gt; is going to be accompanied this year by a two-day workshop on “big data” applications in the humanities. Some promising-sounding &lt;a href=&quot;http://bighumanities.net/&quot;&gt;topics from their CFP&lt;/a&gt; include:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;ul&gt;
+    &lt;li&gt;Text- and data-mining of historical and archival material.&lt;/li&gt;
+    &lt;li&gt;Social media analysis, including sentiment analysis&lt;/li&gt;
+    &lt;li&gt;Cultural analytics&lt;/li&gt;
+    &lt;li&gt;Crowd-sourcing and big data&lt;/li&gt;
+    &lt;li&gt;Cyber-infrastructures for the humanities&lt;/li&gt;
+    &lt;li&gt;Relationship between “small data” and big data&lt;/li&gt;
+    &lt;li&gt;NoSQL databases and their application, e.g. document and graph databases&lt;/li&gt;
+    &lt;li&gt;Big data and the construction of memory and identity&lt;/li&gt;
+    &lt;li&gt;Big data and archival practice&lt;/li&gt;
+    &lt;li&gt;Construction of big data&lt;/li&gt;
+    &lt;li&gt;Big data in Heritage&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;They will be accepting long and short paper proposals until August 5.&lt;/p&gt;
+</description>
+				<pubDate>Sun, 21 Jul 2013 06:04:30 -0400</pubDate>
+				<link>http://matthewlincoln.net/2013/07/21/big-humanities.html</link>
+				<guid isPermaLink="true">http://matthewlincoln.net/2013/07/21/big-humanities.html</guid>
+			</item>
+		
+			<item>
+				<title>Why Google picked the wrong Rembrandt painting</title>
+				<description>&lt;p&gt;&lt;a href=&quot;/assets/images/rembrandt_google_doodle.png&quot;&gt;&lt;img src=&quot;/assets/images-display/rembrandt_google_doodle.png&quot; alt=&quot;rembrandt google doodle&quot; title=&quot;2013-07-15 Google doodle featuring Rembrandt&#39;s 1659 self-portrait now in the National Gallery of Art in Washington DC&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Today’s &lt;a href=&quot;http://www.google.com/doodles&quot;&gt;Google doodle&lt;/a&gt; celebrates Rembrandt van Rijn’s birthday 407 years ago in Leiden, and features one of his haunting &lt;a href=&quot;http://www.nga.gov/fcgi-bin/tinfo_f?acc=1937.1.72&quot;&gt;late self-portraits&lt;/a&gt; that hangs today in the National Gallery of Art in Washington.&lt;/p&gt;
+
+&lt;p&gt;Sadly, Google missed out on an opportunity to make an even more delightful visual pun with Rembrandt’s slightly later c. 1665 self-portrait now in the Kenwood House in London, which features two circles that would fit perfectly into the middle of a large, painterly “G&lt;strong&gt;oo&lt;/strong&gt;gle”.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/images/rembrandt_1665_kenwood.jpg&quot;&gt;&lt;img src=&quot;/assets/images-display/rembrandt_1665_kenwood.png&quot; alt=&quot;rembrandt kenwood house 1665 self-portrait&quot; title=&quot;Rembrandt&#39;s c. 1665 self-portrait now in the Kenwood House in London&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;If they had chosen this self-portarit, Google would have added yet another layer to these enigmatic circles, which have spurred no small amount of scholarly debate over the decades.&lt;/p&gt;
+
+&lt;p&gt;It was B. P. J. Broos who established in 1971 what is likely the best explanation for the circles: that they allude to stories of past master artists famed for their skill with line.&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; The legendary artists of Greek antiquity, Apelles and Protogenes, were said to have competed with each other over who could paint the finest, most perfect line. This trope of linear mastery gained its own twist in Karel van Mander’s seventeenth-century biography of the early Italian renaissance painter Giotto. Van Mander tells us how Giotto demonstrated his skill to a representative of a potential patron, Pope Benedict IX:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Giotto was witty; he took a sheet of paper and holding his arm against his side to act as a compass, he drew on it, with a turn of the hand, never moving his arm, a circle so perfect that it was a wonder to see. Having done this, he gave it to the courtier with a grin, saying: there is the drawing. Whereupon the courtier, thinking himself made fun of, answered: am I to have no other drawing than this? This is more than enough, said Giotto, show it to the Pope with the rest, and you shall see whether or not it will be appreciated. He left ill-satisfied. When this drawing came before the Pope among others, and when he had been told in what manner it was drawn by Giotto, without a compass 
+and with a stiff arm, the Pope and his many judicious courtiers understood that Giotto was the best painter of his time.&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Broos showed how the perfect circle shows up again and again in Dutch images from the period, such as Rembrandt’s &lt;a href=&quot;http://www.nga.gov/content/ngaweb/Collection/art-object-page.9961.html&quot;&gt;1658 etched portrait&lt;/a&gt; of the virtuoso Amsterdam calligrapher Lieven Willemszoon van Coppenol. So while Rembrandt shows us an aged, somewhat disheveled figure in the foreground of this self-portrait, the background reminds us that behind that timeworn face is a skilled, modern-day artist who can match the feats of the old masters, and remain in the history books, not to mention museums, more than four centuries later.&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;B. P. J. Broos, “The ‘O’ of Rembrandt”, &lt;em&gt;Simiolus: Netherlands Quarterly for the History of Art&lt;/em&gt; , Vol. 4, No. 3 (1971), pp. 150-184. &lt;a href=&quot;http://www.jstor.org/stable/3780321&quot;&gt;JSTOR&lt;/a&gt;. For a summary of other variations on this interpretation since then, see Jeanne Chenault Porter, “Rembrandt and His Circles: More About the Late &lt;em&gt;Self-Portrait&lt;/em&gt; in Kenwood House,” in Fleischer, Roland E., et al. &lt;em&gt;The Age of Rembrandt: Studies in Seventeenth-Century Dutch Painting&lt;/em&gt;. Pennsylvania State University Press. pp. 188–213. &lt;a href=&quot;http://books.google.com/books?id=CGtvMeltxlIC&amp;amp;pg=PA189&amp;amp;lpg=PA189&amp;amp;dq=Self+Portrait+with+Two+Circles&amp;amp;source=bl&amp;amp;ots=6RB7RzZ4K-&amp;amp;sig=qKo2xYWs2fzSZUzeFgFSLJaDEzM&amp;amp;hl=en&amp;amp;ei=I1ffS6DVMoH58AaWmYSbBQ&amp;amp;sa=X&amp;amp;oi=book_result&amp;amp;ct=result&amp;amp;resnum=10&amp;amp;ved=0CCUQ6AEwCTgK#v=onepage&amp;amp;q&amp;amp;f=true&quot;&gt;URL&lt;/a&gt;&lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot;&gt;
+      &lt;p&gt;Translated in Broos 1971. Like most of Van Mander’s biographies, this is lifted almost entirely from Giorgio Vasari’s mid-sixteenth-century &lt;em&gt;Lives of the Artists&lt;/em&gt;.&lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+				<pubDate>Mon, 15 Jul 2013 07:31:28 -0400</pubDate>
+				<link>http://matthewlincoln.net/2013/07/15/why-google-picked-the-wrong-rembrandt-painting.html</link>
+				<guid isPermaLink="true">http://matthewlincoln.net/2013/07/15/why-google-picked-the-wrong-rembrandt-painting.html</guid>
+			</item>
+		
+			<item>
+				<title>Muse Tech Central on GitHub</title>
+				<description>&lt;p&gt;&lt;a href=&quot;https://twitter.com/sherah1918/status/355301842109992960&quot;&gt;Sheila Brennan&lt;/a&gt; notes a new listing on GutHub devoted to museums active on the open source community: &lt;a href=&quot;https://github.com/MuseCompNet/muse-tech-central&quot;&gt;Muse-tech-central&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Some neat-sounding projects include a tool four generating matching color palettes from an image (from the &lt;a href=&quot;https://github.com/cooperhewitt/palette-server&quot;&gt;Cooper-Hewitt&lt;/a&gt;) and a framework for online publishing of scholarly catalogs (from the &lt;a href=&quot;https://github.com/IMAmuseum/ChicagoCodeX&quot;&gt;Indianapolis Museum of Art&lt;/a&gt;)&lt;/p&gt;
+</description>
+				<pubDate>Fri, 12 Jul 2013 06:52:38 -0400</pubDate>
+				<link>http://matthewlincoln.net/2013/07/12/muse-tech-central.html</link>
+				<guid isPermaLink="true">http://matthewlincoln.net/2013/07/12/muse-tech-central.html</guid>
+			</item>
+		
+			<item>
+				<title>Moved this blog to Jekyll</title>
+				<description>&lt;p&gt;Moving to the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; blogging platform doesn’t save me a significant amount of time versus WordPress. But it is more customizable, and I’m choosing to count my now improved/refreshed Ruby, CSS, and webhosting knowledge towards the total value of the migration project (ergo I think I may still be on the good side of &lt;a href=&quot;http://xkcd.com/1205/&quot;&gt;this chart&lt;/a&gt;.)&lt;/p&gt;
+</description>
+				<pubDate>Thu, 11 Jul 2013 00:00:00 -0400</pubDate>
+				<link>http://matthewlincoln.net/2013/07/11/moved-this-blog-to-jekyll.html</link>
+				<guid isPermaLink="true">http://matthewlincoln.net/2013/07/11/moved-this-blog-to-jekyll.html</guid>
+			</item>
+		
+			<item>
+				<title>DH2013 Abstracts</title>
+				<description>&lt;p&gt;The abstracts for Digital Humanities 2013 at the University of Nebraska, Lincoln &lt;a href=&quot;http://dh2013.unl.edu/abstracts&quot;&gt;have been posted&lt;/a&gt;. Some standouts:&lt;/p&gt;
+
+&lt;h1 id=&quot;network-analysis&quot;&gt;Network analysis&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://dh2013.unl.edu/abstracts/ab-417.html&quot;&gt;&lt;strong&gt;Six Degrees of Francis Bacon&lt;/strong&gt;&lt;/a&gt;: Unsurprisingly, this fascinating project is making a showing at DH2013. Their abstract is a wonderfully concise explanation of the value of this project, and they describe very ambitious-sounding plans for eventually expanding their scope beyond the Dictionary of National Biogrpahy.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://dh2013.unl.edu/abstracts/ab-378.html&quot;&gt;&lt;strong&gt;Preliminaries: The Social Networks of Literary Production in the Spanish Empire During the Administration of the Duke of Lerma (1598-1618)&lt;/strong&gt;&lt;/a&gt;: I really wish I could see this one, as the authors are asking questions very similar to my exploration of artist networks described by existing structured art historical databases. They deal with characterizing the interaction (or conspicuous separation) of different neighborhoods, and even individuals, in their network model.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://dh2013.unl.edu/abstracts/ab-251.html&quot;&gt;&lt;strong&gt;Extraction and Analysis of Character Interaction Networks From Plays and Movies&lt;/strong&gt;&lt;/a&gt;: The authors offer several possible ways to characterize narrative structure in plays and movies by analyzing networks of character interactions, from &lt;em&gt;Hamlet&lt;/em&gt; to &lt;em&gt;Charlie’s Angels&lt;/em&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;art-history&quot;&gt;Art History&lt;/h1&gt;
+
+&lt;p&gt;(surprise, just 7 abstracts in the &lt;a href=&quot;http://dh2013.unl.edu/abstracts/topic.html?q=topic:%22art%20history%7C%7Cart%20history%22&quot;&gt;art history topic&lt;/a&gt; out of a total 236!)&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://dh2013.unl.edu/abstracts/ab-206.html&quot;&gt;&lt;strong&gt;Not Exactly Prima Facie: Understanding the Representation of the Human Through the Analysis of Faces in World Painting&lt;/strong&gt;&lt;/a&gt;: Face-detection is one of the better-developed branches of computer image recognition (&lt;a href=&quot;http://www.facebook.com&quot;&gt;obviously&lt;/a&gt;). The authors describe an interesting process of abstracting clusters of similar facial feature sets from a base of 22,000-odd images. It will be interesting to see if and how these clusters map onto existing histories of style. However I am rather more confused how this new, interesting abstraction will, in their words, move art history “beyond the generalizations supported by the notions of ‘style’, ‘genre’ and ‘national history’”&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://dh2013.unl.edu/abstracts/ab-127.html&quot;&gt;&lt;strong&gt;Evaluating Natural Light in Historic Structures through Digital Simulation&lt;/strong&gt;&lt;/a&gt;: These authors are interested in the capability of simulation to tell us about natural light effects in future buildings - I hope everyone visiting this poster asks them about lighting analysis with digital reconstructions of historic buildings! What might natural lighting have been like in the Baths of Caracalla?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://dh2013.unl.edu/abstracts/ab-243.html&quot;&gt;&lt;strong&gt;Reverse Image Lookup, Paintings, Digitisation, Reuse&lt;/strong&gt;&lt;/a&gt;: If you google image search a bunch of London National Gallery images, where do they go? I’m glad to see they have found evidence that openly disseminating images drives visitors to the source website of the museum - hopefully a good argument for more open access initiatives like those at the &lt;a href=&quot;http://images.nga.gov&quot;&gt;National Gallery of Art&lt;/a&gt; and the &lt;a href=&quot;https://www.rijksmuseum.nl/nl/rijksstudio&quot;&gt;Rijksmuseum&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;gis&quot;&gt;GIS&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://dh2013.unl.edu/abstracts/ab-133.html&quot;&gt;&lt;strong&gt;A Clear Temporal GIS Viewer and Software for Discovering Irregularities in Historical GIS&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&quot;http://dh2013.unl.edu/abstracts/ab-319.html&quot;&gt;&lt;strong&gt;Issues in Spatio-Temporal Technologies for the Humanities and Arts&lt;/strong&gt;&lt;/a&gt;: I’m glad to see a few panels addressing challenges in visualizing dynamic geographic information using current software.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+				<pubDate>Thu, 11 Jul 2013 00:00:00 -0400</pubDate>
+				<link>http://matthewlincoln.net/2013/07/11/dh2013-abstracts.html</link>
+				<guid isPermaLink="true">http://matthewlincoln.net/2013/07/11/dh2013-abstracts.html</guid>
+			</item>
+		
 	</channel>
 </rss>
