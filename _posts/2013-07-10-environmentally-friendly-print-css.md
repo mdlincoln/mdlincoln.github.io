@@ -3,7 +3,8 @@ title: Environmentally-friendly print.css
 layout: post
 comments: true
 date: 2013-07-10
-tags: github, humor
+tags: 
+- Github
 ---
 
 I ran accross [this stylesheet](https://github.com/golman/print.css) by David Bushell while searching for a simple CSS for printing.

@@ -11,7 +11,8 @@ tags:
 - Joris Hoefnagel
 - magic
 - Rudolf II
-- SCSC
+- Conferences
+- Art History
 ---
 
 *I will be presenting this paper at the [Sixteenth Century Society Conference](http://sixteenthcentury.org/conference/) in San Juan on October 24, 2013:*

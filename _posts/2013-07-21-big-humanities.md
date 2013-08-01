@@ -3,6 +3,9 @@ layout: post
 comments: true
 title: Big Humanities
 date: 2013-07-21 10:04:30.338405
+tags:
+- conferences
+- Digital Humanities
 ---
 
 [IEEE BigData 2013](http://www.ischool.drexel.edu/bigdata/bigdata2013/) is going to be accompanied this year by a two-day workshop on "big data" applications in the humanities. Some promising-sounding [topics from their CFP](http://bighumanities.net/) include:
