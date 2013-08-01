@@ -6,11 +6,10 @@ layout: post
 slug: prism
 title: Prism
 wordpress_id: 987
-categories:
+tags:
+- Visualization
 - Digital Humanities
 - Teaching
-tags:
-- visualization
 ---
 
 If you do any kind of work with written texts, you should most definitely take a look at [Scholars' Lab](http://www.scholarslab.org/) latest creation, [Prism](http://prism.scholarslab.org/). This is a remarkable accomplishment by their graduate fellows, all of whom come out of humanities departments (although no art historians, I'll note!)

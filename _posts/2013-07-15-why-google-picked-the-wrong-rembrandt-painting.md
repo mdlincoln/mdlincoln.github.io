@@ -4,9 +4,8 @@ layout: post
 comments: true
 date: 2013-07-15 11:31:28.185500
 tags: 
-- Google
-- Rembrandt
-- art
+- Art History
+- Museums
 ---
 
 [![rembrandt google doodle][rembgoogle]](/assets/images/rembrandt_google_doodle.png)

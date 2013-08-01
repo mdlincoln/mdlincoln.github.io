@@ -6,13 +6,8 @@ layout: post
 slug: open-data-and-the-humanities
 title: Open data and the humanities
 wordpress_id: 1243
-categories:
-- Digital Humanities
-post_format:
-- Quote
 tags:
-- cultural heritage
-- linked open data
+- Digital Humanities
 ---
 
 Tim Sherratt's [keynote address to the Digisam conference](http://wraggelabs.com/shed/presentations/digisam/#/text) on Open Heritage Data in the Nordic Region (entitled "A map and some pins") is helping me cope with some of my own frustratingly messy data:

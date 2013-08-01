@@ -6,11 +6,10 @@ layout: post
 slug: play-space-vs-work-place
 title: Play space vs. work place
 wordpress_id: 1152
-categories:
-- Academia
-- Digital Humanities
 tags:
 - THATCamp
+- Academia
+- Digital Humanities
 ---
 
 You should be able to tell from my posts on [day 1](http://matthewlincoln.net/2013/06/07/thatcamp-prime-2013-day-1.html) and [day 2](http://matthewlincoln.net/2013/06/08/thatcamp-prime-2013-day-2.html) of [THATCamp Prime 2013](http://chnm2013.thatcamp.org) that I really enjoyed my time there. I came away with new contacts, fresh ideas, and some clearer signposts as to which skill paths I should pursue. That said, I also came away with tempered expectations for my next THATCamp experience a more critical outlook on the ebullient rhetoric surrounding the un-conference model. Take a look at [#THATCamp on Twitter](https://twitter.com/search?q=%23thatcamp) to get a taste of the bubbly enthusiasm.

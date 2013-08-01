@@ -1,5 +1,6 @@
 title: Matthew Lincoln
 subtitle: Art History Ph.D student, University of Maryland
+author: Matthew Lincoln
 pygments: true
 permalink: /:year/:month/:day/:title.html
 paginate: 5

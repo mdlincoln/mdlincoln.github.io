@@ -6,12 +6,10 @@ layout: post
 slug: aesthetic-provocations
 title: Aesthetic Provocations
 wordpress_id: 1021
-categories:
+tags:
 - Art History
 - Digital Humanities
-tags:
-- digital humanities
-- visualization
+- Visualization
 ---
 
 [Last week](http://matthewlincoln.net/2013/05/13/prism.html) I mentioned that the folks behind Prism cited the concept of "speculative computing" and "aesthetic provocations" as guiding principles of their work, drawing on a 2004 essay by Johanna Drucker and Bethany Nowviskie, ["Speculative Computing: Aesthetic Provocations in Humanities Computing"](http://nora.lis.uiuc.edu:3030/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-4-10&toc.depth=1&toc.id=0)

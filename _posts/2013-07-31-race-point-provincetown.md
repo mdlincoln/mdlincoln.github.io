@@ -4,8 +4,12 @@ title: "Race Point, Provincetown, MA"
 date: 2013-07-31 07:39:40.025246
 comments: true
 tags:
-- photo
+- Photo
 ---
+
+
+<!-- Photo sphere JS -->
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
 
 <g:panoembed imageurl="https://lh4.googleusercontent.com/-rBS1zG2wpgY/UfiSmxk9c3I/AAAAAAAAAkk/9sLOd618_DY/w1594-h797-no/"
 fullsize="4000,2000"

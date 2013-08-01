@@ -6,15 +6,11 @@ layout: post
 slug: visualizing-uncertainty
 title: Visualizing Uncertainty
 wordpress_id: 1060
-categories:
+tags:
 - Academia
 - Digital Humanities
-post_format:
-- Link
-tags:
-- digital humanities
 - THATCamp
-- visualization
+- Visualization
 ---
 
 > Digital visualization and data-crunching tools are fantastic at compiling and manipulating numbers and strings quickly and precisely. However humanities data is often far from precise! How do we faithfully and usefully visualize information that is uncertain, sketchy, speculative, or debated?

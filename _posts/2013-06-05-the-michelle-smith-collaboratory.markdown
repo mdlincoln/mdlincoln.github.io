@@ -6,15 +6,13 @@ layout: post
 slug: the-michelle-smith-collaboratory
 title: The Michelle Smith Collaboratory
 wordpress_id: 1100
-categories:
+tags:
+- Maps
+- Michelle Smith Collaboratory
+- Visualization
 - Art History
 - Articles
 - Digital Humanities
-tags:
-- digital humanities
-- maps
-- Michelle Smith Collaboratory
-- visualization
 ---
 
 A great colleague and mentor at UMD, Quint Gregory, describes the bold work whose foundations we are trying to establish in the [Michelle Smith Collaboratory](http://michellesmithcollaboratory.umd.edu/) this summer:

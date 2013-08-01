@@ -4,7 +4,7 @@ title: A life in an infographic
 date: 2013-07-31 10:09:26.336127
 comments: true
 tags:
-- visualization
+- Visualization
 - Art History
 ---
 

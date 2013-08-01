@@ -6,12 +6,11 @@ layout: post
 slug: 2013-thatcamp-prime
 title: 2013 THATCamp PRIME
 wordpress_id: 973
-categories:
+tags:
 - Academia
 - Digital Humanities
-tags:
-- conference
-- MOOC
+- Conferences
+- MOOCs
 - THATCamp
 ---
 
