@@ -3,7 +3,10 @@ title: Why Google picked the wrong Rembrandt painting
 layout: post
 comments: true
 date: 2013-07-15 11:31:28.185500
-tags: google, rembrandt, art
+tags: 
+- Google
+- Rembrandt
+- art
 ---
 
 [![rembrandt google doodle][rembgoogle]](/assets/images/rembrandt_google_doodle.png)

@@ -5,7 +5,7 @@ date: 2013-07-31 10:09:26.336127
 comments: true
 tags:
 - visualization
-- art history
+- Art History
 ---
 
 Something interesting that cropped up while I was on vacation last week. The design agency [Accurat](http://accurat.it) (which has developed several other novel visualizations of cultural texts and histories) has created intriguing infographics [visualizing ten modern painters' lives](http://www.flickr.com/photos/accurat/sets/72157633953437972/with/8961090343/). (hat tip: [hyperallergic](http://hyperallergic.com/76259/10-painters-lives-chronicled-as-infographics/) via the [MSCVC](https://twitter.com/MSCollaboratory/status/360456068507250688))
