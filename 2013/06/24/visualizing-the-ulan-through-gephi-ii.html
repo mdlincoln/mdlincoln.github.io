@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Looking through the ULAN with Gephi, II - Matthew Lincoln</title>
+
+        <!-- Meta tags -->
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta name="viewport" content="width=device-width">
+        <meta name="author" content="Matthew Lincoln">
+        <meta name="keywords" content="Art History,Digital Humanities,Gephi,Network analysis,">
+
+        <!-- RSS feed -->
+        <link rel="alternate" type="application/rss+xml" title="Matthew Lincoln" href="http://matthewlincoln.net/feed.xml">
+
+        <!-- syntax highlighting CSS -->
+        <link rel="stylesheet" href="/css/syntax.css">
+
+        <!-- Custom CSS -->
+        <link rel="stylesheet" href="/css/main.css">
+
+        <!-- Fonts -->
+        <link href='http://fonts.googleapis.com/css?family=Ubuntu:400,400italic|Open+Sans:400italic,400,700' rel='stylesheet' type='text/css'>
+
+        <!-- Google Analytics -->
+        <script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-42379158-1', 'matthewlincoln.net');
+ga('send', 'pageview');
+
+</script>
+
+    </head>
+    <body>
+
+      <div class="container">
+        <div class="site">
+          <div class="header">
+            <div class="title">
+	<div class="maintitle"><a href="/">Matthew Lincoln</a></div>
+	<div class="subtitle">Art History Ph.D student, University of Maryland</div>
+</div>
+<div class="image"></div>
+<div class="menu">
+	<a href="/">Home</a>
+	<a href="/archive">Archive</a>
+	<a href="/about">About</a>
+	<a href="/projects">Projects</a>
+</div>
+          </div>
+          <div class="content">
+                <div class="ptitle">Looking through the ULAN with Gephi, II</div>
+
+<p class="meta">24 Jun 2013, <a href="/tag/Art History">Art History</a>, <a href="/tag/Digital Humanities">Digital Humanities</a>, <a href="/tag/Gephi">Gephi</a>, <a href="/tag/Network analysis">Network analysis</a></p>
+
+<div class="post">
+<p>In a recent <a href="http://sixdegreesoffrancisbacon.com/post/53595757782/networks-as-constructs-the-curious-case-of-margaret">guest post</a> on the Six Degrees of Francis Bacon project, Shawn Moore discusses the curious networks of Maria Cavendish. Moore writes:</p>
+
+<blockquote>
+  <p>In many ways, her networks are non-traditional in that they often exist outside of and beyond Cavendish herself…</p>
+</blockquote>
+
+<p>Of significant interest is that the DNB data shows how important extra-personal (looking for a word that indicates connections beyond the intra-personal) connections are for the network Cavendish constructs, and to the networks that are constructed around the reception and reputation of “Margaret Cavendish,” thus exposing an important structure in the sociable practices at play during the period.</p>
+
+<p>In other words, it seems that understanding the reception of a figure’s work through network graphs requires surveying more than the immediate neighborhood, or ego network, of figures just one edge away from Margaret Cavendish (or Rembrandt van Rijn, for that matter.) It is, of course, the relationships between these first, second, or third-level nodes that actually constitute the public conversation about the root author or artist, the conversation we are so eager to better understand.</p>
+
+<p>It was after I dove into Gephi last week that I found Scott Weingart’s excellent <a href="http://journalofdigitalhumanities.org/1-1/demystifying-networks-by-scott-weingart/">overview of network analysis for humanitsts</a>.<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup> After a cogent introduction to the basics, Weingart offers some pointed warnings to humanists about creating multimodal networks - that is, networks with different classes of nodes (e.g. artists and organizations, illustrated below.) These require their own analytical and layout tools.</p>
+
+<p><a href="http://mlincoln.files.wordpress.com/2013/06/screen-shot-2013-06-23-at-3-47-03-pm.png"><img src="http://mlincoln.files.wordpress.com/2013/06/screen-shot-2013-06-23-at-3-47-03-pm.png" alt="A graph of the Black Mountain College network, with both artist and organization nodes. (visualization by Matthew Lincoln, underlying data © 2013 The J. Paul Getty Trust. All rights reserved.)" title="A graph of the Black Mountain College network, with both artist and organization nodes. (visualization by Matthew Lincoln, underlying data © 2013 The J. Paul Getty Trust. All rights reserved.)" /></a></p>
+
+<p>Although for my own purposes I am content to filter out organizations from the ULAN dataset, I also want to take advantage of the rich variations of relationships it describes. This means devising some scheme for weighting relationship types by their attribute (“master of” assigned a weight of 10, for example, while “collaborator with” gets a weight of 5).<sup id="fnref:2"><a href="#fn:2" class="footnote">2</a></sup></p>
+
+<p>One would have to customize such a scheme depending on what type of influence you were interested in visualizing; interpretation and all its accompanying biases will be layered on fast and thick. I predict this will be one of the biggest hurdles to overcome as we move forward with this project.</p>
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p>Scott B. Weingart, “Demystifying Networks, Parts I &amp; II”, <em>Journal of Digital Humanities</em> 1, no. 1 (Winter 2011) (<a href="http://journalofdigitalhumanities.org/1-1/demystifying-networks-by-scott-weingart/">URL</a>)<a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
+    </li>
+    <li id="fn:2">
+      <p>I am curious how the next version of Gephi (0.9), which will implement <a href="https://gephi.org/2013/rebuilding-gephis-core-for-the-0-9-version/">multigraph support</a>, might aid this process.<a href="#fnref:2" class="reversefootnote">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+
+</div>
+
+
+ 
+<div class="comments">
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    var disqus_shortname = 'matthewlincoln'; // required: replace example with your forum shortname
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+</div>
+
+            </div>
+            <div class="footer">
+              <div class="contact">
+    <p>© 2013, Matthew D. Lincoln</p>
+    <p>Header image: Hendrick Goltzius, detail of "Portrait of Philip Galle", 1582, engraving, Rijksmuseum, Amsterdam (<a href="http://www.rijksmuseum.nl/">Image source</a>)</p>
+    <p>Powered by <a href="http://jekyllrb.com">Jekyll</a> - <a href="http://mdlincoln.github.io/feed.xml">RSS feed</a></p>
+</div>
+
+            </div>
+            
+        </div>
+    </body>
+</html>

@@ -1,31 +1,172 @@
----
-layout: default
-title: Home
----
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Home - Matthew Lincoln</title>
 
-<!-- This loops through the paginated posts -->
-{% for post in paginator.posts %}
-<h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+        <!-- Meta tags -->
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta name="viewport" content="width=device-width">
+        <meta name="author" content="Matthew Lincoln">
+        <meta name="keywords" content="">
+
+        <!-- RSS feed -->
+        <link rel="alternate" type="application/rss+xml" title="Matthew Lincoln" href="http://matthewlincoln.net/feed.xml">
+
+        <!-- syntax highlighting CSS -->
+        <link rel="stylesheet" href="/css/syntax.css">
+
+        <!-- Custom CSS -->
+        <link rel="stylesheet" href="/css/main.css">
+
+        <!-- Fonts -->
+        <link href='http://fonts.googleapis.com/css?family=Ubuntu:400,400italic|Open+Sans:400italic,400,700' rel='stylesheet' type='text/css'>
+
+        <!-- Google Analytics -->
+        <script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-42379158-1', 'matthewlincoln.net');
+ga('send', 'pageview');
+
+</script>
+
+    </head>
+    <body>
+
+      <div class="container">
+        <div class="site">
+          <div class="header">
+            <div class="title">
+	<div class="maintitle"><a href="/">Matthew Lincoln</a></div>
+	<div class="subtitle">Art History Ph.D student, University of Maryland</div>
+</div>
+<div class="image"></div>
+<div class="menu">
+	<a href="/">Home</a>
+	<a href="/archive">Archive</a>
+	<a href="/about">About</a>
+	<a href="/projects">Projects</a>
+</div>
+          </div>
+          <div class="content">
+                <!-- This loops through the paginated posts -->
+
+<h1><a href="/2013/08/01/humanities-in-crisis-since-the-renaissance.html">Humanities in Crisis... since the Renaissance?</a></h1>
 <p class="author">
-	<span class="meta">{{ post.date | date_to_string }}</span>
+	<span class="meta">01 Aug 2013</span>
 </p>
 <div class="content">
-	{{ post.content }}
+	<p>Andrew Keener <a href="http://andrewkeener.wordpress.com/2013/07/31/jacob-burckhardt-and-the-crisis-in-renaissance-humanities/">smartly notes</a> that Jacob Burckhardt described a kind of “crisis in the humanities” that took place in the sixteenth century. In Burckhardt’s 1860 <em>Die Kultur der Renaissance in Italien</em>, we read about the rise of scholarly acrimony:</p>
+
+<blockquote>
+  <p>Of all men who ever formed a class, they had the last sense of their common interests…. All means were held lawful, if one of them saw a change of supplanting another. From literary discussion they passed with astonishing suddenness to the fiercest and most groundless vituperation. Not satisfied with refuting, they sought to annihilate an opponent. (272-73)</p>
+</blockquote>
+
+<p>Keener sees parallels to the current humanities crisis rhetoric:</p>
+
+<blockquote>
+  <p>I want to emphasize that Burckhardt’s account, composed during the mid-nineteenth century, delivers a picture of sixteenth-century Europe in which the humanist struggled to get by. The wide availability of printed books rendered his lectures and expertise less relevant or necessary. He faced opposition from the public, and was scorned as self-indulgent, extravagant, and atheistic. However, he also attacked and was attacked by other humanists in a heated race for influence and glory. Wandering up and down the country in search of stable income, the humanist ultimately found it difficult to settle in one place, and found himself disconnected from the public, which “demanded something new.”</p>
+</blockquote>
+
 </div>
-{% endfor %}
+
+<h1><a href="/2013/07/31/a-life-in-an-infographic.html">A life in an infographic</a></h1>
+<p class="author">
+	<span class="meta">31 Jul 2013</span>
+</p>
+<div class="content">
+	<p>Something interesting that cropped up while I was on vacation last week. The design agency <a href="http://accurat.it">Accurat</a> (which has developed several other novel visualizations of cultural texts and histories) has created intriguing infographics <a href="http://www.flickr.com/photos/accurat/sets/72157633953437972/with/8961090343/">visualizing ten modern painters’ lives</a>. (hat tip: <a href="http://hyperallergic.com/76259/10-painters-lives-chronicled-as-infographics/">hyperallergic</a> via the <a href="https://twitter.com/MSCollaboratory/status/360456068507250688">MSCVC</a>)</p>
+
+<p><a href="http://www.flickr.com/photos/accurat/8961090259/"><img src="http://farm4.staticflickr.com/3806/8961090259_ba40cf018d_c.jpg" alt="Visualising Painters' Lives by accurat.it, on Flickr" title="Visualising Painters' Lives by accurat.it, on Flickr" /></a></p>
+
+<p>They have structured the infographics as multi-layered timelines marked with single-point events, spans of time indicating things such as a career in a studio or academy, or a romantic or professional relationship. Affixed to these representations of the artist’s life are timelines of their work signposted with landmark paintings, sigils rendered in the color schemes observed at that phase in the painter’s career, and histograms that claim to mark out that artist’s participation in a certain artistic school or movement. The iconography is delightfully idiosyncratic, shaped to resemble motifs that have come to be associated with each of the ten artists.</p>
+
+<p><a href="/assets/images/matisselegend.png"><img src="/assets/images/matisselegend.png" alt="Detail from Henri Matisse" title="Detail of the histogram legend from the Matisse infographic. By accurat.it" /></a></p>
+
+<p>I’m particularly interested in the histograms charting artwork style, size, and palette. Accurat did a particularly admirable job visualizing the many schools and movements interweaved through each artist’s oeuvre: color-coded words are clustered and stacked near concentrations of paintings that exhibit a certain style, e.g. expressionism or cubism. But because bars on the histogram are keyed to these colors, it is also possible to clearly indicate one instance of late cubism in Matisse’s oeuvre, while still legibly showing that most of his experimentation with that style happened earlier in his life.</p>
+
+<p>Some errant thoughts on the project:</p>
+
+<ul>
+  <li>
+    <p>While Accurat points out these graphs are by no means comprehensive or “scientific”, they mention that they drew data from open online databases like Wikipedia, so I wonder to what extent they automated this process.</p>
+  </li>
+  <li>
+    <p>Could one do something similar with data culled from <a href="http://artstor.org">ARTstor</a>, which has very solid date and repository information, or <a href="http://artsy.net/">artsy</a>, which has tagged a wealth of works with more squishy metadata like color and movement?</p>
+  </li>
+  <li>
+    <p>A histogram of different styles works quite well for the exhaustively-taxonimized twentieth century, but I suspect this might not be quite as illuminating for earlier periods that haven’t been dissected into named stylistic movements. Maybe it would be productive to make a histogram of genres (portraits, landscapes, altarpieces) or sizes and compositional schemes.</p>
+  </li>
+</ul>
+
+
+</div>
+
+<h1><a href="/2013/07/31/race-point-provincetown.html">Race Point, Provincetown, MA</a></h1>
+<p class="author">
+	<span class="meta">31 Jul 2013</span>
+</p>
+<div class="content">
+	<!-- Photo sphere JS -->
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+
+<g:panoembed imageurl="https://lh4.googleusercontent.com/-rBS1zG2wpgY/UfiSmxk9c3I/AAAAAAAAAkk/9sLOd618_DY/w1594-h797-no/" fullsize="4000,2000" croppedsize="4000,2000" offset="0,0" displaysize="600,400" />
+
+
+</div>
+
+<h1><a href="/2013/07/24/augustine%27s-city-of-god.html">Augustine's City of God</a></h1>
+<p class="author">
+	<span class="meta">24 Jul 2013</span>
+</p>
+<div class="content">
+	<blockquote>
+  <p>Man, by worshiping the works of his own hands, may more easily cease to be man, than the works of his hands can, through his worship of them, become gods.</p>
+</blockquote>
+
+<p>Augustine, <em>City of God</em>.</p>
+
+</div>
+
+<h1><a href="/2013/07/22/academias-four-letter-word.html">Academia's four letter word</a></h1>
+<p class="author">
+	<span class="meta">22 Jul 2013</span>
+</p>
+<div class="content">
+	<p>There’s been some hubub over the weekend about San Jose State University <a href="http://www.slate.com/blogs/future_tense/2013/07/19/san_jose_state_suspends_udacity_online_classes_after_students_fail_final.html">dropping its partnership with Udacity</a>, an online-learning startup, because of an abysmal failure rate running from 56 to 76 percent over five different massive open online courses. A Chronicle blogger <a href="http://chronicle.com/blognetwork/tenuredradical/2013/07/f-is-for-failure-or-dont-invest-your-pension-in-moocs-yet/">offers a good read</a> on the underlying problems of MOOC trials at SJSU, although others suggest that Udacity’s bust <a href="https://twitter.com/Elijah_Meeks/status/359090677654630401">should be thought of as online education’s “Pets.com”</a>, an early failure of paradigm-shifting online retail. And some <a href="https://twitter.com/jtheibault/status/357604686162968576">just don’t want to talk about the M-word at all</a>.</p>
+
+<p>I’ve little to add to the larger debate over the place of MOOCs in the future of higher ed writ large. From my own small corner though, I’m interested if open courses could be useful to graduate students who find themselves needing to supplement their program’s coursework with ancillary technical or administrative skills, like scripting languages or grant writing.</p>
+
+<p>Could the current surplus of technical MOOCs be especially useful for budding digital humanities scholars? In the spirit of trying it before I knock it, I’ve enrolled in a <a href="https://www.coursera.org/course/sna">MOOC on social network analysis</a> for this fall, and a faculty colleague will be working through one on <a href="https://www.coursera.org/course/maps">GIS</a>. We’ll find out soon enough.</p>
+
+</div>
+
 
 <!-- Pagination links -->
 <div class="pagination">
-	{% if paginator.previous_page %}
-	<a href="/page{{ paginator.previous_page }}" class="previous">Previous</a>
-	{% else %}
+	
 	<span class="previous">Previous</span>
-	{% endif %}
-	<span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
-	{% if paginator.next_page %}
-	<a href="/page{{ paginator.next_page }}" class="next">Next</a>
-	{% else %}
-	<span class="next ">Next</span>
-	{% endif %}
+	
+	<span class="page_number ">Page: 1 of 8</span>
+	
+	<a href="/page2" class="next">Next</a>
+	
 </div>
   
+            </div>
+            <div class="footer">
+              <div class="contact">
+    <p>© 2013, Matthew D. Lincoln</p>
+    <p>Header image: Hendrick Goltzius, detail of "Portrait of Philip Galle", 1582, engraving, Rijksmuseum, Amsterdam (<a href="http://www.rijksmuseum.nl/">Image source</a>)</p>
+    <p>Powered by <a href="http://jekyllrb.com">Jekyll</a> - <a href="http://mdlincoln.github.io/feed.xml">RSS feed</a></p>
+</div>
+
+            </div>
+            
+        </div>
+    </body>
+</html>

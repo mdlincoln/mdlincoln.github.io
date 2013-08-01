@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Early modern TimeSpan elements in KML - Matthew Lincoln</title>
+
+        <!-- Meta tags -->
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta name="viewport" content="width=device-width">
+        <meta name="author" content="Matthew Lincoln">
+        <meta name="keywords" content="">
+
+        <!-- RSS feed -->
+        <link rel="alternate" type="application/rss+xml" title="Matthew Lincoln" href="http://matthewlincoln.net/feed.xml">
+
+        <!-- syntax highlighting CSS -->
+        <link rel="stylesheet" href="/css/syntax.css">
+
+        <!-- Custom CSS -->
+        <link rel="stylesheet" href="/css/main.css">
+
+        <!-- Fonts -->
+        <link href='http://fonts.googleapis.com/css?family=Ubuntu:400,400italic|Open+Sans:400italic,400,700' rel='stylesheet' type='text/css'>
+
+        <!-- Google Analytics -->
+        <script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-42379158-1', 'matthewlincoln.net');
+ga('send', 'pageview');
+
+</script>
+
+    </head>
+    <body>
+
+      <div class="container">
+        <div class="site">
+          <div class="header">
+            <div class="title">
+	<div class="maintitle"><a href="/">Matthew Lincoln</a></div>
+	<div class="subtitle">Art History Ph.D student, University of Maryland</div>
+</div>
+<div class="image"></div>
+<div class="menu">
+	<a href="/">Home</a>
+	<a href="/archive">Archive</a>
+	<a href="/about">About</a>
+	<a href="/projects">Projects</a>
+</div>
+          </div>
+          <div class="content">
+                <div class="ptitle">Early modern TimeSpan elements in KML</div>
+
+
+<div class="content">
+<p>Google Earth can be a very useful tool for visualizing historical change, however encoding dates can be difficult. GE does not make this particularly easy to do from its graphical user interface (i.e. the Google Earth application), which obstinately refuses to accept any year before 1752. However you can circumvent this odd restriction by directly editing the text versions of the KML files you create with Google Earth.</p>
+
+<h1 id="kmz-vs-kml">KMZ vs. KML</h1>
+
+<p>When you save your GE map, you have an option to save it as <strong>.kmz</strong> or <strong>.kml</strong>. These are related files, but they do very different things. KML stands for Keyhole Markup Language, and it is the real meat of your map file that holds all of the placemarks, polygons, lines, description texts, and folder structure of your map.</p>
+
+<p>Some GE maps pull in image overlays. When you save your map as a <strong>.kml</strong>, GE references the location of these images in your file system but does not actually save the images themselves in the map file. In order to see it properly, the user needs the <strong>.kml</strong> file as well as all the separate image files that you’ve referenced.</p>
+
+<p>To make sharing and publishing easy, you can later save the file as a <strong>.kmz</strong>, which automatically bundles any external images with your <strong>.kml</strong> file. Don’t save your file as <strong>.kmz</strong> until you are ready to send it to another computer or upload it to ELMS</p>
+
+<p>You will need to save your in-progress map (as a <strong>.kml</strong> file!!) to your desktop or some other folder on your computer so that we can open it up in a text editor. We need to manipulate the <strong>.kml</strong> file in order to add <code>TimeSpan</code> elements. Once we have added them and are ready to bundle our images, <em>then</em> we can save the file as <strong>.kmz</strong>.</p>
+
+<h1 id="inserting-new-tags-in-kml-code">Inserting new tags in KML code</h1>
+
+<p>To look at the underlying code of your GE map, you need to open the .kml file with a text editor. You can use the built-in applications like Notepad or Text Edit, but it is even better to get an app that will color-code elements, making them easier to read. Great <strong>free</strong> apps with code highlighting include <a href="http://www.barebones.com/products/textwrangler/">TextWrangler (OS X)</a> and <a href="http://notepad-plus-plus.org/">Notepad++ (Windows)</a>.</p>
+
+<p>Once you have a good text editor set up, open your KML file. The start of the file ought to look something like this:</p>
+
+<script src="https://gist.github.com/mdlincoln/3e5be8cbc2d25c7f2490.js"></script>
+
+<p>Like HTML code used to write webpages, KML comprises a bunch of nested elements or “tags”, some of which you can already guess at. The KML file starts with a <code>&lt;Document&gt;</code> tag, and way at the bottom you’ll find a <code>&lt;/Document&gt;</code> closing tag (note the <code>/</code> indicating this is closing, or “balancing” the first tag.) Together, they create a <code>Document</code> element.</p>
+
+<p>KML files start with a long list of <code>Style</code> elements. Scroll past these until you get to <code>&lt;Folder&gt;</code> and <code>&lt;Placemark&gt;</code> elements. Inside these tags is all the info shown on your map.</p>
+
+<script src="https://gist.github.com/mdlincoln/3ce6caebc77276e313ca.js"></script>
+
+<h1 id="what-element-should-i-add-a-timespan-to">What element should I add a <code>&lt;TimeSpan&gt;</code> to?</h1>
+
+<p>The <code>&lt;TimeSpan&gt;</code> element will apply to the element it is nested in. If you place the tag within a <code>&lt;Placemark&gt;</code> tag, then GE will only apply it to that <code>&lt;Placemark&gt;</code> element. If you put it immediately inside a <code>&lt;Folder&gt;</code> tag, then the <code>&lt;TimeSpan&gt;</code> will apply to all the placemarks, polygons, and lines within that folder, which can make your work go a lot faster!</p>
+
+<p>Take a look at the two examples below. In the first, the <code>&lt;TimeSpan&gt;</code> element will only apply to the <code>&lt;Placemark&gt;</code> element it sits inside. </p>
+
+<script src="https://gist.github.com/mdlincoln/0b3123d6b81f10722805.js"></script>
+
+<p>In the second, the <code>&lt;TimeSpan&gt;</code> element sits in the <code>&lt;Folder&gt;</code> element, and so will apply to everything in that folder.</p>
+
+<script src="https://gist.github.com/mdlincoln/66fe8921621e4b36365c.js"></script>
+
+<p><code>TimeSpan</code> elements follow the <a href="http://en.wikipedia.org/wiki/ISO_8601">ISO 8601 standard</a> for representing dates and times, formed as <code>YYYY-MM-DD</code>. You can be specific down to the second by adding <code>THH:MM:SS±HH</code> (that last bit being the hours added or subtracted to correct for time zone).</p>
+
+<p><em>nb. <code>TimeSpan</code> can be given a <code>&lt;begin&gt;</code> tag with no <code>&lt;end&gt;</code> tag, and vice versa.</em></p>
+
+<p>For all the details of <code>&lt;TimeSpan&gt;</code>s, see <a href="https://developers.google.com/kml/documentation/kmlreference#timespan">Google’s KML documentation.</a> Here you can find information on using the related <code>&lt;TimeStamp&gt;</code> element, which is useful for marking events that take place in one moment of time, rather than a defined span.</p>
+
+<h1 id="check-your-work">Check your work</h1>
+
+<p>Once you have added in your <code>&lt;TimeSpan&gt;</code> elements, make sure to <em>save the file</em> making sure that you give it the ending <code>.kml</code>. You can then open this file like usual in GE, and you should now see a time slider in the upper left-hand corner of the screen. Double-clicking on an element in the left-hand sidebar will automatically set the time slider to that element’s <code>&lt;TimeSpan&gt;</code>, displaying all the other elements that fall into that same range - something very useful indeed!</p>
+
+<p>If you make any further changes to your file through the usual GE interface, remember that you should save it as a .kml file instead of a .kmz file if you need to go in with your text editor and muck around with more <code>&lt;TimeSpan&gt;</code> elements.</p>
+
+</div>
+
+
+            </div>
+            <div class="footer">
+              <div class="contact">
+    <p>© 2013, Matthew D. Lincoln</p>
+    <p>Header image: Hendrick Goltzius, detail of "Portrait of Philip Galle", 1582, engraving, Rijksmuseum, Amsterdam (<a href="http://www.rijksmuseum.nl/">Image source</a>)</p>
+    <p>Powered by <a href="http://jekyllrb.com">Jekyll</a> - <a href="http://mdlincoln.github.io/feed.xml">RSS feed</a></p>
+</div>
+
+            </div>
+            
+        </div>
+    </body>
+</html>

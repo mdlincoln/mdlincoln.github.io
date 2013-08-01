@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Albrecht Dürer in Google Earth - Matthew Lincoln</title>
+
+        <!-- Meta tags -->
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta name="viewport" content="width=device-width">
+        <meta name="author" content="Matthew Lincoln">
+        <meta name="keywords" content="">
+
+        <!-- RSS feed -->
+        <link rel="alternate" type="application/rss+xml" title="Matthew Lincoln" href="http://matthewlincoln.net/feed.xml">
+
+        <!-- syntax highlighting CSS -->
+        <link rel="stylesheet" href="/css/syntax.css">
+
+        <!-- Custom CSS -->
+        <link rel="stylesheet" href="/css/main.css">
+
+        <!-- Fonts -->
+        <link href='http://fonts.googleapis.com/css?family=Ubuntu:400,400italic|Open+Sans:400italic,400,700' rel='stylesheet' type='text/css'>
+
+        <!-- Google Analytics -->
+        <script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-42379158-1', 'matthewlincoln.net');
+ga('send', 'pageview');
+
+</script>
+
+    </head>
+    <body>
+
+      <div class="container">
+        <div class="site">
+          <div class="header">
+            <div class="title">
+	<div class="maintitle"><a href="/">Matthew Lincoln</a></div>
+	<div class="subtitle">Art History Ph.D student, University of Maryland</div>
+</div>
+<div class="image"></div>
+<div class="menu">
+	<a href="/">Home</a>
+	<a href="/archive">Archive</a>
+	<a href="/about">About</a>
+	<a href="/projects">Projects</a>
+</div>
+          </div>
+          <div class="content">
+                <div class="ptitle">Albrecht Dürer in Google Earth</div>
+
+
+<div class="content">
+<h1 id="introduction">Introduction</h1>
+
+<p>This February I was introduced to Janelle Jenstead’s <a href="http://mapoflondon.uvic.ca/">Map of Early Modern London</a>. This project seeks to mark up a host of sixteenth and seventeenth-century texts in <a href="http://www.tei-c.org/index.xml">TEI</a>-compliant XML, and to generate both a web-accessible linked repository as well as an overlay of landmarks and links on a digitized version of the <a href="http://mapoflondon.uvic.ca/map.htm">Agas map</a>. The MoEML was a static map, but it got me wondering how could you map a text that covered broad spans of both space, as well as time?</p>
+
+<p>The German master artist Albrecht Dürer left art historians an unparalleled archival legacy with his detailed diary of his trip to the Netherlands in 1520-1521. This text is invaluable for documenting Dürer’s encounter with the art and artists of the Netherlands, as well as his opinions on the growing religious tensions in northern Europe. Beyond this, however, Dürer’s meticulous journal offers a glimpse of a sixteenth-century international traveler’s day-to-day experience, telling us of his quotidian purchases, sales and gifts of small sketches, and personal interactions large and small as he traveled between the great cities of the north.</p>
+
+<p>During the spring of 2013, thanks to an assistantship in the digital humanities funded through my Smith Family fellowship with the Department of Art History’s Michelle Smith Collaboratory for Visual Culture at the University of Maryland, College Park, I devised a solution for generating an interactive representation of this journey in <a href="http://www.google.com/earth/index.html">Google Earth</a>. Using a translation published in Georges Marlier and Marnix Gijsen, <em>Albrecht Dürer: Diary of His Journey to the Netherlands, 1520-1521</em> (Greenwich, New York Graphic Society, 1971), I created a proof-of-concept map that charts the first month of Dürer’s journey.</p>
+
+<h1 id="processing-the-diary">Processing the diary</h1>
+
+<p>By encoding the text as an XML document where places, people, and artworks are marked as elements in a hierarchical tree of diary entries, I was able to create a machine-readable “index” of the diary. This process was not unlike preparing a book index. Below you can see an example of the plain text of a diary entry, and it’s marked-up version:</p>
+
+<script src="https://gist.github.com/mdlincoln/d1242399449e01b0fc69.js"> </script>
+
+<p>I have marked Dürer’s various colloquial references with unique identifiers, so that even if he refers variously to the same entity (e.g. “my wife”, “Agnes”), the program can still register them as the same thing, and copy equivalent information onto the map. I then generated an XSLT stylesheet that could format this document into a KML file to be displayed in Google Earth, copying in additional information on people and artworks that I listed in accompanying tables.</p>
+
+<p><a href="http://mlincoln.files.wordpress.com/2013/06/screen-shot-2013-06-14-at-8-37-55-am.png"><img src="http://mlincoln.files.wordpress.com/2013/06/screen-shot-2013-06-14-at-8-37-55-am.png?w=625" alt="Clicking on cities will reveal the locations, people, and artworks mentioned in that location. " /></a></p>
+
+<p>All the placemarks on this map - places, people, and artworks - are timestamped, so that by adjusting the time slider in the Google Earth interface one can visualize Dürer’s journey through space and time in a way not easily grasped by reading the printed diary text alone. Because this map was generated directly from the text of the diary, the primary source has been preserved. By clicking on individual placemarks, you may read the specific diary entry from which that marker was derived, connecting you directly back to the primary source. Future additions and revisions to the digitized diary text can be easily incorporated by re-processing the text with the XSLT stylesheet.</p>
+
+<h1 id="results-and-future-work">Results and future work</h1>
+
+<p>You can immediately recognize Dürer’s decreasing pace of travel as he moves out of the familiar regions around Nuremberg. It is also revealing that his route, which looks winding and erratic from afar, in fact hews quite closely to the rivers along his path.</p>
+
+<p>I hope that this proof-of-concept might inspire more creative models for digital publishing of primary sources. Though not all texts can be as readily mapped as Dürer’s travelogue, visualizations of the contents, subjects, or geographical/temporal coverage of varied primary sources can help make them more immediately accessible to users, while designing these discovery layers in such a way that the source text is preserved and remains accessible in its entirety.</p>
+
+<h1 id="links">Links</h1>
+
+<ul>
+  <li>See this project featured at the <a href="http://michellesmithcollaboratory.umd.edu/maps">Michelle Smith Collaboratory for Visual Culture</a>.</li>
+  <li>See the full XML and XSLT on <a href="https://github.com/mdlincoln/durer/tree/master">GitHub</a>.</li>
+</ul>
+
+</div>
+
+
+            </div>
+            <div class="footer">
+              <div class="contact">
+    <p>© 2013, Matthew D. Lincoln</p>
+    <p>Header image: Hendrick Goltzius, detail of "Portrait of Philip Galle", 1582, engraving, Rijksmuseum, Amsterdam (<a href="http://www.rijksmuseum.nl/">Image source</a>)</p>
+    <p>Powered by <a href="http://jekyllrb.com">Jekyll</a> - <a href="http://mdlincoln.github.io/feed.xml">RSS feed</a></p>
+</div>
+
+            </div>
+            
+        </div>
+    </body>
+</html>
