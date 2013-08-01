@@ -9,7 +9,10 @@ layout: default
   {% if tag == page.tag %}
   <div id="home">
   <ul class="posts">
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a> {{ post.excerpt }} </li>
+    <li>
+      <span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a>
+      <div class="excerpt"><p>{{ post.excerpt }}</p><p>...</p></div>
+    </li>
   {% endif %}
   {% endfor %}
   {% endfor %}
