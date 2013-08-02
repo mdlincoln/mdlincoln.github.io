@@ -86,14 +86,6 @@ li {
   margin-bottom: 1em;
 }
 
-.excerpt {
-  font-size: 50%;
-  font-style: italic;
-  margin: 1em 0.5em 1em 0.5em;
-  padding-left: 1em;
-  border-left: solid 0.3em #cccccc; 
-}
-
 /*****************************************************************************/
 /*
 /* Home
