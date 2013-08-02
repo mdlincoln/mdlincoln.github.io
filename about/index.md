@@ -1,9 +1,8 @@
 ---
 title: About the author
 layout: default
+show_title: false
 ---
-
-<div class="ptitle">{{ page.title }}</div>
 
 # Contact Information
 

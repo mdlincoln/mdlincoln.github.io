@@ -10,6 +10,9 @@
           <div class="header">
             {% include header.html %}
           </div>
+          {% if page.show_title %}
+          <div class="ptitle">{{ page.title }}</div>
+          {% endif %}
           <div class="content">
                 {{ content }}
             </div>
@@ -17,6 +20,6 @@
               {% include footer.html %}
             </div>
             
-        </div>
+        </div> 
     </body>
 </html>

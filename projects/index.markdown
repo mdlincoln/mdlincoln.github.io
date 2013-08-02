@@ -1,9 +1,8 @@
 ---
 title: Projects
 layout: default
+show_title: true
 ---
-
-<div class="ptitle">{{ page.title }}</div>
 
 <!-- Automatic project list generator -->
 {% for page in site.pages %}

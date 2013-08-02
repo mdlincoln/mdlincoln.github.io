@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Archive
+show_title: true
 ---
-
-<div class="ptitle">{{ page.title }}</div>
 
 <div id="home">
   <ul class="posts">
