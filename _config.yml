@@ -11,3 +11,4 @@ permalink: /:year/:month/:day/:title.html
 paginate: 5
 markdown: kramdown
 future: false
+lsi: true
