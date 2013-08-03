@@ -1,7 +1,7 @@
 ---
 author: mlincoln
 comments: true
-date: 2013-08-03 17:44:41.058631 <!-- 2013-08-05 09:38:03.594982 -->
+date: 2013-08-03 17:44:41.058631
 layout: post
 title: Presenting at the Sixteenth Century Society Conference
 tags:
