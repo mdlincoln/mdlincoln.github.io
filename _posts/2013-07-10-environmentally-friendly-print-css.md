@@ -4,7 +4,7 @@ layout: post
 comments: true
 date: 2013-07-10
 tags: 
-- Github
+- Code
 ---
 
 I ran accross [this stylesheet](https://github.com/golman/print.css) by David Bushell while searching for a simple CSS for printing.
