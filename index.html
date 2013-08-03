@@ -6,7 +6,7 @@ show_title: false
 
 <!-- This loops through the paginated posts -->
 {% for post in paginator.posts %}
-<h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+<div class="ptitle"><a href="{{ post.url }}">{{ post.title }}</a></div>
 <p class="author">
 	<span class="meta">{{ post.date | date_to_string }}</span>
 </p>
