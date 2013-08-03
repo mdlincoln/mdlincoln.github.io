@@ -1,10 +1,13 @@
+# Site information
 title: Matthew Lincoln
 subtitle: Art History Ph.D student, University of Maryland
 author: Matthew Lincoln
+url: http://matthewlincoln.net
+timezone: America/New_York
+
+# Build options
 pygments: true
 permalink: /:year/:month/:day/:title.html
 paginate: 5
 markdown: kramdown
-url: http://matthewlincoln.net
 future: false
-timezone: America/New_York
