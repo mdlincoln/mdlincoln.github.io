@@ -24,7 +24,14 @@ During the spring of 2013, thanks to an assistantship in the digital humanities 
 
 By encoding the text as an XML document where places, people, and artworks are marked as elements in a hierarchical tree of diary entries, I was able to create a machine-readable "index" of the diary. This process was not unlike preparing a book index. Below you can see an example of the plain text of a diary entry, and it's marked-up version:
 
-<script src="https://gist.github.com/mdlincoln/d1242399449e01b0fc69.js"> </script>
+	Next day, Friday, we came to Forchheim and there I paid 22 pf. for the convoy. Thence I journeyed to Bamberg where I presented the Bishop with a painting of the Virgin, a Life of the Virgin, an Apocalypse, and a florin's worth of engravings. He invited me as his guest, gave me a Toll-pass and three letters of introduction and paid my bill at the Inn, where I had spent about a florin.
+
+{% highlight xml %}
+<entry>
+	<date>1520-07-13</date>
+	<text><place id="Forchheim">Next day, Friday, we came to Forchheim and there I paid 22 pf. for the convoy.</place><place id="Bamberg"> Thence I journeyed to Bamberg where I presented <person id="GeorgSchenk">the Bishop</person> with a <artwork id="VirginPtg1">painting of the Virgin</artwork>, <artwork id="VirginCut1504">a Life of the Virgin</artwork>, <artwork id="ApocCut1498">an Apocalypse</artwork>, and <artwork id="MiscEng">a florin's worth of engravings</artwork>. He invited me as his guest, gave me a Toll-pass and three letters of introduction and paid my bill at the Inn, where I had spent about a florin.</place></text>
+</entry>
+{% endhighlight %}
 
 I have marked Dürer's various colloquial references with unique identifiers, so that even if he refers variously to the same entity (e.g. "my wife", "Agnes"), the program can still register them as the same thing, and copy equivalent information onto the map. I then generated an XSLT stylesheet that could format this document into a KML file to be displayed in Google Earth, copying in additional information on people and artworks that I listed in accompanying tables.
 
