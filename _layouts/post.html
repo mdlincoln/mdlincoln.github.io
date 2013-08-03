@@ -13,7 +13,14 @@ layout: default
 <div class="comments">
 <p class="meta">Tagged in: {% for tag in page.tags %}<a href="/tag/{{ tag }}">{{ tag }}</a>{% if forloop.last %}{% else %}, {% endif %}{% endfor %}</p>
 
-<p class="meta">Related posts: {% for post in site.related_posts limit:4 offset:1 %}<a href="{{ post.url }}">{{ post.title }}</a>{% if forloop.last %}{% else %}; {% endif %}{% endfor %}</p>
+<p class="meta">Related posts:
+{% for post in site.related_posts limit:5 %}
+{% if post.id == page.id %}
+<!-- Do nothing -->
+{% else %}
+<a href="{{ post.url }}">{{ post.title }}</a>{% if forloop.last %}{% else %}; {% endif %}
+{% endif %}
+{% endfor %}</p>
 </div>
 
 {% if page.comments %} 
