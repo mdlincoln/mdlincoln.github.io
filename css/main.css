@@ -24,7 +24,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 100%; }
 
 h1 {
-  font-size: 150%;
+  font-size: 140%;
   margin-top: 4em;
   margin-bottom: 2em;
   border-bottom: 3px solid #eee;
@@ -131,7 +131,7 @@ ul.posts .author {
 /*****************************************************************************/
 
 .site {
-  font-size: 115%;
+  font-size: 100%;
   text-align: left;
   width: 65%;
   max-width: 50em;
@@ -244,7 +244,7 @@ ul.posts .author {
 /*****************************************************************************/
 
 .ptitle {
-  font-size: 2em;
+  font-size: 160%;
   line-height: 1.5em;
   font-family: "Ubuntu";
   margin-top: 1.5em;
