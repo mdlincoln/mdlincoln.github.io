@@ -299,4 +299,43 @@ pre code {
   white-space: pre-wrap;
   background-color: transparent;
   border: 0;
+}}
+
+/*****************************************************************************/
+/*
+/* Mobile CSS
+/*
+/*****************************************************************************/
+
+@media only screen and (max-device-width: 480px) {
+  .site {
+    margin: 0 4% 0 4%;
+    width: 100%;
+    max-width: 100%;
+  }
+
+  .site .header .image {
+    display: none;
+  }
+  
+  body {
+    font-size: 70%;
+  }
+
+  blockquote {
+    margin: 0 2% 0 2%;
+  }
+
+  li {
+    margin:  0 4% 0 2%;
+  }
+
+  .site .footer .contact {
+    margin: 0 2% 0 2%;
+  }
+  
+  pre {
+    overflow: auto;
+    font-size: 100%;
+  }
 }
