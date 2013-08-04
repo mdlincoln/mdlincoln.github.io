@@ -16,7 +16,6 @@ body {
   background-color: #fff;
   font: 1em "Open Sans", Helvetica, Arial, sans-serif;
   color: #343434;
-  font-size: small;
   text-align: left;
 }
 
@@ -135,7 +134,7 @@ ul.posts .author {
   text-align: left;
   width: 65%;
   max-width: 50em;
-  margin: 3em auto 2em;
+  margin: 2em auto 2em;
   line-height: 1.5em;
 }
 
@@ -299,7 +298,7 @@ pre code {
   white-space: pre-wrap;
   background-color: transparent;
   border: 0;
-}}
+}
 
 /*****************************************************************************/
 /*
@@ -337,5 +336,32 @@ pre code {
   pre {
     overflow: auto;
     font-size: 100%;
+  }
+}
+
+/*****************************************************************************/
+/*
+/* Print CSS
+/*
+/*****************************************************************************/
+
+@media print {
+  
+  .site .header {
+    display: none;
+  }
+
+  .site .footer .contact {
+    margin: 0 2% 0 2%;
+  }
+
+  .site {
+    margin: 0 0 0 0;
+    width: 95%;
+    max-width: 100%;
+  }
+
+  body {
+    font: 12pt, "Open Sans", Helvetica, Arial, sans-serif;
   }
 }
