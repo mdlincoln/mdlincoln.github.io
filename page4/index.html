@@ -56,6 +56,43 @@ ga('send', 'pageview');
           <div class="content">
                 <!-- This loops through the paginated posts -->
 
+<div class="ptitle"><a href="/2013/06/24/visualizing-the-ulan-through-gephi-ii.html">Looking through the ULAN with Gephi, II</a></div>
+<p class="author">
+	<span class="meta">24 Jun 2013</span>
+</p>
+<div class="content">
+	<p>In a recent <a href="http://sixdegreesoffrancisbacon.com/post/53595757782/networks-as-constructs-the-curious-case-of-margaret">guest post</a> on the Six Degrees of Francis Bacon project, Shawn Moore discusses the curious networks of Maria Cavendish. Moore writes:</p>
+
+<blockquote>
+  <p>In many ways, her networks are non-traditional in that they often exist outside of and beyond Cavendish herself…</p>
+</blockquote>
+
+<p>Of significant interest is that the DNB data shows how important extra-personal (looking for a word that indicates connections beyond the intra-personal) connections are for the network Cavendish constructs, and to the networks that are constructed around the reception and reputation of “Margaret Cavendish,” thus exposing an important structure in the sociable practices at play during the period.</p>
+
+<p>In other words, it seems that understanding the reception of a figure’s work through network graphs requires surveying more than the immediate neighborhood, or ego network, of figures just one edge away from Margaret Cavendish (or Rembrandt van Rijn, for that matter.) It is, of course, the relationships between these first, second, or third-level nodes that actually constitute the public conversation about the root author or artist, the conversation we are so eager to better understand.</p>
+
+<p>It was after I dove into Gephi last week that I found Scott Weingart’s excellent <a href="http://journalofdigitalhumanities.org/1-1/demystifying-networks-by-scott-weingart/">overview of network analysis for humanitsts</a>.<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup> After a cogent introduction to the basics, Weingart offers some pointed warnings to humanists about creating multimodal networks - that is, networks with different classes of nodes (e.g. artists and organizations, illustrated below.) These require their own analytical and layout tools.</p>
+
+<p><a href="http://mlincoln.files.wordpress.com/2013/06/screen-shot-2013-06-23-at-3-47-03-pm.png"><img src="http://mlincoln.files.wordpress.com/2013/06/screen-shot-2013-06-23-at-3-47-03-pm.png" alt="A graph of the Black Mountain College network, with both artist and organization nodes. (visualization by Matthew Lincoln, underlying data © 2013 The J. Paul Getty Trust. All rights reserved.)" title="A graph of the Black Mountain College network, with both artist and organization nodes. (visualization by Matthew Lincoln, underlying data © 2013 The J. Paul Getty Trust. All rights reserved.)" /></a></p>
+
+<p>Although for my own purposes I am content to filter out organizations from the ULAN dataset, I also want to take advantage of the rich variations of relationships it describes. This means devising some scheme for weighting relationship types by their attribute (“master of” assigned a weight of 10, for example, while “collaborator with” gets a weight of 5).<sup id="fnref:2"><a href="#fn:2" class="footnote">2</a></sup></p>
+
+<p>One would have to customize such a scheme depending on what type of influence you were interested in visualizing; interpretation and all its accompanying biases will be layered on fast and thick. I predict this will be one of the biggest hurdles to overcome as we move forward with this project.</p>
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p>Scott B. Weingart, “Demystifying Networks, Parts I &amp; II”, <em>Journal of Digital Humanities</em> 1, no. 1 (Winter 2011) (<a href="http://journalofdigitalhumanities.org/1-1/demystifying-networks-by-scott-weingart/">URL</a>)<a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
+    </li>
+    <li id="fn:2">
+      <p>I am curious how the next version of Gephi (0.9), which will implement <a href="https://gephi.org/2013/rebuilding-gephis-core-for-the-0-9-version/">multigraph support</a>, might aid this process.<a href="#fnref:2" class="reversefootnote">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+
+</div>
+<div class="ptitle" align="center"><a href="http://en.wikipedia.org/wiki/Fleuron_(typography)" target="_blank">&#10086;</a></div>
+
 <div class="ptitle"><a href="/2013/06/20/looking-through-the-ulan-with-gephi.html">Looking through the ULAN with Gephi, I</a></div>
 <p class="author">
 	<span class="meta">20 Jun 2013</span>
@@ -143,32 +180,6 @@ ga('send', 'pageview');
 </p>
 <div class="content">
 	<p>James Baker posts a familiar-sounding result from a <a href="http://cradledincaricature.com/2013/06/14/dh-in-the-classroom-or-we-successfully-made-nothing-thoughts-on-digital-pedagogies-thatcamp-2013/">THATCamp session on digital scholarship in the classroom</a>.</p>
-
-</div>
-<div class="ptitle" align="center"><a href="http://en.wikipedia.org/wiki/Fleuron_(typography)" target="_blank">&#10086;</a></div>
-
-<div class="ptitle"><a href="/2013/06/14/open-access-humanities-publishing.html">Open-Access Humanities Publishing</a></div>
-<p class="author">
-	<span class="meta">14 Jun 2013</span>
-</p>
-<div class="content">
-	<p>A recent graduate of our department is exploring digital dissemination of the core discovery in his dissertation. The thought process that led him to this discovery is uniquely well-suited to a digital visualization (<a href="http://matthewlincoln.net/2013/05/22/aesthetic-provocations.html">a hobby-horse of mine</a>) hosted on a personal website. He is torn, however, between the imperative to market his own work and the fear of “cheapening” his scholarship through digital publication, as well as the not-totally-unjustified fear of theft.</p>
-
-<p>Newly-minted humanities Ph.Ds in the paranoiac job market may be right to fear resistance or disbelief of more retardataire senior scholars. But I’d argue a good number of those same scholars can be convinced of the available grant opportunities, not to mention the wide open research possibilities in digital art history, and the benefits of open-access distribution of scholarly work.</p>
-
-<p>Ross Mounce recently posted a cogent argument for <a href="http://blogs.lse.ac.uk/impactofsocialsciences/2013/05/24/easy-steps-towards-open-scholarship/">uploading preprints of scholarship before they are accepted for publishing</a>, arguing that overcoming this cultural and psychological barrier results in your work being read and cited more. (hat tip: <a href="http://digitalhumanitiesnow.org/">Digital Humanities Now</a>) Ross notes:</p>
-
-<blockquote>
-  <p>I suspect, like in biology, this practice isn’t yet mainstream in the Arts &amp; Humanities – perhaps just a matter of time before this cultural shift occurs… There is one important caveat to mention with respect to posting preprints – a small minority of conservative, traditional journals will not accept articles that have been posted online prior to submission.</p>
-</blockquote>
-
-<p><a href="https://www.rijksmuseum.nl/en/search/objecten?q=drie+boeken&amp;p=1&amp;ps=12&amp;ii=0#/RP-P-H-OB-867,0"><img src="http://mlincoln.files.wordpress.com/2013/06/segers-three-books-1615-1630-rkm-rp-p-h-ob-867-e1371240274159.jpg?w=625" alt="Some very old school scholarship: Hercules Segers, Three Books, 1615-1630 - Rijksmuseum, Amsterdam, Bruikleen van de Rijksacademie van Beeldende Kunsten (RP-P-H-OB-867)" title="Some very old school scholarship: Hercules Segers, Three Books, 1615-1630 - Rijksmuseum, Amsterdam, Bruikleen van de Rijksacademie van Beeldende Kunsten (RP-P-H-OB-867)" /></a></p>
-
-<p>According to according to the <a href="http://www.sherpa.ac.uk/romeo/issn/0004-3079/">SHERPA/ROMEo survey</a>, the <a href="http://www.collegeart.org/artbulletin/">Art Bulletin</a> doesn’t formally support the archiving of pre- or post-print PDFs of articles. But a better entry point for digital scholarship may be nascent open-access, online-only, peer-reviewed journals like the <a href="http://www.jhna.org/index.php/about-jhna/mission-statement">Journal of the Historians of Netherlandish Art</a>. I am curious if open-access humanities journals will, in these early days, trend towards specialized fields of study staked out by already-established scholarly societies, as these societies can bring their ready-made social network of peer-reviewers. The JHNA’s online platform is incredibly basic, but its articles have been a solid mix of both new and established scholars (in other words, they seem to have broken out of the <a href="http://nrs.harvard.edu/urn-3:HUL.InstRepos:4322577">vicious cycle of prestige-chasing</a>). Their organizational commitment having already been made, I look forward to seeing the journal jump some more technical barriers next, such as adopting some good born-digital scholarship tools like <a href="http://www.futureofthebook.org/commentpress/">Comment Press</a>.</p>
-
-<p>Scholars can also just circumvent this whole process and directly post their work online, critics be damned. If you are interested in getting your work in front of eyeballs, <a href="http://abramfox.com/caa-2013/">Abram Fox</a> notes the online audience for <a href="http://abramfox.com/cv/caa-2013/">one of his papers</a> quickly exceeded the in-person audience at its national conference presentation.</p>
-
-<p><strong>In the same vein, I’ve just uploaded three of my projects on here: a more traditional scholarly paper on <a href="http://matthewlincoln.net/projects/patriotic-and-religious-geographies-in-emanuel-de-wittes-church-paintings.html">Emanuel de Witte</a>, and two digital humanities projects on <a href="http://matthewlincoln.net/projects/albrecht-durer-in-google-earth.html">mapping an artist’s diary</a>, and getting Google Earth to <a href="http://matthewlincoln.net/projects/timespan-elements-in-kml.html">recognize pre-eighteenth-century dates</a>.</strong></p>
 
 </div>
 <div class="ptitle" align="center"><a href="http://en.wikipedia.org/wiki/Fleuron_(typography)" target="_blank">&#10086;</a></div>

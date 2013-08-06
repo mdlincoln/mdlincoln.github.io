@@ -56,6 +56,41 @@ ga('send', 'pageview');
           <div class="content">
                 <!-- This loops through the paginated posts -->
 
+<div class="ptitle"><a href="/2013/08/06/verbalexpressions.html">VerbalExpressions</a></div>
+<p class="author">
+	<span class="meta">06 Aug 2013</span>
+</p>
+<div class="content">
+	<p><a href="https://github.com/jehna/VerbalExpressions">Jehna</a> has come up with the <a href="http://coffeescript.org/">CoffeeScript</a> of regular expressions: <a href="https://github.com/jehna/VerbalExpressions">VerbalExpressions</a>, a JavaScript library (already implemented in a <a href="https://github.com/VerbalExpressions">host of other languages</a>, including Ruby) that makes regex almost human-writeable. (tip: <a href="http://thechangelog.com/stop-writing-regular-expressions-express-them-with-verbal-expressions/">The Changelog</a> via <a href="https://twitter.com/kleinschmidt">Dave</a>)</p>
+
+<p>This is going to really ease parsing datasets with idiosyncratic conventions. See how the Ruby implementation works on the location headings in the <a href="http://www.getty.edu/research/tools/vocabularies/ulan/about.html">ULAN</a> that annoyingly concatenate unique id numbers with preferred terms:</p>
+
+<div class="highlight"><pre><code class="ruby"><span class="nb">require</span> <span class="s1">&#39;verbal_expressions&#39;</span>
+
+<span class="n">location</span> <span class="o">=</span> <span class="s2">&quot;5600392409/New York City (New York state, United States) (inhabited place)&quot;</span>
+
+<span class="n">num_query</span> <span class="o">=</span> <span class="no">VerEx</span><span class="o">.</span><span class="n">new</span> <span class="k">do</span>
+	<span class="n">start_of_line</span>
+	<span class="n">anything_but</span> <span class="s2">&quot;/&quot;</span>
+<span class="k">end</span>
+
+<span class="nb">puts</span> <span class="n">num_query</span><span class="o">.</span><span class="n">source</span> <span class="c1"># =&gt; ^(?:[^/]*)</span>
+
+<span class="n">content_query</span> <span class="o">=</span> <span class="no">VerEx</span><span class="o">.</span><span class="n">new</span> <span class="k">do</span>
+	<span class="n">find</span> <span class="s2">&quot;/&quot;</span>
+	<span class="n">anything_but</span> <span class="s2">&quot;(&quot;</span>
+<span class="k">end</span>
+
+<span class="nb">puts</span> <span class="n">content_query</span><span class="o">.</span><span class="n">source</span> <span class="c1"># =&gt; (?:/)(?:[^\(]*)</span>
+
+<span class="nb">puts</span> <span class="n">location</span><span class="o">.</span><span class="n">slice</span><span class="p">(</span><span class="n">num_query</span><span class="p">)</span> <span class="c1"># =&gt; 5600392409</span>
+<span class="nb">puts</span> <span class="n">location</span><span class="o">.</span><span class="n">slice</span><span class="p">(</span><span class="n">content_query</span><span class="p">)</span> <span class="c1"># =&gt; New York City</span>
+</code></pre></div>
+
+
+</div>
+<div class="ptitle" align="center"><a href="http://en.wikipedia.org/wiki/Fleuron_(typography)" target="_blank">&#10086;</a></div>
+
 <div class="ptitle"><a href="/2013/08/05/presenting-at-the-sixteenth-century-society-conference.html">Presenting at the Sixteenth Century Society Conference</a></div>
 <p class="author">
 	<span class="meta">05 Aug 2013</span>
@@ -139,20 +174,6 @@ ga('send', 'pageview');
 
 <g:panoembed imageurl="https://lh4.googleusercontent.com/-rBS1zG2wpgY/UfiSmxk9c3I/AAAAAAAAAkk/9sLOd618_DY/w1594-h797-no/" fullsize="4000,2000" croppedsize="4000,2000" offset="0,0" displaysize="600,400" />
 
-
-</div>
-<div class="ptitle" align="center"><a href="http://en.wikipedia.org/wiki/Fleuron_(typography)" target="_blank">&#10086;</a></div>
-
-<div class="ptitle"><a href="/2013/07/24/augustine%27s-city-of-god.html">Augustine's City of God</a></div>
-<p class="author">
-	<span class="meta">24 Jul 2013</span>
-</p>
-<div class="content">
-	<blockquote>
-  <p>Man, by worshiping the works of his own hands, may more easily cease to be man, than the works of his hands can, through his worship of them, become gods.</p>
-</blockquote>
-
-<p>Augustine, <em>City of God</em>.</p>
 
 </div>
 <div class="ptitle" align="center"><a href="http://en.wikipedia.org/wiki/Fleuron_(typography)" target="_blank">&#10086;</a></div>
