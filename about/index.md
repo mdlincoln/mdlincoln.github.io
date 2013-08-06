@@ -6,10 +6,7 @@ show_title: false
 
 # Contact Information
 
-![author in Shanghai, 2012][author]
-
-[author]: /assets/images/author.jpg "Author in Shanghai, 2012"
-
+<img src="/assets/images/author.jpg" align="right" />
 
 Matthew D. Lincoln  
 Ph.D Student  
