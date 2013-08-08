@@ -56,6 +56,33 @@ ga('send', 'pageview');
           <div class="content">
                 <!-- This loops through the paginated posts -->
 
+<div class="ptitle"><a href="/2013/08/08/scraping-the-smithsonian.html">Scraping the Smithsonian</a></div>
+<p class="author">
+	<span class="meta">08 Aug 2013</span>
+</p>
+<div class="content">
+	<p>I’m proud to push one of my first real forays into digital humanities toolmaking to Github today: <a href="https://github.com/mdlincoln/si-scrape">si-scrape</a>, a Ruby script that scrapes data off of the Smithsonian Institution’s collection web portal <a href="http://collections.si.edu">collections.si.edu</a>.</p>
+
+<p>It’s a quick and dirty implementation at the moment (one that will be happily outdated once the Smithsonian finishes deploying a <a href="http://en.wikipedia.org/wiki/Linked_data">Linked Open Data</a> interface!) but it could hopefully serve as a model for web-scraping other institutions whose public-facing collection websites are at least partially machine-readable.</p>
+
+<p>All you need to run it is the URL that <a href="http://collections.si.edu">collections.si.edu</a> generates once you define a search query. For example, searching for objects of the type <code>Works of Art</code> that feature the keyword <code>"space"</code> generates this URL: </p>
+
+<pre><code>http://collections.si.edu/search/results.htm?tag.cstype=all&amp;q=space&amp;fq=object_type:%22Works+of+art%22
+</code></pre>
+
+<p>Plug this URL into <code>si-scrape.rb</code> and it will deliver a ~50 MB HTML file that concatenates all the returned records that <a href="http://collections.si.edu">collections.si.edu</a> normally paginates over hundreds of pages. You can then further parse this HTML to pull out the desired data. The Smithsonian has done rather well with this web interface; almost all of the metadata fields for a given object have been nicely tagged in the HTML so that you can easily have the computer hunt down <code>date</code>, <code>title</code>, or <code>topic</code> classes.</p>
+
+<p>I intend to make future versions of this script that will output a flat CSV that one can open and manipulate in Excel, making this script more accessible to the broader humanities community that doesn’t care to fumble with Ruby and <a href="http://nokogiri.org">Nokogiri</a>. Such an implementation would need to be flexible enough to accept the huge range of metadata fields that the Smithsonian’s expansive and diverse collections demand. More experienced Ruby wranglers are <a href="https://github.com/mdlincoln/si-scrape">welcome to contribute</a>!</p>
+
+<p>I’m already using this script to do some bulk processing of the keyword schemae in the Smithsonian art collections. In a future post I’ll be talking a bit more in depth about that, but for now here is a pretty teaser of a topic co-occurrence map of the Smithsonian American Art Museum’s painting collection, all of it collected using <code>si-scrape.rb</code>:</p>
+
+<p><img src="/assets/images-display/saam_dated_full.png" alt="" /></p>
+
+<p><a href="/assets/images/saam_dated_full.png">Download the full ~15MB image</a></p>
+
+</div>
+<div class="ptitle" align="center"><a href="http://en.wikipedia.org/wiki/Fleuron_(typography)" target="_blank">&#10086;</a></div>
+
 <div class="ptitle"><a href="/2013/08/06/verbalexpressions.html">VerbalExpressions</a></div>
 <p class="author">
 	<span class="meta">06 Aug 2013</span>
@@ -164,27 +191,13 @@ ga('send', 'pageview');
 </div>
 <div class="ptitle" align="center"><a href="http://en.wikipedia.org/wiki/Fleuron_(typography)" target="_blank">&#10086;</a></div>
 
-<div class="ptitle"><a href="/2013/07/31/race-point-provincetown.html">Race Point, Provincetown, MA</a></div>
-<p class="author">
-	<span class="meta">31 Jul 2013</span>
-</p>
-<div class="content">
-	<!-- Photo sphere JS -->
-<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
-
-<g:panoembed imageurl="https://lh4.googleusercontent.com/-rBS1zG2wpgY/UfiSmxk9c3I/AAAAAAAAAkk/9sLOd618_DY/w1594-h797-no/" fullsize="4000,2000" croppedsize="4000,2000" offset="0,0" displaysize="600,400" />
-
-
-</div>
-<div class="ptitle" align="center"><a href="http://en.wikipedia.org/wiki/Fleuron_(typography)" target="_blank">&#10086;</a></div>
-
 
 <!-- Pagination links -->
 <div class="pagination">
 	
 	<span class="previous">Previous</span>
 	
-	<span class="page_number ">Page: 1 of 8</span>
+	<span class="page_number ">Page: 1 of 9</span>
 	
 	<a href="/page2" class="next">Next</a>
 	

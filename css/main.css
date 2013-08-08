@@ -54,11 +54,11 @@ blockquote {
 }
 
 body img {
-  float: right;
-  margin-right: 1em;
-  margin-left: 1em;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
   margin-bottom: 1em;
-  max-width: 50%;
+  max-width: 65%;
   height: auto;
 }
 
@@ -70,6 +70,7 @@ p {
 a {
  text-decoration: none;
  color: #a00;
+ transition: color 0.5s;
 }
 
 a:hover { color: #F9895A; }
