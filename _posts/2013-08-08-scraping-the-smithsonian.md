@@ -11,7 +11,7 @@ tags:
 - Digital Humanities
 ---
 
-I'm proud to push one of my first real forays into digital humanities toolmaking to Github today: [si-scrape](https://github.com/mdlincoln/si-scrape), a Ruby script that scrapes data off of the Smithsonian Institution's collection web portal [collections.si.edu](http://collections.si.edu).
+I'm proud to push one of my first real forays into digital humanities toolmaking to GitHub today: [si-scrape](https://github.com/mdlincoln/si-scrape), a Ruby script that scrapes data off of the Smithsonian Institution's collection web portal [collections.si.edu](http://collections.si.edu).
 
 It's a quick and dirty implementation at the moment (one that will be happily outdated once the Smithsonian finishes deploying a [Linked Open Data](http://en.wikipedia.org/wiki/Linked_data) interface!) but it could hopefully serve as a model for web-scraping other institutions whose public-facing collection websites are at least partially machine-readable.
 
@@ -28,3 +28,5 @@ I'm already using this script to do some bulk processing of the keyword schemae 
 ![](/assets/images-display/saam_dated_full.png)
 
 [Download the full ~15MB image](/assets/images/saam_dated_full.png)
+
+P.S. And yes, I got the idea for this [while I was in the shower yesterday](http://www.phdcomics.com/comics.php?f=1617).
