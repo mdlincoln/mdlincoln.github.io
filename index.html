@@ -56,6 +56,31 @@ ga('send', 'pageview');
           <div class="content">
                 <!-- This loops through the paginated posts -->
 
+<div class="ptitle"><a href="/2013/08/09/parsing-the-smithsonian.html">Parsing the Smithsonian</a></div>
+<p class="author">
+	<span class="meta">09 Aug 2013</span>
+</p>
+<div class="content">
+	<p><a href="http://matthewlincoln.net/2013/08/08/scraping-the-smithsonian.html">Yesterday I posted</a> about a Ruby script I published for scraping information from <a href="http://collections.si.edu">collections.si.edu</a>. Today I <a href="https://github.com/mdlincoln/si-scrape">pushed a sister script , <code>si-parse.rb</code></a>, that will turn <code>si-scrape.rb</code>’s raw HTML output into well-formed JSON.</p>
+
+<p>I’d initially wanted to try and make this tool as friendly to tech-uncomfortable humanities scholars as possible, and have it spit out a CSV that could be opened and manipulated in Excel. However, to do that would not just mean flattening the Smithsonian data, but squashing it completely. Even a carefully-limited query on <a href="http://collections.si.edu">collections.si.edu</a> could return you a list containing paintings side by side with airplane models, oral history transcripts, articles of clothing, photographs, and library catalog records. A two-dimensional table would have hundreds of thousands of unused cells, as rows describing paintings would have to leave room for video duration tags, call numbers, or industrial manufacturer descriptions required by other objects.</p>
+
+<p>Rather than try to anticipate multiple cases of desired functionality, and thus potentially limit the tool’s <em>actual</em> functionality, I elected to dump everything into the flexible <a href="http://json.org">JSON format</a>, which can reliably describe objects with heterogeneous metadata, and comes standard with the ability to handle data fields with multiple values (such as a “topic” field with multiple assigned keywords). I’m already trying out all kinds of ways to search and interpret this data, and it works like a charm.</p>
+
+<p>But what average scholar in the humanities would know what to do with this output?</p>
+
+<p><img src="http://i3.kym-cdn.com/photos/images/newsfeed/000/241/713/0fb.gif" alt="computer confusion" /></p>
+
+<p>I was reminded of a minor debate that came up during a session from this June’s THATCamp Prime on scripting languages (<a href="http://chnm2013.thatcamp.org/notepads/scripting-for-humanists/">notes available here</a>) proposed by <a href="http://lincolnmullen.com/blog/report-from-thatcamp/">Lincoln Mullen</a>. There was some back and forth about whether or not the most tech-savy in the DH sphere ought to work harder to make easy to use interfaces for their tools, or whether it is instead better to ask scholars interested in digital approaches to roll up their sleeves and get (at least somewhat) familiar with computing details.</p>
+
+<p>At first I felt the former attitude was the more productive one. If we are to spread digital humanities practices through the academy, shouldn’t we strive to make our tools as accessible as possible? Yet a counter-argument was raised that, just as many programs require their students gain competency in applicable foreign languages, shouldn’t it be acceptable to ask a budding digital humanist to learn applicable coding languages?</p>
+
+<p>Humanities scholars are (rightly) fond of saying that they embrace complex arguments that can’t be boiled down to a bumper sticker or a bullet point. Perhaps they will increasingly come to embrace not only vital complexity in digital methodologies, but also their own capacity to learn these tools and bend them to their own needs. Some fantastic resources, like Jason Heppler’s <a href="http://jasonheppler.org/rubyist-historian/">Rubyist Historian</a>, are already helping to bridge this knowledge gap. I anticipate (hope?) that as more and more DH projects filter into traditional venues like the MLA or CAA conferences, we will see not only a rise in <em>acceptance</em> of these projects as legitimate academic production, but also a rise in the <em>literacies</em> needed to both create and critique them.</p>
+
+
+</div>
+<div class="ptitle" align="center"><a href="http://en.wikipedia.org/wiki/Fleuron_(typography)" target="_blank">&#10086;</a></div>
+
 <div class="ptitle"><a href="/2013/08/08/scraping-the-smithsonian.html">Scraping the Smithsonian</a></div>
 <p class="author">
 	<span class="meta">08 Aug 2013</span>
@@ -156,39 +181,6 @@ ga('send', 'pageview');
 <blockquote>
   <p>I want to emphasize that Burckhardt’s account, composed during the mid-nineteenth century, delivers a picture of sixteenth-century Europe in which the humanist struggled to get by. The wide availability of printed books rendered his lectures and expertise less relevant or necessary. He faced opposition from the public, and was scorned as self-indulgent, extravagant, and atheistic. However, he also attacked and was attacked by other humanists in a heated race for influence and glory. Wandering up and down the country in search of stable income, the humanist ultimately found it difficult to settle in one place, and found himself disconnected from the public, which “demanded something new.”</p>
 </blockquote>
-
-</div>
-<div class="ptitle" align="center"><a href="http://en.wikipedia.org/wiki/Fleuron_(typography)" target="_blank">&#10086;</a></div>
-
-<div class="ptitle"><a href="/2013/07/31/a-life-in-an-infographic.html">A life in an infographic</a></div>
-<p class="author">
-	<span class="meta">31 Jul 2013</span>
-</p>
-<div class="content">
-	<p>Something interesting that cropped up while I was on vacation last week. The design agency <a href="http://accurat.it">Accurat</a> (which has developed several other novel visualizations of cultural texts and histories) has created intriguing infographics <a href="http://www.flickr.com/photos/accurat/sets/72157633953437972/with/8961090343/">visualizing ten modern painters’ lives</a>. (hat tip: <a href="http://hyperallergic.com/76259/10-painters-lives-chronicled-as-infographics/">hyperallergic</a> via the <a href="https://twitter.com/MSCollaboratory/status/360456068507250688">MSCVC</a>)</p>
-
-<p><a href="http://www.flickr.com/photos/accurat/8961090259/"><img src="http://farm4.staticflickr.com/3806/8961090259_ba40cf018d_c.jpg" alt="Visualising Painters' Lives by accurat.it, on Flickr" title="Visualising Painters' Lives by accurat.it, on Flickr" /></a></p>
-
-<p>They have structured the infographics as multi-layered timelines marked with single-point events, spans of time indicating things such as a career in a studio or academy, or a romantic or professional relationship. Affixed to these representations of the artist’s life are timelines of their work signposted with landmark paintings, sigils rendered in the color schemes observed at that phase in the painter’s career, and histograms that claim to mark out that artist’s participation in a certain artistic school or movement. The iconography is delightfully idiosyncratic, shaped to resemble motifs that have come to be associated with each of the ten artists.</p>
-
-<p><a href="/assets/images/matisselegend.png"><img src="/assets/images/matisselegend.png" alt="Detail from Henri Matisse" title="Detail of the histogram legend from the Matisse infographic. By accurat.it" /></a></p>
-
-<p>I’m particularly interested in the histograms charting artwork style, size, and palette. Accurat did a particularly admirable job visualizing the many schools and movements interweaved through each artist’s oeuvre: color-coded words are clustered and stacked near concentrations of paintings that exhibit a certain style, e.g. expressionism or cubism. But because bars on the histogram are keyed to these colors, it is also possible to clearly indicate one instance of late cubism in Matisse’s oeuvre, while still legibly showing that most of his experimentation with that style happened earlier in his life.</p>
-
-<p>Some errant thoughts on the project:</p>
-
-<ul>
-  <li>
-    <p>While Accurat points out these graphs are by no means comprehensive or “scientific”, they mention that they drew data from open online databases like Wikipedia, so I wonder to what extent they automated this process.</p>
-  </li>
-  <li>
-    <p>Could one do something similar with data culled from <a href="http://artstor.org">ARTstor</a>, which has very solid date and repository information, or <a href="http://artsy.net/">artsy</a>, which has tagged a wealth of works with more squishy metadata like color and movement?</p>
-  </li>
-  <li>
-    <p>A histogram of different styles works quite well for the exhaustively-taxonimized twentieth century, but I suspect this might not be quite as illuminating for earlier periods that haven’t been dissected into named stylistic movements. Maybe it would be productive to make a histogram of genres (portraits, landscapes, altarpieces) or sizes and compositional schemes.</p>
-  </li>
-</ul>
-
 
 </div>
 <div class="ptitle" align="center"><a href="http://en.wikipedia.org/wiki/Fleuron_(typography)" target="_blank">&#10086;</a></div>

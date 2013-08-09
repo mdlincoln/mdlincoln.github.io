@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Scraping the Smithsonian - Matthew Lincoln</title>
+
+<!-- Meta tags -->
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width">
+<meta name="author" content="Matthew Lincoln">
+<meta name="keywords" content="">
+
+<!-- RSS feed -->
+<link rel="alternate" type="application/rss+xml" title="Matthew Lincoln" href="http://matthewlincoln.net/feed.xml">
+
+<!-- syntax highlighting CSS -->
+<link rel="stylesheet" href="/css/syntax.css">
+
+<!-- Custom CSS -->
+<link rel="stylesheet" href="/css/main.css">
+
+<!-- Fonts -->
+<link href='http://fonts.googleapis.com/css?family=Ubuntu:400,400italic|Open+Sans:400italic,400,700' rel='stylesheet' type='text/css'>
+
+<!-- Google Analytics -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-42379158-1', 'matthewlincoln.net');
+ga('send', 'pageview');
+
+</script>
+
+    </head>
+    <body>
+
+      <div class="container">
+        <div class="site">
+          <div class="header">
+            <div class="title">
+	<div class="maintitle"><a href="/">Matthew Lincoln</a></div>
+	<div class="subtitle">Art History Ph.D student, University of Maryland</div>
+</div>
+<div class="image"></div>
+<div class="menu">
+	<a href="/">Home</a>
+	<a href="/archive">Archive</a>
+	<a href="/about">About</a>
+	<a href="/projects">Projects</a>
+</div>
+          </div>
+          
+          <div class="content">
+                <div class="ptitle">Scraping the Smithsonian</div>
+
+<p class="meta">Originally published on 09 Aug 2013</p>
+
+<div class="content">
+<p><code>si-scrape</code> is a set of Ruby scripts for scraping information from the web portal for the collections of the Smithsonian Institution and parsing them into JSON, a standard data interchange format that is human readable and can accommodate the heterogeneous metadata of the Smithsonian’s sprawling collections.</p>
+
+<p><strong><a href="https://github.com/mdlincoln/si-scrape">Download si-scrape from GitHub</a></strong></p>
+
+<p>Records will appear as such:</p>
+
+<div class="highlight"><pre><code class="json"><span class="p">{</span>
+<span class="nt">&quot;saam_1978.146.1&quot;</span><span class="p">:</span> <span class="p">{</span>
+    <span class="nt">&quot;Title&quot;</span><span class="p">:</span> <span class="s2">&quot;Slaughterhouse Ruins at Aledo&quot;</span><span class="p">,</span>
+    <span class="nt">&quot;Image&quot;</span><span class="p">:</span> <span class="s2">&quot;http://americanart.si.edu/images/1978/1978.146.1_1a.jpg&quot;</span><span class="p">,</span>
+    <span class="nt">&quot;Artist&quot;</span><span class="p">:</span> <span class="p">[</span>
+      <span class="s2">&quot;Gertrude Abercrombie, born Austin, TX 1909-died Chicago, IL 1977&quot;</span>
+    <span class="p">],</span>
+    <span class="nt">&quot;Medium&quot;</span><span class="p">:</span> <span class="p">[</span>
+      <span class="s2">&quot;oil on canvas&quot;</span>
+    <span class="p">],</span>
+    <span class="nt">&quot;Dimensions&quot;</span><span class="p">:</span> <span class="p">[</span>
+      <span class="s2">&quot;20 x 24 in. (50.9 x 61.0 cm)&quot;</span>
+    <span class="p">],</span>
+    <span class="nt">&quot;Type&quot;</span><span class="p">:</span> <span class="p">[</span>
+      <span class="s2">&quot;Painting&quot;</span>
+    <span class="p">],</span>
+    <span class="nt">&quot;Date&quot;</span><span class="p">:</span> <span class="p">[</span>
+      <span class="s2">&quot;1937&quot;</span>
+    <span class="p">],</span>
+    <span class="nt">&quot;Topic&quot;</span><span class="p">:</span> <span class="p">[</span>
+      <span class="s2">&quot;Landscape&quot;</span><span class="p">,</span>
+      <span class="s2">&quot;Landscape\\Spain\\Aledo&quot;</span><span class="p">,</span>
+      <span class="s2">&quot;Architecture Exterior\\ruins&quot;</span><span class="p">,</span>
+      <span class="s2">&quot;Architecture Exterior\\industry\\slaughterhouse&quot;</span>
+    <span class="p">],</span>
+    <span class="nt">&quot;Credit Line&quot;</span><span class="p">:</span> <span class="p">[</span>
+      <span class="s2">&quot;Smithsonian American Art Museum, Gift of the Gertrude Abercrombie Trust&quot;</span>
+    <span class="p">],</span>
+    <span class="nt">&quot;Object number&quot;</span><span class="p">:</span> <span class="p">[</span>
+      <span class="s2">&quot;1978.146.1&quot;</span>
+    <span class="p">],</span>
+    <span class="nt">&quot;See more items in&quot;</span><span class="p">:</span> <span class="p">[</span>
+      <span class="s2">&quot;Smithsonian American Art Museum Collection&quot;</span>
+    <span class="p">],</span>
+    <span class="nt">&quot;Data Source&quot;</span><span class="p">:</span> <span class="p">[</span>
+      <span class="s2">&quot;Smithsonian American Art Museum&quot;</span>
+    <span class="p">],</span>
+    <span class="nt">&quot;Record ID&quot;</span><span class="p">:</span> <span class="p">[</span>
+      <span class="s2">&quot;saam_1978.146.1&quot;</span>
+    <span class="p">],</span>
+    <span class="nt">&quot;Visitor Tag(s)&quot;</span><span class="p">:</span> <span class="p">[</span>
+      <span class="s2">&quot;\nNo tags yet, be the first!\n\nAdd Your Tags!\n&quot;</span>
+    <span class="p">]</span>
+  <span class="p">},</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<p>Every SI object comes with a unique ID (e.g. <code>saam_1978.146.1</code>) and title (e.g. <code>Slaughterhouse Ruins at Aledo</code>). Other elements could potentially have multiple values, and so they are stored as nested arrays in the JSON output, which can easily be parsed by <a href="http://www.ruby-doc.org/stdlib-2.0/libdoc/json/rdoc/JSON.html">Ruby’s JSON module</a> or other library of your choice.</p>
+
+
+</div>
+
+            </div>
+            <div class="footer">
+              <div class="contact">
+    <p>© 2013, Matthew D. Lincoln</p>
+    <p>Header image: Hendrick Goltzius, detail of "Portrait of Philip Galle", 1582, engraving, Rijksmuseum, Amsterdam (<a href="http://www.rijksmuseum.nl/">Image source</a>)</p>
+    <p>Powered by <a href="http://jekyllrb.com">Jekyll</a> - <a href="http://mdlincoln.github.io/feed.xml">RSS feed</a></p>
+</div>
+
+            </div>
+            
+        </div> 
+    </body>
+</html>
