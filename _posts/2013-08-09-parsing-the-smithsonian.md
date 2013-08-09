@@ -18,7 +18,7 @@ Rather than try to anticipate multiple cases of desired functionality, and thus 
 
 But what average scholar in the humanities would know what to do with this output?
 
-![computer confusion](http://i3.kym-cdn.com/photos/images/newsfeed/000/241/713/0fb.gif)
+![computer confusion](/assets/images/computer.gif)
 
 I was reminded of a minor debate that came up during a session from this June's THATCamp Prime on scripting languages ([notes available here](http://chnm2013.thatcamp.org/notepads/scripting-for-humanists/)) proposed by [Lincoln Mullen](http://lincolnmullen.com/blog/report-from-thatcamp/). There was some back and forth about whether or not the most tech-savy in the DH sphere ought to work harder to make easy to use interfaces for their tools, or whether it is instead better to ask scholars interested in digital approaches to roll up their sleeves and get (at least somewhat) familiar with computing details.
 
