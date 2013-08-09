@@ -30,3 +30,5 @@ I'm already using this script to do some bulk processing of the keyword schemae 
 [Download the full ~15MB image](/assets/images/saam_dated_full.png)
 
 P.S. And yes, I got the idea for this [while I was in the shower yesterday](http://www.phdcomics.com/comics.php?f=1617).
+
+P.P.S. And it's gotten added in to the [Muse-Tech-Central list](https://github.com/MuseCompNet/muse-tech-central)!
