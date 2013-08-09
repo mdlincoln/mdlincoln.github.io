@@ -4,12 +4,12 @@
 		<title>Matthew Lincoln</title>
 		<description>Art History Ph.D student, University of Maryland</description>
 		<link>http://matthewlincoln.net</link>
-		<pubDate>2013-08-09T15:37:11-04:00</pubDate>
+		<pubDate>2013-08-09T16:45:38-04:00</pubDate>
 		<atom:link href="http://matthewlincoln.net/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
 				<title>Parsing the Smithsonian</title>
-				<description>&lt;p&gt;&lt;a href=&quot;http://matthewlincoln.net/2013/08/08/scraping-the-smithsonian.html&quot;&gt;Yesterday I posted&lt;/a&gt; about a Ruby script I published for scraping information from &lt;a href=&quot;http://collections.si.edu&quot;&gt;collections.si.edu&lt;/a&gt;. Today I &lt;a href=&quot;https://github.com/mdlincoln/si-scrape&quot;&gt;pushed a sister script , &lt;code&gt;si-parse.rb&lt;/code&gt;&lt;/a&gt;, that will turn &lt;code&gt;si-scrape.rb&lt;/code&gt;’s raw HTML output into well-formed JSON.&lt;/p&gt;
+				<description>&lt;p&gt;&lt;a href=&quot;http://matthewlincoln.net/2013/08/08/scraping-the-smithsonian.html&quot;&gt;Yesterday I posted&lt;/a&gt; about a Ruby script I published for scraping information from &lt;a href=&quot;http://collections.si.edu&quot;&gt;collections.si.edu&lt;/a&gt;. Today I &lt;a href=&quot;https://github.com/mdlincoln/si-scrape&quot;&gt;pushed a sister script , &lt;code&gt;si-parse.rb&lt;/code&gt;&lt;/a&gt;, that will turn &lt;code&gt;si-scrape.rb&lt;/code&gt;’s raw HTML output into well-formed JSON. &lt;em&gt;(and I got the project added to the &lt;a href=&quot;https://github.com/MuseCompNet/muse-tech-central&quot;&gt;Muse-Tech-Central list&lt;/a&gt;!)&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;I’d initially wanted to try and make this tool as friendly to tech-uncomfortable humanities scholars as possible, and have it spit out a CSV that could be opened and manipulated in Excel. However, to do that would not just mean flattening the Smithsonian data, but squashing it completely. Even a carefully-limited query on &lt;a href=&quot;http://collections.si.edu&quot;&gt;collections.si.edu&lt;/a&gt; could return you a list containing paintings side by side with airplane models, oral history transcripts, articles of clothing, photographs, and library catalog records. A two-dimensional table would have hundreds of thousands of unused cells, as rows describing paintings would have to leave room for video duration tags, call numbers, or industrial manufacturer descriptions required by other objects.&lt;/p&gt;
 
@@ -53,6 +53,8 @@
 &lt;p&gt;&lt;a href=&quot;/assets/images/saam_dated_full.png&quot;&gt;Download the full ~15MB image&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;P.S. And yes, I got the idea for this &lt;a href=&quot;http://www.phdcomics.com/comics.php?f=1617&quot;&gt;while I was in the shower yesterday&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;P.P.S. And it’s gotten added in to the &lt;a href=&quot;https://github.com/MuseCompNet/muse-tech-central&quot;&gt;Muse-Tech-Central list&lt;/a&gt;!&lt;/p&gt;
 </description>
 				<pubDate>Thu, 08 Aug 2013 09:48:16 -0400</pubDate>
 				<link>http://matthewlincoln.net/2013/08/08/scraping-the-smithsonian.html</link>
