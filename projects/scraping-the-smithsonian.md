@@ -4,6 +4,7 @@ date: 2013-08-09 14:04:42.465484
 layout: project
 title: Scraping the Smithsonian
 snippet: A beginner Ruby script for downloading collection data from the Smithsonian Institution in bulk, and parsing it into well-formed JSON.
+img: /assets/images-display/si_scrape_avatar.png
 ---
 
 `si-scrape` is a set of Ruby scripts for scraping information from the web portal for the collections of the Smithsonian Institution and parsing them into JSON, a standard data interchange format that is human readable and can accommodate the heterogeneous metadata of the Smithsonian's sprawling collections.

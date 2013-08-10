@@ -7,6 +7,7 @@ slug: albrecht-durer-in-google-earth
 title: Albrecht Dürer in Google Earth
 wordpress_id: 1191
 snippet: A Google Earth visualization of part of Albrecht Dürer's 1520 journey to the Netherlands.
+img: /assets/images-display/durer_avatar.png
 ---
 
 # Introduction
