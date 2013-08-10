@@ -123,6 +123,15 @@ ul.posts .author {
   margin-top: 5em;
 }
 
+body img.avatar {
+  float: left;
+  margin-right: 1em;
+  margin-left: 0;
+}
+
+div.toc {
+  display: inline-block;
+}
 
 /*****************************************************************************/
 /*
