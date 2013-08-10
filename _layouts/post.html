@@ -11,7 +11,6 @@ layout: default
 
 
 <div class="comments">
-<p class="meta">Tagged in: {% for tag in page.tags %}<a href="/tag/{{ tag }}">{{ tag }}</a>{% if forloop.last %}{% else %}, {% endif %}{% endfor %}</p>
 
 <p class="meta">Related posts:
 {% for post in site.related_posts limit:5 %}
