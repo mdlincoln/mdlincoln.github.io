@@ -4,9 +4,10 @@ layout: default
 show_title: true
 ---
 
+The projects below include both "traditional" art historical research, papers, and conference talks, as well as digital humanities endeavors and tutorials. 
+
 <!-- Automatic project list generator -->
 {% for page in site.pages %}
-
 {% if page.layout == 'project' %}
 <div class="toc">
 <h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
