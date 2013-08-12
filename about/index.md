@@ -4,6 +4,7 @@ layout: default
 show_title: false
 ---
 
+<div class="toc">
 # Contact Information
 
 <img src="/assets/images/author.jpg" align="right" />
@@ -27,6 +28,7 @@ University of Maryland, College Park
 
 - [Twitter](http://twitter.com/matthewdlincoln)
 
+</div>
 
 # Interests
 
