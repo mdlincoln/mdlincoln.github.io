@@ -5,7 +5,7 @@ show_title: false
 ---
 
 <div class="toc">
-<p><img src="/assets/images/author.jpg" align="right" /></p>
+<img src="/assets/images/author.jpg" align="right" />
 
 <p>Matthew D. Lincoln <br />
 Ph.D Student <br />
