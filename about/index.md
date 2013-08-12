@@ -5,28 +5,25 @@ show_title: false
 ---
 
 <div class="toc">
-# Contact Information
+<p><img src="/assets/images/author.jpg" align="right" /></p>
 
-<img src="/assets/images/author.jpg" align="right" />
+<p>Matthew D. Lincoln <br />
+Ph.D Student <br />
+<a href="http://arthistory.umd.edu">Department of Art History &amp; Archaeology</a> <br />
+University of Maryland, College Park</p>
 
-Matthew D. Lincoln  
-Ph.D Student    
-[Department of Art History & Archaeology](http://arthistory.umd.edu)  
-University of Maryland, College Park
+<h2>Links</h2>
 
-## Links
+<ul>
+<li><p><a href="https://docs.google.com/document/d/1D26djrb4BUMYkLiif01vQM5nXty2ziCqctzF1wQb_sA/pub">Current CV</a></p></li>
+<li><p><a href="http://arthistory.umd.edu/graduate-students/Matthew%20Lincoln">Department profile</a></p></li>
+<li><p><a href="http://umd.academia.edu/MatthewLincoln">Academia.edu</a></p></li>
+<li><p><a href="https://github.com/mdlincoln">GitHub</a></p></li>
+<li><p><a href="http://www.linkedin.com/profile/view?id=49520669">LinkedIn</a></p></li>
+<li><p><a href="http://twitter.com/matthewdlincoln">Twitter</a></p></li>
+</ul>
 
-- [Current CV](https://docs.google.com/document/d/1D26djrb4BUMYkLiif01vQM5nXty2ziCqctzF1wQb_sA/pub)
 
-- [Department profile](http://arthistory.umd.edu/graduate-students/Matthew%20Lincoln)
-
-- [Academia.edu](http://umd.academia.edu/MatthewLincoln)
-
-- [GitHub](https://github.com/mdlincoln)
-
-- [LinkedIn](http://www.linkedin.com/profile/view?id=49520669)
-
-- [Twitter](http://twitter.com/matthewdlincoln)
 
 </div>
 
