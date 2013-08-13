@@ -4,7 +4,6 @@ layout: default
 show_title: false
 ---
 
-<img src="/assets/images/author.jpg" align="right" />
 =======
 # Contact Information
 
