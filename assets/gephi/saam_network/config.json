@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "text": "Matthew Lincoln",
+    "file": "",
+    "link": ""
+  },
+  "text": {
+    "title": "Keyword map of SAAM 1900-1935",
+    "more": "From a list of 40,218 artworks in the Smithsonian American Art Museum, I generated a subset of 19,584 records that have both a date as well as assigned keywords. From this subset I created a yet smaller subset database of those artworks whose date fell between 1900 and 1935, resulting in 2,255 records. In this visualization, every node, or point on the graph, represents a single artwork record. The computer has drawn an edge, or connection, between artworks when those two artworks share 5 or more keyword tags. These nodes and edges have been positioned by a \"force directed\" algorithm, which pushes apart nodes that do not share connections, and pulls together nodes that do share connections.\n\nThe size of each node increases the more artworks with which they share an edge. The color has been assigned by a computer algorithm that attempts to detect \"communities\" of nodes; i.e. groups of nodes that are relatively more connected to each other than they are to the rest of the network. This algorithm does not understand the meaning of topic keywords or titles - it works only by judging the relative number of connections between the many nodes in this network.",
+    "intro": "This is a network graph of artwork records between the dates of 1900 and 1935 harvested from the Smithsonian American Art Museum. You may click on an individual node to pull up its attributes (date, artist, type, keywords, etc.) and see its immediate connections to other artworks. You may also search for an individual artwork by title, or view artworks grouped by type."
+  },
+  "legend": {
+    "edgeLabel": "Shared keyword",
+    "colorLabel": "Community",
+    "nodeLabel": "Artword"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "type",
+    "hoverBehavior": "Dim"
+  },
+  "informationPanel": {
+    "imageAttribute": false,
+    "groupByEdgeDirection": true
+  },
+  "sigma": {
+    "graphProperties": {
+      "minEdgeSize": 0.1,
+      "maxNodeSize": 5,
+      "maxEdgeSize": 0.5,
+      "minNodeSize": 0.2
+    },
+    "drawingProperties": {
+      "labelThreshold": 6,
+      "hoverFontStyle": "bold",
+      "defaultEdgeType": "curve",
+      "defaultLabelColor": "#fff",
+      "defaultLabelHoverColor": "#fff",
+      "defaultLabelSize": 14,
+      "activeFontStyle": "bold",
+      "fontStyle": "normal",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd"
+    },
+    "mouseProperties": {
+      "minRatio": 0.5,
+      "maxRatio": 128
+    }
+  }
+}
