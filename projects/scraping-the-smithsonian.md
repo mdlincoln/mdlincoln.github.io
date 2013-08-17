@@ -7,7 +7,7 @@ snippet: A beginner Ruby script for downloading collection data from the Smithso
 img: /assets/images-display/si_scrape_avatar.png
 ---
 
-`si-scrape` is a set of Ruby scripts for scraping information from the web portal for the collections of the Smithsonian Institution and parsing them into JSON, a standard data interchange format that is human readable and can accommodate the heterogeneous metadata of the Smithsonian's sprawling collections.
+`si-scrape` is a Ruby script for scraping information from the web portal for the collections of the Smithsonian Institution and parsing them into JSON, a standard data interchange format that is human readable and can accommodate the heterogeneous metadata of the Smithsonian's sprawling collections.
 
 **[Download si-scrape from GitHub](https://github.com/mdlincoln/si-scrape)**
 
@@ -61,7 +61,7 @@ Records will appear as such:
 }
 {% endhighlight %}
 
-Every SI object comes with a unique ID (e.g. `saam_1978.146.1`) and title (e.g. `Slaughterhouse Ruins at Aledo`). Other elements could potentially have multiple values, and so they are stored as nested arrays in the JSON output, which can easily be parsed by [Ruby's JSON module](http://www.ruby-doc.org/stdlib-2.0/libdoc/json/rdoc/JSON.html) or other library of your choice.
+Every SI object comes with a unique ID (e.g. `saam_1978.146.1`) and title (e.g. `Slaughterhouse Ruins at Aledo`), as well as an image URL (although this will sometimes be a blank image for objects without visual records). Other elements could potentially have multiple values, and so they are stored as nested arrays in the JSON output, which can easily be parsed by [Ruby's JSON module](http://www.ruby-doc.org/stdlib-2.0/libdoc/json/rdoc/JSON.html) or other library of your choice.
 
 
 
