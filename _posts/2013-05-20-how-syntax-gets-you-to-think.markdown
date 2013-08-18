@@ -12,7 +12,8 @@ tags:
 - Video
 ---
 
-<iframe src="http://player.vimeo.com/video/65186730" width="500" height="277" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
-
+<div class="videoWrapper">
+<iframe src="http://player.vimeo.com/video/65186730" width="600" height="338" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+</div>
 
 Check out some interesting non-art-historical [research being done by a friend in the UMD Linguistics department](http://posterhall.org/igert2013/posters/443).

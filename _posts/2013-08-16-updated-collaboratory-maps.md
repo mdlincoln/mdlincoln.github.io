@@ -11,6 +11,8 @@ tags:
 
 We have finally uploaded our updated, interactive Google Earth maps to the Michelle Smith Collaboratory website, with a video introduction voiced by yours truly (and put together by virtuoso video editor [Madeline Gent](http://arthistory.umd.edu/graduate-students/Madeline%20Gent)):
 
+<div class="videoWrapper">
 <iframe src="http://player.vimeo.com/video/72489703" width="600" height="338" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+</div>
 
 [Go check them out!](http://michellesmithcollaboratory.umd.edu/maps)

@@ -20,4 +20,6 @@ This is very much a sandbox, a playground, rather than a detailed and robust too
 
 See it in action, and go give it a try yourself:
 
+<div class="videoWrapper">
 <iframe width="640" height="360" src="//www.youtube-nocookie.com/embed/AxHDcW15UBI" frameborder="0" allowfullscreen></iframe>
+</div>
