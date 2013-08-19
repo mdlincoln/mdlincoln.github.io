@@ -15,7 +15,7 @@ University of Maryland, College Park
 
 ## Links
 
-- [Current CV](https://docs.google.com/document/d/1D26djrb4BUMYkLiif01vQM5nXty2ziCqctzF1wQb_sA/pub)
+- [Current CV](https://docs.google.com/document/d/1D26djrb4BUMYkLiif01vQM5nXty2ziCqctzF1wQb_sA/edit?usp=sharing)
 
 - [Department profile](http://arthistory.umd.edu/graduate-students/Matthew%20Lincoln)
 
