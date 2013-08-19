@@ -27,7 +27,6 @@ University of Maryland, College Park
 
 - [Twitter](http://twitter.com/matthewdlincoln)
 
-</div>
 
 # Interests
 
