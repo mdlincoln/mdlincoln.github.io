@@ -237,6 +237,11 @@ div.toc {
   display: none;
 }
 
+.footnotes li {
+  margin-left: 0;
+  font-size: small
+}
+
 /*    FOOTER    */
 
 .site .footer {
