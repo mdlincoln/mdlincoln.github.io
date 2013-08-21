@@ -17,6 +17,11 @@ body {
   font: 1em "Open Sans", Helvetica, Arial, sans-serif;
   color: #343434;
   text-align: left;
+  font-size: 100%;
+  width: 65%;
+  max-width: 50em;
+  margin: 2em auto 2em;
+  line-height: 1.5em;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -53,7 +58,7 @@ blockquote {
   background-color: #eeeeee;
 }
 
-body img {
+body main img {
   display: block;
   margin-right: auto;
   margin-left: auto;
@@ -70,14 +75,16 @@ p {
 a {
  text-decoration: none;
  color: #a00;
- transition: color 0.5s;
+/* transition: color 0.5s;
+*/}
+
+a:hover {
+  color: #F9895A;
+  border-bottom: 1px dotted #F9895A;
 }
 
-a:hover { color: #F9895A; }
-/*a:visited { color: #aaa; }*/
-
 table {
-  font-size: inherit;
+  font-size: inherit; 
   font: 100%;
 }
 
@@ -86,41 +93,120 @@ li {
   margin-bottom: 1em;
 }
 
+time {
+  color: #aaa;
+  font-family: Monaco, "Courier New", monospace;
+}
+
+/*****************************************************************************/
+/*
+/* Site
+/*
+/*****************************************************************************/
+
+/*    HEADER    */
+
+body header img {
+  display: block;
+  overflow: hidden;
+  margin: 0;
+  height: 100%;
+  width: 100%;
+  max-width: 50em;
+  box-shadow: 2px 2px 1px #888888;
+  border-radius: 2px;
+}
+
+body header a {
+  text-decoration: none;
+}
+
+body header h1 {
+  text-align: right;
+  font-family: "Ubuntu";
+  color: #a00;
+  font-size: 2.5em;
+  border: none;
+  margin: 0;
+  font-weight: normal;
+}
+
+body header h2 {
+  font-family: "Ubuntu";
+  font-size: 1em;
+  color: #a00;
+  margin: 0 0 1em 0;
+  text-align: right;
+}
+
+/*    NAV  */
+
+body header nav {
+  margin-top: 1em;
+}
+
+body header nav a {
+  color: #a00;
+  margin-right: 1em;
+}
+
+body header nav a:hover {
+  color: #a00;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+  border-bottom: 2px solid #a00;
+  border-top: 2px solid #a00;
+}
+
+/*    Site footer    */
+
+body footer {
+  font-size: 80%;
+  color: #666;
+  border-top: 4px solid #eee;
+  margin-top: 7em;
+  padding-bottom: 4em;
+  overflow: hidden;
+}
+
+body footer .contact {
+  text-align: center;
+  margin: 0 10em 0 10em;
+}
+
+body footer .contact a {
+  color: #8085C1;
+}
+
+main header h1 {
+  font-size: 2em;
+  text-align: left;
+  margin: 1em 0;
+}
+
 /*****************************************************************************/
 /*
 /* Home
 /*
 /*****************************************************************************/
-ul.posts {
-  list-style-type: none;
-  margin-bottom: 2em;
+
+article header {
+  margin: 1em 0;
 }
 
-ul.posts li {
-  margin-left: 2em;
-  margin-bottom: 0em;
-  line-height: 1.75em;
-}
-
-ul.posts span {
+article footer p {
   color: #aaa;
-  font-family: Monaco, "Courier New", monospace;
-  font-size: 80%;
 }
 
-ul.posts .author {
-  margin-left: 1em;
-  margin-right: 1em;
-  color: #a00;
+main nav ul {
+  text-align: left;
+  list-style-type: none;
+  margin: 0;
 }
 
-.pagination {
-  margin: 7em 0 0 0;
-  text-align: center;
-}
-
-.comments {
-  margin-top: 5em;
+main nav li {
+  margin: 0;
+  line-height: 1.75em;
 }
 
 body img.avatar {
@@ -132,138 +218,16 @@ div.toc {
   display: inline-block;
 }
 
-/*****************************************************************************/
-/*
-/* Site
-/*
-/*****************************************************************************/
-
-.site {
-  font-size: 100%;
-  text-align: left;
-  width: 65%;
-  max-width: 50em;
-  margin: 2em auto 2em;
-  line-height: 1.5em;
-}
-
-/*    Header    */
-
-.site .header .image {
-  background-image: url('/assets/images/header.png');
-  background-position: center;
-  background-repeat: no-repeat;
-  height: 321px;
-  box-shadow: 2px 2px 1px #888888;
-  border-radius: 2px;
-}
-
-.site .header a {
-  text-decoration: none;
-}
-
-/*    TITLE OPTIONS   */
-
-.site .header .title {
-  text-align: right;
-  font-family: "Ubuntu";
-  transition: color 1s;
-}
-
-.site .header .title:hover {
-  color: #CBC4AB;
-}
-
-.maintitle a {
-  color: #a00;
-  font-size: 2.5em;
-}
-
-.subtitle {
-  margin-top: 0.5em;
-  color: #a00;
-  font-size: 1em;
-  margin-bottom: 1em;
-}
-
-/********** handling embedded iframes **********/
-
-.videoWrapper {
-  position: relative;
-  padding-bottom: 56.25%; /* 16:9 */
-  padding-top: 25px;
-  height: 0;
-}
-.videoWrapper iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
-
-/*    MENU OPTIONS  */
-
-.site .menu {
-  margin-top: 1em;
-}
-
-.site .menu a {
-  color: #aaa;
-  margin-right: 1em;
-  transition: color 1s;
-}
-
-.site .menu a:hover {
-  color: #a00;
-  padding-top: 0.5em;
-  padding-bottom: 0.5em;
-  border-bottom: 2px solid #a00;
-  border-top: 2px solid #a00;
-}
-
-.site .meta {
-  color: #aaa;
-}
-
-/*    Footnotes    */
-
-.footnotes {
-  border-top: 4px dashed #eee;
-  margin-top: 6em;
-}
-
-.footnotes hr {
-  display: none;
-}
-
-.footnotes li {
-  margin-left: 0;
-  font-size: small
-}
-
-/*    FOOTER    */
-
-.site .footer {
-  font-size: 80%;
-  color: #666;
-  border-top: 4px solid #eee;
-  margin-top: 7em;
-  padding-bottom: 4em;
-  overflow: hidden;
-
-}
-
-.site .footer .contact {
+main nav p {
   text-align: center;
-  margin: 0 10em 0 10em;
 }
 
-.site .footer .contact a {
-  color: #8085C1;
+main .divider {
+  font-size: 1.5em;
+  margin: 3em 0;
+  text-align: center;
+  color: #a00;
 }
-
-
 
 /*****************************************************************************/
 /*
@@ -271,22 +235,24 @@ div.toc {
 /*
 /*****************************************************************************/
 
-.ptitle {
+main article header {
+  margin-bottom: 3em;
+}
+
+main article header h1 {
   font-size: 160%;
   line-height: 1.5em;
   font-family: "Ubuntu";
-  margin-top: 1.5em;
-  margin-bottom: 2em;
+  margin: 1.5em 0 0 0;
   color: #a00;
+  text-align: left;
 }
 
-
-
-.post ul, .post ol {
+article ul, article ol {
   margin-left: 2em;
 }
 
-.post li {
+article li {
   margin-bottom: 1em;
 }
 
@@ -329,6 +295,48 @@ pre code {
   border: 0;
 }
 
+article footer {
+  font-size: 100%;
+  margin: 5em 0 0 0;
+  border: none;
+}
+
+article footer section {
+  padding: 2em 0;
+}
+
+/*    Footnotes    */
+
+.footnotes {
+  border-top: 4px dashed #eee;
+  margin-top: 6em;
+}
+
+.footnotes hr {
+  display: none;
+}
+
+.footnotes li {
+  margin-left: 0;
+  font-size: 70%
+}
+
+/********** handling embedded iframes **********/
+
+.videoWrapper {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 */
+  padding-top: 25px;
+  height: 0;
+}
+.videoWrapper iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
 /*****************************************************************************/
 /*
 /* Mobile CSS
@@ -336,18 +344,24 @@ pre code {
 /*****************************************************************************/
 
 @media only screen and (max-device-width: 480px) {
-  .site {
-    margin: 0 4% 0 4%;
-    width: 100%;
-    max-width: 100%;
+  * {
+    margin: 1%;
+    padding: 0;
   }
 
-  .site .header .image {
+  body {
+    width: 100%;
+    max-width: 100%;
+    font-size: 70%;
+  }
+
+  body header img {
     display: none;
   }
   
-  body {
-    font-size: 70%;
+  body header nav {
+    text-align: center;
+    font-size: 1.5em;
   }
 
   blockquote {
@@ -358,7 +372,7 @@ pre code {
     margin:  0 4% 0 2%;
   }
 
-  .site .footer .contact {
+  body footer .contact {
     margin: 0 2% 0 2%;
   }
   
@@ -376,15 +390,15 @@ pre code {
 
 @media print {
   
-  .site .header {
+  body header {
     display: none;
   }
 
-  .site .footer .contact {
+  body footer .contact {
     margin: 0 2% 0 2%;
   }
 
-  .site {
+  body {
     margin: 0 0 0 0;
     width: 95%;
     max-width: 100%;

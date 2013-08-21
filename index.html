@@ -6,27 +6,27 @@ show_title: false
 
 <!-- This loops through the paginated posts -->
 {% for post in paginator.posts %}
-<div class="ptitle"><a href="{{ post.url }}">{{ post.title }}</a></div>
-<p class="author">
-	<span class="meta">{{ post.date | date_to_string }}</span>
-</p>
-<div class="content">
-	{{ post.content }}
-</div>
-{% include divider.html %}
+<article>
+	<header>
+		<h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+		<time datetime="{{ post.date }}">{{ post.date | date_to_string }}</time>
+	</header>
+	<body>
+		{{ post.content }}
+	<body>
+</article>
+<div class="divider">&#10086;</div>
 {% endfor %}
 
 <!-- Pagination links -->
-<div class="pagination">
-	{% if paginator.previous_page %}
-	<a href="/page{{ paginator.previous_page }}" class="previous">Previous</a>
-	{% else %}
-	<span class="previous">Previous</span>
-	{% endif %}
-	<span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
-	{% if paginator.next_page %}
-	<a href="/page{{ paginator.next_page }}" class="next">Next</a>
-	{% else %}
-	<span class="next ">Next</span>
-	{% endif %}
-</div>
+<nav>
+	<p>
+		{% if paginator.previous_page %}
+		<a href="/page{{ paginator.previous_page }}" rel="prev">&laquo;</a>
+		{% endif %}
+		Page: {{ paginator.page }} of {{ paginator.total_pages }}
+		{% if paginator.next_page %}
+		<a href="/page{{ paginator.next_page }}" rel="next">&raquo;</a>
+		{% endif %}
+	</p>
+</nav>
