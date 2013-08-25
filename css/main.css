@@ -99,6 +99,13 @@ time {
   font-size: 0.8em;
 }
 
+sup {
+  font-size: 0.83em;
+  vertical-align: super;
+  line-height: 0;
+  font-weight: bold;
+}
+
 /*****************************************************************************/
 /*
 /* Site
