@@ -276,6 +276,7 @@ code {
   white-space: nowrap;
   background-color: #f9f2f4;
   border-radius: 4px;
+  white-space: pre-wrap;
 }
 
 pre {
