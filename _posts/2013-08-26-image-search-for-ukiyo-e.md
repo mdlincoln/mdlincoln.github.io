@@ -12,7 +12,10 @@ John Resig, lead developer of [jQuery](http://jquery.com/) (!) happens to be an 
 
 I tried it out with a Hiroshige print that we had discussed last spring in a graduate seminar on continuity and change in the Japanese visual arts by Drs. [Yui Suzuki](http://arthistory.umd.edu/faculty/Yui%20Suzuki) and [Alicia Volk](http://arthistory.umd.edu/faculty/Alicia%20Volk). 
 
-[![Hiroshige Vesper Bell at Mii Temple, 1835, Metropolitan Museum of Art](/assets/images-display/hiroshige_biwa.png)](http://data.ukiyo-e.org/met/images/DP122119.jpg)
+<figure>
+<a href="http://data.ukiyo-e.org/met/images/DP122119.jpg"><img src="/assets/images-display/hiroshige_biwa.png" alt="Hiroshige Vesper Bell at Mii Temple, 1835, Metropolitan Museum of Art" /></a>
+<figcaption>Hiroshige Vesper Bell at Mii Temple, 1835, Metropolitan Museum of Art</figcaption>
+</figure>
 
 This version of *Vesper Bell at Mii Temple, Lake Biwa* (from the series *Eight Views of Omi Province*, ca. 1835) came from the Metropolitan Museum of Art. When I uploaded a JPEG of this image to Resig's site, it delivered a pitch-perfect list of "close" images matches (you can see the results at [this permalink](http://ukiyo-e.org/upload/470c7ce9dba9182448ff83464786e7f2)) including prints of all quality levels, variously cropped, even black and white reproductions.
 
