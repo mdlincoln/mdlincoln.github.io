@@ -425,9 +425,8 @@ article footer section {
     margin: 0 0 0 0;
     width: 95%;
     max-width: 100%;
-  }
-
-  body {
-    font: 12pt, "Open Sans", Helvetica, Arial, sans-serif;
+    font: "Open Sans", Helvetica, Arial, sans-serif;
+    font-size: x-small;
+    line-height: 12pt;
   }
 }
