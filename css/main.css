@@ -17,7 +17,6 @@ body {
   font: 1em "Open Sans", Helvetica, Arial, sans-serif;
   color: #343434;
   text-align: left;
-  font-size: 100%;
   width: 65%;
   max-width: 50em;
   margin: 2em auto 2em;
@@ -341,7 +340,7 @@ article footer section {
 
 .footnotes li {
   margin-left: 0;
-  font-size: 70%
+  font-size: 80%
 }
 
 /********** handling embedded iframes **********/
