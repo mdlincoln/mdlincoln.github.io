@@ -413,7 +413,7 @@ article footer section {
 
 @media print {
   
-  body header {
+  body header img, nav {
     display: none;
   }
 
