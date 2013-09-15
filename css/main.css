@@ -267,6 +267,14 @@ main article header h1 {
   text-align: left;
 }
 
+article aside {
+  color: #aaa;
+  font-style: italic;
+  margin: 2em 0em;
+  border-top: 1px solid #cccccc;
+  border-bottom: 1px solid #cccccc;
+}
+
 article ul, article ol {
   margin-left: 2em;
 }

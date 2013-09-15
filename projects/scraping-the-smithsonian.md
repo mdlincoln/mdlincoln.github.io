@@ -7,6 +7,10 @@ snippet: A beginner Ruby script for downloading collection data from the Smithso
 img: /assets/images-display/si_scrape_avatar.png
 ---
 
+<aside>
+<p>See associated blog posts <a href="/2013/08/08/scraping-the-smithsonian.html">here</a> and <a href="/2013/08/09/parsing-the-smithsonian.html">here</a>.</p>
+</aside>
+
 `si-scrape` is a Ruby script for scraping information from the web portal for the collections of the Smithsonian Institution and parsing them into JSON, a standard data interchange format that is human readable and can accommodate the heterogeneous metadata of the Smithsonian's sprawling collections.
 
 **[Download si-scrape from GitHub](https://github.com/mdlincoln/si-scrape)**

@@ -11,9 +11,11 @@ img: /assets/images-display/dewitte_avatar.png
 ---
 
 
-> This is the text and images from a talk originally presented in May 2012 at "[Geographies of Desire](http://geographiesofdesire.blogspot.com/): A Medieval and Early Modern Interdisciplinary Conference", University of Maryland, College Park. The argument is rooted in research conducted for my [undergraduate thesis](http://francis.williams.edu/record=b2115817~S0) at Williams College. I also presented a version of this paper at the 2011 University of Indiana, Bloomington Graduate Art History Symposium.
->
->I am posting in here in largely the same form as the spoken version. I welcome feedback, thoughts, and ideas for new directions.
+<aside>
+<p>This is the text and images from a talk originally presented in May 2012 at "<a href="http://geographiesofdesire.blogspot.com/">Geographies of Desire</a>: A Medieval and Early Modern Interdisciplinary Conference", University of Maryland, College Park. The argument is rooted in research conducted for my <a href="http://francis.williams.edu/record=b2115817~S0">undergraduate thesis</a> at Williams College. I also presented a version of this paper at the 2011 University of Indiana, Bloomington Graduate Art History Symposium.</p>
+
+<p>I am posting in here in largely the same form as the spoken version. I welcome feedback, thoughts, and ideas for new directions.</p>
+</aside>
 
 
 
@@ -30,7 +32,10 @@ img: /assets/images-display/dewitte_avatar.png
 
 # Introduction
 
-[![Emmanuel de Witte, Interior of the Nieuwe Kerk in Delft with the Tomb of William the Silent, 1653, Los Angeles County Museum of Art, Gift of Mr. and Mrs. Edward W. Carter (M.2003.108.5)](http://184.106.50.218/piction/ump.show_public_image?v_umo=31834084&call=STANDARD&quality=WEB)](http://collections.lacma.org/node/209228)
+<figure>
+<p><a href="http://collections.lacma.org/node/209228"><img src="http://184.106.50.218/piction/ump.show_public_image?v_umo=31834084&amp;call=STANDARD&amp;quality=WEB" alt="Emmanuel de Witte, Interior of the Nieuwe Kerk in Delft with the Tomb of William the Silent, 1653, Los Angeles County Museum of Art, Gift of Mr. and Mrs. Edward W. Carter (M.2003.108.5)" title="" /></a></p>
+<figcaption>Emmanuel de Witte, Interior of the Nieuwe Kerk in Delft with the Tomb of William the Silent, 1653, Los Angeles County Museum of Art, Gift of Mr. and Mrs. Edward W. Carter (M.2003.108.5)</figcaption>
+</figure>
 
 **(Slide 2)** Emanuel de Witte’s 1660 painting of the Amsterdam Oude Kerk offers a view down the south aisle of the church, the view you would see having just come through its main doors. Its halls are scattered with visitors, and sunlight illuminates the church’s whitewashed walls, walls that had been cleansed of all Catholic markers in the fury of the Dutch reformation and revolt at the end of the sixteenth century. But how purified is this space, really? (Slide 3) Have any of the proud Dutch citizens standing in this church noticed the reappearance of a Catholic icon; the kind of icon thought banished ninety years prior? An image of the cloth of St. Veronica has seemingly materialized in the middle of this Protestant space. Surprisingly, this icon has been perched directly in front of what seems to be a civic memorial plaque, the kind of monument erected in this and other Dutch churches to commemorate prominent citizens and celebrated naval heroes. Confusing matters further, the artist has signed his name directly below the cloth, in the very spot where the name of the deceased ought to be emblazoned instead.
 

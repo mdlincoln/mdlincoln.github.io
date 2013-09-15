@@ -10,6 +10,11 @@ tags:
 - Digital Humanities
 ---
 
+
+<aside>
+<p>See the <a href="/projects/scraping-the-smithsonian.html">related project page</a>.</p>
+</aside>
+
 [Yesterday I posted](http://matthewlincoln.net/2013/08/08/scraping-the-smithsonian.html) about a Ruby script I published for scraping information from [collections.si.edu](http://collections.si.edu). Today I [pushed a sister script , `si-parse.rb`](https://github.com/mdlincoln/si-scrape), that will turn `si-scrape.rb`'s raw HTML output into well-formed JSON. *(and I got the project added to the [Muse-Tech-Central list](https://github.com/MuseCompNet/muse-tech-central)!)*
 
 I'd initially wanted to try and make this tool as friendly to tech-uncomfortable humanities scholars as possible, and have it spit out a CSV that could be opened and manipulated in Excel. However, to do that would not just mean flattening the Smithsonian data, but squashing it completely. Even a carefully-limited query on [collections.si.edu](http://collections.si.edu) could return you a list containing paintings side by side with airplane models, oral history transcripts, articles of clothing, photographs, and library catalog records. A two-dimensional table would have hundreds of thousands of unused cells, as rows describing paintings would have to leave room for video duration tags, call numbers, or industrial manufacturer descriptions required by other objects.
