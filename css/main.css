@@ -179,7 +179,7 @@ body header nav a:hover {
 
 /*    Site footer    */
 
-body footer {
+body > footer {
   font-size: 80%;
   text-align: center;
   color: #666;
@@ -189,11 +189,11 @@ body footer {
   overflow: hidden;
 }
 
-body footer p {
+body > footer p {
   margin: 1em 10em 0 10em;
 }
 
-body footer a {
+body > footer a {
   color: #8085C1;
 }
 
@@ -213,7 +213,7 @@ article header {
   margin: 1em 0;
 }
 
-article footer p {
+article > footer p {
   color: #aaa;
 }
 
@@ -323,13 +323,13 @@ pre code {
   border: 0;
 }
 
-article footer {
+article > footer {
   font-size: 100%;
   margin: 5em 0 0 0;
   border: none;
 }
 
-article footer section {
+article > footer section {
   padding: 2em 0;
 }
 
@@ -400,7 +400,7 @@ article footer section {
     margin:  0 4% 0 2%;
   }
 
-  body footer .contact {
+  body footer {
     margin: 0 2% 0 2%;
   }
   
@@ -422,7 +422,7 @@ article footer section {
     display: none;
   }
 
-  body footer .contact {
+  body footer {
     margin: 0 2% 0 2%;
   }
 
