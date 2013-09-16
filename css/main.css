@@ -181,6 +181,7 @@ body header nav a:hover {
 
 body footer {
   font-size: 80%;
+  text-align: center;
   color: #666;
   border-top: 4px solid #eee;
   margin-top: 7em;
@@ -188,12 +189,11 @@ body footer {
   overflow: hidden;
 }
 
-body footer .contact {
-  text-align: center;
-  margin: 0 10em 0 10em;
+body footer p {
+  margin: 1em 10em 0 10em;
 }
 
-body footer .contact a {
+body footer a {
   color: #8085C1;
 }
 
