@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Iconclass and charting the Rijksmuseum
-date: 2013-09-18 10:00
+date: 2013-09-18 8:30
 tags:
 - Art History
 - Digital Humanities
