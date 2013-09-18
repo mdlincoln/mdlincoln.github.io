@@ -46,6 +46,7 @@ Iconclass is specifically structured to allow the search and retrieval of visual
 3. 71C -- Genesis: the patriarchs
 4. 71C2 -- story of Isaac
 5. 71C21 -- Rebekah (Rebecca) sought in marriage (Genesis 24)
+6. 71C217 -- marriage of Isaac and Rebekah
 
 This built-in hierarchy allows a kind of "fuzzy search" for related images. From an image of Isaac and Rebekah, I could also find images of other Genesis stories, or of the Old Testament even more generally, or of the Bible more generally still.
 
