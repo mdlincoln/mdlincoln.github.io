@@ -67,5 +67,6 @@ Records will appear as such:
 
 Every SI object comes with a unique ID (e.g. `saam_1978.146.1`) and title (e.g. `Slaughterhouse Ruins at Aledo`), as well as an image URL (although this will sometimes be a blank image for objects without visual records). Other elements could potentially have multiple values, and so they are stored as nested arrays in the JSON output, which can easily be parsed by [Ruby's JSON module](http://www.ruby-doc.org/stdlib-2.0/libdoc/json/rdoc/JSON.html) or other library of your choice.
 
+![Trends in the National Inventory of Artworks and Sculpture](/assets/images/aic_moving_average.svg)
 
 
