@@ -21,7 +21,7 @@ Day 2 of THATCamp Prime 2013! After [narrowly avoiding a single-tracking transit
 
 - A great point was made that, much as good scholars practice and publish for posterity, so must they code (and comment!) so that their work can be understood and expanded upon later. This was yet another example I've run into during this conference of the practical parallels between "traditional" humanities and the practice of coding.
 
-- A last great insight for me was the [uncomfortable imperative of sharing our code-in-progress](https://twitter.com/matthewdlincoln/status/343377156161798144) (a counter-_example to the humanities-coding similarity argument.)
+- A last great insight for me was the [uncomfortable imperative of sharing our code-in-progress](https://twitter.com/matthewdlincoln/status/343377156161798144) (a counter-example to the humanities-coding similarity argument.)
 
 - Also, I need to check out the data-cleaning tools available at [OpenRefine](http://openrefine.org/).
 
@@ -29,7 +29,7 @@ Day 2 of THATCamp Prime 2013! After [narrowly avoiding a single-tracking transit
 
 - Lunch was accompanied by an invigorating discussion with Eric Remy and [Kurt Luther](www.kurtluther.com) about the interactions between histories of art, science, and music.
 
-- I tried my hand at R for a while, but finding it not so relevant to my own work I switched over a group of [guerilla web archivists](http://chnm2013.thatcamp.org/notepads/swat-team-for-old-dh-sites/). I came in a bit late to the game, but these guys and gals really seem to mean business, so I'd get in touch if you're interested.
+- I tried my hand at R for a while, but finding it not so relevant to my own work I switched over a group of [guerrilla web archivists](http://chnm2013.thatcamp.org/notepads/swat-team-for-old-dh-sites/). I came in a bit late to the game, but these guys and gals really seem to mean business, so I'd get in touch if you're interested.
 
 
 I will be posting up a synthetic reaction to this, my first THATCamp, a bit later on.
