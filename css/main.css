@@ -370,7 +370,7 @@ article > footer section {
 /*
 /*****************************************************************************/
 
-@media only screen and (max-device-width: 480px) {
+@media only screen and (max-device-width: 800px) {
   * {
     margin: 1%;
     padding: 0;
