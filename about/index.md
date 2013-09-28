@@ -13,6 +13,8 @@ Ph.D Student
 [Department of Art History & Archaeology](http://arthistory.umd.edu)  
 University of Maryland, College Park
 
+<mlincol1@umd.edu>
+
 ## Links
 
 - Current CV ([Word](https://docs.google.com/document/d/1D26djrb4BUMYkLiif01vQM5nXty2ziCqctzF1wQb_sA/export?format=docx&id=1D26djrb4BUMYkLiif01vQM5nXty2ziCqctzF1wQb_sA)) ([PDF](https://docs.google.com/document/d/1D26djrb4BUMYkLiif01vQM5nXty2ziCqctzF1wQb_sA/export?format=pdf&id=1D26djrb4BUMYkLiif01vQM5nXty2ziCqctzF1wQb_sA)) ([HTML](https://docs.google.com/document/d/1D26djrb4BUMYkLiif01vQM5nXty2ziCqctzF1wQb_sA/pub))
