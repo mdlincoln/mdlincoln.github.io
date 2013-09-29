@@ -180,7 +180,6 @@ body header nav a:hover {
 
 body > footer {
   font-size: 80%;
-  text-align: center;
   color: #666;
   border-top: 4px solid #eee;
   margin-top: 7em;
@@ -188,12 +187,20 @@ body > footer {
   overflow: hidden;
 }
 
-body > footer p {
-  margin: 1em 10em 0 10em;
-}
-
 body > footer a {
   color: #8085C1;
+}
+
+body > footer p.license {
+  width: 45%;
+  float: left;
+  text-align: left;
+}
+
+body > footer p.colophon {
+  width: 45%;
+  float: right;
+  text-align: right;
 }
 
 main header h1 {
@@ -397,10 +404,6 @@ article > footer section {
 
   li {
     margin:  0 4% 0 2%;
-  }
-
-  body footer {
-    margin: 0 2% 0 2%;
   }
   
   pre {
