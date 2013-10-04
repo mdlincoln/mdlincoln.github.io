@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2013-08-09 14:04:42.465484
 layout: project
 title: Scraping the Smithsonian

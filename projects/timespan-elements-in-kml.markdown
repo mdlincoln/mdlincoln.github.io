@@ -1,11 +1,7 @@
 ---
-author: mlincoln
-comments: true
 date: 2013-05-28 19:44:09+00:00
 layout: project
-slug: timespan-elements-in-kml
 title: Early modern TimeSpan elements in KML
-wordpress_id: 1063
 snippet: A guide to encoding historical time information in Google Earth maps.
 img: /assets/images-display/timeslider.png
 ---
