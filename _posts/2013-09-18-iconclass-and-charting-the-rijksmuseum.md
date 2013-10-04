@@ -10,11 +10,7 @@ tags:
 - Code
 ---
 
-<aside>
-	<p>This is the first in a series of posts on my <a href="http://michellesmithcollaboratory.umd.edu/summer-gas-set-high-bar">work this summer</a> in the Michelle Smith Collaboratory exploring possibilities for digital art historical practice. After they are completed, I'll be assembling all the text and figures into a single entry on the <a href="/projects">Projects page</a>.</p>
-	<p>You can view interactive versions of the graphs, as well as the ratio data extracted from the Rijksmuseum collections, on a <a href="https://docs.google.com/spreadsheet/ccc?key=0AsjvWNf_U5QbdHp2S0xSUzdmWnVpSGFFdWN1cDZMcHc&amp;usp=sharin">Google spreadhseet</a> I've published; or alternatively, <a href="https://docs.google.com/spreadsheet/pub?key=0AsjvWNf_U5QbdHp2S0xSUzdmWnVpSGFFdWN1cDZMcHc&amp;single=true&amp;gid=0&amp;output=csv">download a CSV</a> of the data. I will eventually be pushing to <a href="https://github.com/mdlincoln">GitHub</a> the scripts used to harvest and manipulate the Rijksmuseum data.</p>
-	<p>Please feel free to use and remix this with an attribution to me.</p>
-</aside>
+{% include rkm.html %}
 
 [In my previous post](/2013/08/26/image-search-for-ukiyo-e.html) I mentioned briefly the idiosyncratic iconography notation schema [Iconclass](http://iconclass.nl). I've been familiarizing myself with the system over the summer in order to figure out how to tackle the great trove of artistic data made available by the [Rijksmuseum](http://rijksmuseum.nl) via their [API](https://www.rijksmuseum.nl/en/api/instructions-for-use) (a computer-friendly way to access their collections data, in layman's terms). In their own words, they invite users to "use objects in their entirety, combine collections, combine our data with other sources, and to sample and quote."
 
