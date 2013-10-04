@@ -168,14 +168,6 @@ body header nav a {
   margin-right: 1em;
 }
 
-body header nav a:hover {
-  color: #a00;
-  padding-top: 0.5em;
-  padding-bottom: 0.5em;
-  border-bottom: 2px solid #a00;
-  border-top: 2px solid #a00;
-}
-
 /*    Site footer    */
 
 body > footer {
