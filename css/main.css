@@ -124,10 +124,10 @@ sup {
 
 /*    HEADER    */
 
-body > header img {
+body header img {
   display: block;
   overflow: hidden;
-  margin: 0 0 3em 0;
+  margin: 0;
   height: 100%;
   width: 100%;
   max-width: 50em;
@@ -135,29 +135,35 @@ body > header img {
   border-radius: 2px;
 }
 
-body > header a {
+body header a {
   text-decoration: none;
 }
 
-body > header h1 {
-  float: left;
+body header h1 {
+  text-align: right;
   font-family: "Ubuntu";
   color: #a00;
   font-size: 2.5em;
-  line-height: 1em;
   border: none;
   margin: 0;
   font-weight: normal;
 }
 
-/*    NAV  */
-
-body > header nav {
-  margin: 1em 0;
-  float: right;
+body header h2 {
+  font-family: "Ubuntu";
+  font-size: 1em;
+  color: #a00;
+  margin: 0 0 1em 0;
+  text-align: right;
 }
 
-body > header nav a {
+/*    NAV  */
+
+body header nav {
+  margin-top: 1em;
+}
+
+body header nav a {
   color: #a00;
   margin-right: 1em;
 }
@@ -201,7 +207,7 @@ main header h1 {
 /*
 /*****************************************************************************/
 
-article > header {
+article header {
   margin: 1em 0;
 }
 
@@ -246,19 +252,17 @@ main .divider {
 /*
 /*****************************************************************************/
 
-article header {
+main article header {
   margin-bottom: 3em;
 }
 
-body article header h1 {
+main article header h1 {
   font-size: 160%;
   line-height: 1.5em;
   font-family: "Ubuntu";
   margin: 1.5em 0 0 0;
   color: #a00;
   text-align: left;
-  font-weight: normal;
-  border: none;
 }
 
 article aside {
@@ -378,7 +382,7 @@ article > footer section {
   }
 
   body header img {
-    /*display: none;*/
+    display: none;
   }
   
   body header nav {
