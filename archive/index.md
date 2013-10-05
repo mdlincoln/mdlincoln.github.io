@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Archive
+title: Blog Posts
 show_title: true
 ---
+
 
 <nav>
 	<ul>
