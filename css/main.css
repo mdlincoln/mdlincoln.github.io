@@ -127,7 +127,7 @@ sup {
 body header img {
   display: block;
   overflow: hidden;
-  margin: 0;
+  margin: 0 0 3em 0;
   height: 100%;
   width: 100%;
   max-width: 50em;
@@ -140,12 +140,13 @@ body header a {
 }
 
 body header h1 {
-  text-align: right;
+  text-align: left;
   font-family: "Ubuntu";
   color: #a00;
   font-size: 2.5em;
   border: none;
   margin: 0;
+  line-height: 1.5em;
   font-weight: normal;
 }
 
@@ -160,6 +161,7 @@ body header h2 {
 /*    NAV  */
 
 body header nav {
+  float: right;
   margin-top: 1em;
   margin: 1em 0;
   font-size: 14pt;
