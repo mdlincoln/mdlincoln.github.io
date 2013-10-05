@@ -161,6 +161,7 @@ body header h2 {
 
 body header nav {
   margin-top: 1em;
+  margin: 1em 0;
 }
 
 body header nav a {
