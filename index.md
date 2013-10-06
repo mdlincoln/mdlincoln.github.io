@@ -10,10 +10,12 @@ Matthew has also served as a Graduate Assistant in the Digital Humanities in the
 
 ## Most recent blog posts
 
-{% for post in site.posts limit:5 %}
-<ul>
-	<li><a href="{{ post.url }}">{{ post.title }}</a></li>
-</ul>
-{% endfor %}
+<nav>
+	<ul>
+	{% for post in site.posts limit:5 %}
+	  <li><time datetime="{{ post.date }}">{{ post.date | date_to_string }}</time> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+	{% endfor %}
+	</ul>
+</nav>
 
 [See more...](/archive)
