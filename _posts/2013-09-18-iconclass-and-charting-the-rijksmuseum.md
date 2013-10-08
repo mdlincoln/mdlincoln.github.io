@@ -59,7 +59,7 @@ After downloading the Rijksmuseum data using their API, I tidied it up somewhat,
 A starter question was this: from what years does the Rijksmusem have the most art? Going through the database year by year between 1000 and 2000 CE and counting the number of records for each year, we can create a graph of the **works of art per year** in the museum:
 
 <figure>
-<a href="/assets/images/rijksmuseum_totals_graph.png"><img src="/assets/images-display/rijksmuseum_totals_graph.png" alt="total artworks" /></a>
+<a href="/assets/images-display/rijksmuseum_totals_graph.svg"><img src="/assets/images-display/rijksmuseum_totals_graph.svg" alt="total artworks" /></a>
 <figcaption>Artworks per year from the Rijksmuseum's online collection.</figcaption>
 </figure>
 
@@ -83,7 +83,7 @@ Because (as I noted above) Iconclass's hierarchical structure is built into its 
 For the Rembrandt painting above with Iconclass notation `71C217`, the first digit (`7`) tells us that the work contains a biblical subject. By repeating my year-by-year query of the collections data, but counting *only* those works whose first Iconclass digit is `7`, I can create a year-by-year graph of the **ratio** of Biblical artworks to the total number of artworks per year (seen in blue below). Because this ratio can change drastically from year to year, I calculated from this list of ratios a **moving average** with a 20-year window (seen in red) which helps to smooth out the graphs, illustrating longer-term trends with less "noise" than the year-by-year data alone.[^scope]
 
 <figure>
-<p><a href="/assets/images/moving_average_example.png"><img src="/assets/images-display/moving_average_example.png" alt="moving averages" /></a></p>
+<p><a href="/assets/images-display/moving_average_example.svg"><img src="/assets/images-display/moving_average_example.svg" alt="moving averages" /></a></p>
 <figcaption>The ratio of artworks with subject mattered labeled as "Bible" to all total artworks from that year; plotted with a 20-year moving average of the same.</figcaption>
 </figure>
 
