@@ -7,3 +7,6 @@ All work on "matthewlincoln.net" by Matthew D. Lincoln is licensed under
 a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported
 License](http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US).
 
+***
+
+[Matthew D. Lincoln](http://matthewlincoln.net) | Ph.D Student, Department of Art History & Archaeology, University of Maryland, College Park
