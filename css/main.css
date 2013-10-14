@@ -128,7 +128,7 @@ body header img {
   display: block;
   overflow: hidden;
   margin: 0 0 3em 0;
-  height: 100%;
+  height: auto;
   width: 100%;
   max-width: 50em;
   box-shadow: 2px 2px 1px #888888;
