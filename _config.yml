@@ -10,4 +10,3 @@ pygments: true
 permalink: /:year/:month/:day/:title.html
 markdown: kramdown
 future: false
-lsi: true
