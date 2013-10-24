@@ -17,7 +17,7 @@ img: /assets/images-display/hoefnagel_avatar.png
 <script async class="speakerdeck-embed" data-id="cd20a1d0f189013089bf7ad89fb6c866" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
 Introduction[^1]
-----------------
+================
 
 **(SLIDE 2)** This stunning illuminated page comes from one of the most
 enchanting objects to survive from the collections of the Holy Roman
@@ -30,39 +30,37 @@ illuminations to the codex between 1591-1596, uniting the *artificialia*
 of man-made calligraphy with a host of *naturalia* precisely depicted in
 enticing gem tones.
 
-The *MCM* participates in a long history of Northern European manuscript
-illumination, not to mention the history of courtly interest in wondrous
-man-made and natural artifacts in the late sixteenth century. These
-stories have been brilliantly told by scholars like Thomas DaCosta
-Kaufmann, Lee Hendrix, and Thea Vignau-Wilberg, among many others. Today
-I seek to shed just a little more light on one corner of that story: the
-intersection of this artwork with Rudolf’s study of magic and the
-occult.[^3] Although the purpose of the *MCM* was not explicitly
-magical, I will argue that its unique presentation of text and nature
-cannot be fully understood without examining how its visual
-juxtapositions relate to occult theories in which inscribed signs were
-believed to be endowed with the ability transcend their status as
+The *MCM* is a fascinating component of the long history of Northern
+European manuscript illumination. It is also a beautiful example late
+sixteenth-century courtly interest in collecting wondrous man-made and
+natural artifacts. These stories have been brilliantly told by scholars
+like Thomas DaCosta Kaufmann, Lee Hendrix, and Thea Vignau-Wilberg,
+among many others. Today I seek to shed just a little more light on one
+corner of the *MCM* story: the its intersection with Rudolf’s study of
+magic and the occult.[^3] To be clear, the purpose of the *MCM* was not
+explicitly magical. That said, I argue that its unique presentation of
+text and nature cannot be fully understood without reference to
+contemporary theories of magic. The *MCM*’s visual juxtapositions
+reverberate with early modern occult theories according to which
+inscribed signs were endowed with the ability transcend their status as
 symbolic marks, becoming magically powerful sigils with real effect in
-the physical universe. So consistently does the *MCM* allude to these
-occult understandings of the relationship between text and nature, that
-I argue Rudolf and those privileged enough to be allowed a glimpse of
-this treasure must have understood it, at least partly, in magical
-terms.
+the physical universe. The *MCM* alludes to these occult ideas so
+consistently that I will argue Rudolf and other courtly viewers must
+have understood the codex – at least partly – in magical terms.
 
 Describing the *Mira calligraphiae monumenta*
----------------------------------------------
+=============================================
 
-**(SLIDE 3)** Bocskay created the writing model book for Ferdinand I,
-the Holy Roman Emperor from 1556-64, whom Bocskay served as court
-secretary. The work remained in the imperial collections in Vienna until
-1591, when Ferdinand’s grandson Rudolf II commissioned Hoefnagel to
-illuminate the codex, likely moving it to Prague’s Hradčany Castle after
-1596.[^4] By engaging Hoefnagel to enhance Ferdinand’s artwork, Rudolf
+**(SLIDE 3)** Bocskay created the writing model book while serving as
+court secretary for Ferdinand I, the Holy Roman Emperor from 1556-64.
+The work remained in the imperial collections in Vienna until 1591, when
+Ferdinand’s grandson Rudolf II commissioned Hoefnagel to illuminate the
+codex.[^4] By engaging Hoefnagel to enhance Ferdinand’s artwork, Rudolf
 was surely mindful of the dynastic significance of adding his own mark
-on one of his grandfather’s artworks. He was at once signaling (at least
-to the small privileged audience that may have seen this object) both
-dynastic continuity as well as his unique personal identity, much as he
-had done by electing to move the imperial seat to Prague.
+on one of his grandfather’s artworks. He was at once signaling both
+dynastic continuity as well as his unique personal identity –
+considerations that informed everything from his coronation celebrations
+to his moving the imperial seat to Prague from Vienna.
 
 Bocskay’s calligraphy is a wonder to behold. The hands are partly
 elaborate historical scripts, and partly novel inventions.[^5] Page
@@ -90,49 +88,48 @@ iconographic connections between Bocskay’s and Hoefnagel’s contributions
 to this codex. And yet we will find that the *MCM* pointedly resists
 this path of inquiry. Lee Hendrix and Thea Vignau-Wilberg have both
 noted that the particular species of flora and fauna Hoefnagel added to
-the codex have no systematic iconographic connection to the Biblical
-excerpts, prayers, hymns, or passages of courtly correspondence that
-Bocskay used to demonstrate his calligraphy[^8] – in fact a great deal
-of the *naturalia* are imaginary, with no real-world counterparts.[^9]
-Let us remember that someone favored enough to be allowed access to this
-codex would have been thoroughly trained in the traditional Renaissance
-humanist language of iconography that privileged symbolic relationships.
-In the face of this convention, the notable absence of symbolic
-relationships is itself a sign that some other signifying scheme is
-afoot.
+the codex have no systematic connection to the texts Bocskay used to
+demonstrate his calligraphy, which range from Biblical excerpts,
+prayers, and hymns, to passages of courtly correspondence.[^8] In fact,
+a great deal of the *naturalia* are imaginary, with no real-world
+counterparts.[^9] Let us remember that someone favored enough to be
+allowed access to this codex would have been thoroughly trained in the
+traditional Renaissance humanist language of iconography that privileged
+symbolic relationships. In the face of this convention, the notable
+absence of symbolic relationships is itself a sign that some other
+signifying scheme is afoot.
 
 **(SLIDE 5)** Further perusal suggests our focus ought to lie not so
 much in symbolic relationships, but visual ones. In one of the more
 delightful additions, Hoefnagel paints the stem of a flower piercing the
 page as if it were a real bloom tucked away for safekeeping.[^10] Like
-any of the other semblances of real volume that Hoefnagel creates, the
-illusion reveals itself as soon as the viewer reaches out to touch the
-flower, to find only the material of the page below. Yet the ersatz cut
-in the paper entices the viewer to visually test what they have already
-confirmed through touch: because this is not a real slice, the back of
-the page must surely be blank and unmarred. **(SLIDE 6)** Not so!
-Hoefnagel wittily continues the illusion on the verso of this folio
+any of the other semblances of physical volume that Hoefnagel creates,
+the illusion reveals itself as soon as the viewer reaches out to touch
+the flower, to find only the material of the page below. Yet the ersatz
+cut in the paper entices the viewer to visually test what they have
+already confirmed through touch: because this is not a real slice, the
+back of the page must surely be blank and unmarred. **(SLIDE 6)** Not
+so! Hoefnagel wittily continues the illusion on the verso of this folio
 page, giving us a painted glimpse of the flower stem running through the
 perforated sheet. This second illusion greets our attempted confirmation
 of the first, reminding us precisely how much we had come to disbelieve
-our own senses on account of Hoefnagel’s displays of visual wit. He
-repeats this inspired conceit several times **(SLIDE 7)**.
+our own senses on account of Hoefnagel’s displays of visual wit.
 
-In these additions to the *MCM*, Hoefnagel draws on the tradition of
-devotional manuscript illumination, in which artists negotiated
-increasingly volumetric and complex images onto the “flat” text-bearing
-surface of the page.[^11] For example in this late fifteenth-century
-book of hours, the illuminator depicted pilgrimage badges seemingly
-pinned to the vellum of the page, alluding to the real practices of
-well-to-do pilgrims who would collect in these devotional books badges,
-or even flowers, obtained from a holy site.[^12] Yet here any
-relationship to the semantic content of the text (already overwhelmed by
-Bocskay’s florid scripts) is abandoned.
+**(SLIDE 7)** In these additions to the *MCM*, Hoefnagel draws on the
+tradition of devotional manuscript illumination, in which artists
+negotiated increasingly volumetric and complex images onto the “flat”
+text-bearing surface of the page.[^11] For example, in this late
+fifteenth-century book of hours, the illuminator depicted pilgrimage
+badges seemingly pinned to the vellum of the page, alluding to the real
+practices of well-to-do pilgrims who would collect in these devotional
+books badges, or even flowers, obtained from a holy site.[^12] Yet here
+any relationship to the semantic content of the text (already
+overwhelmed by Bocskay’s florid scripts) is abandoned.
 
-This visual interweaving suggests that Hoefnagel constructed his
-illuminations to induce sustained *visual* comparison with the forms of
-Bocskay’s calligraphy. However, a careful examination of the *MCM*
-suggests no clear victor in this artistic *paragone*. **(SLIDE 8)** A
+**(SLIDE 8)** This visual interweaving suggests that Hoefnagel
+constructed his illuminations to induce sustained *visual* comparison
+with the forms of Bocskay’s calligraphy. However, a careful examination
+of the *MCM* suggests no clear victor in this artistic *paragone*. A
 painted flower stem seeming to pierce the page does, on the one hand,
 highlight the primacy of illustrations that can simulate
 three-dimensionality.[^13] Yet this reading co-exists with its mutually
@@ -153,29 +150,27 @@ of a word; a white butterfly alights on an illustrated capital; **(SLIDE
 framing a block of text, nicely echoing a particularly spiny flower at
 left; and in one notable instance, Hoefnagel even invests Bocskay’s
 scripts with architectonic power, adding his own frame to make a
-volumetric receding ceiling out of the wedge of text.
-
-Rather than subverting Bocskay’s scripts, Hoefnagel invests Bockskay’s
-forms with apparent influence on his illuminated *naturalia*. Looking to
-Rudolf’s magical study and its interaction with artistic products of the
-court reveals just how this ambiguity in the *MCM* may have been
-accepted, even welcomed, by Rudolf and his court.
+volumetric receding ceiling out of the wedge of text. Rather than
+subverting Bocskay’s scripts, Hoefnagel invests the written forms with
+apparent influence on his illuminated *naturalia*.
 
 Rudolf II and Courtly Magic
----------------------------
+===========================
 
-**(SLIDE 12)** Like many European rulers of the 16th century, Rudolf
-devoted no small amount of resources to occult study. Patronage of
-occult sciences, much like patronage of the visual arts, was very much
-an exercise in self-fashioning. Astrologers, alchemists, and engineers
-granted patrons a dual social boon: the appearance of both wisdom as
-well as power, genuine social currency for the early modern ruler who
-was expected to posses *sapientia* and *potentia* as crucial elements of
-princely *virtù*. William Eamon has suggested that magical study was an
-ideal courtly practice, as magic promised rare and wondrous feats
-accomplished through mysterious forces not obvious to the viewer. This
-seeming effortlessness attracted princes eager to pursue Castiglione’s
-image of the ideal courtier.[^15]
+**(SLIDE 12)** How would Rudolf and his court have situated this hybrid
+artwork in their intellectual universe? Looking to contemporary occult
+study in Prague suggests an intriguing avenue. Like many European rulers
+of the 16th century, Rudolf devoted no small amount of resources to
+occult study. Patronage of occult sciences, much like patronage of the
+visual arts, was very much an exercise in self-fashioning. Astrologers,
+alchemists, and engineers granted patrons a dual social boon: the
+appearance of both wisdom as well as power, genuine social currency for
+the early modern ruler who was expected to posses *sapientia* and
+*potentia* as crucial elements of princely *virtù*. William Eamon has
+suggested that magical study was an ideal courtly practice, as magic
+promised rare and wondrous feats accomplished through mysterious forces
+not obvious to the viewer. This seeming effortlessness attracted princes
+eager to pursue Castiglione’s image of the ideal courtier.[^15]
 
 Rudolf’s sponsorship of occult study was uniquely wide-ranging among the
 European courts, genuinely promoting the formulation of correspondences
@@ -194,77 +189,82 @@ Kunrath, and Oswald Croll.[^17] Paracelsian occultism rejected
 scholastic canonical authorities as a source of hidden truth, saying
 that secret knowledge of the world cannot come from reading human books
 (i.e. secondary sources) but only from reading directly from the
-greatest primary source of all: the “Book of Nature”.[^18] Marjorie Lee
-Hendrix has argued that the *MCM* visualizes Paracelsian philosophy by
-making literal the idea that nature transcended mere written words.
-Hoefnagel’s illuminations, she asserts, “confront the viewer” with the
-remoteness of text compared to the rich immediacy of nature.[^19]
+greatest primary source of all: the “Book of Nature”.[^18] Lee Hendrix
+has argued that the *MCM* visualizes Paracelsian philosophy by making
+literal the idea that nature transcended mere written words. Hoefnagel’s
+illuminations, she asserts, “confront the viewer” with the remoteness of
+text compared to the rich immediacy of nature.[^19]
 
-However the Cabbalist tradition also had a strong presence at the court:
-Rudolf studied Hebrew extensively, and was associated with Rabbi Judah
-Loew, the Supreme Chief Rabbi of Bohemia and a figure of legend down to
-today for animating the Golem of Prague from lifeless mud using a
-parchment talisman inscribed with Hebrew and inserted in the creature’s
-mouth.[^20] Rudolf’s own chancellors owned copies of Pico della
-Mirandola’s *Cabalistarum dogmata*, and Rudolf’s private confessor,
-Johannes Pistorius, was himself a Christian Cabbalist.[^21] Within this
-circle, the early sixteenth-century occult works of Cornelius Agrippa
+**(SLIDE 13)** However the Cabbalist tradition also had a strong
+presence at the court. We know Rudolf had his horoscope not only cast,
+but illustrated by Hoefnagel himself. Rudolf studied Hebrew extensively,
+and was associated with Rabbi Judah Loew, the Supreme Chief Rabbi of
+Bohemia and a figure of legend down to today for animating the Golem of
+Prague from lifeless mud using a parchment talisman inscribed with
+Hebrew and inserted in the creature’s mouth.[^20] Rudolf’s own
+chancellors owned copies of Pico della Mirandola’s *Cabalistarum
+dogmata*, and Rudolf’s private confessor, Johannes Pistorius, was
+himself a Christian Cabbalist.[^21]As part of this occult project,
+Rudolf also had printed the quasi-cabbalist manuscripts by Johannes
+Trithemius that had gone unpublished for almost a century. The early
+sixteenth-century occult works of Trithemius’ protégé Cornelius Agrippa
 also circulated, and it is his occult theories in particular that may
 have provided a magical lens through which Rudolf and others may have
 viewed *MCM*.
 
 Text and Nature
----------------
+===============
 
-**(SLIDE 13)** Agrippa wrote *De occulta philosophia* in 1533, and
-despite its controversial contemporary reception, copies survived in
-Rudolf’s library up through the late sixteenth-century.[^22] In this
-book Agrippa presented methods for constructing powerful sigils. You can
-see some of the process on the page to the right: starting from a grid
-of select Hebrew characters, converted by *gematria* into a table of
+**(SLIDE 14)** Agrippa wrote *De occulta philosophia* in 1533. Despite
+its initial controversial reception, copies of the book existed in
+Rudolf’s library in the late sixteenth-century.[^22] In this book
+Agrippa presented methods for constructing powerful sigils. You can see
+some of the process on the page to the right: starting from a grid of
+select Hebrew characters, converted by *gematria* into a table of
 numbers, the occultist may then follow a set of calculations to trace
 lines between a series of numbers, lines that produce a character
 mathematically embedded, or occluded, within a significant Hebrew word.
 Inscribed on the proper materials and deployed in the correct manner,
-these sigils could effect changes in the weather and the soil, and even
+these sigils could effect changes in the weather, in animals, and even
 influence the thoughts and behavior of humans.[^23]
 
 Most interesting for our understanding of the *MCM* is Agrippa’s
 underlying theory of signification (and here I borrow extensively from
-Christopher Lehrich’s recent close reading of the *DOP* through Pierce’s
-triad of *symbolic*, *iconic*, and *indexical* signs). These sigils were
-powerful because they were not simply arbitrary *symbolic*
-representations of objects. Being systematically constructed from Hebrew
-– a divinely-inspired language unlike man’s modern, arbitrary tongues –
-these sigils had an *indexical* relationship to Hebrew terms. Moreover,
-in Agrippa’s view they had an *iconic* relationship as well: they
-visually reflected the geometries of the heavenly spheres that had
-powerful influence over earthly creation. Perhaps most importantly,
-these sigils’ power was transitive, not only reflecting their referents
-but potentially able to affect them as well. The original sign, the
-*logos* of God, had this power: God spoke, *therefore* the cosmos was
-created. Because Agrippa’s sigils were constructed from Hebrew, they
-were close enough to the *logos* to have real influence on the natural
-elements that both signified and were signified by these sigils.[^24]
-Yet theoretically, even the distant children of Hebrew still had a
-tenuous connection to this divine originating power. For Agrippa and
-related theorists, language need not be a pale, arbitrary representation
-of the natural world, but could rather be inextricably embedded within
-it. Magical characters were not powerful because of their syllogistic
-relationships to objects or concepts; they were powerful because they
-were, in essence, images.[^25]
+Christopher Lehrich’s recent close reading of *De Occulta Philosophia*
+through our modern-day semiotic triad of *symbolic*, *iconic*, and
+*indexical* signs). Agrippa’s sigils were powerful because precisly they
+were *not* simply arbitrary *symbolic* representations of objects. Being
+systematically constructed from Hebrew – a divinely-inspired language
+unlike man’s modern, arbitrary tongues – these sigils had an *indexical*
+relationship to Creation, their form being a functional result of a
+mathematical process. Moreover, in Agrippa’s view, these sigils had an
+*iconic* relationship to nature as well: they visually reflected the
+geometries of the heavenly spheres that had powerful influence over
+earthly creation. Perhaps most importantly, these sigils’ power was
+transitive, not only reflecting creation but potentially able to affect
+it as well. The original sign, the *logos* of God, had this power: God
+spoke, *therefore* the cosmos was created. Because Agrippa’s sigils were
+constructed from Hebrew, they were close enough to the *logos* to have
+real influence on the natural elements that both signified and were
+signified by these sigils.[^24] Yet theoretically, even the distant
+children of Hebrew still had a tenuous connection to this divine
+originating power. For Agrippa and related theorists, language need not
+be a pale, arbitrary representation of the natural world, but could
+rather be inextricably embedded within it. Magical characters were not
+powerful because of their syllogistic relationships to objects or
+concepts; they were powerful because they were, in essence, images.[^25]
 
-**(SLIDE 14)** When first considering the *MCM*, we struggled to locate
+**(SLIDE 15)** When first considering the *MCM*, we struggled to locate
 systematic symbolic relationships between the text and the
 illuminations. While Hoefnagel subverted any such iconographic
 relationships, he reliably mimicked the calligraphic shapes of Bocskay’s
 script, creating pleasing visual correspondences of forms: interweaving
 flourishes echo the crisscrossing spines of a love-in-a-mist plant; the
 round peas within bulbous pods evoke the decorative baubles surrounding
-the text they accompany; **(SLIDE 15)** sinuous curves run along the
+the text they accompany; **(SLIDE 16)** sinuous curves run along the
 page not unlike the curvaceous slug sitting in the lower margin; the
 curlicues of a flourish suggest the whizzing, spiraling motion of the
-moth pictured in flight beneath them. **(SLIDE 16)** Even in the
+bee pictured in flight beneath them. **(SLIDE 17)** Even in the
 instances where Hoefnagel defies the very integrity of the parchment
 page with his *trompe l’oeil* effects, the plants deliberately avoid
 marring the text, as if mysteriously repelled from the earlier path of
@@ -281,17 +281,17 @@ semiotic relationships explored by Cornelius Agrippa and other
 Cabbalists. Hoefnagel drives the viewer to be self-aware of their own
 assumptions about vision and meaning, frequently confounding our
 understanding of the pictorial surface. At times the page is a
-perspectival window one peers through into a space to see insects
+perspectival window one peers through as if into a space to see insects
 climbing up the sides of words or the edges of the page. At other times
 the pictorial surface is coincident with the page itself, so that the
-viewer feels as if they are looking down onto a page supporting flora
-and fauna who cast their shadows upon the parchment. Some pages require
-the viewer to switch back and forth between both these modes. Like
-Agrippa’s *De occulta philosophia*, the *MCM* demanded a semiotically
-intelligent reader intrigued by the idea that text and nature could have
-a contingent relationship.
+viewer feels as if they are looking down onto actual snails creeping
+along a very solid page. Pages like this one require the viewer to
+switch back and forth between both these modes. Like Agrippa’s *De
+occulta philosophia*, the *MCM* demanded a semiotically intelligent
+reader intrigued by the idea that text and nature could have a
+contingent relationship.
 
-**(SLIDE 17)** Notably, one of the few pages of Bockscay’s calligraphy
+**(SLIDE 18)** Notably, one of the few pages of Bockscay’s calligraphy
 book that Hoefnagel left unillustrated is this one. Bocskay inscribed
 the Hebrew alphabet here in its entirety, copying the letters as well as
 the banner motif wholesale from Giambattista Palatino’s 1541 *Libro
@@ -304,23 +304,21 @@ and Hoefnagel much as it was by Agrippa and other Cabbalists for being
 the only human language directly originating from god.
 
 Conclusion
-----------
+==========
 
-**(SLIDE 18)** At the start of this paper I proposed that the *MCM* was
+**(SLIDE 19)** At the start of this paper I proposed that the *MCM* was
 not explicitly magical. It is not itself a potent talisman or amulet. It
 does not contain diagrams of magical theories or procedures. It does not
 even depict the alchemist, astrologer, or magician in the midst of
 occult practice. Yet all the same I argue that it is enmeshed in the
 magical universe of Rudolfine Prague, for its unique visual idioms
 mirror so well the theories of signification offered by Agrippa, and
-other occult theorists read by the court. The *MCM* has in the past been
-rightly regarded as an example of Rudolfine interest in vivid rendering
-of natural subjects and genre-defying hybrid art. However by
-acknowledging its exploration of the semiotic relationships of text and
-nature investigated by contemporary occult theorists, we can better fit
-the *MCM* into our understanding of magical and artistic culture in
-Rudolfine Prague, and perhaps re-visit the intersection of Rudolfine art
-and magic with renewed purpose. **(SLIDE 19)**
+other occult theorists read by the court. However by acknowledging the
+resonances between its visual explorations and the full spectrum of
+contemporary occult theory, we can better fit the *MCM* into our
+understanding of magical and artistic culture in Prague. In doing so, I
+hope this may spur the investigation of the intersection of Rudolfine
+art and Rudolfine magic with renewed purpose. **(SLIDE 20)**
 
 References
 ==========
@@ -397,97 +395,61 @@ Supplement* (apr 1993): 18.
     generously supported by the University of Maryland Department of Art
     History’s Arthur K. Wheelock fellowship.
 
-[^2]: Marjorie Lee Hendrix and Thea Vignau-Wilberg, *“Mira calligraphiae
-    monumenta”: A Sixteenth-Century Calligraphic Manuscript Inscribed by
-    Georg Bocskay and Illuminated by Joris Hoefnagel* (Malibu: J. Paul
-    Getty Museum, 1992), vii
+[^2]: Hendrix and Vignau-Wilberg, *“Mira calligraphiae monumenta”*, vii
 
 [^3]: The need for closer study of the connections between Rudolfine art
     and occult study has recently been noted by Kaufmann in “Vistas for
-    Rudolfine Research,” in *Hans Von Aachen in Context: Proceedings of
-    the International Conference, Prague, 22-25 September 2010*, ed.
-    Lubomir Konecny, Stepan Vacha, and Beket Bukovinska (Prague:
-    Artefactum, 2012), 249
+    Rudolfine Research,” 249
 
-[^4]: Elišká Fučiková, “The Fate of Rudolf II’s Collections in Light of
-    the History of the Thirty Years’ War,” in *1648: War and Peace in
-    Europe*, ed. Klaus Bussmann and Heinz Schilling, vol. 2 (Münster:
-    Osnabrück, 1999), 177–179
+[^4]: Fučiková, “The Fate of Rudolf II’s Collections,” 177–179
 
 [^5]: Hendrix and Vignau-Wilberg, *“Mira calligraphiae monumenta”*, 2
 
 [^6]: Ibid., 34
 
-[^7]: Thomas DaCosta Kaufmann, “Remarks on the Collections of Rudolf II:
-    The Kunstkammer as a Form of Representation,” *Art Journal* 38, no.
-    1 (oct 1978): 25, doi:10.2307/776251; Thomas DaCosta Kaufmann, *The
-    Mastery of Nature: Aspects of Art, Science, and Humanism in the
-    Renaissance* (Princeton: Princeton University Press, 1993), 126–127
+[^7]: Kaufmann, “Remarks on the Collections of Rudolf II,” 25; Kaufmann,
+    *The Mastery of Nature*, 126–127
 
 [^8]: Hendrix and Vignau-Wilberg, *“Mira calligraphiae monumenta”*, 34,
     48
 
-[^9]: Janice L. Neri, “From Insect to Icon: Joris Hoefnagel and the
-    ‘Screened Objects’ of the Natural World,” in *Ways of Knowing: Ten
-    Interdisciplinary Essays*, ed. Mary Lindemann (Brill Academic
-    Publishers, 2004), 42
+[^9]: Neri, “From Insect to Icon,” 42
 
 [^10]: Hendrix and Vignau-Wilberg, *“Mira calligraphiae monumenta”*, 49
 
 [^11]: Ibid., 45.
 
-[^12]: Thomas DaCosta Kaufmann and Virginia Roehrig Kaufmann, “The
-    Sanctification of Nature: Observations on the Origins of Trompe
-    L’Oeil in Netherlandish Book Painting of the Fifteenth and Sixteenth
-    Centuries,” *The J. Paul Getty Museum Journal* 19 (1991): 54–56,
-    <http://www.jstor.org/stable/4166611>
+[^12]: Kaufmann and Kaufmann, “The Sanctification of Nature,” 54–56
 
 [^13]: Hendrix and Vignau-Wilberg, *“Mira calligraphiae monumenta”*, 48
 
-[^14]: This has also been pointed out in Steve Xerri, “Script and Image:
-    Review of Mira Calligraphica Monumenta, by Lee Hendrix and Thea
-    Vignau-Wilberg, Editors,” *Times Literary Supplement* (apr 1993): 18
+[^14]: This has also been pointed out in Xerri, “Script and Image,” 18
 
-[^15]: William Eamon, *Science and the Secrets of Nature: Books of
-    Secrets in Medieval and Early Modern Culture* (Princeton, N.J.:
-    Princeton University Press, 1994), 221–229
+[^15]: Eamon, *Science and the Secrets of Nature*, 221–229
 
-[^16]: Kaufmann, “Remarks on the Collections of Rudolf II,” 25; Penelope
-    Gouk, “Natural Philosophy and Natural Magic,” in *Rudolf II and
-    Prague: The Court and the City*, ed. Eliska Fuciková (Prague: Prague
-    Castle Administration, 1997), 236
+[^16]: Kaufmann, “Remarks on the Collections of Rudolf II,” 25; Gouk,
+    “Natural Philosophy and Natural Magic,” 236
 
-[^17]: Peter H. Marshall, *The Magic Circle of Rudolf II: Alchemy and
-    Astrology in Renaissance Prague* (New York: Walker & Co., 2006),
-    128–137
+[^17]: Marshall, *The Magic Circle of Rudolf II*, 128–137
 
 [^18]: This is not to be confused with the Cartesian scientific
-    revolution that would come in the mid-seventeenth century; Florian
-    Ebeling, *The Secret History of Hermes Trismegistus: Hermeticism
-    from Ancient to Modern Times* (Ithaca: Cornell University Press,
-    2007), 101–108
+    revolution that would come in the mid-seventeenth century; Ebeling,
+    *The Secret History of Hermes Trismegistus*, 101–108
 
 [^19]: Hendrix and Vignau-Wilberg, *“Mira calligraphiae monumenta”*, 53
 
 [^20]: Marshall, *The Magic Circle of Rudolf II*, 93–95
 
-[^21]: Robert John Weston Evans, *Rudolf II and His World: A Study in
-    Intellectual History 1576-1612* (Oxford: Clarendon Press, 1973),
-    236–242
+[^21]: Evans, *Rudolf II and His World*, 236–242
 
 [^22]: Ibid., 126
 
-[^23]: Christopher I. Lehrich, *The Language of Demons and Angels:
-    Cornelius Agrippa’s Occult Philosophy*, *Brill’s Studies in
-    Intellectual History* (Leiden: Brill, 2003), 104–110
+[^23]: Lehrich, *The Language of Demons and Angels*, 104–110
 
 [^24]: Ibid., 135, 141, 161
 
 [^25]: For more on contemporary investigation of the image-like quality
-    of language, see György Endre Szőnyi, “The Powerful Image: Towards a
-    Typology of the Occult,” in *European Iconography East and West:
-    Selected Papers of the Szeged International Conference, June 9-12,
-    1993*, ed. György Endre Szőnyi (Leiden: Brill, 1996), pt. 258
+    of language, see Szőnyi, “The Powerful Image,” pt. 258
 
 [^26]: Hendrix and Vignau-Wilberg, *“Mira calligraphiae monumenta”*, 36;
     Bocskay probably did not know Hebrew himself, as there are several
