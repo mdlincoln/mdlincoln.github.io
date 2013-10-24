@@ -2,7 +2,7 @@
 date: 2013-10-24 10:41:47.058765
 layout: project
 title: "Magical Vision and Occult Text in Georg Bocskay’s and Joris Hoefnagel’s 'Mira calligraphiae monumenta'"
-snippet: Presented at the 2013 Sixteenth Century Society Conference in San Juan.
+snippet: Presented at the 2013 Sixteenth Century Society Conference in San Juan, this paper explores the relationship between a curious illuminated calligraphy book in the collections of Rudolf II and his study of magic and the occult.
 img: /assets/images-display/hoefnagel_avatar.png
 ---
 
