@@ -36,7 +36,7 @@ sixteenth-century courtly interest in collecting wondrous man-made and
 natural artifacts. These stories have been brilliantly told by scholars
 like Thomas DaCosta Kaufmann, Lee Hendrix, and Thea Vignau-Wilberg,
 among many others. Today I seek to shed just a little more light on one
-corner of the *MCM* story: the its intersection with Rudolf’s study of
+corner of the *MCM* story: its intersection with Rudolf’s study of
 magic and the occult.[^3] To be clear, the purpose of the *MCM* was not
 explicitly magical. That said, I argue that its unique presentation of
 text and nature cannot be fully understood without reference to
