@@ -10,8 +10,8 @@ tags:
 ---
 
 <aside>
-<p>I presented this talk at the Sixteenth Century Society Conference in San Juan on October 24, 2013. You can read the full text of the paper <a href="/projects/mira-calligraphiae-monumenta.html">here</a>.*
-
+<p>I presented this talk at the Sixteenth Century Society Conference in San Juan on October 24, 2013. You can read the full text of the paper <a href="/projects/mira-calligraphiae-monumenta.html">here</a>.*</p>
+</aside>
 
 
 # Occult Text and Image in Georg Bocskay’s and Joris Hoefnagel’s *Mira calligraphiae monumenta*
