@@ -15,7 +15,34 @@ img: /assets/images-display/hoefnagel_avatar.png
 <p><a href="http://creativecommons.org/licenses/by-nc-nd/3.0/deed.en_US"><img src="http://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png" alt="Creative Commons License" /></a></p>
 </aside>
 
+# Abstract
+
+The *Mira calligraphiae monumenta* is one of the most intriguing objects of the
+kusntkammer of Rudolf II. The creators of this layered work never met each
+other; Georg Bocskay, secretary for Ferdinand I, penned the manuscript’s
+calligraphic displays in 1561-2, while Joris Hoefnagel was commissioned by
+Rudolf three decades later to illuminate this treasure with brilliantly rendered
+flora and fauna. It has been argued that Hoefnagel’s additions establish a
+*paragone* between the painted image and the written word, his illusionistic
+*naturalia* surpassing Bocskay’s page-bound *artificialia*. It has been further
+argued that the outcome of this *paragone* reflects a Paracelsian philosophy
+shared by the Rudolfine court: that true knowledge can only come from natural
+investigation and not from secondary texts. However, this interpretation elides
+the complexities of magical and occult studies in Prague. The diverse schools of
+occult thought entertained at the Rudolfine court also included that of Heinrich
+Cornelius Agrippa, who believed inscribed signs had the capacity to become
+sigils endowed with power over the natural world. I argue that the complex
+formal interplay of text and image on certain pages of the *MCM* at times
+suggests that Bocskay’s scripts indeed hold sway over Hoefnagel’s natural
+objects. This suggests that even as Rudolf and his court appreciated the *MCM*
+for its aesthetic beauty and inventiveness, these semiotically-intelligent
+readers must also have related its formally-cohesive tableaus of text and nature
+to sixteenth-century occult notions of the physical power of the inscribed sign
+investigated in their own court.
+
 <script async class="speakerdeck-embed" data-id="cd20a1d0f189013089bf7ad89fb6c866" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
+
 
 Introduction[^1]
 ================
