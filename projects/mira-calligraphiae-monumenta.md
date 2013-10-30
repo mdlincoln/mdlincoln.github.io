@@ -9,6 +9,7 @@ img: /assets/images-display/hoefnagel_avatar.png
 
 <aside>
 <p>This is the text and images from a talk originally presented presented at the 2013 Sixteenth Century Society Conference in San Juan.</p>
+<p><a href="/assets/docs/mlincoln_scsc_mira_calligraphiae.pdf">Download in PDF format.</a></p>
 
 <p>&quot;Magical Vision and Occult Text in Georg Bocskay’s and Joris Hoefnagel’s 'Mira calligraphiae monumenta'&quot; by <a href="http://matthewlincoln.net">Matthew D. Lincoln</a> is licensed under a <a href="http://creativecommons.org/licenses/by-nc-nd/3.0/deed.en_US">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License</a>.</p>
 <p><a href="http://creativecommons.org/licenses/by-nc-nd/3.0/deed.en_US"><img src="http://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png" alt="Creative Commons License" /></a></p>
