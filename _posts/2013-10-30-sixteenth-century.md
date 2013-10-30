@@ -45,7 +45,7 @@ And last but not least, let's not forget the few, the proud, the SCSC participan
 
 
 
-[scsc_hash]: http://twitter.com/
+[scsc_hash]: https://twitter.com/search?q=scsc2013
 
 [cwilder]: http://cdh.sc.edu/people/wilder
 
