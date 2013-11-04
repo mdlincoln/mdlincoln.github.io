@@ -1,0 +1,24 @@
+---
+layout: default
+comments: false
+title: HHUM205 
+date: 2013-10-15 16:37:09.352993
+show_title: yes
+---
+
+
+Blog posts of interest for HHUM205:
+
+## Network Graphing
+
+1. [Looking through the ULAN with Gephi, I](/2013/06/20/looking-through-the-ulan-with-gephi.html)
+
+2. [Looking through the ULAN with Gephi, II](/2013/06/24/visualizing-the-ulan-through-gephi-ii.html)
+
+3. [Looking through the ULAN with Gephi, III](/2013/07/02/looking-through-the-ulan-with-gephi-iii.html)
+
+## Macro-analysis
+
+4. [Iconclass and charting the Rijksmuseum](/2013/09/18/iconclass-and-charting-the-rijksmuseum.html)
+
+5. [Charting the Rijksmuseum: Digging Deeper](/2013/10/04/charting-the-rijksmuseum-digging-deeper.html)
