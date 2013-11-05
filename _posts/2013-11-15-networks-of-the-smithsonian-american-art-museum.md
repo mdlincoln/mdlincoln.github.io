@@ -8,7 +8,6 @@ tags:
 - Digital Humanities
 ---
 
-
 This summer [I developed a small utility](/projects/scraping-the-smithsonian.html) to scrape collections data from the Smithsonian Institution's [database](http://collections.si.edu). I got to work digging through the artworks at the [Smithsonian American Art Museum](http://americanart.si.edu). Using [Gephi](http://gephi.org) I created a [network map](/assets/gephi/saam_network) of artworks there made between 1900 and 1935. (You can click through to go to an interactive version.)
 
 [![Preview of a network map of paintings at the SAAM](/assets/images-display/saam_preview.png)](/assets/gephi/saam_network)
@@ -23,8 +22,8 @@ The color has been assigned by an algorithm that attempts to detect "communities
 - Interweaved with these urban images are images of rural/regional labor ("American Scene" art promoted by federally-funded art programs of the New Deal).
 - These in turn intersect with a number of smaller groups, such as WWI-related art, scenes of domestic life, and even a group of self-portrait/artist-at-work images -- groupings that might not so quickly come to mind in conventional discussions of American art from this period.
 
-The next step 
+What might these communities look like for the period of 1865-1900? Or 1935-1965?
 
-Even the more idiosyncratic portions of this network are telling, at least about . Some clusters in this network, like the tightly-interconnected blue island only tenuously connected to the rest of the graph, represent not some multi-artist genre or movement of art, but stand only for a series of related works by a single artist -- in this case, a long series of progressive print proofs by [Chiura Obata](http://collections.si.edu/search/results.htm?q=chiura+obata&view=&dsort=&date.slider=1920s%2C1940s). 
- 
-Getting a broad portrait of the genres of art being produced in America in this period has conventionally meant relying on the conclusions of 
+Even the more idiosyncratic portions of this network are telling, at least about the vagaries of the SAAM collections or of my own analytical method. Some clusters in this network, like the tightly-interconnected blue island only tenuously connected to the rest of the graph, represent not some multi-artist genre or movement of art, but stand only for a series of related works by a single artist -- in this case, a long series of progressive print proofs by [Chiura Obata](http://collections.si.edu/search/results.htm?q=chiura+obata&view=&dsort=&date.slider=1920s%2C1940s).
+
+This poses an interesting problem: should we count a series of related works (particularly in multiplicative media like prints or photography) the same way that we count paintings or sculptures? The appearance of this "island" of works by Obata on the one hand reminds us about the arbitrariness of aspects of this visualization. We ought not read it directly as an indication of the relative popularity of artwork subjects. At the same time, the insularity of Obata's prints begs the question: was the subject matter of his prints really so isolated from other trends? Or is their isolation magnified by cataloging practice that assigns the same keywords to the entire group of prints, tightly connecting them in our graph while possibly neglecting other links that would draw the prints closer to the rest of our sample? These problems cut to the core of not only art historical narratives about genre and media, but also force museum professionals to reconsider how they are generating cultural data in their cataloging practices.
