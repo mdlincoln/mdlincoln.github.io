@@ -7,7 +7,7 @@ show_title: false
 <img src="/assets/images/author.jpg" align="right" />
 
 
-## Current CV ([Word](https://docs.google.com/document/d/1D26djrb4BUMYkLiif01vQM5nXty2ziCqctzF1wQb_sA/export?format=docx&id=1D26djrb4BUMYkLiif01vQM5nXty2ziCqctzF1wQb_sA)) ([PDF](https://docs.google.com/document/d/1D26djrb4BUMYkLiif01vQM5nXty2ziCqctzF1wQb_sA/export?format=pdf&id=1D26djrb4BUMYkLiif01vQM5nXty2ziCqctzF1wQb_sA)) ([HTML](https://docs.google.com/document/d/1D26djrb4BUMYkLiif01vQM5nXty2ziCqctzF1wQb_sA/pub))
+## Current CV ([PDF](https://docs.google.com/document/d/1D26djrb4BUMYkLiif01vQM5nXty2ziCqctzF1wQb_sA/export?format=pdf&id=1D26djrb4BUMYkLiif01vQM5nXty2ziCqctzF1wQb_sA)) ([HTML](https://docs.google.com/document/d/1D26djrb4BUMYkLiif01vQM5nXty2ziCqctzF1wQb_sA/pub))
 
 ## Contact Information
 
