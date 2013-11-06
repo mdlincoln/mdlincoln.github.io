@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Networks of the Smithsonian American Art Museum
-date: 2013-11-15
+date: 2013-11-12
 tags:
 - Art History
 - Digital Humanities
