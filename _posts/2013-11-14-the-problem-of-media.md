@@ -13,21 +13,6 @@ tags:
 {% include rkm.html %}
 
 
-# Religious strife
-
-The top-level classifications that seemed to have interesting trends in my first visualization were `1 - Religion and Magic` and `7 - Bible`.
-
-<figure>
-<a href="/assets/images-display/saints.svg"><img src="/assets/images-display/saints.svg" alt="'1 - Religion and Magic' and '11H`." /></a>
-<figcaption>"45 - warfare; military affairs" ratios over time, annotated with key dates.</figcaption>
-</figure>
-
-
-
-
-
-
-
 
 # The problem of media
 
