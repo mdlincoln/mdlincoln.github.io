@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: The problem of media
-date: 2013-11-11 10:29:12.583003
+date: 2013-11-14 10:29:12.583003
 tags:
 - Art History
 - Digital Humanities
