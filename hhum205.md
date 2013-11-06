@@ -19,3 +19,4 @@ Blog posts of interest for HHUM205:
 
 4. [Iconclass and charting the Rijksmuseum](/2013/09/18/iconclass-and-charting-the-rijksmuseum.html)
 5. [Charting the Rijksmuseum: Digging Deeper](/2013/10/04/charting-the-rijksmuseum-digging-deeper.html)
+6. Networks of the Smithsonian American Art Museum (Posting soon!)
