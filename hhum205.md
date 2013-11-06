@@ -7,7 +7,7 @@ show_title: yes
 ---
 
 
-Blog posts of interest for HHUM205:
+Here are some blog posts of interest for HHUM205:
 
 ## Social Network Graphing
 
