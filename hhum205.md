@@ -1,7 +1,7 @@
 ---
 layout: default
 comments: false
-title: HHUM205 
+title: "Honors Humanities 205: Modes of Knowing and Doing"
 date: 2013-10-15 16:37:09.352993
 show_title: yes
 ---
