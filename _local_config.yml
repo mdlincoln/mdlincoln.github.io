@@ -1,0 +1,3 @@
+# Local config options (only run when serving the site locally)
+enable_analytics: false
+enable_disqus: false

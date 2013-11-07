@@ -12,10 +12,12 @@ layout: default
 
 
 	<footer>
+		{% if site.enable_disqus %}
 		{% if page.comments %}
 			<section class="comments">
 			{% include disqus.html %}
 			</section>
+		{% endif %}
 		{% endif %}
 	</footer>
 </article>
