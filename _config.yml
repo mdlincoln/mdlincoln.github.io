@@ -10,3 +10,5 @@ pygments: true
 permalink: /:year/:month/:day/:title.html
 markdown: kramdown
 future: false
+enable_analytics: true
+enable_disqus: true
