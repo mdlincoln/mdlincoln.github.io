@@ -17,8 +17,6 @@ show_title: false
 
 <{{ site.data.contact.email }}>
 
-[{{ site.data.contact.twitter.name }}]({{ site.data.contact.twitter.url }})
-
 
 
 ## Other Links
