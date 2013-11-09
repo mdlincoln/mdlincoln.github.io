@@ -22,4 +22,6 @@
 <link href='http://fonts.googleapis.com/css?family=Ubuntu:400,400italic|Open+Sans:400italic,400,700' rel='stylesheet' type='text/css'>
 
 <!-- Google Analytics -->
+{% if site.enable_analytics %}
 {% include googleanalytics.js %}
+{% endif %}
