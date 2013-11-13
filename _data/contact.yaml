@@ -19,6 +19,9 @@ links:
     - name: Academia.edu
       url: http://umd.academia.edu/MatthewLincoln
 cv:
-    - word: 'https://docs.google.com/document/d/1D26djrb4BUMYkLiif01vQM5nXty2ziCqctzF1wQb_sA/export?format=docx&id=1D26djrb4BUMYkLiif01vQM5nXty2ziCqctzF1wQb_sA'
-    - pdf: 'https://docs.google.com/document/d/1D26djrb4BUMYkLiif01vQM5nXty2ziCqctzF1wQb_sA/export?format=pdf&id=1D26djrb4BUMYkLiif01vQM5nXty2ziCqctzF1wQb_sA'
-    - html: 'https://docs.google.com/document/d/1D26djrb4BUMYkLiif01vQM5nXty2ziCqctzF1wQb_sA/pub'
+    - name: Word
+      url: 'https://docs.google.com/document/d/1D26djrb4BUMYkLiif01vQM5nXty2ziCqctzF1wQb_sA/export?format=docx&id=1D26djrb4BUMYkLiif01vQM5nXty2ziCqctzF1wQb_sA'
+    - name: PDF
+      url: 'https://docs.google.com/document/d/1D26djrb4BUMYkLiif01vQM5nXty2ziCqctzF1wQb_sA/export?format=pdf&id=1D26djrb4BUMYkLiif01vQM5nXty2ziCqctzF1wQb_sA'
+    - name: Web
+      url: 'https://docs.google.com/document/d/1D26djrb4BUMYkLiif01vQM5nXty2ziCqctzF1wQb_sA/pub'
