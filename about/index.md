@@ -7,7 +7,7 @@ show_title: false
 <img src="/assets/images/author.jpg" align="right" />
 
 
-## Current CV ([Word]({{ site.data.contact.cv.word }})) ([PDF]({{ site.data.contact.cv.pdf }})) ([HTML]({{ site.data.contact.cv.html }}))
+## Current CV {% for version in site.data.contact.cv %}([{{version.name}}]({{version.url}})) {% endfor %}
 
 ## Contact Information
 
