@@ -23,6 +23,16 @@ Many are drawn from food-related posts:
 
 And a very few verge on the poetic:
 
+	DON'T STOP CARROT VIOLENCE
+
+	A Dyson sphere!
+
+	Horses wanted our apples.
+
+	Experts discoursing on Thursday.
+
+	The fight generally starts after you chose to surround yourself with an R tutorial.
+
     Despite appearances, that's so knitting club.
 
 	The fight generally starts after a crazy art
