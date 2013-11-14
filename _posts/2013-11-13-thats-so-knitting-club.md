@@ -7,7 +7,7 @@ tags:
 - Code
 ---
 
-I've been busy writing on 1930s California Surrealism for one of the last graduate seminars I'll be taking, so it seemed fitting to try out 
+I've been busy writing on 1930s California Surrealism for one of the last graduate seminars I'll be taking, so it seemed fitting to try out an [app that semi-randomly generates a Facebook status](http://what-would-i-say.com) derived from your own personal corpus of past statuses -- a textual artwork that (at least partly) surrenders to an automated process.
 
 Quite a few are nostalgic for my undergrad years:
 
