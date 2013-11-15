@@ -42,6 +42,18 @@ He ended with a call for museums to release their databases not just in web form
 
 [iap]: http://americanart.si.edu/research/programs/inventory/
 
+## Computational Analysis of Andy Warhol's Flowers
+
+Marian Mazzone and Thomas Brady tried to apply computer image processing techniques in order to look at Andy Warhol.
+For an art historian not interested in attribution questions or in differentiating style (as Marian says aptly, "I don't need a computer to do that for me, I can use my eyes"), what can computer vision give to us?
+She turned to Warhol's flower series in part because there was a large body of materials (paintings as well as prints) to process, and since the images are based off of a single photograph, the differences between images can be more easily schematized and abstracted. 
+
+Since computers are not yet useful for thinking about "style", Marian decided to simplify and ask basic schematic visual questions like "color". 
+She wondered if we could detect patterns of changing artistic choices (e.g. color, rotation, scale) over a long series of works? 
+Thomas Brady, a computer science undergraduate who partnered with her on this project, discussed how they got the computer to quickly record the flower colors of all the series images. 
+Using this information, they were able to start counting up images with certain characteristics (flower size, flower color.) 
+Though Marian and Thomas had not yet drawn conclusions from these data, they hope to combine this information with a network analysis of the movement of these images between galleries and collectors to see if any correlation can be found between formal properties and the exchange and distribution of these artworks.
+
 # Networks and Contexts
 
 # Curating Online
