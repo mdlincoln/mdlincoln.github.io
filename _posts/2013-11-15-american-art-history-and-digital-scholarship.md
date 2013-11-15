@@ -33,7 +33,9 @@ Notes from the Smithsonian Institution Archives of American Art symposium ["Amer
 
 Particularly exciting was when Laura Tilton started giving us a tour thought the map and started tracking individual photographers as they moved across the country. Also interesting was confronting the legacy classification tag system that comes with these photos. Intriguingly, different shots of the same scene could be sorted into completely different categories: a portrait-like image of a man is tagged "People as Such -- Middle-aged man", but an image of the *very same person* playing the piano becomes "Entertainment" -- how telling that formal, compositional changes can change completely our perception of the *content* of those images.
 
-[David Sledge](https://twitter.com/djsledge__) ([Williams College](https://williams.edu) represent!)
+## Schematizing Landscape with the Inventory of American Paintings
+
+[David Sledge](https://twitter.com/djsledge__) ([Williams College](https://williams.edu) represent!) 
 
 Marian Mazzone
 
