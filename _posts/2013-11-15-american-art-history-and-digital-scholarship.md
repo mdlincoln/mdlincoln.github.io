@@ -8,9 +8,7 @@ tags:
 - Art History
 ---
 
-Notes from the Smithsonian Institution Archives of American Art symposium ["American Art History and Digital Scholarship: New Avenues of Exploration"](http://www.aaa.si.edu/symposium)
-
-[My earlier post here.](/2013/11/12/networks-of-the-smithsonian-american-art-museum.html)
+Here are some live notes from the Smithsonian Institution Archives of American Art symposium ["American Art History and Digital Scholarship: New Avenues of Exploration"](http://www.aaa.si.edu/symposium):
 
 # Other notes
 
