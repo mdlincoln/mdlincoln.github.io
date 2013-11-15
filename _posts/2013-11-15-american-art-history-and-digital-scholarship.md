@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: "American Art History and Digital Scholarship: New Avenues of Exploration"
-date: 2013-11-15 09:43:20.943466
+date: 2013-11-15 17:20:57.470370
 tags:
 - Digital Humanities
 - Art History
