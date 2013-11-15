@@ -35,8 +35,6 @@ Particularly exciting was when Laura Tilton started giving us a tour thought the
 
 [David Sledge](https://twitter.com/djsledge__) ([Williams College](https://williams.edu) represent!) 
 
-Marian Mazzone
-
 # Networks and Contexts
 
 # Curating Online
