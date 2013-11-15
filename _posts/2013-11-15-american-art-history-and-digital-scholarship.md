@@ -155,3 +155,19 @@ Lee Glazer closed with a reflection on the iterative nature of these apps, quite
 She also raised the dangers of an overly-slick app that gives a directed, simplified presentation of the room -- a sleek, commercial application rather than an academic website.
 
 # Publishing Online
+
+## Searching for Siqueiros
+
+Joan Saab discusses the evolution of the platform [Scalar], a free open-source platform that allows authors to write born-digital (and non-linear) scholarship online.
+
+[Scalar]: http://scalar.usc.edu/scalar/
+
+Her own project followed the dissemination of the mural imagery of David Alfaro Siqueiros, a project she has come to call *Searching for Siqueiros*.
+One of the exciting challenges of this project was the multimedia nature of Siqueiros reception -- not just books and articles, but film, posters, blogs, even Facebook pages.
+Rather than trying to force her project into a linear narrative, she decided to instead "explode it" in Scalar, allowing the many threads of the Siqueiros story to interweave in a multi-layered visual argument.
+
+She described the properties resulting project (you can read up on the platform tools on the [Scalar] website).
+One characteristic of the Scalar platform is that you can "tag" your pages, and then visualize these tags.
+By using these tags, Saab, found connections and themes *in her own writing* she may never have noticed otherwise.
+Visualizing the organically-expanding narrative flows caused Saab to reflect on her own process of research and writing.
+
