@@ -129,4 +129,29 @@ And this entry would not just be critiqued by the professor, but would be worksh
 The students were not only asked to think about their texts, and also to grapple with the challenges of abstracting their work into "categories" and "tags" which would sort and define the paths of visitors to the online exhibition.
 The result, he found, were far more invigorating essays than he'd ever have expected from these students, not to mention a fantastic online resource now shared with the public at large.
 
+## The Peacock Room
+
+The Freer Gallery of Art has created a fantastic digital archive on Charles Lang Freer's [Peacock Room][pr] in cooperation with Wayne State University. This site tries to unify a virtual tour of the room and its objects with the historical context of the space constructed through photographs and archival documents.
+
+[pr]: http://www.peacockroom.wayne.edu
+
+<figure>
+<img src="/assets/images-display/peacock_room.png" alt="peacock room" />
+<figcaption><em>The Story of the Beautiful</em>: Freer, Whistler, and Points of Contact</figcaption>
+</figure>
+
+The online version of this space offers several benefits unique to the digital environment.
+Lee Glazer says they have analyzed user statistics on this website and found a huge number of international visitors who now have a chance to see this room without having to travel to the real spaces.
+The virtual version of this room also makes the space more dynamic than possible in real life -- they can show the two different versions of this room; that in London, and that in Detroit.
+Their site also chronicles Freer's world journeys to understand *wehre* these Peacock Room objects came from.
+Finally, users can add their own comments and tags to these works -- they report a German scholar alerting them to a dating error on one of their ceramic objects, which allowed them to make a correction in their own catalog system in the Smithsonian.
+
+The Peacock Room site has also been developed as an [iOS app](http://t.co/DqRDjy2g2H) with zoomable, interactive panoramas of the peacock room. 
+In a departure from the Warhol Museum, the Freer and Sackler want people to engage with their technology *while in front of the objects*.
+By doing so, they argue, they can allow visitors to "dive deep" into the collection information without having to clutter the room with labels or stationary computer kiosks to the detriment of the overall aesthetic experience of the space -- one of Freer's original priorities.
+(I'm glad to note that iPads are also loaned out for free to visitors who don't have their own!)
+
+Lee Glazer closed with a reflection on the iterative nature of these apps, quite unlike the one-and-done exhibition project.
+She also raised the dangers of an overly-slick app that gives a directed, simplified presentation of the room -- a sleek, commercial application rather than an academic website.
+
 # Publishing Online
