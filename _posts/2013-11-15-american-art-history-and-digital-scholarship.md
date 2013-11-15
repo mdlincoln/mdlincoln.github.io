@@ -204,6 +204,7 @@ Some of her ongoing challenges included revising traditional scholarship workflo
 Happily, with each project grappling with different types of digital content, the journal gains more experience that it can share with researchers to help streamline the project.
 The journal also felt a responsibility to help conceptualize key methodological questions for digital art history:
 
+1. When is something published? When it is added to the journal? Whenever the author updates the original map in the future?
 2. How does the user interact with publications? What need is there for fixed content as part of an ongoing dynamic project?
 3. Who owns the content? What if an institution owns a database? What if a university gives resources to an author to help them develop a digital resource -- can the journal just co-op that product?
 4. Workflow, workflow, workflow: what does an editor need to know about the specifics of publishing a *digital* journal, the steps involved and the skills (i.e. human resources) that must be marshaled? What about peer review -- art history versus/plus digital humanities experts?
