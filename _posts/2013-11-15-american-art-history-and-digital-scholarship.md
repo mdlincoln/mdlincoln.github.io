@@ -98,6 +98,10 @@ Moreover, Castelli had a tighter network than anyone else, suggesting his own ve
 Jessica Gogan and Tresa Varner from the Any Warhol Museum presented their [Timeweb](http://warhol.gradientlabs.com/) platform for exploring the cultural context of Warhol's artworks, which I think is better seen than read about, so go visit it!
 I did particularly like that they considered museum technology from an education standpoint -- the Warhol museum wants to make sure it uses tech to the utmost, but that it gives visitors a "break" from the technology and its noise when they are looking at the art itself.
 
+<aside>
+<p>Lunch is over, so the live blog will start again!</p>
+</aside>
+
 # Curating Online
 
 # Publishing Online
