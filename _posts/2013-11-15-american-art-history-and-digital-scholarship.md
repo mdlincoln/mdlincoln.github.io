@@ -8,6 +8,10 @@ tags:
 - Art History
 ---
 
+<aside>
+<p>Last edited on {{ page.date }}</p>
+</aside>
+
 Here are some live notes from the Smithsonian Institution Archives of American Art symposium ["American Art History and Digital Scholarship: New Avenues of Exploration"](http://www.aaa.si.edu/symposium).
 
 There is also a *very* active Twitter stream under the hashtag [#AAHDS](https://twitter.com/search?q=aahds) so check that out for some great quotes from the day.
@@ -221,4 +225,3 @@ The journal also felt a responsibility to help conceptualize key methodological 
 - I'll note they have a very neat idea to have people sign up on large categorical posters ("Digital Pedagogy", "Data Mining" etc.) as a way to find lunch partners, and also as a way to kick off a prolonged digital conversation.
 - The organizer Kelly Quinn was incredibly conscientious to ask for clarification whenever anyone name-dropped a technology, and cleverly typed up the names of tools onto an open PowerPoint slide so people knew how to spell them!
 - Kelly also raised a question near and dear to my own heart: how current graduate students in art history who are interested in pursuing digital approaches to research should try to mold their education and graduate experiences. **There weren't too many answers forthcoming.**
-
