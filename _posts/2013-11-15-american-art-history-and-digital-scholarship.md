@@ -31,7 +31,16 @@ Particularly exciting was when Laura Tilton started giving us a tour thought the
 
 ## Schematizing Landscape with the Inventory of American Paintings
 
-[David Sledge](https://twitter.com/djsledge__) ([Williams College](https://williams.edu) represent!) wanted to see how he could use new tools and techniques to better contextualize images of American landscapes.
+[David Sledge](https://twitter.com/djsledge__) ([Williams College](https://williams.edu) represent!) wanted to see how he could use new tools and techniques to better contextualize images of American landscapes. 
+He used the [Inventory of American Paintings](iap) compiled by the Smithsonian as a massive database of American landscape painting writ large.
+
+David was particularly interested in understanding what locations American artists depicted. 
+By mining the metadata of the IAP, he could draw out interesting trends in the numbers of artists painting particular subjects at any one time, with results that served as an invitation to new research.
+For example, if New York was the most-painted city in American landscapes, why was Venice, Italy the second-most-painted? 
+And if this surprises us (as it seemed to do for many in the auditorium), what does this say about lacunae in American art scholarship, about the assumptions that scholars have made about the grand narratives of American landscape painting?
+He ended with a call for museums to release their databases not just in web forms designed for single-record lookup, but in raw forms that allow utterly different kinds of processing.
+
+[iap]: http://americanart.si.edu/research/programs/inventory/
 
 # Networks and Contexts
 
