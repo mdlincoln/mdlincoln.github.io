@@ -112,6 +112,11 @@ Or rather, he clarifies, he is disappointed at seeing in an increasing number of
 So he has endeavored in his course on African American art to see how he could engage digital technology to reverse this trend.
 Working with the Nasher Museum of Art at Duke University, he identified a group of objects (within a driveable radius of campus to make sure students would be able to see these works face-to-face) in order to create a [digital exhibition](http://closeup.nasher.duke.edu) written by his students.[^infinity]
 
+<figure>
+<img src="/assets/images-display/nasher.png" alt="nasher" />
+<figcaption>African American Close-Up: Prints, Photographs And Works On Paper from North Carolina Collections</figcaption>
+</figure>
+
 [^infinity]: This project is based on WordPress, and uses the ["Infinity" theme](http://t.co/2Kl9VkgGha) which allows you to integrate a mini-slideshow of high-resolution photos into your posts.
 
 He presented this material to his students as a research assignment.
