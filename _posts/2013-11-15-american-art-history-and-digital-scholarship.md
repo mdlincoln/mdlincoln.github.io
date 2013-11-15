@@ -171,3 +171,25 @@ One characteristic of the Scalar platform is that you can "tag" your pages, and 
 By using these tags, Saab, found connections and themes *in her own writing* she may never have noticed otherwise.
 Visualizing the organically-expanding narrative flows caused Saab to reflect on her own process of research and writing.
 
+## Digital Projects in American Landscape Design History
+
+Therese O'Malley from CASVA described two different publication projects
+
+The first, *Keywords in American Landscape Design*, a 10 lb. paper publication cataloging landscape designs through 100 different keywords, each of which was accompanied by a short essay and then a host of examples and scholarly citations.
+They are now working on a relational database that will easily surpass even a 10 lb. printed book.
+They are expanding the *Keywords* project using the [MediaWiki](http://www.mediawiki.org/wiki/MediaWiki) platform.
+This allows a highly flexible mix of linked text, keywords, locations, and people, all connected to images and as many citations as you could possibly want, unconstrained by 
+They manage their bibliography through a shared [Zotero](http://zotero.org) library that users can access and download separately.
+Because this project has been built on a wiki, it is easy to maintain and it *can be published iteratively without waiting for it to be "complete"*.
+
+<figure>
+<img src="/assets/images-display/miller_watercolor.png" alt="Lewis Miller Watercolor" />
+<figcaption>Lewis Miller, “Guide to Central Park,” 2. Watercolor and ink on paper. The Henry Ford, Dearborn, MI.</figcaption>
+</figure>
+
+The second project is a digital edition of a small watercolor landscape sketch album by Lewis Miller, a well-known American folk artist.
+Miller, O'Malley notes, has often been used as a way to *illustrate* folk life, while the artist has not been rightfully considered in his own right.
+Their work (a multimedia project published in [*Nineteenth-Century Art Worldwide*](http://19thc-artworldwide.org/index.php/spring13/in-the-park-lewis-miller-chronicle-of-american-lanscape-midcentury)) involved creating an annotated digital edition of this text.
+Doing so allowed them to explore the fullest popular culture context of Miller's drawings, unveiling him as a person who participated deeply in contemporary cultural life.
+This linking allows the authors to bring so much more evidence to bear on their theories than they could do in a conventionally-published project.
+
