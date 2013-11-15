@@ -33,7 +33,7 @@ Particularly exciting was when Laura Tilton started giving us a tour thought the
 
 ## Schematizing Landscape with the Inventory of American Paintings
 
-[David Sledge](https://twitter.com/djsledge__) ([Williams College](https://williams.edu) represent!) 
+[David Sledge](https://twitter.com/djsledge__) ([Williams College](https://williams.edu) represent!) wanted to see how he could use new tools and techniques to better contextualize images of American landscapes.
 
 # Networks and Contexts
 
