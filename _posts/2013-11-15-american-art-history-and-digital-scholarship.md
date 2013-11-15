@@ -193,3 +193,18 @@ Their work (a multimedia project published in [*Nineteenth-Century Art Worldwide
 Doing so allowed them to explore the fullest popular culture context of Miller's drawings, unveiling him as a person who participated deeply in contemporary cultural life.
 This linking allows the authors to bring so much more evidence to bear on their theories than they could do in a conventionally-published project.
 
+## Art History Online
+
+Emily Pugh (also of CASVA), discussed the digital research and publishing initiative that is [*Nineteenth-Century Art Worldwide*](http://19thc-artworldwide.org), an open-access, online, peer-reviewed publication supported by the Mellon Foundation.
+While not seeking to change the format of the journal as a whole, they decided they wanted to devote at least one article per issue to scholarship whose generation and presentation involved digital tools.
+You can see their [standing CFP for digital art history projects here](http://19thc-artworldwide.org/call-for-proposals).
+
+She gave us some insight into her discussions with authors about their technological and research methodology, and how *during the research phase* they try to anticipate the challenges and opportunities of the online publication phase.
+Some of her ongoing challenges included revising traditional scholarship workflows given the chicken/egg question of content and format when it comes to digital scholarly publishing.
+Happily, with each project grappling with different types of digital content, the journal gains more experience that it can share with researchers to help streamline the project.
+The journal also felt a responsibility to help conceptualize key methodological questions for digital art history:
+
+2. How does the user interact with publications? What need is there for fixed content as part of an ongoing dynamic project?
+3. Who owns the content? What if an institution owns a database? What if a university gives resources to an author to help them develop a digital resource -- can the journal just co-op that product?
+4. Workflow, workflow, workflow: what does an editor need to know about the specifics of publishing a *digital* journal, the steps involved and the skills (i.e. human resources) that must be marshaled? What about peer review -- art history versus/plus digital humanities experts?
+
