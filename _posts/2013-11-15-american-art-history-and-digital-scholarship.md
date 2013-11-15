@@ -61,7 +61,7 @@ Though Marian and Thomas had not yet drawn conclusions from these data, they hop
 ## Visualizing Schneemann
 
 [Michelle Moravec](https://twitter.com/professmoravec) discussed Carolee Schneemann through the lens of of the Schneemann correspondence digitized by the Getty.
-Through a blizzard of visualizations (perhaps too many too fast?) Michelle explored the balance of male to female correspondents of Schneeman, derived from Named Entity Recognition algorithms.
+Through a blizzard of visualizations (perhaps too many too fast?) */[ed: wonderfully, she's [shared her slides here](http://t.co/0rNOQwhzzG)/]* Michelle explored the balance of male to female correspondents of Schneeman, derived from Named Entity Recognition algorithms.
 She also wanted to see Schneemann's use of the past -- literally, the word "past" -- in her correspondence.
 
 [Melissa Rogers](melissarogers17) (UMD what what!) was curious about Schneemann's "mail art" and its interaction with her other performances, films, and assemblages.
