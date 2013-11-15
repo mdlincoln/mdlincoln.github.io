@@ -70,6 +70,29 @@ A good part of her talk was actually discussing her own trials and travails work
 She laid out her project for mapping Schneemann, and walked through the questions that she as a graduate student must confront when embarking on this kind of digital project.
 Sadly, Melissa didn't have any actual map examples to show yet -- hopefully she will put it out there when she does!
 
+## Docuemnting the Postwar Audience for American Avant-Garde Art
+
+When introducing her approach to researching American avant-garde art, Titia Hulst invoked the work of John Michael Montias, an economic historian who looked at the seventeenth-century Dutch art market on a large scale.
+Her project traverses and attempts to re-map the (rather rocky) territory of the history of exhibitions of American avant-garde art.
+She discovered that her initial subject -- the gallerist Leo Castelli -- was quite the unreliable source, whose own claims and writings have distorted the literature on this market history.
+
+In order to evaluate these claims, Titia says she had to become an "accidental" digital historian through using [AAA]-digitized invoices.
+She created her own table of more than 20,000 transactions from these and other files.
+Interestingly, she compared the trends in her data to historic GDP trends, in order to discern trends in taste for particular artists (not just the overall trend in art buying writ large.)
+From this, she was able to compare the character of galleries collections (diversification of artists held) as well as their market share across US cities.
+
+Titia also mapped the locations of *purchasers* from different gallerists.
+The results run counter to Castelli's own story -- that he was promoting avant-garde art in places no one else did.
+Rather, it seems he didn't sell anywhere other gallerists weren't already selling.
+
+She wanted to grapple with the question of "taste" -- not style, embedded in the artwork, but the reasons why collectors wanted certain artworks.
+Categorizing by these categories of "taste" (e.g. "cool" abstraction, "expressive" abstraction, "fantasy", etc.), it seems Castelli sold far more figurative work than he claims in his own narratives.
+
+Finally, and most interestingly, she used network analysis to see which collectors bought from multiple gallerists -- early on, it was only museums doing this.
+Moreover, Castelli had a tighter network than anyone else, suggesting his own very different practice from other gallerists.
+
+[AAA]: http://www.aaa.si.edu
+
 # Curating Online
 
 # Publishing Online
