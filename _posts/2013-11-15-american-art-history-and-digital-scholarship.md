@@ -8,7 +8,9 @@ tags:
 - Art History
 ---
 
-Here are some live notes from the Smithsonian Institution Archives of American Art symposium ["American Art History and Digital Scholarship: New Avenues of Exploration"](http://www.aaa.si.edu/symposium):
+Here are some live notes from the Smithsonian Institution Archives of American Art symposium ["American Art History and Digital Scholarship: New Avenues of Exploration"](http://www.aaa.si.edu/symposium).
+
+There is also a *very* active Twitter stream under the hashtag [#AAHDS](https://twitter.com/search?q=aahds)
 
 (I'll note they have a very neat idea to have people sign up on large categorical posters ("Digital Pedagogy", "Data Mining" etc.) as a way to find lunch partners, and also a way to kick off a longer digital conversation.)
 
