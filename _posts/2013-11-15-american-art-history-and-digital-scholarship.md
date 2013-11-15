@@ -10,9 +10,7 @@ tags:
 
 Here are some live notes from the Smithsonian Institution Archives of American Art symposium ["American Art History and Digital Scholarship: New Avenues of Exploration"](http://www.aaa.si.edu/symposium):
 
-# Other notes
-
-- Neat idea to have people sign up on large categorical posters ("Digital Pedagogy", "Data Mining" etc.) as a way to find lunch partners, and also a way to kick off a longer digital conversation.
+(I'll note they have a very neat idea to have people sign up on large categorical posters ("Digital Pedagogy", "Data Mining" etc.) as a way to find lunch partners, and also a way to kick off a longer digital conversation.)
 
 # Mapping Images
 
