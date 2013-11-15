@@ -64,6 +64,12 @@ Though Marian and Thomas had not yet drawn conclusions from these data, they hop
 Through a blizzard of visualizations (perhaps too many too fast?) Michelle explored the balance of male to female correspondents of Schneeman, derived from Named Entity Recognition algorithms.
 She also wanted to see Schneemann's use of the past -- literally, the word "past" -- in her correspondence.
 
+[Melissa Rogers](melissarogers17) (UMD what what!) was curious about Schneemann's "mail art" and its interaction with her other performances, films, and assemblages.
+She wanted to see if she could map out the mail art geographically.
+A good part of her talk was actually discussing her own trials and travails working with [Omeka](http://omeka.org) and [Neatline](http://neatline.org) to do so.
+She laid out her project for mapping Schneemann, and walked through the questions that she as a graduate student must confront when embarking on this kind of digital project.
+Sadly, Melissa didn't have any actual map examples to show yet -- hopefully she will put it out there when she does!
+
 # Curating Online
 
 # Publishing Online
