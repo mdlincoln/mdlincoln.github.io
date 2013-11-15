@@ -104,4 +104,24 @@ I did particularly like that they considered museum technology from an education
 
 # Curating Online
 
+## Student Curators Online
+
+Richard Powell hates reading papers. 
+
+Or rather, he clarifies, he is disappointed at seeing in an increasing number of undergraduate papers only a reflection of students' skill at pulling information from the internet, telling him little else about anything.
+So he has endeavored in his course on African American art to see how he could engage digital technology to reverse this trend.
+Working with the Nasher Museum of Art at Duke University, he identified a group of objects (within a driveable radius of campus to make sure students would be able to see these works face-to-face) in order to create a [digital exhibition](http://closeup.nasher.duke.edu) written by his students.[^infinity]
+
+[^infinity]: This project is based on WordPress, and uses the ["Infinity" theme](http://t.co/2Kl9VkgGha) which allows you to integrate a mini-slideshow of high-resolution photos into your posts.
+
+He presented this material to his students as a research assignment.
+Their work was to identify objects that they would be interested in looking at and researching in depth.
+But they were not just to write about these works. 
+They were to follow a process of formal analysis, external research, and articulating their own *personal, subjective reaction* to this work -- to add their own genuine content to our thinking about these works.
+
+The students were then supposed to compress that into just 500 words for their contribution to this website -- in other words, a catalog entry!
+And this entry would not just be critiqued by the professor, but would be workshopped by the class as a whole.
+The students were not only asked to think about their texts, and also to grapple with the challenges of abstracting their work into "categories" and "tags" which would sort and define the paths of visitors to the online exhibition.
+The result, he found, were far more invigorating essays than he'd ever have expected from these students, not to mention a fantastic online resource now shared with the public at large.
+
 # Publishing Online
