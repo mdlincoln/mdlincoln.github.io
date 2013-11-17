@@ -16,7 +16,7 @@ tags:
 
 # The problem of media
 
-All of the above graphs are made looking at the 
+All of the above graphs are made looking at the entire collection, not discriminating between different types of artworks like paintings, prints, photographs, sculpture, or furniture.
 
 <figure>
 <img src="/assets/images-display/artwork_types.svg" alt="Ratios of artwork types in the Rijksmuseum" />
