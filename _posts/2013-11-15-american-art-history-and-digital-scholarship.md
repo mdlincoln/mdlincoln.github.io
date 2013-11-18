@@ -12,7 +12,7 @@ tags:
 <p>Last edited on {{ page.date }}</p>
 </aside>
 
-Here are some live notes from the Smithsonian Institution Archives of American Art symposium ["American Art History and Digital Scholarship: New Avenues of Exploration"](http://www.aaa.si.edu/symposium).
+These are some live notes from the Smithsonian Institution Archives of American Art symposium ["American Art History and Digital Scholarship: New Avenues of Exploration"](http://www.aaa.si.edu/symposium) on Friday November 15, 2013.
 
 Diane Zorich has also created a [great Storify page](http://storify.com/dzorich/american-art-history-and-digital-scholarship-1?utm_medium=sfy.co-twitter&utm_source=t.co&utm_campaign=&awesm=sfy.co_cUSj&utm_content=storify-pingback) of the very active [#AAHDS](https://twitter.com/search?q=aahds) twitter feed.
 
