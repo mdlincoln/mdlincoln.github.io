@@ -14,7 +14,7 @@ tags:
 
 Here are some live notes from the Smithsonian Institution Archives of American Art symposium ["American Art History and Digital Scholarship: New Avenues of Exploration"](http://www.aaa.si.edu/symposium).
 
-There is also a *very* active Twitter stream under the hashtag [#AAHDS](https://twitter.com/search?q=aahds) so check that out for some great quotes from the day.
+Diane Zorich has also created a [great Storify page](http://storify.com/dzorich/american-art-history-and-digital-scholarship-1?utm_medium=sfy.co-twitter&utm_source=t.co&utm_campaign=&awesm=sfy.co_cUSj&utm_content=storify-pingback) of the very active [#AAHDS](https://twitter.com/search?q=aahds) twitter feed.
 
 I've arranged it by session and paper, with a final section of random thoughts. Please comment if you've anything to add from the sessions!
 
