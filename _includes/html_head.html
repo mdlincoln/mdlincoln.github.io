@@ -4,13 +4,13 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <meta name="viewport" content="width=device-width">
-<meta name="author" content="{{ site.author }}">
+<meta name="author" content="{{ site.data.contact.name }}">
 <meta name="keywords" content="{% for tag in page.tags %}{{ tag }},{% endfor %}">
 
 <link rel="icon" type="image/png" href="/favicon.png">
 
 <!-- RSS feed -->
-<link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ site.url }}/feed.xml">
+<link rel="alternate" type="application/rss+xml" title="{{ site.data.site.title }}" href="{{ site.url }}/feed.xml">
 
 <!-- syntax highlighting CSS -->
 <link rel="stylesheet" href="/css/syntax.css">
