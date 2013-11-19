@@ -3,14 +3,17 @@ layout: default
 ---
 <article>
 	<header>
-		<h1>{{ page.title }}</h1>
+	<h1>{{ page.title }}</h1>
+	{% if page.livepost %}
+	<p><strong>This post is being written LIVE.</strong></p>
+	<p><strong>Last update: <time>{{ site.time | date: "%b %d %Y, %I:%M %p %Z" }}</time></strong></p>
+	{% else %}
 		<time datetime="{{ page.date }}">{{ page.date | date_to_string }}</time>
+	{% endif %}
 	</header>
 	<body>
 	{{ content }}
 	</body>
-
-
 	<footer>
 		{% if site.enable_disqus %}
 		{% if page.comments %}
