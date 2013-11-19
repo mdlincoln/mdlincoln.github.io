@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <meta name="viewport" content="width=device-width">
 <meta name="author" content="{{ site.data.contact.name }}">
-<meta name="keywords" content="{% for tag in page.tags %}{{ tag }},{% endfor %}">
+<meta name="keywords" content="{{ page.tags | join: "," }}">
 
 <link rel="icon" type="image/png" href="/favicon.png">
 
