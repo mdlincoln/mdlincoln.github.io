@@ -39,8 +39,8 @@ a portrait-like image of a man is tagged "People as Such -- Middle-aged man", bu
 
 ## Schematizing Landscape with the Inventory of American Paintings
 
-[David Sledge](https://twitter.com/djsledge__) ([Williams College](https://williams.edu) represent!) wanted to see how he could use new tools and techniques to better contextualize images of American landscapes. 
-He used the [Inventory of American Paintings](iap) compiled by the Smithsonian as a massive database of American landscape painting writ large.
+[David Sledge](https://twitter.com/djsledge__) ([Williams College](http://www.williams.edu/) represent!) wanted to see how he could use new tools and techniques to better contextualize images of American landscapes. 
+He used the [Inventory of American Paintings][iap] compiled by the Smithsonian as a massive database of American landscape painting writ large.
 
 Sledge was particularly interested in understanding what locations American artists depicted. 
 By mining the metadata of the IAP, he could draw out interesting trends in the numbers of artists painting particular subjects at any one time, with results that served as an invitation to new research.
