@@ -1,10 +1,10 @@
 require 'stringex'
 
 desc "New draft post"
-task :new do |t|
+task :new, :title do |t, args|
 
-  branch   = get_stdin("What is the name of the branch? ").to_url
-  title    = get_stdin("What is the title of your post? ")
+  title    = args[:title]
+  branch   = title.to_url
   filename = "_posts/#{Time.now.strftime('%Y-%m-%d')}-#{title.to_url}.md"
 
   puts "Checking out a new draft branch: draft/#{branch}"
