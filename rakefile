@@ -27,7 +27,7 @@ end
 
 desc "Update most recently-edited post to the correct date"
 task :update do |t|
-  filename = Dir.glob("_posts/*").max_by {|f| File.mtime(f)}
+  filename = Dir.glob("_posts/*").max_by {|f| File.mtime(f)}  # Finds most recent post
   puts "Update #{filename}? [y/n]"
   input = STDIN.gets.strip
   if input == "y"
