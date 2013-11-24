@@ -21,4 +21,8 @@ task :new, :title do |t, args|
     post.puts "---"
   end
 
+  `sublime #{filename}`
+
+end
+
 end
