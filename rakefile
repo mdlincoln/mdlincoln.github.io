@@ -5,7 +5,7 @@ task :new do |t|
 
   branch   = get_stdin("What is the name of the branch? ").to_url
   title    = get_stdin("What is the title of your post? ")
-  filename = "source/_posts/#{Time.now.strftime('%Y-%m-%d')}-#{title.to_url}.md"
+  filename = "_posts/#{Time.now.strftime('%Y-%m-%d')}-#{title.to_url}.md"
 
   puts "Checking out a new draft branch: draft/#{branch}"
   `git checkout -b draft/#{branch}`
