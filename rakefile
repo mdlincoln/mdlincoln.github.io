@@ -1,7 +1,7 @@
 require 'stringex'
 
 desc "New draft post"
-task :new_draft do |t|
+task :new do |t|
 
   branch   = get_stdin("What is the name of the branch? ").to_url
   title    = get_stdin("What is the title of your post? ")
