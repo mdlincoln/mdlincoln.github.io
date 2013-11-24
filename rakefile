@@ -34,10 +34,11 @@ task :update do |t|
     # Revise post date within post
     post = File.read(filename)
     revision = post.gsub(/^date:.*$/, "date: #{Time.now.strftime('%Y-%m-%d %H:%M')}")
-    puts revision
     File.open(filename, "w") {|file| file.puts revision}
     # Git mv file
-    # Still needs to be done
+    newfilename = filename.gsub(/(\d{4}-\d{2}-\d{2})/,"#{Time.now.strftime('%Y-%m-%d')}")
+    puts "Moving to: #{newfilename}"
+    `git mv #{filename} #{newfilename}`
   else
     puts "Canceled."
   end
