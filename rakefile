@@ -1,0 +1,48 @@
+require 'stringex'
+
+desc "New draft post"
+task :new, :title do |t, args|
+
+  title    = args[:title]
+  branch   = title.to_url
+  filename = "_posts/#{Time.now.strftime('%Y-%m-%d')}-#{title.to_url}.md"
+
+  puts "Checking out a new draft branch: draft/#{branch}"
+  `git checkout -b draft/#{branch}`
+
+  puts "Creating new draft: #{filename}" 
+  open(filename, "w") do |post|
+    post.puts "---"
+    post.puts "layout: post"
+    post.puts "comments: true"
+    post.puts "title: \"#{title.gsub(/&/,'&amp;')}\""
+    post.puts "date: #{Time.now.strftime('%Y-%m-%d %H:%M')}"
+    post.puts "tags: "
+    post.puts "---"
+  end
+
+  `sublime #{filename}`
+
+end
+
+desc "Update most recently-edited post to the correct date"
+task :update do |t|
+  filename = Dir.glob("_posts/*").max_by {|f| File.mtime(f)}  # Finds most recent post
+  puts "Update #{filename}? [y/n]"
+  input = STDIN.gets.strip
+  if input == "y"
+
+    # Revise post date within post
+    post = File.read(filename)
+    revision = post.gsub(/^date:.*$/, "date: #{Time.now.strftime('%Y-%m-%d %H:%M')}")
+    File.open(filename, "w") {|file| file.puts revision}
+    # Git mv file
+
+    newfilename = filename.gsub(/(\d{4}-\d{2}-\d{2})/,"#{Time.now.strftime('%Y-%m-%d')}")
+    puts "Moving to: #{newfilename}"
+    `git mv #{filename} #{newfilename}`
+    
+  else
+    puts "Canceled."
+  end
+end
