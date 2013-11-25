@@ -8,7 +8,7 @@ tags:
 - Digital Humanities
 ---
 
-This summer [I developed a small utility](/projects/scraping-the-smithsonian.html) to scrape collections data from the Smithsonian Institution's [database](http://collections.si.edu). I got to work digging through the artworks at the [Smithsonian American Art Museum](http://americanart.si.edu). Using [Gephi](http://gephi.org) I created a [network map](/assets/gephi/saam_network) of artworks there made between 1900 and 1935. (You can click through to go to an interactive version.)
+This summer [I developed a small utility](/projects/scraping-the-smithsonian.html) to scrape collections data from the Smithsonian Institution's [database](http://collections.si.edu). I got to work digging through the artworks at the [Smithsonian American Art Museum](http://americanart.si.edu). Using [Gephi](http://gephi.org) I created a [network map](/assets/gephi/saam_network) of artworks there made between 1900 and 1935. (You can click through to go to an interactive version.) [I've posted the scripts used to create this on GitHub](https://github.com/mdlincoln/saam).
 
 [![Preview of a network map of paintings at the SAAM](/assets/images-display/saam_preview.png)](/assets/gephi/saam_network)
 
