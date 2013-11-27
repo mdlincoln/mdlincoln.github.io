@@ -182,10 +182,6 @@ body > footer {
   overflow: hidden;
 }
 
-body > footer a {
-  color: #8085C1;
-}
-
 body > footer p.license {
   width: 45%;
   float: left;
