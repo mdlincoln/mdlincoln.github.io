@@ -4,8 +4,8 @@ comments: true
 title: "SAAM code uploaded"
 date: 2013-11-24 18:45
 tags: 
-- museums
-- code
+- Museums
+- Code
 - Digital Humanities
 ---
 
