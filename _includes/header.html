@@ -1,7 +1,7 @@
 <nav>
-	<a href="/about" rel="author">CV</a>
-	<a href="/archive" rel="archive">Blog</a>
-	<a href="/projects" rel="archive">Projects</a>
+	{% for link in site.data.nav %}
+	<a href="{{ link.url }}">{{ link.title }}</a>
+	{% endfor %}
 </nav>
 <h1><a href="/" >{{ site.title }}</a></h1>
 
