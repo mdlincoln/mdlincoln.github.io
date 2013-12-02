@@ -33,4 +33,9 @@ that is, writing a small script (or [Rakefile](rake.rubyforge.org)) that will ru
 The authors also recommend you avoid manual manipulation of resulting data in favor of programmatic manipulation, in order to reduce the number of manual steps that one must correctly take in order to reproduce your results.
 (Lincoln Mullen has similarly suggested the need for programmatic data manipulation over at [DHAnswers](http://digitalhumanities.org/answers/topic/what-are-the-best-practices-for-data-curation-in-github).)
 
-If you know of any other resources on best academic data/code practices, please let me know in the comments!
+Yet another consideration is how to document this code for audiences with diverse technical literacies. 
+As I began thinking about it [when I first published my si-scrape tool](/2013/08/09/parsing-the-smithsonian.html), does this code need to be made at least partially intelligible to the most technically uninitiated of humanities faculty?
+Or can/should there be some baseline expectation that you document the conceptual structure of your code for, say, a peer-review panel, even if you don't need to get into the most granular levels of implementation
+(it strikes me that anyone interested in that level of detail would be literate enough to simply read the code.)
+
+If you know of any other resources on best practices for sharing academic data/code, please let me know in the comments!
