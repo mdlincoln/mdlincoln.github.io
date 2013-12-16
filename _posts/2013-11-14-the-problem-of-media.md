@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: The problem of media
+title: "Charting the Rijksmuseum: The Problem of Media"
 date: 2013-11-14 10:29:12.583003
 tags:
 - Art History
