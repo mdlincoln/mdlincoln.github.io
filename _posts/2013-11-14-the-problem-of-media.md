@@ -41,10 +41,6 @@ All of the above graphs are made looking at the entire collection, not discrimin
 <figcaption>Contrasted ratios of all prints with material life subject matter to ratios of all paintings with material life subject matter.</figcaption>
 </figure>
 
-Both John Michael Montias and Jonathan Israel, an economist and historian, respectively, have also suggested the direct influence of economic factors on both the subject matter as well as painting styles and market strategies of Dutch artists from this period, looking at data in probate inventories as well as price records for the raw materials that went into these paintings.[^4] 
-
-[^4]: John Michael Montias, “Cost And Value In Seventeenth-Century Dutch Art,” *Art History* 10, no. 4 (December 1987): 455; Jonathan Irvine Israel, “Adjusting to Hard Times: Dutch Art During Its Period of Crisis and Restructuring (c. 1621--c. 1645),” *Art History* 20, no. 3 (September 1997): 449–476.
-
 
 > What is the Narrative? Does it rustle a leaf as it passes? Does it dance on the head of a pin? Only through numbers does the Signal whisper.
 >
