@@ -51,10 +51,3 @@ Both John Michael Montias and Jonathan Israel, an economist and historian, respe
 > -- [Nate Silver 2.0 (@fivethirtynate) November 3, 2012](https://twitter.com/fivethirtynate/statuses/264569367570825217)
 
 Obvious disclaimer is obvious: I am no Nate Silver ([nor is this guy, really](https://twitter.com/fivethirtynate)) and you can bet there's a lot of false noise in the charts below. But the humanities needs to think quite a bit more like him that we have been trained to do so far, so let's at least take the first few steps.
-
-
-Similar to how Twitter mentions, whether positive or negative, are significant for looking at an election.[^2]
-
-[^2]: Rojas, Fabio. “How Twitter Can Help Predict an Election.” *Washington Post*, August 11, 2013, sec. Opinion. [URL](http://articles.washingtonpost.com/2013-08-11/opinions/41299678_1_tweets-social-media-data-congressional-district)
-
-
