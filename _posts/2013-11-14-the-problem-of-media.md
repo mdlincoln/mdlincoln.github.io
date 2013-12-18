@@ -25,11 +25,21 @@ All of the above graphs are made looking at the entire collection, not discrimin
 
 
 <figure>
-<a href="/assets/images-display/religious_media.svg"><img src="/assets/images-display/religious_media.svg" alt="Contrasted ratios of all prints with religious subject matter to ratios of all paintings with religious subject matter." /></a>
+<a href="/assets/images-display/bible_media.svg"><img src="/assets/images-display/bible_media.svg" alt="Contrasted ratios of prints with biblical subject matter to ratios of paintings with biblical subject matter." /></a>
 <figcaption>Contrasted ratios of all prints with religious subject matter to ratios of all paintings with religious subject matter.</figcaption>
 </figure>
 
+<figure>
+<a href="/assets/images-display/war_media.svg"><img src="/assets/images-display/war_media.svg" alt="Contrasted ratios of all prints related to warfare to ratios of all paintings related to warfare." /></a>
+<figcaption>Contrasted ratios of all prints related to warfare to ratios of all paintings related to warfare.</figcaption>
+</figure>
 
+
+
+<figure>
+<a href="/assets/images-display/material_life_media.svg"><img src="/assets/images-display/material_life_media.svg" alt="Contrasted ratios of all prints with material life subject matter to ratios of all paintings with material life subject matter." /></a>
+<figcaption>Contrasted ratios of all prints with material life subject matter to ratios of all paintings with material life subject matter.</figcaption>
+</figure>
 
 Both John Michael Montias and Jonathan Israel, an economist and historian, respectively, have also suggested the direct influence of economic factors on both the subject matter as well as painting styles and market strategies of Dutch artists from this period, looking at data in probate inventories as well as price records for the raw materials that went into these paintings.[^4] 
 
