@@ -42,8 +42,7 @@ All of the above graphs are made looking at the entire collection, not discrimin
 </figure>
 
 
-> What is the Narrative? Does it rustle a leaf as it passes? Does it dance on the head of a pin? Only through numbers does the Signal whisper.
->
-> -- [Nate Silver 2.0 (@fivethirtynate) November 3, 2012](https://twitter.com/fivethirtynate/statuses/264569367570825217)
+<blockquote class="twitter-tweet" lang="en"><p>What is the Narrative? Does it rustle a leaf as it passes? Does it dance on the head of a pin? Only through numbers does the Signal whisper.</p>&mdash; Nate Silver 2.0 (@fivethirtynate) <a href="https://twitter.com/fivethirtynate/statuses/264569367570825217">November 3, 2012</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Obvious disclaimer is obvious: I am no Nate Silver ([nor is this guy, really](https://twitter.com/fivethirtynate)) and you can bet there's a lot of false noise in the charts below. But the humanities needs to think quite a bit more like him that we have been trained to do so far, so let's at least take the first few steps.
