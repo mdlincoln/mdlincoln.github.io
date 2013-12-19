@@ -21,8 +21,6 @@ This begs the question: what exactly are the ratios of different artworks at the
 <figcaption>Ratios of major artwork types in the Rijksmuseum's online database.</figcaption>
 </figure>
 
-[cleaned]: As I mentioned earlier, the collection data I count here has been stripped of artworks that lack either a date or an Iconclass tag.
-
 Printed artworks (woodcuts, engravings, etchings, lithographs, and the like) *vastly* outnumber works of any other format.
 Paintings clock in at less than 1% of the Rijksmuseum's online collection.[^cleaned]
 This should not be too surprising.
@@ -36,7 +34,9 @@ This begs some troublesome questions for quantitative approaches to art history:
 
 Whether you are trying to figure out "what people made" (artist intentions) versus "what people saw" (contemporary reception) may influence the answers to these questions.
 
-While I do not have rigorous answers for these questions, it is interesting to approach this problem of media from the perspective of iconography.
+[^cleaned]: As I mentioned earlier, the collection data I count here has been stripped of artworks that lack either a date or an Iconclass tag.
+
+While I do not yet have rigorous answers for these questions, it is interesting to approach this problem of media from the perspective of iconography.
 In my previous posts I have charted various iconographic trends over time, looking for correlations with major historic events, or even correlations with trends of related iconographic categories.
 But what about correlations between iconographic trends across different media?
 
@@ -50,7 +50,7 @@ Here I have calculated two trends (like last time, smoothed with a 20-year movin
 Looking at our first example, images of warfare (Iconclass code `45`), trends in prints versus trends in paintings seem roughly correlated, with paintings lagging behind by a few years.
 This makes a certain amount of sense -- prints can be made quickly in reaction to events.
 While paintings can also be made relatively quickly, the more permanent and monumental nature of the medium may demand content with a longer shelf-life.
-You would not use a painting to report on a battle, but you might use it to memorialize one several years laster.
+You would not use a painting to report on a battle, but you might use it to memorialize one several years later.
 
 <figure>
 <a href="/assets/images-display/bible_media.svg"><img src="/assets/images-display/bible_media.svg" alt="Contrasted ratios of prints with biblical subject matter to ratios of paintings with biblical subject matter." /></a>
@@ -65,7 +65,7 @@ It is interesting to note that the first sudden drop in biblical *prints* comes 
 It seems likely that this historical context may explain some or most of this observed rise and fall. 
 
 But is it significant that the ratio of biblical *paintings* appears to increase shortly after each of these drops?
-It is revealing to look at the [list biblical paintings from 1600 to 1660](/assets/docs/biblical-paintings.html) that actually comprise the latter of these upward swings.
+It is revealing to look at the [list of biblical paintings from 1600 to 1660](/assets/docs/biblical-paintings.html) that actually comprise the latter of these upward swings.
 About half of these artworks are by artists in the orbit of Rembrandt, who, along with his teacher Pieter Lastman, produced a remarkable variety of biblical scenes over his career.
 The "surge" in this chart is thus, in large part, due to the reverberating effects of Lastman's and Rembrandt's art as reflected in the Rijksmuseum collection, a contribution to Dutch art history that stands out all the more now seen in a semi-macroscopic context
 As [Tim Hitchcock has compellingly illustrated][hitchcock], even in a sea of numbers we need not loose sight of the power of individual actors.
@@ -86,8 +86,8 @@ In some ways, this simple quantitative visualization totally fails at telling us
 Paintings were, of course, extremely important.
 There were far more than 27 biblical paintings done in the Netherlands in the years between 1600 and 1660.
 Most of them were not done by the likes of Lastman, Rembrandt, or Lievens.
-In fact, as [Angela Jager is discovering](/2013/10/30/sixteenth-century.html), the lowest-tier painters (ones emphatically *not* held by the Rijksmuseum) seem to have most specialized in these figural scenes.
-And as pointed out earlier, for all these formats shared, paintings and prints could have wildly divergent functions, and dmeanded different modes of viewing that complicate any attempt to reduce "influence" to a game of relative quantities.
+In fact, as [Angela Jager is discovering](/2013/10/30/sixteenth-century.html), the lowest-tier, often-anonymous painters (ones emphatically *not* held by the Rijksmuseum) seem to have most specialized in these figural scenes.
+And as pointed out earlier, for all the things that these formats shared, paintings and prints could have wildly divergent functions, and demanded different modes of viewing that complicate any attempt to reduce "influence" to a game of relative quantities.
 In short, it is misleading to try counting prints and paintings in exactly the same way, especially when counting out of a single repository of artworks.
 
 Ok Matt, you ask, surely you knew all this going in?
@@ -107,13 +107,7 @@ This particular question of the relationship between Dutch print culture and the
 
 The discipline demanded by these methods is sorely needed in art history.
 Any outside reader would be shocked at how often assertive declarations about overarching trends in either styles or iconography appear in art historical literature with nary a footnote, relying entirely on implicit claims to the author's authority and experience.
-Attempting to chart out aspects of this relationship quantitatively does not bind us into a one-dimensional method of reading artistic history, but it does force us to better define the nature of "influence", and to better articulate how we intend to measure its existence.
-
-
-
-
-
-
+Attempting to chart out aspects of this relationship quantitatively does not bind us into a one-dimensional method of reading artistic history, but it does force us to better define the nature of "influence", and to better articulate how we intend (even if only partially and problematically) to measure its existence.
 
 
 
