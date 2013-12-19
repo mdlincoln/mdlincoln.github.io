@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: "Charting the Rijksmuseum: The Problem of Media"
-date: 2013-11-14 10:29:12.583003
+date: 2013-12-19 17:18
 tags:
 - Art History
 - Digital Humanities
