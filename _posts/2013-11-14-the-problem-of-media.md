@@ -74,16 +74,3 @@ Knowing whether this or similar trends will appear in a larger set of data (such
 All that being said, these data 
 
 [hitchcock]: http://historyonics.blogspot.com/2013/12/big-data-for-dead-people-digital.html
-
-
-<!-- <figure>
-<a href="/assets/images-display/material_life_media.svg"><img src="/assets/images-display/material_life_media.svg" alt="Contrasted ratios of all prints with material life subject matter to ratios of all paintings with material life subject matter." /></a>
-<figcaption>Contrasted ratios of all prints with material life subject matter to ratios of all paintings with material life subject matter.</figcaption>
-</figure>
-
-
-<blockquote class="twitter-tweet" lang="en"><p>What is the Narrative? Does it rustle a leaf as it passes? Does it dance on the head of a pin? Only through numbers does the Signal whisper.</p>&mdash; Nate Silver 2.0 (@fivethirtynate) <a href="https://twitter.com/fivethirtynate/statuses/264569367570825217">November 3, 2012</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-You can bet there's a lot of false noise in these charts.
-But art historians ought to start thinking a bit more like him that we have been trained to do so far, so let's at least take the first few steps. -->
