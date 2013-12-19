@@ -96,6 +96,18 @@ a:hover {
 table {
   font-size: inherit; 
   font: 100%;
+  margin: 2em 0em;
+  border-collapse: collapse;
+}
+
+table th, td {
+  padding: 0.3em 1em;
+  border: 1px solid #aaa;
+  border-radius: 2px;
+}
+
+table th {
+  font-weight: bold;
 }
 
 li {

@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: Iconclass and charting the Rijksmuseum
+title: "Charting the Rijksmuseum: Iconclass"
 date: 2013-09-18 8:30
 tags:
 - Art History
