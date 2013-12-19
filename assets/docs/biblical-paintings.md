@@ -1,11 +1,11 @@
 ---
 layout: default
 title: "Biblical Paintings 1600-1660"
-date: 2013-12-19 00:21:54.478425
+date: 2013-12-19 15:52:28.647329
 show_title: true
 ---
 
-Referenced in: [Charting the Rijksmuseum: The Problem of Media]()
+Referenced in: [Charting the Rijksmuseum: The Problem of Media](/2013/12/19/the-problem-of-media.html)
 
 <table>
     <tr>
