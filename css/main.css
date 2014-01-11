@@ -120,7 +120,6 @@ li {
 
 time {
   color: #aaa;
-  font-family: Menlo, "Courier New", monospace;
   font-size: 0.8em;
 }
 
@@ -233,6 +232,11 @@ main nav ul {
 main nav li {
   margin: 0;
   line-height: 1.75em;
+}
+
+main nav li time {
+  float: right;
+  text-align: right;
 }
 
 body img.avatar {
