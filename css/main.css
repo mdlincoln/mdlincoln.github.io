@@ -15,6 +15,7 @@ html, body { height: 100%; }
 body {
   background-color: #fff;
   font: 14pt "Open Sans", Helvetica, Arial, sans-serif;
+  font-weight: lighter;
   color: #343434;
   text-align: left;
   width: 65%;
@@ -24,7 +25,8 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-size: 100%; }
+  font-size: 100%; 
+}
 
 h1 {
   font-size: 140%;
@@ -32,6 +34,7 @@ h1 {
   margin-bottom: 2em;
   border-bottom: 3px solid #eee;
   padding-bottom: 0.5em;
+  font-weight: lighter;
 }
 
 h2 {
@@ -117,7 +120,7 @@ li {
 
 time {
   color: #aaa;
-  font-family: Monaco, "Courier New", monospace;
+  font-family: Menlo, "Courier New", monospace;
   font-size: 0.8em;
 }
 
@@ -162,13 +165,6 @@ body header h1 {
   font-weight: normal;
 }
 
-body header h2 {
-  font-family: "Ubuntu";
-  font-size: 1em;
-  color: #a00;
-  text-align: right;
-}
-
 /*    NAV  */
 
 body header nav {
@@ -176,6 +172,7 @@ body header nav {
   margin: 1em 0em;
   font-size: 14pt;
   font-family: "Ubuntu";
+  font-weight: normal;
 }
 
 body header nav a {
@@ -210,6 +207,7 @@ main header h1 {
   font-size: 2em;
   text-align: left;
   margin: 1em 0;
+  font-weight: lighter;
 }
 
 /*****************************************************************************/
@@ -274,6 +272,7 @@ main article header h1 {
   margin: 1.5em 0 0 0;
   color: #a00;
   text-align: left;
+  font-weight: lighter;
 }
 
 aside {
@@ -294,7 +293,7 @@ article li {
 
 code,
 pre {
-  font-family: Monaco, Menlo, Consolas, "Courier New", monospace;
+  font-family: Menlo, "Courier New", monospace;
 }
 
 code {
