@@ -162,15 +162,7 @@ body header h1 {
   border: none;
   margin: 0;
   line-height: 1.5em;
-  font-weight: lighter;
-}
-
-body header h2 {
-  font-family: "Ubuntu";
-  font-size: 1em;
-  color: #a00;
-  text-align: right;
-  font-weight: lighter;
+  font-weight: normal;
 }
 
 /*    NAV  */
@@ -180,6 +172,7 @@ body header nav {
   margin: 1em 0em;
   font-size: 14pt;
   font-family: "Ubuntu";
+  font-weight: normal;
 }
 
 body header nav a {
