@@ -15,7 +15,7 @@ On this site you can find my [contact info and CV](/about), various [blog posts]
 <nav>
 	<ul>
 	{% for post in site.posts limit:5 %}
-	  <li><a href="{{ post.url }}">{{ post.title }}</a><time datetime="{{ post.date }}">{{ post.date | date: "%d %b" }}</time></li>
+	  {% include postlink.html %}
 	{% endfor %}
 	</ul>
 </nav>
