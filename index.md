@@ -10,7 +10,7 @@ As a Graduate Assistant in the Digital Humanities in the [Michelle Smith Collabo
 
 On this site you can find my [contact info and CV](/about), various [blog posts](/archive) on art history, digital humanities, and (occasionally) the [Super Mutant Ninja Turtles](/2013/09/10/ninja-turtles.html), and the full-text of conference talks and descriptions of my digital projects on the ['Projects' page](/projects).
 
-## Most recent blog posts
+## Most recent posts
 
 <nav>
 	<ul>
