@@ -15,6 +15,7 @@ html, body { height: 100%; }
 body {
   background-color: #fff;
   font: 14pt "Open Sans", Helvetica, Arial, sans-serif;
+  font-weight: lighter;
   color: #343434;
   text-align: left;
   width: 65%;
@@ -159,7 +160,7 @@ body header h1 {
   border: none;
   margin: 0;
   line-height: 1.5em;
-  font-weight: normal;
+  font-weight: lighter;
 }
 
 body header h2 {
@@ -167,6 +168,7 @@ body header h2 {
   font-size: 1em;
   color: #a00;
   text-align: right;
+  font-weight: lighter;
 }
 
 /*    NAV  */
@@ -210,6 +212,7 @@ main header h1 {
   font-size: 2em;
   text-align: left;
   margin: 1em 0;
+  font-weight: lighter;
 }
 
 /*****************************************************************************/
@@ -274,6 +277,7 @@ main article header h1 {
   margin: 1.5em 0 0 0;
   color: #a00;
   text-align: left;
+  font-weight: lighter;
 }
 
 aside {
