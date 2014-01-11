@@ -17,7 +17,7 @@ show_title: true
                 <h1>{{ post.date | date: '%Y' }}</h1>
             {% endif %}
         {% endunless %}
-        <li><time datetime="{{ post.date }}">{{ post.date | date: "%d %b" }}</time> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% include postlink.html %}
     {% endfor %}
     </ul>
 </nav>
