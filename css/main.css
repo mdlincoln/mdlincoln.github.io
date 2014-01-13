@@ -288,11 +288,19 @@ aside {
 }
 
 article ul, article ol {
-  margin-left: 2em;
+  margin-left: 1em;
 }
 
 article li {
   margin-bottom: 1em;
+}
+
+article #markdown-toc {
+  margin-left: 1em;
+}
+
+article #markdown-toc li {
+  margin: 0em;
 }
 
 code,
