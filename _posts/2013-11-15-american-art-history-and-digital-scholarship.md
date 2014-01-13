@@ -14,6 +14,12 @@ Diane Zorich has also created a [great Storify page](http://storify.com/dzorich/
 
 I've arranged it by session and paper, with a final section of random thoughts. Please comment if you've anything to add from the sessions!
 
+## Table of Contents
+{:.no_toc}
+
+* Table of Contents
+{:toc}
+
 # Mapping Images
 
 ## Photogrammar

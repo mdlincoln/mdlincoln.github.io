@@ -295,6 +295,14 @@ article li {
   margin-bottom: 1em;
 }
 
+article #markdown-toc {
+  margin-left: 1em;
+}
+
+article #markdown-toc li {
+  margin: 0em;
+}
+
 code,
 pre {
   font-family: Menlo, "Courier New", monospace;
