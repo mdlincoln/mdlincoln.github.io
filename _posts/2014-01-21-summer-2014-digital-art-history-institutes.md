@@ -8,7 +8,7 @@ tags:
     - Art History
 ---
 
-There are (at least?) four different summer institutes being offered this year in digital humanities specifically tailored for art historians.
+There are several different summer institutes being offered this year in digital humanities specifically tailored for art historians.
 Most are open to scholars of all levels and specialties, and they seek applicants of all digital skill levels.
 For the sake of convenience, I've pulled together quick links and descriptions for all of the institutes here.
 
@@ -22,3 +22,7 @@ The [Kress Foundation](http://www.kressfoundation.org/) is sponsoring one instit
 Fellowships pay for tuition, room, board, and provide a travel stipend for all participants:
 
 - August 3--15, 2014: [Summer Institute on Digital Mapping and Art History at Middlebury](http://www.kressfoundation.org/news/Article.aspx?id=35544&blogid=132): "Co-directed by Paul B. Jaskot (DePaul University) and Anne Kelly Knowles (Middlebury College), the Summer Institute will emphasize how digital mapping of art historical evidence can open up new veins of research in art history as a whole." (Applications open now, due March 3, 2014)
+
+Several people have also written in about the "Visualizing Venice" summer workshop:
+
+- June 3--13, 2014: [Visualizing Venice: the City and the Lagoon](http://www.univiu.org/shss/seminars-summer-schools/visualizing-venice-summer-workshop): "Participants will use the city and the lagoon as a 'laboratory' through which to examine questions such as change over time and dynamic process in urban and rural environments, showing how man-made spaces respond to social and economic process and transformation. The aim of the workshop is to train scholars in how new technologies can be integrated with the study of historical and material culture. The workshop will focus on a range of visualization tools that can be used in a wide variety of research areas, in particular modeling change over time in urban space and the production of maps and low-cost photogrammetry."
