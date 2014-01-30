@@ -22,5 +22,5 @@ show_title: false
 ## Other Links
 
 {% for link in site.data.contact.links %}
-- [{{ link.name }}]( {{ link.url }})
+- [{{ link.name }}]({{ link.url }})
 {% endfor %}
