@@ -2,3 +2,8 @@
 <p class="colophon">Powered by <a href="http://jekyllrb.com">Jekyll</a> and <a href="https://help.github.com/articles/using-jekyll-with-pages">GitHub Pages</a>
 <br/>
 Banner image: {{ site.banner.name }} (<a href="{{ site.banner.source }}">Image source</a>)</p>
+
+{% if site.enable_analytics %}
+<!-- Google Analytics -->
+{% include googleanalytics.js %}
+{% endif %}
