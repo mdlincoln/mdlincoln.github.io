@@ -4,8 +4,6 @@ layout: default
 show_title: true
 ---
 
-<img src="/assets/images/author.jpg" align="right" />
-
 **{{ site.data.contact.name }}**  
 {{ site.data.contact.position }}  
 {{ site.data.contact.address }}
@@ -14,11 +12,16 @@ show_title: true
 
 ## Current CV
 {% for version in site.data.contact.cv %}
-- [{{version.name}}]({{version.url}})
+<ul>
+<li><a href="{{version.url}}">{{version.name}}</a></li>
+</ul>
+
 {% endfor %}
 
 ## Other Links
 
+<ul>
 {% for link in site.data.contact.links %}
-- [{{ link.name }}]({{ link.url }})
+<li><a href="{{%20link.url%20}}">{{ link.name }}</a></li>
 {% endfor %}
+</ul>

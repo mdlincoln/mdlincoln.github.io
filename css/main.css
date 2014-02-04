@@ -115,7 +115,7 @@ table th {
 
 li {
   margin-left: 3em;
-  margin-bottom: 1em;
+  /*margin-bottom: 1em;*/
 }
 
 time {
@@ -168,7 +168,7 @@ body header h1 {
 
 body header nav {
   text-align: center;
-  margin: 1.5em 0em;
+  margin: 1em 0em 4em 0em;
   font-size: 14pt;
   font-family: "Ubuntu";
   font-weight: normal;
@@ -292,7 +292,7 @@ article ul, article ol {
 }
 
 article li {
-  margin-bottom: 1em;
+  /*margin-bottom: 1em;*/
 }
 
 article #markdown-toc {
@@ -401,10 +401,6 @@ article > footer section {
     width: 100%;
     max-width: 100%;
     font-size: 70%;
-  }
-
-  body header img {
-    display: none;
   }
   
   body header nav {
