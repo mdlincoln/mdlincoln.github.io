@@ -7,7 +7,10 @@ show_title: false
 <img src="/assets/images/author.jpg" align="right" />
 
 
-## Current CV {% for version in site.data.contact.cv %}([{{version.name}}]({{version.url}})) {% endfor %}
+## Current CV
+{% for version in site.data.contact.cv %}
+- [{{version.name}}]({{version.url}})
+{% endfor %}
 
 ## Contact Information
 
