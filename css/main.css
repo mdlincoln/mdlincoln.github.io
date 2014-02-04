@@ -141,7 +141,7 @@ sup {
 body header img {
   display: block;
   overflow: hidden;
-  margin: 0 0 3em 0;
+  margin: 0 0 1em 0;
   height: auto;
   width: 100%;
   max-width: 50em;
@@ -167,8 +167,8 @@ body header h1 {
 /*    NAV  */
 
 body header nav {
-  float: right;
-  margin: 1em 0em;
+  margin: 2em 0em;
+  display: block;
   font-size: 14pt;
   font-family: "Ubuntu";
   font-weight: normal;
@@ -176,7 +176,7 @@ body header nav {
 
 body header nav a {
   color: #a00;
-  margin: 0em 0em 0em 1em;
+  margin: 0em 1em 0em 0em;
 }
 
 /*    Site footer    */
