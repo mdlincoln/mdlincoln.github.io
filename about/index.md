@@ -1,18 +1,10 @@
 ---
 title: Contact Information
 layout: default
-show_title: false
+show_title: true
 ---
 
 <img src="/assets/images/author.jpg" align="right" />
-
-
-## Current CV
-{% for version in site.data.contact.cv %}
-- [{{version.name}}]({{version.url}})
-{% endfor %}
-
-## Contact Information
 
 **{{ site.data.contact.name }}**  
 {{ site.data.contact.position }}  
@@ -20,7 +12,10 @@ show_title: false
 
 <{{ site.data.contact.email }}>
 
-
+## Current CV
+{% for version in site.data.contact.cv %}
+- [{{version.name}}]({{version.url}})
+{% endfor %}
 
 ## Other Links
 
