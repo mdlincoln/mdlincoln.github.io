@@ -154,21 +154,21 @@ body header a {
 }
 
 body header h1 {
-  text-align: left;
+  text-align: center;
   font-family: "Ubuntu";
   color: #a00;
   font-size: 2.5em;
   border: none;
   margin: 0;
-  line-height: 1.5em;
+  line-height: 1em;
   font-weight: normal;
 }
 
 /*    NAV  */
 
 body header nav {
-  margin: 2em 0em;
-  display: block;
+  text-align: center;
+  margin: 1.5em 0em;
   font-size: 14pt;
   font-family: "Ubuntu";
   font-weight: normal;
@@ -176,7 +176,7 @@ body header nav {
 
 body header nav a {
   color: #a00;
-  margin: 0em 1em 0em 0em;
+  margin: 0em 0.5em;
 }
 
 /*    Site footer    */
