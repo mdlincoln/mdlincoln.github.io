@@ -22,6 +22,6 @@ show_title: true
 
 <ul>
 {% for link in site.data.contact.links %}
-<li><a href="{{%20link.url%20}}">{{ link.name }}</a></li>
+<li><a href="{{link.url}}">{{link.name}}</a></li>
 {% endfor %}
 </ul>
