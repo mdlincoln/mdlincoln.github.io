@@ -22,7 +22,7 @@ Hence the curious geometric shapes.
 With this broadside in hand, the budding contestant could measure out each foot themselves using the long printed crossbar.
 Moreover, they could even construct their own practice target by copying the printed circle, and inscribing concentric rings around it, spaced using the smaller of the bars.[^print]
 
-[^print]: David Landau and Peter W. Parshall, The Renaissance Print, 1470-1550 (New Haven: Yale University Press, 1994), 239--240.
+[^print]: David Landau and Peter W. Parshall, *The Renaissance Print, 1470-1550* (New Haven: Yale University Press, 1994), 239--240.
 
 With this efficient visualization, the woodcut became both a bearer of news as well as a utilitarian tool.
 It not only described the event, but actually enabled the viewer to reconstruct the conditions of the contest using the print as a visual model.
