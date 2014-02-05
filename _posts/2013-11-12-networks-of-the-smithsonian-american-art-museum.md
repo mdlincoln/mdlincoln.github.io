@@ -10,7 +10,11 @@ tags:
 
 This summer [I developed a small utility](/projects/scraping-the-smithsonian.html) to scrape collections data from the Smithsonian Institution's [database](http://collections.si.edu). I got to work digging through the artworks at the [Smithsonian American Art Museum](http://americanart.si.edu). Using [Gephi](http://gephi.org) I created a [network map](/assets/gephi/saam_network) of artworks there made between 1900 and 1935. (You can click through to go to an interactive version.) [I've posted the scripts used to create this on GitHub](https://github.com/mdlincoln/saam).
 
-[![Preview of a network map of paintings at the SAAM](/assets/images-display/saam_preview.png)](/assets/gephi/saam_network)
+<figure>
+<a href="/assets/gephi/saam_network"><img src="/assets/images-display/saam_preview.png" alt="Preview of a network map of paintings at the SAAM" /></a>
+<figcaption>Click on the graph to see a full-size, interactive version.</figcaption>
+</figure>
+
 
 So what is this showing? From a list of 40,218 artworks in the Smithsonian American Art Museum, I generated a subset of 19,584 records that have both a **date** as well as **assigned keywords**. From this subset I created a yet smaller subset database of those artworks whose date fell between 1900 and 1935, resulting in 2,255 records.
 
