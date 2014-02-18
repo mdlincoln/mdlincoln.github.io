@@ -46,5 +46,6 @@ I hope that this proof-of-concept might inspire more creative models for digital
 
 # Links
 
+- [Download the Google Earth map](http://michellesmithcollaboratory.umd.edu/sites/michellesmithcollaboratory.umd.edu/files/Albrecht%20Durer%27s%20Trip%20to%20the%20Netherlands%20in%201520-1.kmz).
 - See this project featured at the [Michelle Smith Collaboratory for Visual Culture](http://michellesmithcollaboratory.umd.edu/maps).
 - See the full XML and XSLT on [GitHub](https://github.com/mdlincoln/durer/tree/master).
