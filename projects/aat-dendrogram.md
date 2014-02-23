@@ -22,6 +22,6 @@ Click below to open up the visualization, which works best when viewed on a full
 
 I lifted the JavaScript almost wholesale from one of [Mike Bostock's D3 examples](http://bl.ocks.org/mbostock/4339083).
 You can see the code I used to import and query the data on [GitHub](https://github.com/mdlincoln/getty_vocab).
-You can also [download the underlying JSON](/assets/docs/aat-style-hierarchy.json) for this particular visualization.
+You can also [download the underlying JSON](/assets/docs/aat-hierarchy.json) for this particular visualization.
 
 This visualization contains contains information from Art & Architecture Thesaurus (AAT)® which is made available under the ODC Attribution License. [See more here](http://www.getty.edu/research/tools/vocabularies/lod/sparql.html#sthash.cSqLzpWr.dpuf).
