@@ -52,7 +52,7 @@ var svg = d3.select("main").append("svg")
   .append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-d3.json("/assets/docs/aat-style-hierarchy.json", function(error, flare) {
+d3.json("/assets/docs/aat-hierarchy.json", function(error, flare) {
   root = flare;
   root.x0 = height / 2;
   root.y0 = 0;
@@ -171,3 +171,4 @@ function click(d) {
 }
 
 </script>
+<p>This visualization contains contains information from Art &amp; Architecture Thesaurus (AAT)® which is made available under the ODC Attribution License. <a href="http://www.getty.edu/research/tools/vocabularies/lod/sparql.html#sthash.cSqLzpWr.dpuf">See more here</a>.</p>
