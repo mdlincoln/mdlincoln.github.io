@@ -20,6 +20,10 @@ Click below to open up the visualization, which works best when viewed on a full
 <figcaption>Click to open the interactive visualization of the Getty Art and Architecture Thesaurus Hierarchy.</figcaption>
 </figure>
 
+One caution: a simple hierarchical dendrogram is not the truest representation of the relationships of terms within the AAT, so some nodes here will appear to be missing subsidiary nodes because their "child" has already been assigned to another "parent".
+If you want to read more about this issue, take a look at the [GitHub code page](https://github.com/mdlincoln/getty_vocab/issues/1), and please chime in if you have any ideas to address this!
+(Thank you to [Vladimir Alexiev](https://twitter.com/valexiev1/status/437852989022162944) for helping to point out this issue.)
+
 I lifted the JavaScript almost wholesale from one of [Mike Bostock's D3 examples](http://bl.ocks.org/mbostock/4339083).
 You can see the code I used to import and query the data on [GitHub](https://github.com/mdlincoln/getty_vocab).
 You can also [download the underlying JSON](/assets/docs/aat-hierarchy.json) for this particular visualization.
