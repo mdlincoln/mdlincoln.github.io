@@ -1,5 +1,5 @@
 ---
-date: 22014-02-21 11:46:23.215180
+date: 2014-02-21 11:46:23.215180
 layout: project
 title: "Hierarchies of the Getty Art & Architecture Thesaurus"
 snippet: "A D3-driven visualization of the Getty Research Institute's Art & Architecture Thesaurus"
