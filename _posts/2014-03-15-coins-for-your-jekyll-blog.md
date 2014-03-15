@@ -9,7 +9,7 @@ tags:
 
 [COinS] is a convention for embedding bibliographic metadata in HTML.
 If, like most academics, you use citation management software like [Zotero] or [Mendeley], when you visit a site like [JSTOR] or [WorldCat] your browser plugin will helpfully recognize that you are looking at a journal article or book, and give you the option to import it directly to your citation database.
-What this plugin has done is read this small COinS code.
+This plugin has read the bit of COinS code and scraped all that information up for you.
 
 As academics increasingly turn to "gray publications" like blogs for their scholarly communication, it's important that we make *citing* these online publications as easy as possible.
 If you use WordPress, you can already use a [ScholarPress plugin](http://wordpress.org/plugins/scholarpress-coins/) to add these COinS snippets to your blog posts.
