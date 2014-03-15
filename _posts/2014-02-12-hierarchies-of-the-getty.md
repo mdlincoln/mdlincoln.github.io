@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2014-02-21 16:41:41.030765
-title: "Hierarchies of the Getty Art & Architecture Thesaurus"
+title: "Hierarchies of the Getty Art and Architecture Thesaurus"
 redirect_from: /projects/aat-dendrogram.html
 ---
 

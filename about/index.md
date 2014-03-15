@@ -4,7 +4,7 @@ layout: default
 show_title: true
 ---
 
-**{{ site.data.contact.name }}**  
+**{{ site.data.contact.name_first }} {{ site.data.contact.name_last }}**  
 {{ site.data.contact.position }}  
 {{ site.data.contact.address }}
 
