@@ -11,9 +11,6 @@ tags:
 ---
 
 
-<aside>
-<p>See the <a href="/projects/scraping-the-smithsonian.html">related project page</a>.</p>
-</aside>
 
 [Yesterday I posted](http://matthewlincoln.net/2013/08/08/scraping-the-smithsonian.html) about a Ruby script I published for scraping information from [collections.si.edu](http://collections.si.edu). Today I [pushed a sister script , `si-parse.rb`](https://github.com/mdlincoln/si-scrape), that will turn `si-scrape.rb`'s raw HTML output into well-formed JSON. *(and I got the project added to the [Muse-Tech-Central list](https://github.com/MuseCompNet/muse-tech-central)!)*
 

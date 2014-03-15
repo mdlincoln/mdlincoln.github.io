@@ -1,9 +1,10 @@
 ---
 date: 2013-06-14 02:26:07+00:00
-layout: project
+layout: post
 title: Patriotic and Religious Geographies in Emanuel de Witte’s Church Paintings
 snippet: A paper examining the intersection of civic pride and memory in paintings by Emanuel de Witte. Versions presented at the 2011 University of Indiana, Bloomington Graduate Art History Symposium, and the 2012 Medieval and Early Modern interdisciplinary conference "Geographies of Desire" at the University of Maryland, College Park.
 img: /assets/images-display/dewitte_avatar.png
+redirect_from: /projects/patriotic-and-religious-geographies-in-emanuel-de-wittes-church-paintings.html
 ---
 
 

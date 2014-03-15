@@ -2,6 +2,7 @@
 layout: post
 date: 2014-02-21 16:41:41.030765
 title: "Hierarchies of the Getty Art & Architecture Thesaurus"
+redirect_from: /projects/aat-dendrogram.html
 ---
 
 The Getty released their Art & Architecture Thesaurus (or AAT) as [Linked Open Data](http://vocab.getty.edu/) yesterday, part of their ongoing project to publish each of their wonderfully-detailed vocabularies onto the Semantic Web.
@@ -14,7 +15,7 @@ To give a better sense of the real scope of this vocabulary, I built a small scr
 Click below to open up the visualization, which works best when viewed on a full screen.
 
 <figure>
-<a href="/projects/dendrogram-fullscreen.html"><img src="/assets/images-display/aat_screenshot.png" alt="Screenshot from the AAT dendrogram visualization" /></a>
+<a href="/pages/dendrogram-fullscreen.html"><img src="/assets/images-display/aat_screenshot.png" alt="Screenshot from the AAT dendrogram visualization" /></a>
 <figcaption>Click to open the interactive visualization of the Getty Art and Architecture Thesaurus Hierarchy.</figcaption>
 </figure>
 

@@ -7,14 +7,11 @@ show_title: true
 The projects below include both "traditional" art historical research, papers, and conference talks, as well as digital humanities endeavors and tutorials. 
 
 <!-- Automatic project list generator -->
-{% for page in site.pages %}
-{% if page.layout == 'project' %}
+{% for project in site.data.projects %}
 <div class="toc">
-<h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
-<img src="{{ page.img }}" class="avatar" />
-<p>{{ page.snippet }}</p>
+<h1><a href="{{ project.url }}">{{ project.title }}</a></h1>
+<img src="{{ project.avatar }}" class="avatar" />
+<p>{{ project.snippet }}</p>
 </div>
-{% else %}
-{% endif %}
 {% endfor %}
 
