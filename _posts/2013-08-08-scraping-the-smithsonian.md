@@ -9,11 +9,9 @@ tags:
 - Linked Open Data
 - Visualization
 - Digital Humanities
+redirect_from: /projects/scraping-the-smithsonian.html
 ---
 
-<aside>
-<p>See the <a href="/projects/scraping-the-smithsonian.html">related project page</a>.</p>
-</aside>
 
 I'm proud to push one of my first real forays into digital humanities toolmaking to GitHub today: [si-scrape](https://github.com/mdlincoln/si-scrape), a Ruby script that scrapes data off of the Smithsonian Institution's collection web portal [collections.si.edu](http://collections.si.edu).
 

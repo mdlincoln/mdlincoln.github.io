@@ -6,3 +6,7 @@
   url: /2013/05/28/timespan-elements-in-kml.html
   snippet: A guide to encoding historical time information in Google Earth maps.
   avatar: /assets/images-display/timeslider.png
+- title: Scraping the Smithsonian
+  url: /2013/08/08/scraping-the-smithsonian.html
+  snippet: "A beginner Ruby script for downloading collection data from the Smithsonian Institution in bulk, and parsing it into well-formed JSON."
+  avatar: /assets/images-display/si_scrape_avatar.png
