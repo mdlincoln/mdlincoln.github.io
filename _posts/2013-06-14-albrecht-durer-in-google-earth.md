@@ -4,6 +4,7 @@ layout: post
 title: Albrecht Dürer in Google Earth
 snippet: A Google Earth visualization of part of Albrecht Dürer's 1520 journey to the Netherlands.
 img: /assets/images-display/durer_avatar.png
+redirect_from: /projects/albrecht-durer-in-google-earth.html
 ---
 
 # Introduction
