@@ -10,3 +10,7 @@
   url: /2013/08/08/scraping-the-smithsonian.html
   snippet: "A beginner Ruby script for downloading collection data from the Smithsonian Institution in bulk, and parsing it into well-formed JSON."
   avatar: /assets/images-display/si_scrape_avatar.png
+- title: "Patriotic and Religious Geographies in Emanuel de Witte's Church Paintings"
+  url: /2013/06/14/patriotic-and-religious-geographies-in-emanuel-de-wittes-church-paintings.html
+  snippet: 'A paper examining the intersection of civic pride and memory in paintings by Emanuel de Witte. Versions presented at the 2011 University of Indiana, Bloomington Graduate Art History Symposium, and the 2012 Medieval and Early Modern interdisciplinary conference "Geographies of Desire" at the University of Maryland, College Park.'
+  avatar: /assets/images-display/dewitte_avatar.png
