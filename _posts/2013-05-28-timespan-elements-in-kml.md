@@ -1,6 +1,6 @@
 ---
 date: 2013-05-28 19:44:09+00:00
-layout: project
+layout: post
 title: Early modern TimeSpan elements in KML
 snippet: A guide to encoding historical time information in Google Earth maps.
 img: /assets/images-display/timeslider.png

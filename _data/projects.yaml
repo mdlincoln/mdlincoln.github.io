@@ -2,3 +2,7 @@
   url: /2013/06/14/albrecht-durer-in-google-earth.html
   snippet: A Google Earth visualization of part of Albrecht Dürer's 1520 journey to the Netherlands.
   avatar: /assets/images-display/durer_avatar.png
+- title: Early modern TimeSpan elements in KML
+  url: /2013/05/28/timespan-elements-in-kml.html
+  snippet: A guide to encoding historical time information in Google Earth maps.
+  avatar: /assets/images-display/timeslider.png
