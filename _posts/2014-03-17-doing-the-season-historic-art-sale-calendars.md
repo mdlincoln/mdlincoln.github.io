@@ -13,7 +13,7 @@ The GRI hosts a vast trove of [provenance documents][provenance]
 Coincidentally, one of the only computationally-focused panels on the [CAA2015 CFP][cfp] (PDF) just released last week calls for scholarship on historic art prices.
 So just how well does the Getty's own data support these kinds of inquiries?
 
-Though their web interface is rather sluggish and balks at some larger queries, you can downloading a CSV of search results.
+Though their web interface is rather sluggish and balks at some larger queries, you can download a rather rich CSV of search results.
 Considering the heterogeneity of their sources, the Getty data are not too badly formatted.
 That said, this is hardly a data table you can drop into R and start plotting.
 Numeric values like prices, dimensions, and sale dates are buried within irregular text strings.
