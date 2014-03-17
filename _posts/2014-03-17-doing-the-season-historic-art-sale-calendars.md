@@ -9,7 +9,7 @@ tags:
 ---
 
 After working on visualizing the Getty's [Art & Architecture Thesaurus][aat] the other week, I decided to poke around some of the other data resources that the Getty has to offer.
-The GRI hosts a vast trove of [provenance documents][provenance]
+The GRI hosts a vast trove of [provenance documents][provenance].
 Coincidentally, one of the only computationally-focused panels on the [CAA2015 CFP][cfp] (PDF) just released last week calls for scholarship on historic art prices.
 So just how well does the Getty's own data support these kinds of inquiries?
 
