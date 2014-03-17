@@ -23,6 +23,8 @@ One caution: a simple hierarchical dendrogram is not the truest representation o
 If you want to read more about this issue, take a look at the [GitHub code page](https://github.com/mdlincoln/getty_vocab/issues/1), and please chime in if you have any ideas to address this!
 (Thank you to [Vladimir Alexiev](https://twitter.com/valexiev1/status/437852989022162944) for helping to point out this issue.)
 
+*Edit 2014-03-17: The folks at the Getty have kindly updated the AAT data to resolve an issue where some nodes were listed as their own children, among other problems. I have updated both my processing code as well as the visualization on this site to reflect the new data.*
+
 I lifted the JavaScript almost wholesale from one of [Mike Bostock's D3 examples](http://bl.ocks.org/mbostock/4339083).
 You can see the code I used to import and query the data on [GitHub](https://github.com/mdlincoln/getty_vocab).
 You can also [download the underlying JSON](/assets/docs/aat-hierarchy.json) for this particular visualization.
