@@ -50,8 +50,8 @@ Even the earliest sales in the late eighteenth century follow this general struc
 This calendar was almost certainly defined by the ["London Season"](http://www.literary-liaisons.com/article024.html), the annual period that evolved in the 18th and 19th centuries during which the British aristocracy shifted from their country estates to their London town mansions to participate in a variety of social events.
 The dates of the season ostensibly coincided with Parliament's sessions, though in practice it was linked to exhibitions at the Royal Academy of Art and key sporting events such as the Derby.
 
-Far from being a specialist in eighteenth- and nineteenth-century London social history, I'm curious to what extent this auction calendar was defined by the Season, or if in fact it helped to set that season.
-Did the evolution of the London Season help to push these auction sales later and later into the spring and summer?
+Far from being a specialist in eighteenth- and nineteenth-century London social history, I'm curious to what extent the Season defined this calendar, and to what extent the growth of auctions helped to re-define the Season itself.
+Was it the changing habits of the London Season that motivated the shift of peak auction season deeper into the summer?
 How much of our modern-day auction patterns are still defined by this centuries-old social calendar?
 
 [Download the code to reproduce these plots here.][code]
