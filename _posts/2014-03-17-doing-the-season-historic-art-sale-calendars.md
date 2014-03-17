@@ -59,6 +59,6 @@ How much of our modern-day auction patterns are still defined by this centuries-
 [code]: https://github.com/mdlincoln/getty_christies_sales
 [Christie's]: http://www.christies.com/about-us/company/overview/
 [lubridate]: https://github.com/hadley/lubridate
-[aat]: http://www.getty.edu/research/tools/vocabularies/aat/
+[aat]: http://matthewlincoln.net/2014/02/21/hierarchies-of-the-getty.html
 [provenance]: http://www.getty.edu/research/tools/provenance/search.html
 [cfp]: http://www.collegeart.org/pdf/2015CallforParticipation.pdf
