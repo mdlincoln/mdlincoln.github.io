@@ -10,13 +10,7 @@ show_title: true
 
 <{{ site.data.contact.email }}>
 
-## Current CV
-{% for version in site.data.contact.cv %}
-<ul>
-<li><a href="{{version.url}}">{{version.name}}</a></li>
-</ul>
-
-{% endfor %}
+## [Current CV](https://www.dropbox.com/s/67epcc3kjiq6jad/mlincoln_cv.pdf)
 
 ## Other Links
 

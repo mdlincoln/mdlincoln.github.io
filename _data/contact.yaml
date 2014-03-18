@@ -19,8 +19,3 @@ links:
       url: http://www.linkedin.com/profile/view?id=49520669
     - name: Academia.edu
       url: http://umd.academia.edu/MatthewLincoln
-cv:
-    - name: PDF
-      url: 'https://docs.google.com/document/d/1D26djrb4BUMYkLiif01vQM5nXty2ziCqctzF1wQb_sA/export?format=pdf&id=1D26djrb4BUMYkLiif01vQM5nXty2ziCqctzF1wQb_sA'
-    - name: Web
-      url: 'https://docs.google.com/document/d/1D26djrb4BUMYkLiif01vQM5nXty2ziCqctzF1wQb_sA/pub'
