@@ -11,6 +11,8 @@ tags:
 <p>This paper was presented at the 2014 meeting of the Renaissance Society of
 America in New York.</p>
 
+<p><a href="/assets/docs/mechanical_bodies.pdf">Download in PDF format.</a></p>
+
 <p>&quot;Marvelous Mechanical Bodies in Sixteenth-Century Joyous Entries In Antwerp and Vienna&quot; by <a href="http://matthewlincoln.net">Matthew D. Lincoln</a> is licensed under a <a href="http://creativecommons.org/licenses/by-nc-nd/3.0/deed.en_US">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License</a>.</p>
 <p><a href="http://creativecommons.org/licenses/by-nc-nd/3.0/deed.en_US"><img src="http://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png" alt="Creative Commons License" /></a></p>
 </aside>
