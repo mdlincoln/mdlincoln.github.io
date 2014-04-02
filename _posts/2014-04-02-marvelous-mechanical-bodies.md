@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: "Marvelous Mechanical Bodies"
+title: "Marvelous Mechanical Bodies in Sixteenth-Century Joyous Entries In Antwerp and Vienna"
 date: 2014-04-02 17:28
 tags: 
 - Art History
