@@ -11,7 +11,7 @@
       </li>
 
       {% for link in site.data.nav %}
-        <li class="sidebar-nav-item{% if page.url == link.url %} active{% endif %}">
+        <li class="sidebar-nav-item{% if page.title == link.title %} active{% endif %}">
            <a href="{{ link.url }}">{{ link.title }}</a>
         </li>
       {% endfor %}
