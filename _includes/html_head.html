@@ -23,3 +23,8 @@
 
 <!-- Fonts -->
 <link href='http://fonts.googleapis.com/css?family=Ubuntu+Mono|Ubuntu|Open+Sans:300italic,300' rel='stylesheet' type='text/css'>
+
+{% if site.enable_analytics %}
+<!-- Google Analytics -->
+{% include googleanalytics.js %}
+{% endif %}
