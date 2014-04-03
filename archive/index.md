@@ -1,6 +1,6 @@
 ---
 layout: default
-title: All Blog Posts
+title: Archive
 show_title: true
 ---
 
