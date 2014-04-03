@@ -43,15 +43,6 @@ html {
   html {
     font-size: 20px;
   }
-  .circular {
-  margin: 2em auto;
-  width: 200px;
-  height: 200px;
-  border-radius: 100px;
-  -webkit-border-radius: 100px;
-  -moz-border-radius: 100px;
-  background: url(/assets/images-display/header.jpg) no-repeat;
-  }
 }
 
 
