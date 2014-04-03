@@ -7,14 +7,8 @@
     </div>
 
     <ul class="sidebar-nav">
-      <li class="sidebar-nav-item{% if page.title == "Home" %} active{% endif %}">
-        <a href="/">Home</a>
-      </li>
-
       {% for link in site.data.nav %}
-        <li class="sidebar-nav-item{% if page.title == link.title %} active{% endif %}">
-           <a href="{{ link.url }}">{{ link.title }}</a>
-        </li>
+           <a href="{{ link.url }}">{{ link.title }}</a>{% if forloop.last %}{% else %} | {% endif %}
       {% endfor %}
     </ul>
 
