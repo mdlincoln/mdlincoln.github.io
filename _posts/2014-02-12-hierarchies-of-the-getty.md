@@ -3,6 +3,9 @@ layout: post
 date: 2014-02-21 16:41:41.030765
 title: "Hierarchies of the Getty Art and Architecture Thesaurus"
 redirect_from: /projects/aat-dendrogram.html
+tags:
+- Code
+- Visualization
 ---
 
 The Getty released their Art & Architecture Thesaurus (or AAT) as [Linked Open Data](http://vocab.getty.edu/) yesterday, part of their ongoing project to publish each of their wonderfully-detailed vocabularies onto the Semantic Web.

@@ -6,7 +6,6 @@ date: 2013-08-16 14:21:18.340019
 tags:
 - Digital Humanities
 - GIS
-- Video
 ---
 
 We have finally uploaded our updated, interactive Google Earth maps to the Michelle Smith Collaboratory website, with a video introduction voiced by yours truly (and put together by virtuoso video editor [Madeline Gent](http://arthistory.umd.edu/graduate-students/Madeline%20Gent)):

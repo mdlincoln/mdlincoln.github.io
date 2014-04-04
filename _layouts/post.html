@@ -9,6 +9,9 @@ layout: default
   {{ content }}
 </div>
 
+<p class="meta">Tagged in: {% for tag in page.tags %}<a href="/tags/{{ tag | downcase | replace: ' ', '_' }}.html">{{ tag }}</a>{% if forloop.last %}{% else %}, {% endif %}{% endfor %}</p>
+
+
 {% if site.enable_disqus %}
 {% if page.comments %}
 	<section class="comments">

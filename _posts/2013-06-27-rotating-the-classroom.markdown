@@ -9,7 +9,6 @@ wordpress_id: 1276
 tags:
 - Art History
 - Teaching
-- Video
 ---
 
 The "flipped" or "inverted" classroom is a hot trend in higher-ed ([peruse the *Chronicle*'s archives](http://chronicle.com/search/?search_siteId=5&contextId=&action=rem&searchQueryString=flipped) to get an idea.) In brief, the instructor in a flipped classroom channels most of their content delivery (lectures, readings) *outisde* the classroom, often through screencasts students can watch on their own time. This frees up time in the classroom for critical discussion, questions, and student collaboration, thus taking advantage of the best part of a traditional classroom: having bodies in the room! (Or [seated on ends of a log](http://archives.williams.edu/williamshistory/greylock/mhopkins.php), if, like me, you prefer a Williams College analogy.)

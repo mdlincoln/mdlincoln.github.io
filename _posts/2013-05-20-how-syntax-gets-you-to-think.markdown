@@ -8,8 +8,6 @@ title: How syntax gets you to "think"
 wordpress_id: 1013
 tags:
 - Academia
-- Linguistics
-- Video
 ---
 
 <div class="videoWrapper">

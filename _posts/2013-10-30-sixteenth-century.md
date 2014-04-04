@@ -4,6 +4,8 @@ comments: true
 title: Sixteenth Century Society Conference
 date: 2013-10-30 11:37:40.379815
 tags:
+- Digital Humanities
+- Conferences
 ---
 
 I've been racing to catch up on work not done during this year's Sixteenth Century Society Conference in San Juan. But just because your conference is on a beach doesn't mean it can't be productive. Some bullet points from my very selective experience of the conference:

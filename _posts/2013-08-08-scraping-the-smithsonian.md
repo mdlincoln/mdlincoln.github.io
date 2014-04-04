@@ -6,7 +6,6 @@ date: 2013-08-08 13:48:16.418143
 tags:
 - Code
 - Museums
-- Linked Open Data
 - Visualization
 - Digital Humanities
 redirect_from: /projects/scraping-the-smithsonian.html

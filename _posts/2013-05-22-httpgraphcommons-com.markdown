@@ -7,7 +7,7 @@ slug: httpgraphcommons-com
 title: http://graphcommons.com/
 wordpress_id: 1030
 tags:
-- Network analysis
+- Network Analysis
 - Digital Humanities
 ---
 

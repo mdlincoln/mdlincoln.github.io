@@ -5,6 +5,10 @@ title: Early modern TimeSpan elements in KML
 snippet: A guide to encoding historical time information in Google Earth maps.
 img: /assets/images-display/timeslider.png
 redirect_from: /projects/timespan-elements-in-kml.html
+tags:
+  - GIS
+  - Code
+  - Digital Humanities
 ---
 
 Google Earth can be a very useful tool for visualizing historical change, however encoding dates can be difficult. GE does not make this particularly easy to do from its graphical user interface (i.e. the Google Earth application), which obstinately refuses to accept any year before 1752. However you can circumvent this odd restriction by directly editing the text versions of the KML files you create with Google Earth.

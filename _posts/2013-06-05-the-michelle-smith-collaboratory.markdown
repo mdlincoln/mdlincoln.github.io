@@ -7,8 +7,7 @@ slug: the-michelle-smith-collaboratory
 title: The Michelle Smith Collaboratory
 wordpress_id: 1100
 tags:
-- Maps
-- Michelle Smith Collaboratory
+- GIS
 - Visualization
 - Art History
 - Articles

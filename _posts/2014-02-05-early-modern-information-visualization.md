@@ -5,7 +5,7 @@ title: "Early Modern Information Visualization"
 date: 2014-02-05 17:16
 tags: 
 - Art History
-- Visualiztion
+- Visualization
 ---
 
 I ran into a lovely bit of early modern information visualization today while reading a classic, Peter Parhsall's and David Landau's 1994 study *The Renaissance Print, 1470-1550*:

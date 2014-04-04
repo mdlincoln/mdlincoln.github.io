@@ -9,8 +9,8 @@ wordpress_id: 1252
 tags:
 - Art History
 - Digital Humanities
-- Gephi
-- Network analysis
+- Visualization
+- Network Analysis
 ---
 
 These past few weeks I have been sorting through the data available in the Getty’s [Union List of Artist Names](http://www.getty.edu/research/tools/vocabularies/ulan/about.html), learning how to parse its raw XML and create tables of relevant data.
