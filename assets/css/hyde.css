@@ -57,7 +57,7 @@ html {
   text-align: center;
   padding: 2rem 1rem;
   color: rgba(255,255,255,.5);
-  background-color: #202020;
+  background-color: #444;
 }
 @media (min-width: 48rem) {
   .sidebar {
@@ -77,6 +77,7 @@ html {
 
 /* About section */
 .sidebar-about h1 {
+  text-align: center;
   color: #fff;
   margin-top: 0;
   font-family: "Ubuntu", serif;
@@ -85,7 +86,7 @@ html {
 
 /* Sidebar nav */
 .sidebar-nav {
-  padding-left: 0;
+  text-align: center;
   list-style: none;
 }
 .sidebar-nav-item {
@@ -97,6 +98,14 @@ a.sidebar-nav-item:focus {
 }
 .sidebar-nav-item.active {
   font-weight: bold;
+}
+
+.social-nav {
+  text-align: center;
+}
+.social-nav a {
+  margin: 0 1rem;
+  font-size: 180%;
 }
 
 .sidebar .license {
@@ -111,9 +120,11 @@ a.sidebar-nav-item:focus {
 
 @media (min-width: 48rem) {
   .sidebar-sticky .license {
-    position: relative;
-    bottom: -4.5rem;
+    margin-top: 1.5rem
   }
+
+  .sidebar-nav {
+    margin: 1.5rem 0;
 }
 
 
