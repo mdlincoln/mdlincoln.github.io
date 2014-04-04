@@ -71,8 +71,8 @@ a {
   text-decoration: none;
 }
 /* `:focus` is linked to `:hover` for basic accessibility */
-a:hover,
-a:focus {
+body a:hover,
+body a:focus {
   color: #F9895A;
   border-bottom: 1px dotted #F9895A;
 }
