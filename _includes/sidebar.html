@@ -2,16 +2,15 @@
   <div class="container sidebar-sticky">
     <div class="circular"></div>
     <div class="sidebar-about">
-      <h1>{{ site.data.site.title }}</h1>
-      <!-- <p class="lead">{{ site.data.site.description }}</p> -->
+      <h1><a href="/">{{ site.data.site.title }}</a></h1>
     </div>
 
-    <ul class="sidebar-nav">
+    <p class="sidebar-nav">
       {% for link in site.data.nav %}
            <a href="{{ link.url }}">{{ link.title }}</a>{% if forloop.last %}{% else %} | {% endif %}
       {% endfor %}
-    </ul>
+    </p>
 
-    <p class="license">All work on "<span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">matthewlincoln.net</span>" by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">{{ site.data.site.title }}</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.</p>
+    <p class="license">All work on "<span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">matthewlincoln.net</span>" by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">{{ site.data.site.title }}</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>. <a href="/colophon">Colophon</a></p>
   </div>
 </div>
