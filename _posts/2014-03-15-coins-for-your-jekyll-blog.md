@@ -5,6 +5,7 @@ title: "COinS for Your Jekyll Blog"
 date: 2014-03-15 13:13
 tags: 
   - Code
+  - Publishing
 ---
 
 [COinS] is a convention for embedding bibliographic metadata in HTML.

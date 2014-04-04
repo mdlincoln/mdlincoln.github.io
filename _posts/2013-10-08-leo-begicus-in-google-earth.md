@@ -4,8 +4,8 @@ comments: true
 title: Leo Belgicus in Google Earth
 date: 2013-10-08 09:18:10.856216
 tags:
-- Maps
 - GIS
+- Digital Humanities
 ---
 
 That 1611 map of the Netherlands in the shape of a lion that I'd been [geo-referencing/rectifying earlier this summer](/2013/06/08/georeferencing-hondius.html)? Well we've finally got it up and running. The map has been superimposed over a modern geographic coordinate system (geo-referencing) been algorithmically squeezed and stretched in certain areas to make sure it lines up OK (geo-rectifying). You can download this [Google Earth file](http://artinterp.org/hondius/leo_belgicus.kml) (the link file is under 1K; you'll need to be running Google Earth online to view the actual map images) to explore the map in all its zoom-able glory.

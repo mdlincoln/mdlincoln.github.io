@@ -10,7 +10,6 @@ tags:
 - Academia
 - Digital Humanities
 - Conferences
-- MOOCs
 - THATCamp
 ---
 

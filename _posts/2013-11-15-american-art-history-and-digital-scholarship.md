@@ -6,6 +6,8 @@ date: 2013-11-15 17:20:57.470370
 tags:
 - Digital Humanities
 - Art History
+- Museums
+- Archives
 ---
 
 These are some live notes from the Smithsonian Institution Archives of American Art symposium ["American Art History and Digital Scholarship: New Avenues of Exploration"](http://www.aaa.si.edu/symposium) on Friday November 15, 2013.

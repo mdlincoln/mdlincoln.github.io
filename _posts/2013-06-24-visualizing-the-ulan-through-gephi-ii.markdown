@@ -9,8 +9,8 @@ wordpress_id: 1270
 tags:
 - Art History
 - Digital Humanities
-- Gephi
-- Network analysis
+- Visualization
+- Network Analysis
 ---
 
 In a recent [guest post](http://sixdegreesoffrancisbacon.com/post/53595757782/networks-as-constructs-the-curious-case-of-margaret) on the Six Degrees of Francis Bacon project, Shawn Moore discusses the curious networks of Maria Cavendish. Moore writes:

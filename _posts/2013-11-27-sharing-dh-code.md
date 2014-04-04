@@ -7,6 +7,7 @@ tags:
 - Museums
 - Code
 - Digital Humanities
+- Publishing
 ---
 
 I have finally gotten around to [releasing the code](https://github.com/mdlincoln/saam) I used to generate my [iconography network graph](/2013/11/12/networks-of-the-smithsonian-american-art-museum.html) of the Smithsonian American Art Museum. 
