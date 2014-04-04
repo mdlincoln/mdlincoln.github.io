@@ -13,6 +13,10 @@ tags:
 
 Google Earth can be a very useful tool for visualizing historical change, however encoding dates can be difficult. GE does not make this particularly easy to do from its graphical user interface (i.e. the Google Earth application), which obstinately refuses to accept any year before 1752. However you can circumvent this odd restriction by directly editing the text versions of the KML files you create with Google Earth.
 
+<figure>
+<img src="/assets/images-display/timeslider.png" />
+<figcaption>The Google Earth time slider</figcaption>
+</figure>
 
 # KMZ vs. KML
 
