@@ -92,13 +92,6 @@ html {
 .sidebar-nav-item {
   display: block;
 }
-a.sidebar-nav-item:hover,
-a.sidebar-nav-item:focus {
-  text-decoration: underline;
-}
-.sidebar-nav-item.active {
-  font-weight: bold;
-}
 
 .social-nav {
   text-align: center;
