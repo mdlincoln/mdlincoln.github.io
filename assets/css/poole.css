@@ -254,6 +254,20 @@ tbody tr:nth-child(odd) th {
   background-color: #f9f9f9;
 }
 
+/*    Footnotes    */
+
+.footnotes {
+  margin-top: 6em;
+}
+
+.footnotes hr {
+  display: none;
+}
+
+.footnotes li {
+  margin-left: 0;
+  font-size: 80%
+}
 
 /*
  * Custom type
