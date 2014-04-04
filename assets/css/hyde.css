@@ -204,7 +204,3 @@ a.sidebar-nav-item:focus {
 .theme-lincoln .sidebar {
   background-color: #444;
 }
-.theme-lincoln .content a,
-.theme-lincoln .related-posts li a:hover {
-  color: #a00;
-}
