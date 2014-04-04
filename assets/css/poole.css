@@ -345,6 +345,16 @@ tbody tr:nth-child(odd) th {
   color: #9a9a9a;
 }
 
+div.toc {
+  display: inline-block;
+  margin: 1rem 0;
+}
+
+body img.avatar {
+  float: left;
+  margin: 0 2em 0 0;
+}
+
 /* Related posts */
 .related {
   padding-top: 2rem;

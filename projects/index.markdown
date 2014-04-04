@@ -9,7 +9,7 @@ The projects below include both "traditional" art historical research, papers, a
 <!-- Automatic project list generator -->
 {% for project in site.data.projects %}
 <div class="toc">
-<h1><a href="{{ project.url }}">{{ project.title }}</a></h1>
+<h3><a href="{{ project.url }}">{{ project.title }}</a></h3>
 <img src="{{ project.avatar }}" class="avatar" />
 <p>{{ project.snippet }}</p>
 </div>
