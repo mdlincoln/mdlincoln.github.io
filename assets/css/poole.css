@@ -219,9 +219,22 @@ blockquote p:last-child {
 
 img {
   display: block;
-  margin: 0 0 1rem;
-  border-radius: 5px;
+  margin-right: auto;
+  margin-left: auto;
   max-width: 100%;
+  height: auto;
+}
+
+figure {
+  margin: 0 0 1rem;
+}
+
+figure figcaption {
+  margin: 1rem 0 0 0;
+  color: #666;
+  font-size: 0.8em;
+  font-style: italic;
+  text-align: center;
 }
 
 /* Tables */
@@ -241,6 +254,28 @@ tbody tr:nth-child(odd) th {
   background-color: #f9f9f9;
 }
 
+/*    Aside       */
+
+aside {
+  color: #aaa;
+  font-style: italic;
+  margin: 2em 0em;
+}
+
+/*    Footnotes    */
+
+.footnotes {
+  margin-top: 6em;
+}
+
+.footnotes hr {
+  display: none;
+}
+
+.footnotes li {
+  margin-left: 0;
+  font-size: 80%
+}
 
 /*
  * Custom type
