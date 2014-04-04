@@ -1,27 +1,18 @@
 ---
 layout: default
 ---
-<article>
-	<header>
-	{% include coins.html %}
-	<h1>{{ page.title }}</h1>
-	{% if page.livepost %}
-	<p><strong>This post is being written LIVE.</strong></p>
-	<p><strong>Last update: <time datetime="{{ site.time }}">{{ site.time | date: "%b %d %Y, %I:%M %p %Z" }}</time></strong></p>
-	{% else %}
-		<time datetime="{{ page.date }}">{{ page.date | date_to_string }}</time>
-	{% endif %}
-	</header>
-	<body>
-	{{ content }}
-	</body>
-	<footer>
-		{% if site.enable_disqus %}
-		{% if page.comments %}
-			<section class="comments">
-			{% include disqus.html %}
-			</section>
-		{% endif %}
-		{% endif %}
-	</footer>
-</article>
+{% include coins.html %}
+
+<div class="post">
+  <h1 class="post-title">{{ page.title }}</h1>
+  <time datetime="{{ page.date }}">{{ page.date | date_to_string }}</time>
+  {{ content }}
+</div>
+
+{% if site.enable_disqus %}
+{% if page.comments %}
+	<section class="comments">
+	{% include disqus.html %}
+	</section>
+{% endif %}
+{% endif %}

@@ -1,0 +1,16 @@
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="circular"></div>
+    <div class="sidebar-about">
+      <h1><a href="/">{{ site.data.site.title }}</a></h1>
+    </div>
+
+    <p class="sidebar-nav">
+      {% for link in site.data.nav %}
+           <a href="{{ link.url }}">{{ link.title }}</a>{% if forloop.last %}{% else %} | {% endif %}
+      {% endfor %}
+    </p>
+
+    <p class="license">All work on "<span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">matthewlincoln.net</span>" by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">{{ site.data.site.title }}</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>. <a href="/pages/colophon.html">Colophon</a></p>
+  </div>
+</div>

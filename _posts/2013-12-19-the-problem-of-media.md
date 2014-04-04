@@ -10,7 +10,19 @@ tags:
 - Code
 ---
 
-{% include rkm.html %}
+<aside>
+	<p>This is from part of a series of posts on my <a href="http://michellesmithcollaboratory.umd.edu/summer-gas-set-high-bar">work this summer</a> in the Michelle Smith Collaboratory exploring possibilities for digital art historical practice:</p>
+
+
+	<ol>
+		<li><a href="/2013/09/18/iconclass-and-charting-the-rijksmuseum.html">Charting the Rijksmuseum: Iconclass</a></li>
+		<li><a href="/2013/10/04/charting-the-rijksmuseum-digging-deeper.html">Charting the Rijksmuseum: Digging Deeper</a></li>
+		<li><a href="/2013/12/19/the-problem-of-media.html">Charting the Rijksmuseum: The Problem of Media</a></li>
+	</ol>
+
+	<p>You can view and download data extracted from the Rijksmuseum collections on a <a href="https://docs.google.com/spreadsheet/ccc?key=0AsjvWNf_U5QbdHp2S0xSUzdmWnVpSGFFdWN1cDZMcHc&amp;usp=sharin">Google spreadsheet</a> I've published.</p>
+</aside>
+
 
 All of the graphs I have made for this project are generated from collection-wide trends.
 I did not discriminate between different types of artworks like paintings, prints, photographs, sculpture, or furniture.

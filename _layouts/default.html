@@ -3,20 +3,13 @@
 		<head>
 				{% include html_head.html %}
 		</head>
-		<body>
-				<header>
-					{% include header.html %}
-				</header>
-				<main>
+		<body class="theme-lincoln">
+			{% include sidebar.html %}
+				<div class="content container">
 					{% if page.show_title %}
-						<header>
-							<h1>{{ page.title }}</h1>
-						</header>
+						<h1 class="post-title">{{ page.title }}</h1>
 					{% endif %}
 					{{ content }}
-				</main>
-				<footer>
-					{% include footer.html %}
-				</footer>
+				</div>
 		</body>
 </html>

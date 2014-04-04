@@ -1,1 +1,1 @@
-<li><a href="{{ post.url }}">{{ post.title | truncate: 70 }}</a><time datetime="{{ post.date }}">{{ post.date | date: "%d %b" }}</time></li>
+<li><time datetime="{{ post.date }}">{{ post.date | date: "%d %b" }} </time><a href="{{ post.url }}">{{ post.title }}</a></li>

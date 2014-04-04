@@ -12,11 +12,16 @@
 <!-- RSS feed -->
 <link rel="alternate" type="application/rss+xml" title="{{ site.data.site.title }}" href="{{ site.url }}/feed.xml">
 
-<!-- syntax highlighting CSS -->
-<link rel="stylesheet" href="/css/syntax.css">
+<!-- Enable responsiveness on mobile devices-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 
-<!-- Custom CSS -->
-<link rel="stylesheet" href="/css/main.css">
+<!-- CSS -->
+<link rel="stylesheet" href="/assets/css/poole.css">
+<link rel="stylesheet" href="/assets/css/syntax.css">
+<link rel="stylesheet" href="/assets/css/hyde.css">
+<link href='http://fonts.googleapis.com/css?family=Ubuntu|Open+Sans:400italic,400,700' rel='stylesheet' type='text/css'>
 
-<!-- Fonts -->
-<link href='http://fonts.googleapis.com/css?family=Ubuntu+Mono|Ubuntu|Open+Sans:300italic,300' rel='stylesheet' type='text/css'>
+{% if site.enable_analytics %}
+<!-- Google Analytics -->
+{% include googleanalytics.js %}
+{% endif %}
