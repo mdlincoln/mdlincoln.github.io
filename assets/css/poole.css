@@ -331,13 +331,10 @@ tbody tr:nth-child(odd) th {
 }
 .page-title,
 .post-title {
-  font-size: 160%;
+  font-size: 2.2rem;
   line-height: 1.5em;
   font-family: "Ubuntu";
-  margin: 1.5em 0 0 0;
   color: #a00;
-  text-align: left;
-  font-weight: lighter;
 }
 
 /* Meta data line below post title */
@@ -346,6 +343,16 @@ tbody tr:nth-child(odd) th {
   margin-top: -.5rem;
   margin-bottom: 1rem;
   color: #9a9a9a;
+}
+
+div.toc {
+  display: inline-block;
+  margin: 1rem 0;
+}
+
+body img.avatar {
+  float: left;
+  margin: 0 2em 0 0;
 }
 
 /* Related posts */
