@@ -111,10 +111,8 @@ a.sidebar-nav-item:focus {
 
 @media (min-width: 48rem) {
   .sidebar-sticky .license {
-    position: absolute;
-    right:  1rem;
-    bottom: 1rem;
-    left:   1rem;
+    position: relative;
+    bottom: -4.5rem;
   }
 }
 
