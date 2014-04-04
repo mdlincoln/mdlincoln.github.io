@@ -85,7 +85,7 @@ html {
 
 /* Sidebar nav */
 .sidebar-nav {
-  padding-left: 0;
+  text-align: center;
   list-style: none;
 }
 .sidebar-nav-item {
@@ -97,6 +97,13 @@ a.sidebar-nav-item:focus {
 }
 .sidebar-nav-item.active {
   font-weight: bold;
+}
+
+.social-nav {
+  text-align: center;
+}
+.social-nav a {
+  margin: 0 1rem;
 }
 
 .sidebar .license {
