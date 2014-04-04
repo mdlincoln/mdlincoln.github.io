@@ -141,6 +141,7 @@ a.sidebar-nav-item:focus {
   margin: 2em auto;
   width: 200px;
   height: 200px;
+  border: 10px solid #fff;
   border-radius: 100px;
   -webkit-border-radius: 100px;
   -moz-border-radius: 100px;
@@ -155,13 +156,11 @@ a.sidebar-nav-item:focus {
   }
 
   .circular {
-  margin: 2em auto;
   width: 250px;
   height: 250px;
   border-radius: 125px;
   -webkit-border-radius: 125px;
   -moz-border-radius: 125px;
-  background: url(/assets/images-display/header.jpg) no-repeat;
   }
 }
 
