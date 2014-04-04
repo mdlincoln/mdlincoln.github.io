@@ -331,7 +331,13 @@ tbody tr:nth-child(odd) th {
 }
 .page-title,
 .post-title {
-  margin-top: 0;
+  font-size: 160%;
+  line-height: 1.5em;
+  font-family: "Ubuntu";
+  margin: 1.5em 0 0 0;
+  color: #a00;
+  text-align: left;
+  font-weight: lighter;
 }
 
 /* Meta data line below post title */
