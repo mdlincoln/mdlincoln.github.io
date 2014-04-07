@@ -24,7 +24,7 @@ tags:
 
 [![Creative Commons License](http://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png)](http://creativecommons.org/licenses/by-nc-nd/3.0/deed.en_US)  
 
-"Patriotic and Religious Geographies in Emanuel de Witte’s Church Paintings" by [Matthew D. Lincoln](http://mlincoln.wordpress.com) is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License](http://creativecommons.org/licenses/by-nc-nd/3.0/deed.en_US).
+"Patriotic and Religious Geographies in Emanuel de Witte’s Church Paintings" by [Matthew D. Lincoln](http://matthewlincoln.net) is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License](http://creativecommons.org/licenses/by-nc-nd/3.0/deed.en_US).
 
 
 
