@@ -17,6 +17,6 @@ tags:
 
 Konnikova doesn't even touch the big issue that I think continually hampers academic work, particularly in the humanities: deeply insular research and writing in which projects are reserved (even concealed!) until they are %110 ready for publication. Of course, this preemptively shuts off the discussion and collaboration we spend so much time praising in symposia and grant applications.
 
-I'm relaunching this site in an effort to chronicle some of the less traditional projects I'm working on at the Department of Art History & Archaeology at the University of Maryland. I certainly hope to connect to other scholars interested in incorporating technology into their research and teaching (and please, [connect away](http://matthewlincoln.net/about).) My other hope, however, is to burnish the kind of clear writing ability that Konnikova exercises through blogging, a kind of writing that necessarily forces one to think more clearly as well.
+I'm relaunching this site in an effort to chronicle some of the less traditional projects I'm working on at the Department of Art History & Archaeology at the University of Maryland. I certainly hope to connect to other scholars interested in incorporating technology into their research and teaching (and please, [connect away](/about).) My other hope, however, is to burnish the kind of clear writing ability that Konnikova exercises through blogging, a kind of writing that necessarily forces one to think more clearly as well.
 
 So, watch this space.
