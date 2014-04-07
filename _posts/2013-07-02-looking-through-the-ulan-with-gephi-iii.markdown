@@ -13,7 +13,7 @@ tags:
 - Network Analysis
 ---
 
-In my [last](http://matthewlincoln.net/2013/06/20/looking-through-the-ulan-with-gephi.html) [two](http://matthewlincoln.net/2013/06/24/visualizing-the-ulan-through-gephi-ii.html) posts on using Gephi to read the Getty Union List of Artist Names, I have been straightforwardly visualizing the relationships explicitly described by the dataset. This approach was a natural first step. The ULAN's structure is artist-centric; creating a list of nodes meant reading the list from top to bottom, creating a list of edges was essentially the same task.
+In my [last](/2013/06/20/looking-through-the-ulan-with-gephi.html) [two](/2013/06/24/visualizing-the-ulan-through-gephi-ii.html) posts on using Gephi to read the Getty Union List of Artist Names, I have been straightforwardly visualizing the relationships explicitly described by the dataset. This approach was a natural first step. The ULAN's structure is artist-centric; creating a list of nodes meant reading the list from top to bottom, creating a list of edges was essentially the same task.
 
 However it was the ULAN's geographic information that had initially interested me. Could we usefully combine a geographic visualization with a social network visualization?
 
