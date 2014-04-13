@@ -261,14 +261,6 @@ tbody tr:nth-child(odd) th {
   background-color: #f9f9f9;
 }
 
-/*    Aside       */
-
-aside {
-  color: #aaa;
-  font-style: italic;
-  margin: 2em 0em;
-}
-
 /*    Footnotes    */
 
 .footnotes {
@@ -303,7 +295,7 @@ aside {
  * or to a parent if there are multiple elements to show.
  */
 
-.message {
+aside {
   margin-bottom: 1rem;
   padding: 1rem;
   color: #717171;
