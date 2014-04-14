@@ -1,0 +1,12 @@
+- title: Twitter
+  icon: "fa fa-twitter"
+  link: "https://twitter.com/matthewdlincoln"
+- title: GitHub
+  icon: "fa fa-github"
+  link: "https://github.com/mdlincoln"
+- title: RSS
+  icon: "fa fa-rss"
+  link: "http://matthewlincoln.net/feed.xml"
+- title: Email
+  icon: "fa fa-inbox"
+  link: "&#109;&#097;&#105;&#108;&#116;&#111;:&#109;&#108;&#105;&#110;&#099;&#111;&#108;&#049;&#064;&#117;&#109;&#100;&#046;&#101;&#100;&#117;"
