@@ -141,6 +141,11 @@ time {
   font-size: 0.8em;
 }
 
+.post time {
+  display: inline-block;
+  margin: 1rem 0;
+}
+
 dt {
   font-weight: bold;
 }
