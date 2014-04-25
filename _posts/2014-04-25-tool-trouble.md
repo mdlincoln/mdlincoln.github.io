@@ -35,7 +35,8 @@ I wonder if the determinism/positivism trouble will persist as long we continue 
 <!-- "Tool" inscribed by entry-level DH enthusiasm machines like THATCamp? (nod to Koh's article on politeness) -->
 
 Like most things, Elijah Meeks may have best articulated this feeling when talking and writing about [ORBIS] and [Kindred Britain] --- that these digital constructions are "tools" only in the way that a monograph or a scholarly article are "tools".
-That is to say (if I understand Elijah correctly) that a mature work of computational scholarship in the humanities not only acknowledges the methodological assumptions underpinning its models and logic (and here I we should think even at the level of coding), but makes clear to its readers that it presents a theoretical model for understanding its subject.
+If I understand Elijah correctly, he means that a mature work of computational scholarship in the humanities not only acknowledges the methodological assumptions underpinning its models and logic (down to level of code architecture), but actually presents a theoretical model for understanding its subject.
+The digital model does not lead one to an argument per se; it *is the argument*.
 
 Corollary to the "tool" problem are several anxieties:
 
@@ -44,7 +45,7 @@ Corollary to the "tool" problem are several anxieties:
 
 
 
-
+[moravec]: http://chronicle.com/blogs/profhacker/tales-of-an-indiscriminate-tool-adopter/55537
 
 [Kindred Britain]: http://kindred.stanford.edu/#/story/full/none/none///centrality
 
