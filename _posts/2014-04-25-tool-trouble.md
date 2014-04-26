@@ -4,6 +4,7 @@ title: "Tool Trouble: Thoughts on <em>differences</em>"
 Date: 2014-05-24
 tags:
 - Digital Humanities
+comments: true
 ---
 
 <aside>In which I try to retire the term "tool" from my vocabulary.</aside>
