@@ -32,7 +32,7 @@
  */
 
 html {
-  font-family: Garamond, serif;
+  font-family: "Libre Baskerville", "Garamond", serif;
 }
 @media (min-width: 48rem) {
   html {
@@ -54,6 +54,7 @@ html {
  */
 
 .sidebar {
+  font-family: "Ubuntu", Helvetica, serif;
   text-align: center;
   padding: 2rem 1rem;
   color: rgba(255,255,255,.5);
@@ -72,7 +73,6 @@ html {
 
 /* Sidebar links */
 .sidebar a {
-  font-family: "Josefin Slab", serif;
   color: #fff;
 }
 
@@ -102,7 +102,6 @@ html {
 }
 
 .sidebar .license {
-  font-family: "Josefin Slab", serif;
   font-size: 60%
 }
 
