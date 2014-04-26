@@ -6,6 +6,8 @@ tags:
 - Digital Humanities
 ---
 
+<aside>In which I try to retire the term "tool" from my vocabulary.</aside>
+
 As I noted [a few months ago][hiatus], I've been spending this semester preparing for my Ph.D comprehensive exams.
 (T-minus ten days until they start, by the way.)
 I tried mightily to focus myself on reading, and reading alone for the past few months.
@@ -52,26 +54,27 @@ The damn term pops up *everywhere* in the DH sphere.
 From the now-dead [Bamboo DiRT] project that sought to catalog digital "tools" for humanities scholarship, to introductory sessions on DH "tools" in almost any [THATCamp], to the [One Week | One Tool][owot] project, to the *Chronicle*'s [ProfHacker] blog absolutely lousy with "tools" to help your academic labor, the "tool" has become absolutely ubiquitous.
 
 I wonder, though, if the enthusiasm endemic to DH (see Adeline Koh's marvelous article on "niceness", also in this issue) is inscribing not only a impression or construct of DH, but in fact actual modes of practice, that embrace all too closely the understanding of a tool as "a device or implement used to carry out a particular function."
-To wit: a few weeks ago I headed a very informal discussion at one of the DC area's many great art historical research centers about various DH methodologies.
+To wit: a few weeks ago I headed a very informal discussion about various DH methodologies at one of the DC area's many great art historical research centers.
 I was the "DH specialist" in the room (I know, laugh if you must...), and I had been asked to come and help introduce some digital tools to a few of their scholars who were interested in applying, among other approaches, network and geographic visualization and analysis to their research questions.
 I hope I can say the discussion was interesting and thought-provoking, if not perhaps immediately useful to all involved.
 One barrier we kept running into, however, was their expectation that I would be talking about "plug-and-play" tools, when in fact I obstreperously kept asking about their research methodologies, and how exactly they were hoping to make those methodologies interact with the methodologies offered by geographic and network paradigms.
 
-Like Galloway, these scholars may have been entirely reasonable in their expectation that the digital humanities comprised a set of tools --- tools that might take time to learn, no doubt, but tools that could essentially be "used" with an extant methodology, and that would not ask too many questions.
+Like Galloway, these scholars may have been entirely reasonable in their expectation that the digital humanities comprised a set of tools --- tools that might take time to learn, no doubt, but tools that could essentially be "used" with an extant methodology, few or no questions asked.
 After all, we just can't seem to shut up about how great all these "tools" are.
 
 As in many things, I tried to channel Elijah Meeks when he talks and writes about the [ORBIS] and [Kindred Britain] projects.
-He frequently argues that these digital constructions are "tools" only in the way that a monograph or a scholarly article are "tools".
+He has argued that these digital constructions are "tools" only in the way that a monograph or a scholarly article are "tools".
 If I understand Elijah correctly, he means that a mature work of computational scholarship in the humanities not only acknowledges the methodological assumptions underpinning its models and logic (down to level of code architecture), but actually presents a theoretical model for understanding its subject.
 The models underlying network structures, GIS, topic modeling through R or MALLET, etc. simply don't provide evidence for an argument *per se*. 
-Properly deployed, they **become the argument**.
-To integrate their methodologies with your own, as Franco Moretti lays out in "Operationalizing", is to stake a claim that your objects of research can be usefully conceptualized as such, and that doing so 
-
+Properly deployed, these models **become the argument**.
+As Franco Moretti extends this in "Operationalizing", to integrate the methodologies of these analytical models with your own is to claim that your objects of research can be usefully conceptualized as such, and also requires you to acknowledge that, yes, you are in fact *transforming* those objects.
 
 It is for this reason that I really would like to retire "tool" from my own DH vocabulary.
-
-I think back to of Michelle Moravec's ["How not to be a tool about your tool"][moravec]).
-
+It seems to me to encourage a "black box" understanding of the digital humanities methods, not to mention obsession with tying oneself to transient platforms and implementations, rather than engaging with the underlying methodologies and theories (something Michelle Moravec touches on in her ["Tales of an Indiscriminate Tool Adopter"][moravec], a.k.a. "How not to be a tool about your tool" --- although I'd point out her post writ large does fall squarely into the "tool" trap.)
+We end up with potentially powerful interpretive projects that release merely the first "interesting" results (I am thinking of the disappointingly-uncritical [Shakeosphere] network visualization project) to pop out of their "tool" of choice.
+Certainly, I fear that the predilection to "niceness" in DH may oppose this dropping of the "tool" concept, as it frankly raises the barrier to entry by demanding closer methodological engagement before the fun can begin.
+I also wonder to what extent funding sources such as the NEH, who seem to prefer multi-use platforms --- a.k.a. "tools" --- may oppose a retrenchment into the methodologically-tailored approach I am advocating.
+All the same, I think the pitfalls of the simplistic, tool-centric outlook on DH are too great to ignore.
 
 
 [cecire]: https://twitter.com/ncecire/status/287283006287273985
@@ -97,3 +100,5 @@ I think back to of Michelle Moravec's ["How not to be a tool about your tool"][m
 [owot]: http://oneweekonetool.org/
 
 [ProfHacker]: http://chronicle.com/blogs/profhacker/category/software
+
+[Shakeosphere]: http://projects.slis.uiowa.edu/Shakeosphere/index.jsp
