@@ -28,7 +28,7 @@ So, with that...
 [^1]: Subscription only, although Matthew Kirschenbaum has made a post-print of his article freely available for download: ["What is ‘Digital Humanities,’ and Why Are They Saying Such Terrible Things about It?"](http://mkirschenbaum.wordpress.com/2014/04/24/new-essay-what-is-digital-humanities-and-why-are-they-saying-such-terrible-things-about-it/).
 
 As seems to happen in almost any extended conversation about "the state" of the digital humanities, terms like "technological determinism" (Rhody, 8), "solutionism" (Kirschenbaum, 53), and "positivism" (Galloway, 109) slip into the discussion.
-I was deeply impressed by the subtlety with which many of these authors approached these terms, by in large deconstructing to straw-man representations (or "constructs", as Kirschenbaum aptly puts it) of a great deal of DH scholarship.
+I was deeply impressed by the subtlety with which many of these authors approached these terms, by in large deconstructing straw-man representations (or "constructs", as Kirschenbaum aptly puts it) of a great deal of DH scholarship.
 By comparison, Alexander Galloway's contribution to this issue struck an odd tone.
 Galloway posits a "Cybernetic Hypothesis," suggesting that the tools of the digital humanities transcend a particular set of methodologies, instead participating in a *knowledge regime* (125) connected to/complicit with:
 
