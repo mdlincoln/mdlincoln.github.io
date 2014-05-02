@@ -58,6 +58,12 @@ html {
   }
 }
 
+@media (max-width: 64rem) {
+  time {
+    display: none;
+  }
+}
+
 body {
   color: #515151;
   background-color: #fff;
