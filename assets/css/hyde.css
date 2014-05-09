@@ -78,6 +78,7 @@ html {
 
 /* About section */
 .sidebar-about h1 {
+  font-family: "Ubuntu";
   text-align: center;
   color: #fff;
   margin-top: 0;
