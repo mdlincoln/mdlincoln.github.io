@@ -10,6 +10,10 @@ tags:
 - Conferences
 ---
 
+<aside>
+These are the abstracts for a paper presentation and poster session, just accepted into the 2014 Sixteenth Century Society Conference in New Orleans, along with a few (very preliminary/subject to change) findings.
+</aside>
+
 ## Inferring Artistic Networks from Cultural Data: Engravings in the Early Modern Netherlands
 
 Daunted by the staggering volume of extant prints from the sixteenth- and seventeenth-century Netherlands, to date most art historians have profitably focused their studies of engravings and etchings on individual artists and publishers.
