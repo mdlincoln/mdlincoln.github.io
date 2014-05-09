@@ -32,7 +32,7 @@
  */
 
 html {
-  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  font-family: "PT Serif", "Garamond", serif;
 }
 @media (min-width: 48rem) {
   html {
@@ -54,6 +54,7 @@ html {
  */
 
 .sidebar {
+  font-family: "Ubuntu", Helvetica, serif;
   text-align: center;
   padding: 2rem 1rem;
   color: rgba(255,255,255,.5);
@@ -77,10 +78,10 @@ html {
 
 /* About section */
 .sidebar-about h1 {
+  font-family: "Ubuntu";
   text-align: center;
   color: #fff;
   margin-top: 0;
-  font-family: "Ubuntu", serif;
   font-size: 3.25rem;
 }
 
