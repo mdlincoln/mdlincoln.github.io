@@ -10,6 +10,8 @@ tags:
 - Conferences
 ---
 
+## Inferring Artistic Networks from Cultural Data: Engravings in the Early Modern Netherlands
+
 Daunted by the staggering volume of extant prints from the sixteenth- and seventeenth-century Netherlands, to date most art historians have profitably focused their studies of engravings and etchings on individual artists and publishers.
 Yet the broad contours of artistic exchange facilitated by intaglio prints (more often than not a collaborative endeavor between designer, plate cutter, and publisher) have proven more elusive.
 
@@ -37,9 +39,11 @@ Far from asserting a definitive conclusion, however, I also hope to emphasize th
 
 ***
 
+## Individual Influence in a Network Model of Netherlandish Artistic Print History
+
 Whereas my paper presentation focuses on the interpretation of dynamic network-wide statistics for the Netherlandish artistic print community, this poster presentation will present some of the unexpected, yet informative results found when examining statistics of individual actors.
 My project to represent the information embedded in artistic prints into a social network framework necessarily adopts certain restraints in order to produce usable data.
-As [Franco Moretti has suggested][^moretti], abstracting our objects of humanistic study into this kind of "operationalizable" data will produce alternate modes of theorizing our subjects, not simply alternate answers based on extant interpretive structures.
+As Franco Moretti has suggested[^moretti], abstracting our objects of humanistic study into this kind of "operationalizable" data will produce alternate modes of theorizing our subjects, not simply alternate answers based on extant interpretive structures.
 Network connections in this model are defined based on certain defined roles ("based on a design from", "published by", "with a privilege from", and others defined by the Rijksmuseum, the source of these data) that differ from a conventional understanding of social connections.
 They do not necessarily describe individuals' direct acquaintance with each other, nor do they encompass artistic connections fostered in undocumented instances when one artist sees the work of another.
 And yet, such a definition does capture something of the diachronic relationships art historians grapple with all the time, with artists referencing decades- or centuries-older models, in effect reinserting those older artists back into the current artistic sphere.
