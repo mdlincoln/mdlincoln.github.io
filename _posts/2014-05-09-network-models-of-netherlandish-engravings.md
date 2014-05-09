@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: "Network Models of Netherlandish Engravings"
+title: "Abstract: Network Models of Netherlandish Engravings"
 date: 2014-05-09 00:17
 tags: 
 - Digital Humanities
