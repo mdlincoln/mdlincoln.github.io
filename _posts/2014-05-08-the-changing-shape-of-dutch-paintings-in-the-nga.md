@@ -16,7 +16,7 @@ This is the first born-digital collection catalog published by the Gallery, and 
 
 For all the well-justified fanfare about the switch to a web-based publication, it is the new content that many (at least, many in the field of Dutch art history) may find even more valuable.
 Arthur has pointed out on several occasions that the first edition of the syscat was already out-of-date when it was published in 1995.
-That edition did not include any information about the landmark 1995-96 NGA Vermeer exhibition.
+That edition did not include any information about the landmark 1995--96 NGA Vermeer exhibition.
 Nor did it discuss the newly-constructed cabinet galleries --- a series of smaller-scale galleries that allow one to have a more intimate reaction with the many small, gem-like paintings in the collection.
 
 One of the unique joys of learning from Arthur has been the chance to understand his perspective on the ever-shifting nature of artistic taste.
