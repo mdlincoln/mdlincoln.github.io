@@ -46,9 +46,14 @@ Arthur has also filled out holdings of certain genres, especially still lifes an
 <figcaption>Breaking down the collection by genre clearly demonstrates the preferences and preconceptions that Mellon and Widener held about the nature of Dutch art.</figcaption>
 </figure>
 
+While I'd generally understood that the later additions to the Gallery's Dutch paintings were more diverse in date and genre, I had never realized there were patterns in something as basic as *scale*.
+In plotting the paintings by their height and width, it becomes clear how much Mellon preferred paintings of a certain orientation, and a relatively small range of sizes.
+Notably, the one outlier on his plot is the aforementioned [*Girl with the Red Hat*][vermeer].
+Apparently, not even Andrew Mellon could pass on a painting for being too small if it had been done by Vermeer.[^small]
+
 <figure>
 <a href="/assets/images/nga_sizes.svg"><img src="/assets/images/nga_sizes.svg"></a>
-<figcaption>Even physical size of paintings is a matter of taste. Mellon's Dutch collections tended towards similar sizes, and were largely oriented as landscapes. Widener's collection had more diversity of scale, and his core collection of small pieces served as a foundation for Wheelock's many additions that now fill the suitably-scaled cabinet galleries.</figcaption>
+<figcaption>Even the physical size of paintings can be a matter of taste. Mellon's Dutch collections tended towards similar sizes, and were largely oriented as landscapes. Widener's collection had more diversity of scale, and his core collection of small pieces served as a foundation for Wheelock's many additions that now fill the suitably-scaled cabinet galleries.</figcaption>
 </figure>
 
 [Download the code for scraping and visualizing the collections here.][ngagit]
@@ -64,3 +69,5 @@ Arthur has also filled out holdings of certain genres, especially still lifes an
 [celebration]: http://arthistory.umd.edu/department-celebrate-professor-arthur-k-wheelock-jr-daylong-symposium-saturday-may-17th
 
 [ngagit]: https://github.com/mdlincoln/nga_dutch_collections
+
+[^small]: Interestingly, the small scale of this panel has caused some to cast doubt on its attribution. [It is not the only small work in the painter's oeuvre, however.](http://www.essentialvermeer.com/vermeer_in_scale_one.html)
