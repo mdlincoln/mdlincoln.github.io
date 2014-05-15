@@ -10,16 +10,16 @@ tags:
 ---
 
 My advisor, Arthur Wheelock, [celebrates his 40th year of teaching][celebration] at the University of Maryland this Saturday.
-This comes just a few short weeks after he and his team at the National Gallery of art released the second edition of the systematic catalog of the [Dutch paintings of the seventeenth century][oed].
-This is the first born-digital collection catalog published by the Gallery, and the architects have done a wonderful job in creating an interface that presents texts with its interlinked images as well as I've seen it done to date.
-(Be sure to check out the image viewer for Vermeer's [*Girl with the Red Hat*][vermeer], which, along with a host of other works in the catalog, has a very useful feature that allows you to pan and zoom the artwork under visible light and x-radiography simultaneously.)
+This comes just a few weeks after he and his team at the National Gallery of art released the second edition of the systematic catalog of the [Dutch paintings of the seventeenth century][oed].
+This is the first born-digital collection catalog published by the Gallery, and the architects have done a wonderful job interlinking catalog texts and figures.
+For example, the image viewer for Vermeer's [*Girl with the Red Hat*][vermeer] has a very useful feature that allows you to pan and zoom the artwork under visible light and x-radiography simultaneously.
 
 For all the well-justified fanfare about the switch to a web-based publication, it is the new content that many (at least, many in the field of Dutch art history) may find even more valuable.
 Arthur has pointed out on several occasions that the first edition of the syscat was already out-of-date when it was published in 1995.
-That edition did not include any information about the landmark 1995--96 NGA Vermeer exhibition.
+That edition did not include any information about the Gallery's landmark 1995--96 Vermeer exhibition.
 Nor did it discuss the newly-constructed cabinet galleries --- a series of smaller-scale rooms that allow a more intimate interaction with the many small, gem-like paintings in the collection.
 
-One of the unique joys of learning from Arthur has been the chance to understand his perspective on the ever-shifting nature of artistic taste.
+One of the unique joys of studying with Arthur has been the chance to understand his perspective on the ever-shifting nature of artistic taste.
 In a lively [introductory essay on the history of the Dutch collection][collhist], Arthur describes the impact that Andrew W. Mellon's and P.A.B Widener's understanding of Dutch art had on the early shape of the Gallery's Dutch collections.
 These two founding collectors saw Dutch art through a period eye; one strongly influenced by nineteenth-century British taste and collecting habits.
 It was from British and Continental nobility, after all, that American magnates amassed so much of their Old Master collections in the early twentieth century.
