@@ -56,7 +56,8 @@ Apparently, not even Andrew Mellon could pass on a painting for being too small 
 <figcaption>Even the physical size of paintings can be a matter of taste. Mellon's Dutch collections tended towards similar sizes, and were largely oriented as landscapes. Widener's collection had more diversity of scale, and his core collection of small pieces served as a foundation for Wheelock's many additions that now fill the suitably-scaled cabinet galleries.</figcaption>
 </figure>
 
-[Download the code for scraping and visualizing the collections here.][ngagit]
+There are [almost a dozen recent acquisitions][recent] still awaiting full entries.
+When they are posted, you can update these plots yourself by [downloading the web-scraping and visualization code here][ngagit].
 
 [recent]: http://www.nga.gov/content/ngaweb/research/online-editions/17th-century-dutch-paintings/recent-acquisitions-dutch-paintings-17th.html
 
