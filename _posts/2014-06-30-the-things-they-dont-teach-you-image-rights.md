@@ -15,15 +15,31 @@ Naturally, the digital humanities get a brief nod from Mellon VP Mariët Westerm
 
 I'm all for that.
 And this training need not be in digital methods alone.
-Many more professional competencies need to be a part graduate education, and I think the more that faculty manage to weave this training directly into their courses, the better.
+
+Of the many expected competencies of an art historian, juggling image rights is as crucial as it is frustrating and pedestrian.
+Having gotten to the dreaded image rights stage of a book project this year, Shannon Mattern delegated the logistics to a graduate research assistant, and wrote out a detailed guide on how to manage the process, including a template request letter and instructions on how to record the status of each request.
+Rather than keeping this guide tucked away for the next book project, Mattern shared the guide in an [eminently-bookmarkable post on her blog][rights].[^1]
+
+It is this kind of institutional knowledge that our department's Graduate Art History Association (essentially, our grad student organization) seeks to disseminate to new (and not so new!) students.
+We host lunches on various graduate milestones (the comprehensive exams, the dissertation proposal, the first big conference paper, etc.) and archive reports on our [on-line repository][umdgaha].
+Organizing these events has itself been an educational and (usually) rewarding experience.
+
+Yet I think the more that faculty manage to weave this training directly into their graduate courses, the better.
 (I see this being more engaging than, say, holding an independent workshop --- though those would be better than nothing!)
 Had even one of my graduate seminars asked me to, say, draft a humanities project proposal, rather than write up yet another research paper, I would have been much better equipped when I dove into my very first attempt at a grant proposal last summer.
-(Alan Liu's prospectus assignment for his graduate course [Digital Humanities: Introduction to the Field](http://eng236introdh2013fstudentwork.pbworks.com/w/page/71237948/Project%20Prospectuses) is just one of many examples of this kind of seminar project.)
+(Alan Liu's prospectus assignment for his graduate course [Digital Humanities: Introduction to the Field][aliu] is just one of many examples of this kind of assignment.)
 
-Juggling image rights is certainly one of an art historian's professional requirements.
-Having gotten to the dreaded image rights stage of a book project this year, Shannon Mattern delegated the logistics to a graduate research assistant, and wrote out a detailed guide on how to manage the process, including a template request letter and instructions on how to record the status of each request.
-Rather than keeping this guide tucked away for the next book project, Mattern shared the guide in an [eminently-bookmarkable post on her blog][rights].
+What would a graduate-level assignment look like that asked students to organize a conference round table, edit a volume of contributed essays, or seek out obscure image rights or archival reproductions?
+
+
+[^1]: Incidentally, I only happened upon her post because I volunteered to work as an editor-at-large for [Digital Humanities Now][dhn] --- and so can you!
+
+[aliu]: http://eng236introdh2013fstudentwork.pbworks.com/w/page/71237948/Project%20Prospectuses
+
+[dhn]: http://digitalhumanitiesnow.org/editors-corner/
 
 [chron]: http://chronicle.com/article/At-Mellon-Signs-of-Change/147363/
 
 [rights]: http://www.wordsinspace.net/wordpress/2014/06/17/rights-clearances-a-method-to-the-mind-numbing-madness/
+
+[umdgaha]: https://sites.google.com/site/umdgaha/
