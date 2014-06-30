@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: "The Things They Don't Teach You: Image Rights"
-date: 2014-06-30 13:30:37.051747
+date: 2014-06-30 14:02:34.052402
 tags: 
 - Art History
 - Publishing
