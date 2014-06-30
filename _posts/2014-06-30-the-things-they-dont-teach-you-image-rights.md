@@ -14,13 +14,13 @@ Naturally, the digital humanities get a brief nod from Mellon VP Mariët Westerm
 >"Not everyone's going to love the digital humanities, nor probably does everyone have to, but it would be good to begin to build the opportunity to develop that competency right into doctoral education rather than waiting till 10 years out" from graduate school to do it.
 
 I'm all for that.
-And this training need not be in digital methods alone.
+But this training need not be in digital methods alone.
 
 Of the many expected competencies of an art historian, juggling image rights is as crucial as it is frustrating and pedestrian.
 Having gotten to the dreaded image rights stage of a book project this year, Shannon Mattern delegated the logistics to a graduate research assistant, and wrote out a detailed guide on how to manage the process, including a template request letter and instructions on how to record the status of each request.
-Rather than keeping this guide tucked away for the next book project, Mattern shared the guide in an [eminently-bookmarkable post on her blog][rights].[^1]
+Rather than keeping this guide tucked away for the next book project, Mattern shared it in an [eminently-bookmarkable post on her blog][rights].[^1]
 
-It is this kind of institutional knowledge that our department's Graduate Art History Association (essentially, our grad student organization) seeks to preserve for future cohorts of students.
+It is this kind of institutional knowledge that UMD's Graduate Art History Association (essentially, our department's grad student organization) seeks to preserve for future cohorts of students.
 We host lunches on various graduate milestones (the comprehensive exams, the dissertation proposal, the first big conference paper, etc.) and archive reports on our [on-line repository][umdgaha].
 
 Organizing these events has itself been an educational and (usually) rewarding experience.
@@ -30,7 +30,7 @@ Had even one of my graduate seminars asked me to, say, draft a humanities grant 
 
 What would a graduate-level assignment look like that asked students to organize a conference round table, edit a volume of contributed essays, or seek out obscure image rights or archival reproductions?
 I hope more graduate faculty begin to ask these questions.
-Far from reducing humanities graduate education to a professional degree, I think this approach would help students scope out the full range of forms humanistic scholarship can take.
+Far from reducing humanities graduate education to a professional degree, I think this approach would help students scope out the full range of forms humanistic scholarship can take, while better equipping them for their first wholly independent projects.
 
 [^1]: Incidentally, I only happened upon her post because I volunteered to work as an editor-at-large for [Digital Humanities Now][dhn] --- and so can you!
 
