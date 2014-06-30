@@ -20,17 +20,17 @@ Of the many expected competencies of an art historian, juggling image rights is 
 Having gotten to the dreaded image rights stage of a book project this year, Shannon Mattern delegated the logistics to a graduate research assistant, and wrote out a detailed guide on how to manage the process, including a template request letter and instructions on how to record the status of each request.
 Rather than keeping this guide tucked away for the next book project, Mattern shared the guide in an [eminently-bookmarkable post on her blog][rights].[^1]
 
-It is this kind of institutional knowledge that our department's Graduate Art History Association (essentially, our grad student organization) seeks to disseminate to new (and not so new!) students.
+It is this kind of institutional knowledge that our department's Graduate Art History Association (essentially, our grad student organization) seeks to preserve for future cohorts of students.
 We host lunches on various graduate milestones (the comprehensive exams, the dissertation proposal, the first big conference paper, etc.) and archive reports on our [on-line repository][umdgaha].
-Organizing these events has itself been an educational and (usually) rewarding experience.
 
+Organizing these events has itself been an educational and (usually) rewarding experience.
 Yet I think the more that faculty manage to weave this training directly into their graduate courses, the better.
-(I see this being more engaging than, say, holding an independent workshop --- though those would be better than nothing!)
-Had even one of my graduate seminars asked me to, say, draft a humanities project proposal, rather than write up yet another research paper, I would have been much better equipped when I dove into my very first attempt at a grant proposal last summer.
+Had even one of my graduate seminars asked me to, say, draft a humanities grant proposal, rather than write up yet another research paper, I would have been much better equipped when I dove into my very first attempt at a grant  last summer.
 (Alan Liu's prospectus assignment for his graduate course [Digital Humanities: Introduction to the Field][aliu] is just one of many examples of this kind of assignment.)
 
 What would a graduate-level assignment look like that asked students to organize a conference round table, edit a volume of contributed essays, or seek out obscure image rights or archival reproductions?
-
+I hope more graduate faculty begin to ask these questions.
+Far from reducing humanities graduate education to a professional degree, I think this approach would help students scope out the full range of forms humanistic scholarship can take.
 
 [^1]: Incidentally, I only happened upon her post because I volunteered to work as an editor-at-large for [Digital Humanities Now][dhn] --- and so can you!
 
