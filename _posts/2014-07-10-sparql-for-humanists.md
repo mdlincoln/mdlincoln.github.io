@@ -32,11 +32,22 @@ This is where SPARQL comes in.
 Europeana is rolling out their datasets as [Linked Open Data](http://labs.europeana.eu/api/linked-open-data/introduction/) (or LOD), a graph database format accessible via the SPARQL query language.
 I'll leave it to Europeana to explain why they (and many, many others are doing this), but I want to get into the weeds of what LOD allows us to do that we can't do via the visual user interface.
 
-## A LOD starter
+Unfortunately, many tutorials on SPARQL use extremely simplified data models that don't resemble the kinds of complicated queries necessary to use richer datasets like those in Europeana.
+This tutorial tries to give a crash course on SPARQL using a dataset that a humanist might actually find in the wilds of the Internet!
+
+## Contents
+{:.no_toc}
+
+* Contents
+{:toc}
+
+## LOD in brief
 
 LOD represents information in a series of three-part "statements" like this:
 
     <subject>   <predicate>   <object> .
+
+(Note that just like any good sentence, they each have a period at the end.)
 
 Each subject, predicate, and object, is a node in a vast graph.
 To keep these statements machine-readable and standardized, they usually come in the form of URIs, a.k.a. web links (I made up the first URL for the sake of argument, so don't try following it!):
@@ -60,7 +71,7 @@ See the predicates in these statements, with domain names like `purl.org`, `w3.o
 These are some of the many providers of ontologies that help standardize the way we describe relationships between data points, like "title", "label", "creator", or "name".
 The more LOD that you work with, the more of these providers you'll find.
 
-## Searching LOD with SPARQL
+## Searching Europeana LOD with SPARQL
 
 SPARQL lets us translate LOD's heavily interlinked, graph data into normalized, tabular data like the kind you can open up in Excel, with rows and columns.
 Let's say I want to get a list of Europeana **images**, with their titles and creators.
@@ -71,7 +82,7 @@ In learning how to deal with these tricky models, you'll come to understand just
 
 ### Figure out the model
 
-**We will be typing our query into [Europeana's SPARQL endpoint](http://europeana.ontotext.com/sparql), so open that now.**
+**We will be typing our query into [Europeana's SPARQL endpoint](http://europeana.ontotext.com/sparql), so open that link in a separate window, along with the full version of the data model map below.**
 
 <figure>
 <a href="/assets/images/europeana_model.png"><img src="/assets/images-display/europeana_model.png" alt="Europeana&#39;s data model" /></a>
@@ -82,7 +93,8 @@ This is the data model for a single object.
 
 Our first stop is the yellow box of "Prefixes". These are shortcuts that allow us to skip typing out entire long URIs.
 For example, that predicate for retrieving the title of the Nightwatch, `<http://purl.org/dc/terms/title>`?
-With these prefixes, we just need to type `dct:title` --- `dct:` stands in for `http://purl.org/dc/terms/`, and `title` just gets pasted onto the end of this link.
+With these prefixes, we just need to type `dct:title` whenever we need to use a `purl.org` predicate.
+`dct:` stands in for `http://purl.org/dc/terms/`, and `title` just gets pasted onto the end of this link.
 
 We'll be using these prefixes for our query:
 
@@ -103,10 +115,9 @@ You can [read more about the distinctions between these](http://labs.europeana.e
 
 Let's consider our target information and where to find it:
 
-1. Items
-2. With a  title
-3. And a creator
-4. And they should be images
+1. Objects with a title
+2. And a creator
+3. And they should be images
 
 In the upper-left corner of the model visualization you'll see the box for `ore:Proxy`.
 This is the provider proxy, and it contains info about the title, creator, and type of the object.
@@ -163,6 +174,9 @@ You can cut and paste this directly into the Europeana SPARQL endpoint to see th
         ?objectInfo ore:proxyFor ?link .
     }
 
+The resulting table will give you every combination of link, title, and creator for "IMAGE" objects in the database.
+Note that objects with multiple creators, or multiple titles, will get multiple lines.
+
 ### Adding more limits
 
 What if we want to restrict this even more, by only retrieving completely public-domain images?
@@ -204,23 +218,87 @@ But what about aggregating these data?
 One question is the distribution of rights: how many objects are totally open source?
 How many have some restrictions?
 How many are paid-access only?
-
 So far we have just used SPARQL's `PREFIX`, `SELECT`, and `WHERE` commands.
 For this aggregation query, we will introduce `COUNT`, `GROUP BY`, and `ORDER BY`.
 
-    # Add your prefixes
+### Locate rights information
+
+First, let's figure out how to access the names of the data providers and the rights statements for each object.
+
+    # Don't forget your prefixes
     PREFIX dc:  <http://purl.org/dc/elements/1.1/>
     PREFIX edm: <http://www.europeana.eu/schemas/edm/>
     PREFIX ore: <http://www.openarchives.org/ore/terms/>
 
+    SELECT ?edmrights ?provider
+    WHERE {
+
+        # Rights and provider names show up in the provider aggregation
+        # section.
+
+        ?objectAgg edm:provider ?provider .
+        ?objectAgg edm:rights ?edmrights .
+
+        # Remember, we still want to restrict our results to 
+        # images only, which means we need to link in the provider
+        # proxy section. Note that predicates only work one way,
+        # so we need to define ?objectInfo as the subject of the
+        # statement, then ore:proxyIn as the predicate, and our
+        # ?objectAgg variable as the object. SPARQL doesn't mind!
+
+        ?objectInfo ore:proxyIn ?objectAgg .
+        ?objectInfo edm:type "IMAGE" .
+    }
+
+This gives us a row for *every* single image object with a provider and rights field.
+What we want to do is count them up.
+This is where our new commands come in.
+
+### Aggregating by variable
+
+    PREFIX dc:  <http://purl.org/dc/elements/1.1/>
+    PREFIX edm: <http://www.europeana.eu/schemas/edm/>
+    PREFIX ore: <http://www.openarchives.org/ore/terms/>
+
+    # We need to declare a new variable in our SELECT command.
+    # Because this is a calculated variable, it has a special notation.
+    # We need to tell it which variable to count (* means
+    # count all of them) and then what to name the new variable.
+
     SELECT ?edmrights ?provider (COUNT(*) as ?count)
     WHERE {
-    ?agg edm:dataProvider ?provider .
-    ?agg edm:rights ?edmrights .
-    ?agg dc:rights ?dcrights .
 
-    ?proxy ore:proxyIn ?agg .
-    ?proxy edm:type "IMAGE" .
+        ?objectAgg edm:provider ?provider .
+        ?objectAgg edm:rights ?edmrights .
+
+        ?objectInfo ore:proxyIn ?objectAgg .
+        ?objectInfo edm:type "IMAGE" .
     }
+
+    # Now we need to tell the database to count up every combination of
+    # ?edmrights and ?provider
+
     GROUP BY ?edmrights ?provider
-    ORDER BY ?provider DESC(?count)
+
+    # And then we have an option of how to sort the results. Let's
+    # sort it by count, from highest to lowest, using DESC(). If 
+    # we just wrote ORDER BY ?count, it would sort from lowest to
+    # highest
+
+    ORDER BY DESC(?count)
+
+You will notice that running this command will take longer than commands that aren't aggregating and counting.
+We are asking the database not only to retrieve, but also to match, count, and sort, so this may take a few minutes before your browser gets a response.
+Try grouping and sorting the rights statements by other variables, say, by providing country (in the Europeana aggregation subsection of the data model), or by year (in the Europeana proxy subsection).
+
+## Further reading
+
+In this tutorial we got a look at the structure of LOD as well as a real-life example of how to write a SPARQL query for Europeana's database.
+You also learned how to use aggregation commands in SPARQL to count results rather than just list them.
+
+There are even more ways to modify these queries, such as introducing OR statements, or doing other mathematical operations more complex than counting.
+For a more complete rundown of the commands available in SPARQL, see these links:
+
+- [How to SPARQL](http://rdf.myexperiment.org/howtosparql?)
+- [Wikibooks SPARQL tutorial](http://en.wikibooks.org/wiki/XQuery/SPARQL_Tutorial)
+
