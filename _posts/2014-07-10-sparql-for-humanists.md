@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: "SPARQL for humanists"
-date: 2014-07-09 22:08
+date: 2014-07-11 09:44:55.957128
 tags: 
 - Libraries
 - Archives
@@ -13,8 +13,7 @@ As I noted in my [previous post](/2014/06/30/the-things-they-dont-teach-you-imag
 I've been following the Getty/George Mason summer institute ["Rebuidling the Portfolio: DH for Art Historians"](http://arthistory2014.doingdh.org/) on Twitter at [`#doingdah14`](https://twitter.com/search?f=realtime&q=%23doingdah14&src=typd), where the participants spent some time exploring the intersecting problems of image copyright and online image search.
 
 One growing resource for images is [Europeana](http://europeana.eu/), an aggregation service that is slowly working to build a massive database encompassing the holdings of Europe's many "memory institutions".
-
-One of the many ways you can facet your Europeana search is by copyright status.
+Europeana conveniently allows you to filter your searches by copyright status.
 If I search for [images with the term "landscape"](http://europeana.eu/portal/search.html?query=landscape&rows=24&qf=TYPE%3AIMAGE), the left sidebar allows me to further refine by specific copyright status, and by the more overarching categories of "Can I use it?"
 
 <figure>
@@ -30,10 +29,11 @@ We need to *aggregate* them.
 This is where SPARQL comes in.
 
 Europeana is rolling out their datasets as [Linked Open Data](http://labs.europeana.eu/api/linked-open-data/introduction/) (or LOD), a graph database format accessible via the SPARQL query language.
-I'll leave it to Europeana to explain why they (and many, many others are doing this), but I want to get into the weeds of what LOD allows us to do that we can't do via the visual user interface.
+I'll leave it to Europeana to explain why they (and many, many others) are doing this.
+What I want to do is quickly dive in to show off what SPARQL queries allow us to do that we can't do via the visual user interface.
 
-Unfortunately, many tutorials on SPARQL use extremely simplified data models that don't resemble the kinds of complicated queries necessary to use richer datasets like those in Europeana.
-This tutorial tries to give a crash course on SPARQL using a dataset that a humanist might actually find in the wilds of the Internet!
+Unfortunately, many tutorials on SPARQL use extremely simplified data models that don't resemble the datasets you'll find in Europeana or other institutions like the [British Museum](http://collections.britishmuseum.org).
+This tutorial tries to give a crash course on SPARQL using a dataset that a humanist might actually find in the wilds of the Internet.
 
 ## Contents
 {:.no_toc}
@@ -49,14 +49,14 @@ LOD represents information in a series of three-part "statements" like this:
 
 (Note that just like any good sentence, they each have a period at the end.)
 
-Each subject, predicate, and object, is a node in a vast graph.
+Each subject, predicate, and object, is a node in a vast network.
 To keep these statements machine-readable and standardized, they usually come in the form of URIs, a.k.a. web links (I made up the first URL for the sake of argument, so don't try following it!):
 
     <http://data.rijksmuseum.nl/item/8909812347>   <http://purl.org/dc/terms/creator>  <http://dbpedia.org/resource/Rembrandt> .
 
 Conceptually, what this statement is saying is this:
 
-    <The Nightwatch>   <created by>   <Rembrandt van Rijn> .
+    <The Nightwatch>   <was created by>   <Rembrandt van Rijn> .
 
 It's important to remember that each URI in the first statement links to many other statements.
 In order to get the "labels" for each of these URI's, what we're really doing is just retrieving more LOD statements:
@@ -74,7 +74,7 @@ The more LOD that you work with, the more of these providers you'll find.
 ## Searching Europeana LOD with SPARQL
 
 SPARQL lets us translate LOD's heavily interlinked, graph data into normalized, tabular data like the kind you can open up in Excel, with rows and columns.
-Let's say I want to get a list of Europeana **images**, with their titles and creators.
+Let's say I want to get a list of Europeana images, with their titles and creators.
 Our first step is understanding how the data model works.
 Like many cultural LOD providers, Europeana has a... *complex* data model.
 I don't want to paper over this complexity, so please bear with the following.
@@ -92,7 +92,7 @@ In learning how to deal with these tricky models, you'll come to understand just
 This is the data model for a single object.
 
 Our first stop is the yellow box of "Prefixes". These are shortcuts that allow us to skip typing out entire long URIs.
-For example, that predicate for retrieving the title of the Nightwatch, `<http://purl.org/dc/terms/title>`?
+For example, remember that predicate for retrieving the title of the Nightwatch, `<http://purl.org/dc/terms/title>`?
 With these prefixes, we just need to type `dct:title` whenever we need to use a `purl.org` predicate.
 `dct:` stands in for `http://purl.org/dc/terms/`, and `title` just gets pasted onto the end of this link.
 
@@ -146,30 +146,31 @@ You can cut and paste this directly into the Europeana SPARQL endpoint to see th
     SELECT ?link ?title ?creator
     WHERE { 
 
-        # In the WHERE statement, we define both the variables
+        # In the WHERE statement, we define the variables
         # we asked for in the SELECT statement, as well as any
-        # intermediate variables needed to get to those targets
+        # intermediate variables needed to define those variables.
         
         ?objectInfo dc:title ?title .
         ?objectInfo dc:creator ?creator .
 
-        # This statement asks for ANY statement that has the
+        # These statements ask for ANY record that has the
         # predicates dc:title and dc:creator. Because we only
         # included the ?title and ?creator variables in our SELECT
         # statement, the ?objectInfo variable will not show up
-        # in our results. BUT we can still use it to shape the
-        # rest of our query.
+        # in our results. But, we can still use this "throwaway"
+        # variable to shape the rest of our query.
 
         # We only want objects of the type "IMAGE". This statement
         # effectively restricts the output of every other statement
-        # in our query. We'll only get ?titles and ?creators attached
-        # to objects that are also images.
+        # in our query. Thus, we'll only get ?titles and ?creators 
+        # attached to objects that are also images.
 
         ?objectInfo edm:type "IMAGE" .
 
         # Finally, we want to get the canonical Europeana link to the
-        # object. Check the model map to see the name of the predicate
-        # we need to use in order to retrieve that dark blue link
+        # object. Check the model map and you'll see the name of the 
+        # predicate (ore:proxyFor) we need to use in order to retrieve
+        # that dark blue link
 
         ?objectInfo ore:proxyFor ?link .
     }
@@ -194,12 +195,14 @@ We need to add a few more statements to our query, looping in the *provider aggr
         ?objectInfo edm:type "IMAGE" .
         ?objectInfo ore:proxyFor ?link .
 
+        # ^ these lines are the same as our first query ^
+
         # Check the map again. We need to find the link from the
         # provider proxy to the provider aggregation, which is in
         # the lower left corner of the map. We'll create another
         # "throwaway" variable called ?objectAgg. Like ?objectInfo,
-        # this link won't show up in our results, but it will restrict
-        # what the database returns to us.
+        # this link won't show up in our results, but it will let 
+        # us restrict what the database returns to us.
 
         ?objectInfo ore:proxyIn ?objectAgg .
         ?objectAgg edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
