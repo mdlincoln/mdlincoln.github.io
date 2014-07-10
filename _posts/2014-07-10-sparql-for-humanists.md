@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: "SPARQL for humanists"
-date: 2014-07-11 09:44:55.957128
+date: 2014-07-10 18:05:10.862769
 tags: 
 - Libraries
 - Archives
@@ -67,7 +67,10 @@ In order to get the "labels" for each of these URI's, what we're really doing is
 
     <http://dbpedia.org/resource/Rembrandt> <http://xmlns.com/foaf/0.1/name> "Rembrandt van Rijn" .
 
-See the predicates in these statements, with domain names like `purl.org`, `w3.org`, and `xmlns.com`?
+The `objects` of these statements are just strings of text, known as `literals` in LOD terms.
+They don't link to anything else.
+
+See the `predicates` in these statements, with domain names like `purl.org`, `w3.org`, and `xmlns.com`?
 These are some of the many providers of ontologies that help standardize the way we describe relationships between data points, like "title", "label", "creator", or "name".
 The more LOD that you work with, the more of these providers you'll find.
 
