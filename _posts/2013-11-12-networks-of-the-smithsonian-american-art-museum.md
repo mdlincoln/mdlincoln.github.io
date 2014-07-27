@@ -6,7 +6,7 @@ date: 2013-11-12
 tags:
 - Art History
 - Digital Humanities
-- Museums
+- LAM
 - Network Analysis
 ---
 

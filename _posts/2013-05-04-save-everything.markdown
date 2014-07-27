@@ -8,8 +8,7 @@ title: Save everything
 wordpress_id: 960
 tags:
 - Articles
-- Archives
-- Libraries
+- LAM
 ---
 
 An article on [sequestration's impact on the Library of Congress](http://www.nytimes.com/2013/05/04/books/budget-cuts-hobble-library-of-congress.html?_r=0) is a good reminder of the importance of archiving the seemingly-trivial.
