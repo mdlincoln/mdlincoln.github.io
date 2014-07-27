@@ -4,7 +4,7 @@ comments: true
 title: "The Changing Shape of Dutch Paintings in the NGA"
 date: 2014-05-15 12:00
 tags:
-- Museums
+- LAM
 - Visualization
 - Art History
 ---

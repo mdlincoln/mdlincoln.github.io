@@ -4,8 +4,7 @@ comments: true
 title: "SPARQL for humanists"
 date: 2014-07-10 18:05:10.862769
 tags: 
-- Libraries
-- Archives
+- LAM
 - Code
 ---
 
