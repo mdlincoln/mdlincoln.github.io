@@ -5,7 +5,7 @@ title: Scraping the Smithsonian
 date: 2013-08-08 13:48:16.418143
 tags:
 - Code
-- Museums
+- LAM
 - Visualization
 - Digital Humanities
 redirect_from: /projects/scraping-the-smithsonian.html

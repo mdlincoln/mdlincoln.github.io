@@ -12,7 +12,7 @@ tags:
 - Art History
 - Digital Humanities
 - Publishing
-- Archives
+- LAM
 ---
 
 A recent graduate of our department is exploring digital dissemination of the core discovery in his dissertation. The thought process that led him to this discovery is uniquely well-suited to a digital visualization ([a hobby-horse of mine](/2013/05/22/aesthetic-provocations.html)) hosted on a personal website. He is torn, however, between the imperative to market his own work and the fear of "cheapening" his scholarship through digital publication, as well as the not-totally-unjustified fear of theft.

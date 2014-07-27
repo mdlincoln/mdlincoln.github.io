@@ -5,7 +5,7 @@ title: Northern Mannerist Prints from the Kainen Collection
 date: 2013-09-29
 tags:
 - Art History
-- Museums
+- LAM
 ---
 
 A [stunning exhibit on northern Mannerist prints](http://www.nga.gov/content/ngaweb/exhibitions/2013/kainen-northern-mannerist.html) has opened at the National Gallery of Art, built entirely from the bequest of Jacob and Ruth Cole Kainen. This exhibit is a beautiful encapsulation of the work not only of Hendrick Goltzius, but also of his Haarlem colleague Cornelis Cornelisz. van Haarlem, his students Jan Saenredam, Jan Muller, and Jacob Matham, and the related circle of Prague Mannerists working for the Holy Roman Emperor Rudolf II, a patron who admired the Haarlemer's achievements in engraving, drawing, and painting.

@@ -4,7 +4,7 @@ comments: true
 title: Sharing DH Code
 date: 2013-11-27 14:05:14.699164
 tags: 
-- Museums
+- LAM
 - Code
 - Digital Humanities
 - Publishing

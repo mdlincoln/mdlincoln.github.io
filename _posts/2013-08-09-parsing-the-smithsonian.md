@@ -5,7 +5,7 @@ title: Parsing the Smithsonian
 date: 2013-08-09 13:57:32.265622
 tags:
 - Code
-- Museums
+- LAM
 - Digital Humanities
 ---
 

@@ -6,7 +6,7 @@ date: 2013-09-18 8:30
 tags:
 - Art History
 - Digital Humanities
-- Museums
+- LAM
 - Code
 ---
 
