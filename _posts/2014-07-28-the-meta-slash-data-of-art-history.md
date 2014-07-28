@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: "The Meta/Data of Art History"
-date: 2014-07-26 23:39
+date: 2014-07-28 08:13
 tags: 
 - Digital Humanities
 - LAM
