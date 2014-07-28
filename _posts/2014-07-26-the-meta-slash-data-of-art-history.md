@@ -6,7 +6,6 @@ date: 2014-07-26 23:39
 tags: 
 - Digital Humanities
 - LAM
-- Data
 ---
 
 Any one who is interested in generating and analyzing cultural heritage object data should take a look at the [position paper][oldman] by the Special Interest Group for the CIDOC Conceptual Reference Model (CIDOC CRM) in the latest edition of *D-Lib Magazine*.[^1]
@@ -25,7 +24,8 @@ While the authors don't touch on this issue specifically, I do think the questio
 
 What is data, then, in art history?
 
-While the authors of the CIDOC paper are correct to note that the distinction between "data" and "metadata" is blurry, possibly even specious, it is nevertheless true that while we have come quite a ways in creating data models to represent an artwork's *non-visual* information, we still struggle to establish useful and reusable models for the *visual* aspects of artworks, whether these be formal or symbolic/iconographic properties.
+The authors of the CIDOC paper are correct to note that the distinction between "data" and "metadata" is blurry, possibly even specious
+Yet it is nevertheless true that while we have made great progress in creating data models to represent an artwork's *non-visual* information, we still struggle to establish useful and reusable models for the *visual* aspects of artworks, whether these be formal or symbolic/iconographic properties.
 
 I believe that "digital art history" must recognize that some of its roots can be found in the long, discipline-wide history of creating vocabularies and ontologies for visual classification.
 I am thinking of [ICONCLASS], yes, but also looking back even farther: to Aby Warburg, Heinrich Wölfflin, Alois Riegl, and many others who have grappled with this question of formal and symbolic typologies in art --- a kind of digital art history *avant la lettre*.[^2]
