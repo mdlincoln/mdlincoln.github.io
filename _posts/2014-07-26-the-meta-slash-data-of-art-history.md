@@ -24,7 +24,7 @@ While the authors don't touch on this issue specifically, I do think the questio
 
 What is data, then, in art history?
 
-The authors of the CIDOC paper are correct to note that the distinction between "data" and "metadata" is blurry, possibly even specious
+The authors of the CIDOC paper are correct to note that the distinction between "data" and "metadata" is blurry, and possibly even specious.[^3]
 Yet it is nevertheless true that while we have made great progress in creating data models to represent an artwork's *non-visual* information, we still struggle to establish useful and reusable models for the *visual* aspects of artworks, whether these be formal or symbolic/iconographic properties.
 
 I believe that "digital art history" must recognize that some of its roots can be found in the long, discipline-wide history of creating vocabularies and ontologies for visual classification.
@@ -44,3 +44,5 @@ This will be a vital prerequisite to thoughtfully bridging the gap between the v
 [bmlod]: http://collection.britishmuseum.org/
 
 [arcade]: http://arcade.stanford.edu/content/what-data-literary-studies-1
+
+[^3]: They may not be alone in this: "Someone just said &quot;I don&#39;t believe in the distinction between data and metadata&quot; and the entire room snapped to attention. <a href="https://twitter.com/hashtag/ChathamHouseRule?src=hash">#ChathamHouseRule</a> &mdash; John Overholt (@john_overholt) <a href="https://twitter.com/john_overholt/statuses/491574522110545920">July 22, 2014</a>
