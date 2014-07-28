@@ -10,7 +10,8 @@
           {% if page.show_title %}
             <h1 class="post-title">{{ page.title }}</h1>
           {% endif %}
-          {{ content }}
+          <p>This page links to an outside site. If your browser does not redirect in 5 seconds, click the link below:</p>
+          <p><a href="{{ page.redirect_to }}">{{ page.redirect_to }}</a></p>
         </div>
     </body>
 </html>
