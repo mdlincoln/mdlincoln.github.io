@@ -20,6 +20,7 @@ The German master artist Albrecht Dürer left art historians an unparalleled arc
 
 During the spring of 2013, thanks to an assistantship in the digital humanities funded through my Smith Family fellowship with the Department of Art History's Michelle Smith Collaboratory for Visual Culture at the University of Maryland, College Park, I devised a solution for generating an interactive representation of this journey in [Google Earth](http://www.google.com/earth/index.html). Using a translation published in Georges Marlier and Marnix Gijsen, _Albrecht Dürer: Diary of His Journey to the Netherlands, 1520-1521_ (Greenwich, New York Graphic Society, 1971), I created a proof-of-concept map that charts the first month of Dürer's journey.
 
+<script src="//www.gmodules.com/ig/ifr?url=http://dl.google.com/developers/maps/embedkmlgadget.xml&amp;up_kml_url=http%3A%2F%2Fmichellesmithcollaboratory.umd.edu%2Fsites%2Fmichellesmithcollaboratory.umd.edu%2Ffiles%2FAlbrecht%2520Durer%2527s%2520Trip%2520to%2520the%2520Netherlands%2520in%25201520-1.kmz&amp;up_view_mode=earth&amp;up_earth_2d_fallback=0&amp;up_earth_fly_from_space=1&amp;up_earth_show_nav_controls=1&amp;up_earth_show_buildings=0&amp;up_earth_show_terrain=1&amp;up_earth_show_roads=0&amp;up_earth_show_borders=1&amp;up_earth_sphere=earth&amp;up_maps_zoom_out=0&amp;up_maps_default_type=map&amp;synd=open&amp;w=700&amp;h=600&amp;title=Embedded+KML+Viewer&amp;border=%23ffffff%7C3px%2C1px+solid+%23999999&amp;output=js"></script>
 
 # Processing the diary
 
