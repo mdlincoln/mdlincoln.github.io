@@ -1,7 +1,7 @@
 # Build options
 url: http://matthewlincoln.net
 timezone: America/New_York
-pygments: true
+highlighter: pygments
 permalink: /:year/:month/:day/:title.html
 markdown: kramdown
 future: false
