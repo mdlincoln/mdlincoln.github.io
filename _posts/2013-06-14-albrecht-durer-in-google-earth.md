@@ -20,7 +20,6 @@ The German master artist Albrecht Dürer left art historians an unparalleled arc
 
 During the spring of 2013, thanks to an assistantship in the digital humanities funded through my Smith Family fellowship with the Department of Art History's Michelle Smith Collaboratory for Visual Culture at the University of Maryland, College Park, I devised a solution for generating an interactive representation of this journey in [Google Earth](http://www.google.com/earth/index.html). Using a translation published in Georges Marlier and Marnix Gijsen, _Albrecht Dürer: Diary of His Journey to the Netherlands, 1520-1521_ (Greenwich, New York Graphic Society, 1971), I created a proof-of-concept map that charts the first month of Dürer's journey.
 
-
 # Processing the diary
 
 
@@ -37,7 +36,15 @@ By encoding the text as an XML document where places, people, and artworks are m
 
 I have marked Dürer's various colloquial references with unique identifiers, so that even if he refers variously to the same entity (e.g. "my wife", "Agnes"), the program can still register them as the same thing, and copy equivalent information onto the map. I then generated an XSLT stylesheet that could format this document into a KML file to be displayed in Google Earth, copying in additional information on people and artworks that I listed in accompanying tables.
 
-[![Clicking on cities will reveal the locations, people, and artworks mentioned in that location. ](http://mlincoln.files.wordpress.com/2013/06/screen-shot-2013-06-14-at-8-37-55-am.png?w=625)](http://mlincoln.files.wordpress.com/2013/06/screen-shot-2013-06-14-at-8-37-55-am.png)
+<figure>
+<a href="http://mlincoln.files.wordpress.com/2013/06/screen-shot-2013-06-14-at-8-37-55-am.png"><embed src="http://mlincoln.files.wordpress.com/2013/06/screen-shot-2013-06-14-at-8-37-55-am.png?w=625" /></a>
+<figcaption>A screenshot of the project loaded into the dektop version of Google Earth.</figcaption>
+</figure>
+
+<figure>
+<script src="//www.gmodules.com/ig/ifr?url=http://dl.google.com/developers/maps/embedkmlgadget.xml&amp;up_kml_url=http%3A%2F%2Fmichellesmithcollaboratory.umd.edu%2Fsites%2Fmichellesmithcollaboratory.umd.edu%2Ffiles%2FAlbrecht%2520Durer%2527s%2520Trip%2520to%2520the%2520Netherlands%2520in%25201520-1.kmz&amp;up_view_mode=earth&amp;up_earth_2d_fallback=0&amp;up_earth_fly_from_space=1&amp;up_earth_show_nav_controls=1&amp;up_earth_show_buildings=0&amp;up_earth_show_terrain=1&amp;up_earth_show_roads=0&amp;up_earth_show_borders=0&amp;up_earth_sphere=earth&amp;up_maps_zoom_out=0&amp;up_maps_default_type=map&amp;synd=open&amp;w=650&amp;h=580&amp;title=Embedded+KML+Viewer&amp;border=%23ffffff%7C3px%2C1px+solid+%23999999&amp;output=js"></script>
+<figcaption>Clicking on cities will reveal the locations, people, and artworks mentioned in that location.</figcaption>
+</figure>
 
 All the placemarks on this map - places, people, and artworks - are timestamped, so that by adjusting the time slider in the Google Earth interface one can visualize Dürer's journey through space and time in a way not easily grasped by reading the printed diary text alone. Because this map was generated directly from the text of the diary, the primary source has been preserved. By clicking on individual placemarks, you may read the specific diary entry from which that marker was derived, connecting you directly back to the primary source. Future additions and revisions to the digitized diary text can be easily incorporated by re-processing the text with the XSLT stylesheet.
 
