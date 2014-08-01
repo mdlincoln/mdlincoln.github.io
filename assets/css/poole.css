@@ -287,6 +287,12 @@ tbody tr:nth-child(odd) th {
   font-size: 80%
 }
 
+.revision a {
+  font-size: 50%;
+  font-family: Menlo, Monaco, "Courier New", monospace;
+  color: #C1C1C1;
+}
+
 /*
  * Custom type
  *

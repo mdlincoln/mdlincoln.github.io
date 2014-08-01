@@ -10,6 +10,8 @@
 						<h1 class="post-title">{{ page.title }}</h1>
 					{% endif %}
 					{{ content }}
+					<!-- The idea for a revision history link lifted shamelessly from https://github.com/ricedh/drafts -->
+					<div class="revision"><a href="https://github.com/mdlincoln/mdlincoln.github.io/commits/master/{{ page.path }}" title="version history on GitHub">revision history for this page</a></div>
 				</div>
 		</body>
 </html>
