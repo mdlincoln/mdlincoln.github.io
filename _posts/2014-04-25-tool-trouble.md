@@ -50,6 +50,11 @@ I wonder if the determinism/positivism trouble will persist as long we conceptua
 In fact, I noted in my reading of this issue that the word "tool" pops up once or more in virtually every article, sometimes in such close order it feels like, well, the sound of some machine (e.g. Golumbia, 172).
 Yet --- remarkably for a venue like *differences* --- the term passes by all but uninterrogated.
 
+<figure>
+<img src="/assets/images-display/dh_grumpy_cat.jpg" alt="DH Grumpy Cat" />
+<figcaption>My spirit animal, DH Grumpy Cat</figcaption>
+</figure>
+
 One can hardly blame the authors, though. 
 The damn term pops up *everywhere* in the DH sphere.
 From the [Bamboo DiRT] project that seeks to catalog digital "tools" for humanities scholarship, to introductory sessions on DH "tools" in almost any [THATCamp], to the [One Week | One Tool][owot] project, to the *Chronicle*'s [ProfHacker] blog absolutely lousy with "tools" to help your academic labor, the "tool" has become absolutely ubiquitous.
