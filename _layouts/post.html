@@ -9,7 +9,7 @@ layout: default
   {{ content }}
 </div>
 
-<p class="meta">Tagged in: {% for tag in page.tags %}<code><a href="/tags/{{ tag | downcase | replace: ' ', '_' }}.html">{{ tag }}</a></code>{% if forloop.last %}{% else %}, {% endif %}{% endfor %}</p>
+<p class="meta">Tagged in: {% for tag in page.tags %}<code><a href="/tags/{{ tag | downcase | replace: ' ', '_' }}.html">{{ tag }}</a></code>{% if forloop.last %}{% else %} {% endif %}{% endfor %}</p>
 
 
 {% if site.enable_disqus %}
