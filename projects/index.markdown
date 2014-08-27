@@ -17,7 +17,7 @@ The projects below include both "traditional" art historical research, papers, a
 </div>
 {% endfor %}
 
-# Other Research
+# Select Research
 {% for project in site.data.projects.other %}
 <div class="toc">
 <img src="{{ project.avatar }}" class="avatar" />
