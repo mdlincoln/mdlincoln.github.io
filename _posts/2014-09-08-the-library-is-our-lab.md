@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: "The Library <em>Is</em> Our Lab"
-date: 2014-08-25 10:30
+date: 2014-09-08 10:25
 tags: 
 - LAM
 - Academia
