@@ -9,14 +9,14 @@ tags:
 - Humanities
 ---
 
-The University of Maryland Libraries announced this summer, without any consultation with the faculty or students, that our art library of over 100,000 volumes (not to mention the architecture library next door) were to be closed and their collections integrated into the main research library on campus.
+The University of Maryland Libraries announced this summer, without any consultation with the faculty or students, that our art library of over 100,000 volumes, as well as the architecture library next door, were to be closed, and their collections integrated into the main research library on campus.
 Ours won't be the only subject-specific library to be consolidated in the coming years, as our university, like many others, moves to reduce their physical holdings and shift more and more towards digital formats.
 
-We are trying to stop that.
+[We are trying to stop that.][petition]
 
 [![Sign the petition to save the University of Maryland Art Library](/assets/images/petition.png)][petition]
 
-The idea of a "humanities lab" --- a social, intellectual, and physical space for humanities scholars to collaborate on projects *a la* the "hard" sciences --- has been circulating for [some time now][humanitieslabs].
+The idea of a "humanities lab" --- a social, intellectual, and physical space for humanities scholars to collaborate on projects *à la* the "hard" sciences --- has been circulating for [some time now][humanitieslabs].
 The digital turn over the past decade has certainly added fuel to [many humanities labs initiatives][hlabsearch], not the least of which is our own [Collaboratory for Visual Culture][Collaboratory] at the University of Maryland.
 
 The humanities have had labs for quite some time, of course.
@@ -26,9 +26,9 @@ More than simple convenience, the subject library also becomes a *locus* where e
 We commune not only with our disciplinary past, there, but also with our living disciplinary present.
 The library *is* our lab.
 
-In [her letter](http://www.scribd.com/doc/235556221/Cronrath-Steele) announcing the plans to close our neighboring Architecture library, the Dean Patricia Steele quoted from an essay by Ernest Cushing Richardson, librarian at Princeton at the turn of the century, on the medieval library:
+In [her letter](http://www.scribd.com/doc/235556221/Cronrath-Steele) announcing the plans to close our neighboring Architecture library, Dean Patricia Steele quoted from an essay by Ernest Cushing Richardson, librarian at Princeton at the turn of the century, on the medieval library:
 
->It came to pass, therefore, that a single cathedral or monastery often had as many as half a dozen distinct collections, located at various points in church and cloisters, each intended for a special use; and besides this, there were also, here and there in the cloisters, small reading-desk with one or two books on each for general reading. The whole institution was thus in some sort a library, and to think of the ecclesiastical library as a single collection in a single place is to miss one of its most characteristic features.[^1]
+>It came to pass, therefore, that a single cathedral or monastery often had as many as half a dozen distinct collections, located at various points in church and cloisters, each intended for a special use; and besides this, there were also, here and there in the cloisters, small reading-desks with one or two books on each for general reading. The whole institution was thus in some sort a library, and to think of the ecclesiastical library as a single collection in a single place is to miss one of its most characteristic features.[^1]
 
 This seemed an odd quotation in support of the argument for unifying collections in hopes of, in the dean's words, "removing the onus of place dictating work."
 Of course, Richardson's entire argument is that these collections were *inherently* spatial.
