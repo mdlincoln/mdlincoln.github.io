@@ -11,6 +11,8 @@ For the 2014 academic year I will be the University of Maryland Museum Fellow at
 
 On this site you can find my [CV](/about), various [blog posts](/archive) on art history, digital humanities, and (occasionally) the [Super Mutant Ninja Turtles](/2013/09/10/ninja-turtles.html), and the full-text of conference talks and descriptions of my digital projects on the ['Projects' page](/projects).
 
+***
+
 ## Most recent posts
 
 <nav>
