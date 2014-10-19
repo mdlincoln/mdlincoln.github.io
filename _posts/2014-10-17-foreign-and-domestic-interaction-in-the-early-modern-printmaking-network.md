@@ -43,7 +43,7 @@ The group-external/group-internal index measures the balance between connections
 
 [^1]: Csardi, G., and T. Nepusz. “The Igraph Software Package for Complex Network Research.” *InterJournal Complex Systems* (2006): 1695. <http://igraph.org>
 
-[^2]: Krackhardt, David, and Robert N. Stern. “Informal Networks and Organizational Crises: An Experimental Simulation.” Social Psychology Quarterly 51, no. 2 (June 1, 1988): 123–40. [doi:10.2307/2786835](http://dx.doi.org/10.2307/2786835).
+[^2]: Krackhardt, David, and Robert N. Stern. “Informal Networks and Organizational Crises: An Experimental Simulation.” *Social Psychology Quarterly* 51, no. 2 (June 1, 1988): 123–40. [doi:10.2307/2786835](http://dx.doi.org/10.2307/2786835).
 
 ## Results
 
@@ -66,6 +66,6 @@ Art historians should take these structural constraints into account when consid
 
 It is also remarkable that shifts towards majority-domestic connections were precipitous, rather than gradual.
 Early modern printmaking networks tended towards a punctuated equilibrium pattern of structural change similar to many other types of complex systems.[^3]
-The seemingly-gradual growth and decline of print production between 1500–-1750 masks more dramatic structural changes that should be taken into account when interpreting individual artists’ strategies.
+The seemingly-gradual growth and decline of print production between 1500--1750 masks more dramatic structural changes that should be taken into account when interpreting individual artists’ strategies.
 
-[^3]: Gersick, Connie J. G. “Revolutionary Change Theories: A Multilevel Exploration of the Punctuated Equilibrium Paradigm.” The Academy of Management Review 16, no. 1 (January 1, 1991): 10–36. doi:10.2307/258605.
+[^3]: Gersick, Connie J. G. “Revolutionary Change Theories: A Multilevel Exploration of the Punctuated Equilibrium Paradigm.” *The Academy of Management Review* 16, no. 1 (January 1, 1991): 10–36. [doi:10.2307/258605](http://dx.doi.org/10.2307/258605).
