@@ -7,7 +7,7 @@ show_title: yes
 redirect_from: /plotly/
 ---
 
-<aside>This page has the starting tutorial instructions for the workshop on data visualization on October 29, 2014, in the <a href="http://michellesmithcollaboratory.umd.edu/event/data-mining-and-visualization-workshop-matthew-lincoln">Michelle Smith Collaboratory</a> at the University of Maryland.</aside>
+<aside>This page accompanies my workshop on data visualization on October 29, 2014 in the <a href="http://michellesmithcollaboratory.umd.edu/event/data-mining-and-visualization-workshop-matthew-lincoln">Michelle Smith Collaboratory</a> at the University of Maryland.</aside>
 
 # Concepts
 
