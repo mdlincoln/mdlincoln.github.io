@@ -9,15 +9,9 @@ redirect_from: /plotly/
 
 <aside>This page has the starting tutorial instructions for the workshop on data visualization on October 29, 2014, in the <a href="http://michellesmithcollaboratory.umd.edu/event/data-mining-and-visualization-workshop-matthew-lincoln">Michelle Smith Collaboratory</a> at the University of Maryland.</aside>
 
-[plot.ly]: http://plot.ly
+# Concepts
 
-In this workshop we will be using [plot.ly], an online platform for sharing datasets and collaborative visualization.
-
-You will need to register an account with plot.ly for this workshop.
-Go to the [plot.ly homepage][plot.ly] and click on "Sign up" in the upper right corner of the page.
-If you already have a Gmail account, you will have the option to register using that account instead, so that you don't have to create and remember a new password just for plot.ly.
-
-## Note: steps in the data analysis pipeline
+## The data analysis pipeline
 
 Today we are only doing one small step in data analysis.
 
@@ -29,10 +23,37 @@ Today we are only doing one small step in data analysis.
 4. Narrate
 
 Depending on the source of the data you want to work with, these steps may be easy or quite difficult.
-Each of these steps, particularly the cleaning step (in which we derive computable variables from "messy" variables found in the original dataset) and the mutating step (in which we generate entirely new variables based on manipulating existing variables with function) already involve a great deal of interpretation.
+Each of these steps, particularly the cleaning step (in which we coerce "messy" values from the original dataset into regular, computable ones) and the mutating step (in which we generate entirely new variables by programmatically manipulating existing and/or cleaned variables), already involve a great deal of interpretation.
 We're skipping ahead to what may be the most "fun" step --- that of visualization --- but bear in mind that this is only part of the process.
 This is not an entirely linear pipeline, either.
 You will always iterate your analyses, going back to change your data cleaning and mutation methods based on visualization results, and trying entirely new analyses as you determine the most effective way to compose your narratives.
+
+## Variables, observations, values
+
+It helps to be specific about the different elements of a data table.
+
+- **Variables**: These are the columns of the table, all the distinct kinds of information we have for each of our observations.
+- **Observations**: These are the rows of the table, one for each discrete object or unit of our study
+- **Values**: These are the cells of the table, one value for every variable for every observation.
+
+## Data Types
+
+Understanding your two main data types will help you determine the most productive visualizations to try.
+
+- **Categorical**: Data with a limited number of possible values that allow observations to be grouped.
+- **Ordinal**: Data comprising numerical scores along an ordered scale, i.e. where one value can be said to be higher or lower than another.
+
+Different types of plots are good for looking at ordinal or categorical distribution (histogram), categorical vs. ordinal (bar chart), or ordinal vs. ordinal (scatterplot).
+
+# Setup
+
+[plot.ly]: http://plot.ly
+
+In this workshop we will be using [plot.ly], an online platform for sharing datasets and collaborative visualization.
+
+You will need to register an account with plot.ly for this workshop.
+Go to the [plot.ly homepage][plot.ly] and click on "Sign up" in the upper right corner of the page.
+If you already have a Gmail, Facebook, Twitter, or Github account, you will have the option to register using that account instead, so that you don't have to create and remember a new password just for plot.ly.
 
 # Exercise 1: Dutch Collections at the NGA
 
@@ -45,14 +66,6 @@ Click on the link that says "Fork and edit".
 ![Fork and edit button in plot.ly](/assets/images-display/plotly_fork.png)
 
 This will copy the data to your account, and open the editing and plotting interface.
-
-## Variables, observations, values
-
-It helps to be specific about the different elements of a data table.
-
-- **Variables**: These are the columns of the table, all the distinct kinds of information we have for each of our observations.
-- **Observations**: These are the rows of the table, one for each discrete object or unit of our study
-- **Values**: These are the cells of the table, one value for every variable for every observation.
 
 ## Data Provenance
 
@@ -84,14 +97,6 @@ Also, I created categories such as `set` (the collector/curator who added the it
     - `acc_date`
     - `set`
 
-## Data Types
-
-Understanding your two main data types will help you determine the most productive visualizations to try.
-
-- **Categorical**: Data with a limited number of possible values that allow observations to be grouped.
-- **Ordinal**: Data comprising numerical scores along an ordered scale, i.e. where one value can be said to be higher or lower than another.
-
-Different types of plots are good for comparing categorical vs. categorical, categorical vs. ordinal, or ordinal vs. ordinal. Look through the variables in the NGA data and see if you can classify them as either categorical or ordinal.
 
 ## Plot exercises
 
@@ -99,9 +104,7 @@ Try to devise plots that could shed light on these questions:
 
 1. How did the balance of genres in the Dutch galleries change over the course of the twentieth century?
 2. How did the chronology of Dutch art represented in the Dutch galleries change over the course of the twentieth century?
-3. What are the most efficient visualizations for representing the predilections of different collectors and curators?
-
-***
+3. What are the most efficient visualizations for representing the predilections of different collectors and curators for genre? For date? What about scale and orientation? (Don't forget to try the often-ignored boxplot!)
 
 # Exercise 2: British Art Sales from the GPI
 
@@ -109,14 +112,25 @@ Data link:[`https://plot.ly/~mdlincoln/8`](https://plot.ly/~mdlincoln/8)
 
 ## Data Provenance
 
-These data comprise a random sample of about 0.5% (1500 out of 374277) British sales records maintained by the [Getty Provenance Index].
+These data comprise a random sample of about 0.4% (1500 out of 374277) of the British sales records maintained by the [Getty Provenance Index](http://www.getty.edu/research/tools/provenance/index.html).
 Because plot.ly runs in your browser, it cannot handle very large datasets, so we will be working will a small sample of the database.
-For larger sets of data, you will want to use a more powerful tool, such as [R](http://www.r-project.org/).
-
-## Data types
+For larger sets of data, you will want to use a more powerful set of programs, such as [R](http://www.r-project.org/) and [RStudio](http://www.rstudio.com/).
 
 Many of the original variables in this table are not easily computable in their original form.
-Scroll to the rightmost columns (starting with the `Date` column) to see the cleaned/mutated variables that are most easily plotted.
+Scroll to the rightmost columns (starting with the `Date` column) to see the cleaned/mutated variables that are most easily plotted:
+
+- `Date` (of sale). The following variables are derived from this one:
+    - `Year`
+    - `Month`
+    - `Week`
+    - `YDay` (day of the year)
+    - `MDay` (day of the month)
+    - `WDay` (day of the week)
+- `Transaction.Type`
+- `Transaction.Amt`
+- `Nationality`
+- `Period` (This is a *categorical* variable derived by grouping observations based on the values of the *ordinal* variable `Year`)
+- `Price.Factor` (Because inflation makes it difficult to compare the `Transaction.Amt` value for over time, I computed the *categorical* variable `Price.Factor` to help group observations into five classes of value. Within each `Period`, I determined the [quintile distribution](http://en.wiktionary.org/wiki/quintile) of every object sold, i.e. both the top 20% most expensive objects sold between 1790--1800 and the top 20% most expensive objects sold between 1830--1840 are in the 5th quintile.)
 
 ## Plot exericses
 
@@ -127,8 +141,10 @@ Try to devise plots that could shed light on these questions:
 2. Did these patterns change between 1790 and 1840?
 
 We will quickly run into the limits of the plot.ly interface with these qeustions!
-In lieu of coming up with a single, effective plot, we should try to conceive of how we might *operationalize*, or make measurable, these questions.
+In lieu of coming up with effective plots, we should at least try to conceive of how we might *operationalize*, or make measurable, these questions.
 More advanced tools may be necessary to visualize the kinds of patterns we want to detect.
 
-Using R, I have generated a web interface that implements some measurements of these questions: [`https://mdlincoln.shinyapps.io/gettysales/`](https://mdlincoln.shinyapps.io/gettysales/)
+## Advanced analysis
+
+Using R, I have generated a web interface that implements some measurements of these questions: [`https://mdlincoln.shinyapps.io/gettysales/`](https://mdlincoln.shinyapps.io/gettysales/) (I will provide the login information during the session)
 
