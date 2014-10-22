@@ -9,6 +9,16 @@ redirect_from: /plotly/
 
 <aside>This page accompanies my workshop on data visualization on October 29, 2014 in the <a href="http://michellesmithcollaboratory.umd.edu/event/data-mining-and-visualization-workshop-matthew-lincoln">Michelle Smith Collaboratory</a> at the University of Maryland.</aside>
 
+# Setup
+
+[plot.ly]: http://plot.ly
+
+In this workshop we will be using [plot.ly], an online platform for sharing datasets and collaborative visualization.
+
+You will need to register an account with plot.ly for this workshop.
+Go to the [plot.ly homepage][plot.ly] and click on "Sign up" in the upper right corner of the page.
+If you already have a Gmail, Facebook, Twitter, or Github account, you will have the option to register using that account instead, so that you don't have to create and remember a new password just for plot.ly.
+
 # Concepts
 
 ## The data analysis pipeline
@@ -44,16 +54,6 @@ Understanding your two main data types will help you determine the most producti
 - **Ordinal**: Data comprising numerical scores along an ordered scale, i.e. where one value can be said to be higher or lower than another.
 
 Different types of plots are good for looking at ordinal or categorical distribution (histogram), categorical vs. ordinal (bar chart), or ordinal vs. ordinal (scatterplot).
-
-# Setup
-
-[plot.ly]: http://plot.ly
-
-In this workshop we will be using [plot.ly], an online platform for sharing datasets and collaborative visualization.
-
-You will need to register an account with plot.ly for this workshop.
-Go to the [plot.ly homepage][plot.ly] and click on "Sign up" in the upper right corner of the page.
-If you already have a Gmail, Facebook, Twitter, or Github account, you will have the option to register using that account instead, so that you don't have to create and remember a new password just for plot.ly.
 
 # Exercise 1: Dutch Collections at the NGA
 
