@@ -57,7 +57,7 @@ If you already have a Gmail, Facebook, Twitter, or Github account, you will have
 
 # Exercise 1: Dutch Collections at the NGA
 
-Data link: [`https://plot.ly/~mdlincoln/3`](https://plot.ly/~mdlincoln/3)
+Data link: [`https://plot.ly/~mdlincoln/9`](https://plot.ly/~mdlincoln/9)
 
 Follow the data link above, and sign in to plot.ly if asked to do so.
 You should see a preview of the data table.
@@ -102,8 +102,8 @@ Also, I created categories such as `set` (the collector/curator who added the it
 
 Try to devise plots that could shed light on these questions:
 
-1. How did the balance of genres in the Dutch galleries change over the course of the twentieth century?
-2. How did the chronology of Dutch art represented in the Dutch galleries change over the course of the twentieth century?
+1. How did the chronology of Dutch art represented in the Dutch galleries change over the course of the twentieth century?
+2. How did the balance of genres in the Dutch galleries change over the course of the twentieth century?
 3. What are the most efficient visualizations for representing the predilections of different collectors and curators for genre? For date? What about scale and orientation? (Don't forget to try the often-ignored boxplot!)
 
 # Exercise 2: British Art Sales from the GPI
