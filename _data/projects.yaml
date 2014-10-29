@@ -12,6 +12,10 @@ other:
     snippet: 'A paper examining the intersection of civic pride and memory in paintings by Emanuel de Witte. Versions presented at the 2011 University of Indiana, Bloomington Graduate Art History Symposium, and the 2012 Medieval and Early Modern interdisciplinary conference "Geographies of Desire" at the University of Maryland, College Park.'
     avatar: /assets/images-display/dewitte_avatar.png
 dh:
+  - title: "Foreign and Domestic Interaction in the Early Modern Printmaking Network"
+    url: /2014/10/17/foreign-and-domestic-interaction-in-the-early-modern-printmaking-network.html
+    snippet: "Presented at the 2014 Sixteenth Century Society Conference in New Orleans, this poster shows preliminary results from my dissertation research on the network of print production in the early modern Netherlands."
+    avatar: /assets/images-display/scsc2014_avatar.png
   - title: "Hierarchies of the Getty Art & Architecture Thesaurus"
     url: /2014/02/21/hierarchies-of-the-getty.html
     snippet: "A D3-driven visualization of the Getty Research Institute's Art & Architecture Thesaurus"
