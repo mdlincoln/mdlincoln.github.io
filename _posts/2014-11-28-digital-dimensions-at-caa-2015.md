@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: "Digital Dimensions at CAA 2015"
-date: 2014-11-27 09:30
+date: 2014-11-28 10:14
 tags: 
 - Conferences
 - Art History
