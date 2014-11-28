@@ -8,7 +8,7 @@ tags:
 - Art History
 ---
 
-I was inspired by Mark Sample's post on the [digitally-inflected panels at MLA 2015][sample], to write a (much shorter) roundup of those panels at the College Art Association's Annual Conference in New York, March 2015.
+I was inspired by Mark Sample's post on the [digitally-inflected panels at MLA 2015][sample], to write a (much shorter) roundup of those panels at the College Art Association's Annual Conference in New York, February 2015.
 
 [sample]: http://www.samplereality.com/2014/11/23/digital-humanities-at-mla-2015/
 
