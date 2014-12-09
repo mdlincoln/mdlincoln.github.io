@@ -17,3 +17,7 @@ Network analysis may clarify how the organization of Dutch and Flemish print pro
 While every individual designer, plate cutter, and publisher could potentially exercise a great deal of influence over the production of a single print, their individual decisions (whom to select as an engraver, what subjects to create for a print design, what market to sell to) would have been variously constrained or encouraged by their position in this larger network (Who do they already know? And who, in turn, do their contacts know?)
 The collaborative process of print production, and the large databases of extant prints held in modern museum collections, makes it uniquely well-suited for a network-oriented analysis.
 My dissertation will evaluate current narratives about Dutch and Flemish printmaking, suggesting new models for thinking about the changing nature of printmaking, and help us to better explain the dialogue between artistic decisions and the material and economic demands of printmaking.
+
+## Related links
+
+- [SCSC 2014 poster session](/2014/10/17/foreign-and-domestic-interaction-in-the-early-modern-printmaking-network.html)
