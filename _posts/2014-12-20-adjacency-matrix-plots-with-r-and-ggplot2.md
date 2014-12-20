@@ -162,9 +162,9 @@ Let's try ordering the nodes based on their community membership:
 
 # Create a character vector of node names sorted by their
 # community membership. Here, I rearrange the node_list
-# table by the "group" variable, then extract the
+# table by the "comm" variable, then extract the
 # "name" vector
-name_order <- (node_list %>% arrange(group))$name
+name_order <- (node_list %>% arrange(comm))$name
 
 # Reorder edge_list "from" and "to" factor levels based on
 # this new name_order
