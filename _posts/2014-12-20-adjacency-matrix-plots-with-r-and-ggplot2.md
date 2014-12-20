@@ -27,10 +27,11 @@ While the circle-and-line idiom used by many network visualization tools such as
 The abundance of crossing links creates a confusing visual pattern that masks the topological structure of the network.
 Moreover, it is extremely difficult to compare two different networks from these visualizations, which rely on a randomized layout algorithm.
 
-One good alternative is to visualize an [adjacency matrix][matrix] encoding the network relationship, with the nodes of the network listed on either axis, and each cell *AB* describing an edge connecting node *A* and node *B*.
+One good alternative is to visualize an [adjacency matrix][matrix] encoding the network relationship data, where, for example, cell *AB* describes an edge connecting node *A* to node *B*.
 [Mike Bostock has implemented this in D3][bostock], using Jacques Bretin's *Les Misérables* co-occurrence network dataset.
 It is also fairly easy to generate an adjacency matrix visualization using [ggplot2], but it does require that you bite the bullet and finally figure out how to work with [ordered factors][factors].[^2]
-(What, me, project? Never...)
+
+(What? No, I'm not projecting at all, why would you say that?)
 
 [^2]: Disclaimer: I'll also be making extensive use of Hadley Wickham's [dplyr] package, so if you aren't yet familiar with it, you'll be pretty lost. Don't worry, though, it's an easy package to pick up, and terribly useful!
 
@@ -51,9 +52,9 @@ It is also fairly easy to generate an adjacency matrix visualization using [ggpl
 For this example, I will be working with an extract of a larger network database I have built of [connections between print engravers and publishers][print_networks] in the Netherlands in the late sixteenth and early seventeenth century.
 This extract focuses on the artists in the ambit of Hendrick Goltzius, a virtuoso who ran his own print shop in Haarlem in the 1580s and 90s before turning to painting after 1600.
 
-Like most network analysis, we start with an [edge table][edge_table] for your network comprising rows with `from` and `to` variables, along with any number of edge attributes such as `weight`.
+Like most network analysis, we start with an [edge table][edge_table] for your network comprising rows with `from` and `to` variables, along with any number of edge attributes, such as `weight`.
 You may also have an additional table of [node attributes][node_table]; in my case, I am using a table with the birth years for each artist.
-I use the [igraph] package to augment these tables with calculated network statistics.
+I will use the [igraph] package to augment these tables with calculated network statistics.
 
 [print_networks]: /dissertation/
 
@@ -109,15 +110,17 @@ edge_list <- get.data.frame(graph, what = "edges") %>%
 
 ## Create a matrix plot
 
-To make sure that both plot axes display every network node, we need to tweak our `from` and `to` vectors, currently just two bunches of strings, to a pair of **factor** vectors.
+To make sure that both plot axes display every network node, we need to tweak our `from` and `to` vectors, which are currently just two bunches of strings, to a pair of **factor** vectors.
 In R, factors are a special kind of vector that contains not only values, but a list of **levels**, or *potential* values, for a given vector.
 Before plotting, we will turn `from` and `to` into factors with the `factor()` method, setting their levels to the full list of nodes in the network.
 
 {% highlight R %}
 
-# Adjust the 'to' and 'from' factor levels so that they contain
-# every possible node value
+# Create a character vector containing every node name
 all_nodes <- sort(node_list$name)
+
+# Adjust the 'to' and 'from' factor levels so they are equal
+# to this complete list of node names
 plot_data <- edge_list %>% mutate(
         to = factor(to, levels = all_nodes),
         from = factor(from, levels = all_nodes)))
@@ -181,14 +184,18 @@ It gets even more interesting when we take a closer look at the gray cells, i.e.
 There are a relatively high proportion of ties between the red and gold communities, which represent roughly two different generations of print producers based in Antwerp (although some other folks like Albrecht Dürer also slip in there).
 The green and purple communities also appear densely connected.
 These small groups comprise two generations of Amsterdam engravers and publishers, many of whom had worked in Goltzius' firm in Haarlem, or who made later reprints after his designs.
+Already, it is much easier for us to quickly grasp patterns of connection across community borders.
 
 [![Adjacency plot with nodes arranged by eigenvector centrality](/assets/images/adjmatrix_eigen.png)](/assets/images/adjmatrix_eigen.png)
 
 We can also arrange the plot by various measures of centrality.
 In this plot of [eigenvector centrality][eigen], Goltzius naturally takes the top spot.
-But it is also clear that the red group --- by in large, the group of mid-to-late sixteenth century Antwerp engravers and publishers --- has a uniformly high EV centrality.
+But it is also clear that the red group --- by in large, the group of mid-to-late sixteenth century Antwerp engravers and publishers --- has a generally high EV centrality.
 This is quite unlike the other groups, whose members are scattered along the centrality scale.
 Though printmaking historians have generally argued that Amsterdam "inherited" Antwerp's role of northern printmaking center in the seventeenth century, it may be argued that it did not fulfill quite the same structural role.
+That early generation of Antwerp print producers seems to have played a greater role in drawing together disparate communities of artists than did seventeenth-century Amsterdam.
+This kind of analysis prods us to reconsider what, exactly, we mean by "printmaking center".
+Such a concept, as [Benjamin Schmidt warns us vis-à-vis topic modelling](http://journalofdigitalhumanities.org/2-1/words-alone-by-benjamin-m-schmidt/), may shift over time.
 
 [eigen]: http://en.wikipedia.org/wiki/Centrality#Eigenvector_centrality
 
