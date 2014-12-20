@@ -49,8 +49,10 @@ It is also fairly easy to generate an adjacency matrix visualization using [ggpl
 ## Calculate network properties
 
 For this example, I will be working with an extract of a larger network database I have built of [connections between print engravers and publishers][print_networks] in the Netherlands in the late sixteenth and early seventeenth century.
-I assume you are already starting with an [edge table][edge_table] for your network comprising rows with `from` and `to` variables, along with any number of edge attributes such as `weight`.
-You may also have an additional table of [node attributes][node_table]; in my case, a table of the birth year for each artist.
+This extract focuses on the artists in the ambit of Hendrick Goltzius, a virtuoso who ran his own print shop in Haarlem in the 1580s and 90s before turning to painting after 1600.
+
+Like most network analysis, we start with an [edge table][edge_table] for your network comprising rows with `from` and `to` variables, along with any number of edge attributes such as `weight`.
+You may also have an additional table of [node attributes][node_table]; in my case, I am using a table with the birth years for each artist.
 I use the [igraph] package to augment these tables with calculated network statistics.
 
 [print_networks]: /dissertation/
@@ -67,6 +69,7 @@ I use the [igraph] package to augment these tables with calculated network stati
 
 library(igraph)
 library(dplyr)
+library(ggplot2)
 
 # Read in CSV files with edge and node attributes
 original_edgelist <- read.csv("goltzius_graph.csv", stringsAsFactors = FALSE)
@@ -104,9 +107,11 @@ edge_list <- get.data.frame(graph, what = "edges") %>%
 
 {% endhighlight %}
 
-# Create a matrix plot
+## Create a matrix plot
 
-To make sure that both plot axes display every network node, we need to tweak the factor levels for our `from` and `to` variables before plotting, so that each contains every *possible* level (i.e., every node in the network).
+To make sure that both plot axes display every network node, we need to tweak our `from` and `to` vectors, currently just two bunches of strings, to a pair of **factor** vectors.
+In R, factors are a special kind of vector that contains not only values, but a list of **levels**, or *potential* values, for a given vector.
+Before plotting, we will turn `from` and `to` into factors with the `factor()` method, setting their levels to the full list of nodes in the network.
 
 {% highlight R %}
 
@@ -144,7 +149,7 @@ To get a more meaningful visualization, we need to reorder our axes.
 
 [^1]: Leave a comment, though, if you have an example that does!
 
-# Reorder the plot axes
+## Reorder the plot axes
 
 ggplot orders its axes based on factor levels of the vector it is mapped to.
 Therefore, to reorder our axes, we need to reorder our `from` and `to` factors based on the different node attributes that we calculated using igraph.
@@ -170,3 +175,25 @@ plot_data <- edge_list %>% mutate(
 
 [![Adjacency plot with nodes arranged by group](/assets/images/adjmatrix_comm.png)](/assets/images/adjmatrix_comm.png)
 
+This matrix visualization clearly demonstrates the composition of communities, as well as their relative sizes.
+The large cyan grouping captures most of the artists in Goltzius' immediate circle.
+It gets even more interesting when we take a closer look at the gray cells, i.e. the ties between actors that belong to different communities.
+There are a relatively high proportion of ties between the red and gold communities, which represent roughly two different generations of print producers based in Antwerp (although some other folks like Albrecht Dürer also slip in there).
+The green and purple communities also appear densely connected.
+These small groups comprise two generations of Amsterdam engravers and publishers, many of whom had worked in Goltzius' firm in Haarlem, or who made later reprints after his designs.
+
+[![Adjacency plot with nodes arranged by eigenvector centrality](/assets/images/adjmatrix_eigen.png)](/assets/images/adjmatrix_eigen.png)
+
+We can also arrange the plot by various measures of centrality.
+In this plot of [eigenvector centrality][eigen], Goltzius naturally takes the top spot.
+But it is also clear that the red group --- by in large, the group of mid-to-late sixteenth century Antwerp engravers and publishers --- has a uniformly high EV centrality.
+This is quite unlike the other groups, whose members are scattered along the centrality scale.
+Though printmaking historians have generally argued that Amsterdam "inherited" Antwerp's role of northern printmaking center in the seventeenth century, it may be argued that it did not fulfill quite the same structural role.
+
+[eigen]: http://en.wikipedia.org/wiki/Centrality#Eigenvector_centrality
+
+***
+
+**[Try different matrix ordering in this Shiny web app](https://mdlincoln.shinyapps.io/adjacency_plot/)**
+
+**[See the GitHub repo for this code](https://github.com/mdlincoln/adjacency_plot)**
