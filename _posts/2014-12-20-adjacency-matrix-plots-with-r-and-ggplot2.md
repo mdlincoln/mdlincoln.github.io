@@ -17,7 +17,7 @@ tags:
 </ul>
 </aside>
 
-While the circle-and-line idiom used by many network visualization tools such as [Gephi] can be useful for investigating the structure of small- and medium-scale networks, large-scale network visualizations tend to turn the worst kinds of [spaghetti plots][spaghetti].
+While the circle-and-line idiom used by many network visualization tools such as [Gephi] can be useful for investigating the structure of small- and medium-scale networks, large-scale network visualizations tend to result in the worst kinds of [spaghetti plots][spaghetti].
 
 <figure>
 <img src="/assets/images-display/spaghetti_example.png" />
