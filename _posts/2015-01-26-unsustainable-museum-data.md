@@ -1,22 +1,26 @@
 ---
 layout: post
 comments: true
-title: 'Unsustainable Museum Data, or, "LOCKSS it with a KISS"'
+title: Unsustainable Museum Data
 date: 2015-01-26 3:00
 tags:
   - Digital Humanities
   - LAM
 ---
 
+<aside>
+In which I ask museums to give less API, more KISS and LOCKSS, please.
+</aside>
+
 "How can we ensure our \[insert big digital project title here\] is sustainable?"
 So goes the cry from many a nascent digital humanities project, and rightly so!
 We should be glad that many new ventures are starting out by asking this question, rather than waiting until the last minute to come up with a sustainability plan.
 But [Adam Crymble asks][crymble] whether an emphasis on web-based digital projects instead of producing and sharing static data files is needlessly worsening our sustainability problem.
 Rather than allowing users to download the underlying data files (a passel of data tables, or marked-up text files, or even serialized linked data), these web projects mediate those data with user interfaces and guided searching, essentially making the data accessible to the casual user.
-But websites that serve data piecemeal to users, come with their drawbacks, notes Crymble.
+But serving data piecemeal to users has its drawbacks, notes Crymble.
 If and when the web server goes down, access to the data disappears:
 
->But what happens if the Internet goes down, or if you're on the road and don't have Wi-Fi, or if the website crashes? When something does go wrong we quickly realise it wasn't the website we needed. It was the data, or it was the functionality. The online element, which we so often see as an asset, has become a liability.
+>When something does go wrong we quickly realise it wasn't the website we needed. It was the data, or it was the functionality. The online element, which we so often see as an asset, has become a liability.
 
 Some of the most ambitious digital humanities projects that have taken a very deliberate approach to standardizing and structuring their data, like the [Map of Early Modern London][moeml], offer no way to download their content *en masse*, instead keeping the user completely reliant upon their web interface.
 
@@ -39,8 +43,8 @@ Even when APIs are functioning normally, a researcher interested in downloading 
 Far easier on the user (and on the web server) is to offer exports of these underlying databases as static files that can be downloaded in bulk and analyzed at will.
 Moreover, copies of these "flat files" can easily be uploaded to multiple institutional repositories, provided the museum has had the good sense to allow it under their licensing of the data.
 The British Museum offers an API-like service to query an LOD representation of their collections data.
-As is commonly a problem with these LOD services (usually taking the form of a SPARQL endpoint), the web service is often malfunctioning.
-However, the BM has smartly allowed users to download a dump of these data, tagged with the date it was generated, so the information can remain available even when the web service is not.
+As is [commonly a problem with these LOD services](https://daverog.wordpress.com/2013/06/04/the-enduring-myth-of-the-sparql-endpoint/), the BM's web service is often malfunctioning.
+However, the BM has smartly allowed users to download a dump of their linked data so the information can remain available locally, even when the remote web service is not.
 
 <figure>
 <img src="/assets/images/tate_commit.png" />
@@ -48,8 +52,14 @@ However, the BM has smartly allowed users to download a dump of these data, tagg
 </figure>
 
 I am also interested to see how many museums will follow the Tate Gallery's use of Git as a way to track and distribute structured information about their collections.
-A Git repository combines the ability to bulk download while also providing a way to track and distribute changes to a dataset asynchronously, not relying on a constantly-churning web service.[^2]
+A Git repository combines the ability to bulk download, while also providing a way to track and distribute changes to a dataset asynchronously, not relying on a constantly-churning web service.[^2]
+There is also a [ready-made framework][zenodo] for assigning DOI's to git repositories.
 
+If the GLAM world is going to spend a lot of time and effort developing good APIs, they might as well partly embrace the "keep it simple, stupid" principle and simultaneously publish flat dumps of the data they are already releasing.
+The same goes for scholarly research projects by university professors.
+Flat files encourage easy downloading and distribution, not to mention creative re-use.
+And this is great for sustainability.
+"Lots of copies keeps stuff safe," after all.
 
 [^1]: For an introduction to **A**pplication **P**rogramming **I**nterfaces, see the [Programming Historian](http://programminghistorian.org/lessons/intro-to-the-zotero-api).
 
@@ -62,3 +72,5 @@ A Git repository combines the ability to bulk download while also providing a wa
 [ch]: http://www.theatlantic.com/technology/archive/2015/01/how-to-build-the-museum-of-the-future/384646/
 
 [moeml]: http://mapoflondon.uvic.ca
+
+[zenodo]: https://zenodo.org/
