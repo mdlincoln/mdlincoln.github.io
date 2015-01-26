@@ -53,13 +53,15 @@ However, the BM has smartly allowed users to download a dump of their linked dat
 
 I am also interested to see how many museums will follow the Tate Gallery's use of Git as a way to track and distribute structured information about their collections.
 A Git repository combines the ability to bulk download, while also providing a way to track and distribute changes to a dataset asynchronously, not relying on a constantly-churning web service.[^2]
-There is also a [ready-made framework][zenodo] for assigning DOI's to git repositories.
+There is also a [ready-made framework][zenodo] for assigning DOIs to git repositories.
 
-If the GLAM world is going to spend a lot of time and effort developing good APIs, they might as well partly embrace the "keep it simple, stupid" principle and simultaneously publish flat dumps of the data they are already releasing.
+I'll end this post with a call to both the university DH crowd and the [#museweb](http://www.museumsandtheweb.com/) crowd to prod each other to take advantage of this most simple way of distributing their humanities data.
+To offer these exports seems to be trivial compared to creating web-based user interfaces or APIs, so I suspect that such offerings are rare because project leaders just don't think to include them (though I'd be interested to hear otherwise!).
+If the GLAM world is going to spend a lot of time and effort developing good APIs, they might as well embrace the "keep it simple, stupid" principle and simultaneously publish flat dumps of the data they are already releasing via more complicated methods.
 The same goes for scholarly research projects by university professors.
-Flat files encourage easy downloading and distribution, not to mention creative re-use.
-And this is great for sustainability.
+Flat files encourage easy downloading and distribution, not to mention creative re-use, *and* they are great for sustainability.
 "Lots of copies keeps stuff safe," after all.
+
 
 [^1]: For an introduction to **A**pplication **P**rogramming **I**nterfaces, see the [Programming Historian](http://programminghistorian.org/lessons/intro-to-the-zotero-api).
 
