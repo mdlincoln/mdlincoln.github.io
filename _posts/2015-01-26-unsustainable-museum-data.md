@@ -26,7 +26,7 @@ Some of the most ambitious digital humanities projects that have taken a very de
 
 I am starting to see this as a crucial problem in the world of museum data.
 We've been duly excited about the rapid adoption of APIs by [many museums, libraries, and other archives][apis] as a way to make their collections data available in a machine-friendly way.[^1]
-For example, the Cooper Hewitt museum [has made a splash with its particularly rich and well-integrated API][ch].
+For example, the Cooper-Hewitt museum [has made a splash with its particularly rich and well-integrated API][ch].
 This format makes excellent sense for generating human-readable websites or mobile apps, which only ever need to display a little information at a time.
 They're also great for relaying information that may change frequently, such as the current display location of a work of art.
 
@@ -48,10 +48,10 @@ However, the BM has smartly allowed users to download a dump of their linked dat
 
 <figure>
 <img src="/assets/images/tate_commit.png" />
-<figcaption>The Tate Gallery uses Git to distribute their database dumps, so changes are tracked and sharable. (From <a href="github.com/tategallery">github.com/tategallery</a>)</figcaption>
+<figcaption>The Tate Gallery uses Git to distribute their database dumps, so changes are tracked and sharable. (From <a href="https://github.com/tategallery/collection/commit/f60339d97b379f5412dada56d07f9d596033a275">github.com/tategallery</a>)</figcaption>
 </figure>
 
-I am also interested to see how many museums will follow the Tate Gallery's use of Git as a way to track and distribute structured information about their collections.
+I am also interested to see how many museums will follow the [Tate Gallery](https://github.com/tategallery/collection)'s and [Cooper-Hewitt](https://github.com/cooperhewitt/collection)'s use of Git as a way to track and distribute structured information about their collections.
 A Git repository combines the ability to bulk download, while also providing a way to track and distribute changes to a dataset asynchronously, not relying on a constantly-churning web service.[^2]
 There is also a [ready-made framework][zenodo] for assigning DOIs to git repositories.
 
