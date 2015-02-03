@@ -8,6 +8,10 @@ tags:
     - Art History
 ---
 
+<aside>
+<a href="/2015/02/03/summer-2015-digital-art-history-institutes.html">See the announcements for summer 2015 institutes.</a>
+</aside>
+
 There are several different summer institutes being offered this year in digital humanities specifically tailored for art historians.
 Most are open to scholars of all levels and specialties, and they seek applicants of all digital skill levels.
 For the sake of convenience, I've pulled together quick links and descriptions for all of the institutes here.
