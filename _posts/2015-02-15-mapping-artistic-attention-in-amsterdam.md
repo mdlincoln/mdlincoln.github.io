@@ -30,6 +30,8 @@ The southeastern expansion in the 1660s, however, featured more palatial buildin
 
 Visualizing the spatial relationships of these depictions is leading me to now ask more detailed questions about why certain areas of the city may have attracted depiction while others did not.
 I also want to examine spurs for depiction other than expansion.
-In the final slide, I've plotted the number of Amsterdam images per year from my dataset against the amount of money spent on public works in Amsterdam over the same period.
+In the final slide, I've plotted the number of Amsterdam images per year from my dataset against the amount of money spent on public works in Amsterdam over the same period.[^1]
 Some spikes in depiction align with major construction outlays, but others (like the fire that destroyed the old town hall) do not. 
 This is where we need to turn from this macro-view to a micro-view, looking at the different characters of individual depictions and what they can tell us about period relationships between vision and the space of the city. 
+
+[^1]: I derived these data from Marjolein ’t Hart, “The Glorious City: Monumentalism and Public Space in Seventeenth-Century Amsterdam,” in *Urban Achievement in Early Modern Europe: Golden Ages in Antwerp, Amsterdam, and London*, ed. Patrick Karl O’Brien (Cambridge: Cambridge University Press, 2001), fig. 6.1. I was able to extract the dataset from this printed chart using the excellent [Plot Digitizer](http://plotdigitizer.sourceforge.net/).
