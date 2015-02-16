@@ -10,7 +10,10 @@ tags:
 - Digital Humanities
 ---
 
-<aside>These are the slides and notes from the lightning talk I gave at the CAA 2015 session <a href="http://conference.collegeart.org/programs/doing-digital-art-history/">"Doing Digital Art History: Reflections on the Field"</a>, an overview of the work done at the <a href="/2014/01/21/summer-2014-digital-art-history-institutes.html">2014 summer institutes</a> sponsored by the Kress and Getty Foundations.</aside>
+<aside>
+<p>These are the slides and notes from the lightning talk I gave at the CAA 2015 session <a href="http://conference.collegeart.org/programs/doing-digital-art-history/">"Doing Digital Art History: Reflections on the Field"</a>, an overview of the work done at the <a href="/2014/01/21/summer-2014-digital-art-history-institutes.html">2014 summer institutes</a> sponsored by the Kress and Getty Foundations.</p>
+<p><a href="https://github.com/mdlincoln/middlebury_amsterdam">See the underlying data and processing code here.</a></p>
+</aside>
 
 <script async class="speakerdeck-embed" data-id="2f56994087f846ff8cb733fcbf1f6c11" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
