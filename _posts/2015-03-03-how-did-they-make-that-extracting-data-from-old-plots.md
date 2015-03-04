@@ -2,17 +2,18 @@
 layout: post
 comments: true
 title: "How did they make that? Extracting data from old plots"
-date: 2015-03-04 9:30
+date: 2015-03-03 11:00
 tags: 
 - Digital Humanities
 - Visualization
 ---
 
-One quote from the latest [DHNow] Editor's Choice, ["Researcher Perspectives on Publication and Peer Review of Data"][plos][^1], really stuck out to me.
+One quote from today's [DHNow] Editor's Choice, ["Researcher Perspectives on Publication and Peer Review of Data"][plos][^1], really stuck out to me.
 In surveying how researchers obtained previously-published data, Kratz and Strasser note, "Eight respondents (5%) wrote-in that they had obtained data through a channel we had not considered: extracting data from the text, tables, or figures of a published paper."
 
-I found it necessary to do this a few weeks ago when preparing my talk for CAA on [artistic attention in Amsterdam 1550--1750][caa], as measured by prints from the Rijksmuseum.
-I'd found the perfect plot published in a book, whose underlying data I wanted to juxtapose against a database that I already had in CSV format on my computer.[^2]
+I found it necessary to do this a few weeks ago when preparing my talk for CAA on [artistic attention in Amsterdam 1550--1750][caa] as measured by prints from the Rijksmuseum.
+Inspired by Miriam Posner's ["How did they make that?"][posner], I wanted to write up the back story behind the [last slide][last] of my presentation, which draws on historical construction expenditure data that had previously been published in a printed book.[^2]
+But I wanted more than a picture of the book --- I wanted to compare its underlying data with my own.
 [WebPlotDigitizer][wpd] to the rescue!
 This is a great browser-based application developed by Ankit Rohatgi, which is available either on a [hosted website][hosted], or which you can download yourself and run in your own browser.
 
@@ -40,7 +41,8 @@ Once you're satisfied with all your points, you can download the data as a CSV, 
 ## 4. Interpolate (advanced)
 
 One drawback to manually digitizing your work is that points that are meant to have integer values (e.g. a year like 1604) often come out as real values (e.g. 1604.00325).
-If you are trying to join these to other data with integer values, then you'll need to *interpolate* your extracted data.
+You can just round these integers, but depending how carefully you clicked, you may have multiple associated values with each of your rounded points.
+*Interpolation* in the programming language of your choice is a useful solution.
 This is a simple task with R's `approx()` function:
 
 {% highlight R %}
@@ -80,3 +82,6 @@ Voila --- you can now incorporate extracted data from an old printed source into
 
 [plot.ly]: http://plot.ly
 
+[posner]: http://miriamposner.com/blog/how-did-they-make-that/
+
+[last]: https://speakerdeck.com/mdlincoln/artistic-attention-in-amsterdam-1550-1750?slide=15
