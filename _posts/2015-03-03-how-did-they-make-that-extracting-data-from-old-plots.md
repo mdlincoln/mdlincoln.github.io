@@ -8,11 +8,11 @@ tags:
 - Visualization
 ---
 
-One quote from today's [DHNow] Editor's Choice, ["Researcher Perspectives on Publication and Peer Review of Data"][plos][^1], really stuck out to me.
-In surveying how researchers obtained previously-published data, Kratz and Strasser note, "Eight respondents (5%) wrote-in that they had obtained data through a channel we had not considered: extracting data from the text, tables, or figures of a published paper."
+One quote from today's [DHNow] Editor's Choice, ["Researcher Perspectives on Publication and Peer Review of Data"][plos], really stuck out to me.
+In surveying how researchers obtained previously-published data, Kratz and Strasser note, "Eight respondents (5%) wrote-in that they had obtained data through a channel we had not considered: extracting data from the text, tables, or figures of a published paper."[^1]
 
 I found it necessary to do this a few weeks ago when preparing my talk for CAA on [artistic attention in Amsterdam 1550--1750][caa] as measured by prints from the Rijksmuseum.
-Inspired by Miriam Posner's ["How did they make that?"][posner], I wanted to write up the back story behind the [last slide][last] of my presentation, which draws on historical construction expenditure data that had previously been published in a printed book.[^2]
+Inspired by Miriam Posner's ["How did they make that?"][posner], I wanted to write up the back story behind the [last slide][last] of my presentation, which I derived from historical construction expenditure data that had previously been published by Marjolein t'Hart in a printed book.[^2]
 But I wanted more than a picture of the book --- I wanted to compare its underlying data with my own.
 [WebPlotDigitizer][wpd] to the rescue!
 This is a great browser-based application developed by Ankit Rohatgi, which is available either on a [hosted website][hosted], or which you can download yourself and run in your own browser.
