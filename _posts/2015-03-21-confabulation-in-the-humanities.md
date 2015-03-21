@@ -4,10 +4,13 @@ comments: true
 title: "Confabulation in the humanities"
 date: 2015-03-21 09:19
 tags: 
+- Digital Humanities
+- Network Analysis
+- Humanities
 ---
 
 It's a tale as old as the "digital humanities" itself: skeptics rightly asking whether or not we are actually learning anything *new* by using quantitative approaches to historical questions.
-But I find that many scholars actually have a great deal of trouble differentiating what sounds *reasonable* from what we actually *already knew*.
+But I find that many scholars actually have a great deal of trouble differentiating what, in retrospect, sounds *reasonable*, from what we actually *already knew*.
 
 I've run in to an odd version of this in presenting my own research.
 In my [dissertation](/dissertation), I explore how the organization of artistic print producers (including designers, plate cutters, and publishers) in the Netherlands shifted between 1500 and 1700, and what these changes may have meant for individual artists and for their works of art.
