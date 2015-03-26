@@ -13,6 +13,12 @@ On this site you can find my [CV](/about), various [blog posts](/archive) on art
 
 ***
 
+## Upcoming Presentations
+
+{% include travel.html %}
+
+***
+
 ## Most recent posts
 
 <nav>
