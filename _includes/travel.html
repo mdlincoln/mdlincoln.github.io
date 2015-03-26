@@ -1,4 +1,5 @@
-{% for trip in site.data.travel %}
+{% assign trips = site.data.travel | sort: 'datestart' %}
+{% for trip in trips %}
 <p>
 {% if trip.url %}
   <a href="{{ trip.url }}">{{ trip.venue }}</a>
