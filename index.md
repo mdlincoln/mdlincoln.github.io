@@ -11,12 +11,14 @@ I am currently the University of Maryland Museum Fellow at the Office of Norther
 
 On this site you can find my [CV](/about), various [blog posts](/archive) on art history, digital humanities, and (occasionally) the [Super Mutant Ninja Turtles](/2013/09/10/ninja-turtles.html), and the full-text of conference talks and descriptions of my digital projects on the ['Projects' page](/projects).
 
+{% if site.data.travel.size > 0 %}
 ***
 
 ## Upcoming Presentations
 
 {% include travel.html %}
 
+{% endif %}
 ***
 
 ## Most recent posts
