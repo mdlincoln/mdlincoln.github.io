@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: "Mis-evaluating digital scholarship"
-date: 2015-04-01 09:13
+date: 2015-04-01 13:39:36.631181
 tags: 
 - Art History
 - Academia
