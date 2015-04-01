@@ -13,6 +13,8 @@ Today, I discuss how to add [Twitter Cards][tc] to your Jekyll posts.
 
 Adding a few `<meta>` tags to your Jekyll layout will ensure that any time someone pastes one of your URLs into a tweet, a small post summary and even an image will pop up within that tweet.
 
+![Twitter Card example](/assets/images-display/twitter_card.png)
+
 While you can read more on the Twitter dev pages about the intricacies of different fields, I use the following setup on this blog. I've got a snippet called `twitter_card.html` in my `_includes` folder that looks like this:
 
 {% highlight html %}
