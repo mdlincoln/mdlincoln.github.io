@@ -1,15 +1,19 @@
 ---
 layout: default
-title: Dissertation Abstract
+title: My Dissertation
 show_title: true
 ---
 
-## Modelling the Network of Dutch and Flemish Print Production, 1500--1700
+For non-specialists: a video; for the specialists: a full abstract.
+
+## The Three-Minute Rundown
 
 <figure>
-<a href="http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=1618954&partId=1"><img src="/assets/images-display/stradanus_sculptura.jpg" /></a>
-<figcaption>Designed by Johannes Stradanus, published by Philip Galle, <em>Sculptura in Æs</em>, from <em>Nova Reperta</em>, c. 1580-1605. Engraving, 20.3 x 27.3 cm. British Museum, London.</figcaption>
+<iframe src="https://player.vimeo.com/video/125351302?portrait=0" width="700" height="393" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<figcaption><a href="https://vimeo.com/125351302">View it in HD on Vimeo</a></figcaption>
 </figure>
+
+## Modelling the Network of Dutch and Flemish Print Production, 1500--1700
 
 The wealth of Dutch and Flemish prints that survive from the sixteenth and seventeenth centuries present both a blessing and a curse for art historians.
 On the one hand, this abundance has fueled vital connoisseurial research on individual printmakers and their oeuvres. This cataloging effort has given us crucial insight into one of the prime conduits for images across Europe in this period.
