@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: "The Three-Minute Dissertation"
 date: 2015-04-19 10:05:56.725205
 tags:

@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: "The Art Historian's Macroscope: Museum Data and the Academy"
 date: 2015-05-21 09:00:00
 tags:
