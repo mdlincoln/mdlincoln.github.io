@@ -70,7 +70,7 @@ What can universities do?
 
 1. We've built art historical data for centuries (catalogues raisonné) - let's reimagine how we can describe and permute our knowledge in digital formats.
 2. Macroscopic research can support hypothesis-driven experimentation
-3. See [Sheila Brennan's "DH Centered in Museums"](www.lotfortynine.org/2015/03/dh-centered-in-museums/): Museums have done DH for a long time, and they have their own priorities.
+3. See [Sheila Brennan's "DH Centered in Museums"](http://www.lotfortynine.org/2015/03/dh-centered-in-museums/): Museums have done DH for a long time, and they have their own priorities.
 
 
 
