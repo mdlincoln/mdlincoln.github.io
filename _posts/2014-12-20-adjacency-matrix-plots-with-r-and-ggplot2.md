@@ -7,6 +7,7 @@ tags:
 - Code
 - Network Analysis
 - Visualization
+- R
 ---
 
 <aside>

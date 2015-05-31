@@ -9,6 +9,7 @@ tags:
 - Network Analysis
 - Conferences
 - Visualization
+- R
 ---
 
 I presented the following poster at the Sixteenth Century Society Conference in New Orleans on October 18th, 2014.

@@ -6,6 +6,7 @@ date: 2014-03-17 11:30
 tags: 
 - Digital Humanities
 - Art History
+- R
 ---
 
 After working on visualizing the Getty's [Art & Architecture Thesaurus][aat] the other week, I decided to poke around some of the other data resources that the Getty has to offer.
