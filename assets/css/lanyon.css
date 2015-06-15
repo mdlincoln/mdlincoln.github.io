@@ -113,6 +113,9 @@ h1, h2, h3, h4, h5, h6 {
   color: #c0c0c0;
   letter-spacing: 0;
 }
+.masthead .social-links {
+  float: right;
+}
 
 @media (max-width: 48em) {
   .masthead-title {
