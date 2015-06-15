@@ -8,5 +8,3 @@ I built this site using [Jekyll](http://jekyll.rb) and I host it on [GitHub Page
 Please feel free to inspect and borrow freely from the [site repository](http://github.com/mdlincoln/mdlincoln.github.io).
 
 I typeset my [CV](/about) using a LaTeX template that [Dario Tarabrelli](http://nitens.org/taraborelli/cvtex) created.
-
-The banner image is {{ site.data.site.banner.name }} ([URL]({{ site.data.site.banner.source }}))
