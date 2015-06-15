@@ -13,7 +13,7 @@
 
     <p class="sidebar-nav">
       {% for link in site.data.nav %}
-           <a href="{{ link.url }}">{{ link.title }}</a>{% if forloop.last %}{% else %} | {% endif %}
+           <a class="sidebar-nav-item" href="{{ link.url }}">{{ link.title }}</a>
       {% endfor %}
     </p>
 
