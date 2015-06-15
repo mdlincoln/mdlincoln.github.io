@@ -1,22 +1,22 @@
-<div class="sidebar">
-  <div class="container sidebar-sticky">
-    <a href="{{ site.data.site.banner.source }}"><div class="circular"></div></a>
-    <div class="sidebar-about">
+<!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular
+     styles, `#sidebar-checkbox` for behavior. -->
+<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
+
+<!-- Toggleable sidebar -->
+<div class="sidebar" id="sidebar">
+    <div class="sidebar-item">
       <h1><a href="/">{{ site.data.site.title }}</a></h1>
     </div>
+    <div class="sidebar-item">
+    <p>{{ site.data.site.description }}</p>
+  </div>
 
     <p class="sidebar-nav">
       {% for link in site.data.nav %}
-           <a href="{{ link.url }}">{{ link.title }}</a>{% if forloop.last %}{% else %} | {% endif %}
+           <a class="sidebar-nav-item" href="{{ link.url }}">{{ link.title }}</a>
       {% endfor %}
     </p>
 
-    <p class="social-nav">
-    {% for nav in site.data.social %}
-    <a href="{{ nav.link }}" title="{{ nav.title }}"><i class="{{ nav.icon }}"></i></a>
-    {% endfor %}
-    </p>
-
-    <p class="license">All work on "<span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">matthewlincoln.net</span>" by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">{{ site.data.site.title }}</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a> &bull; <a href="/pages/colophon.html">Colophon</a></p>
+    <p class="sidebar-item">All work on "<span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">matthewlincoln.net</span>" by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">{{ site.data.site.title }}</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>
   </div>
 </div>
