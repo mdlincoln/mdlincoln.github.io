@@ -12,11 +12,14 @@
             <a href="{{ site.baseurl }}/" title="Home">{{ site.data.site.title }}</a>
             <small>{{ site.data.site.tagline }}</small>
           </h3>
+          {% for nav in site.data.social %}
+          <a href="{{ nav.link }}" title="{{ nav.title }}"><i class="{{ nav.icon }}"></i></a>
+          {% endfor %}
         </div>
       </div>
-				<div class="content container">
-					{% if page.show_title %}
-						<h1 class="post-title">{{ page.title }}</h1>
+      <div class="content container">
+      	{% if page.show_title %}
+      	<h1 class="post-title">{{ page.title }}</h1>
 					{% endif %}
 					{{ content }}
 					<!-- The idea for a revision history link lifted shamelessly from https://github.com/ricedh/drafts -->
