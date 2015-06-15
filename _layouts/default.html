@@ -11,10 +11,12 @@
           <h3 class="masthead-title">
             <a href="{{ site.baseurl }}/" title="Home">{{ site.data.site.title }}</a>
             <small>{{ site.data.site.tagline }}</small>
-          </h3>
+            <span class="social-links">
           {% for nav in site.data.social %}
           <a href="{{ nav.link }}" title="{{ nav.title }}"><i class="{{ nav.icon }}"></i></a>
           {% endfor %}
+          </span>
+          </h3>
         </div>
       </div>
       <div class="content container">
