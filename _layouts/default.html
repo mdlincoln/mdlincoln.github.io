@@ -5,6 +5,15 @@
 		</head>
 		<body class="theme-lincoln">
 			{% include sidebar.html %}
+			<div class="wrap">
+      <div class="masthead">
+        <div class="container">
+          <h3 class="masthead-title">
+            <a href="{{ site.baseurl }}/" title="Home">{{ site.data.site.title }}</a>
+            <small>{{ site.data.site.tagline }}</small>
+          </h3>
+        </div>
+      </div>
 				<div class="content container">
 					{% if page.show_title %}
 						<h1 class="post-title">{{ page.title }}</h1>
@@ -13,5 +22,24 @@
 					<!-- The idea for a revision history link lifted shamelessly from https://github.com/ricedh/drafts -->
 					<div class="revision"><a href="https://github.com/mdlincoln/mdlincoln.github.io/commits/master/{{ page.path }}" title="version history on GitHub">revision history for this page</a></div>
 				</div>
+				<label for="sidebar-checkbox" class="sidebar-toggle"></label>
+
+    <script>
+      (function(document) {
+        var toggle = document.querySelector('.sidebar-toggle');
+        var sidebar = document.querySelector('#sidebar');
+        var checkbox = document.querySelector('#sidebar-checkbox');
+
+        document.addEventListener('click', function(e) {
+          var target = e.target;
+
+          if(!checkbox.checked ||
+             sidebar.contains(target) ||
+             (target === checkbox || target === toggle)) return;
+
+          checkbox.checked = false;
+        }, false);
+      })(document);
+    </script>
 		</body>
 </html>
