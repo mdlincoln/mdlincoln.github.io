@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: "jq and SPARQL"
 date: 2015-06-04 11:16
-tags: 
+tags:
 - Code
 ---
 
@@ -15,7 +15,7 @@ Most of these services will only return results in XML or JSON formats, when all
 This great command line utility[^cl] for filtering and re-writing JSON files can also be put to work converting RDF JSON from a SPARQL endpoint into a CSV that you can load into [RAW](http://raw.densitydesign.org/), [plot.ly](https://plot.ly/), [R](http://www.r-project.org/), or whatever your data exploration tool of choice may be.
 Just run like so:
 
-```
+```sh
 cat sparql.json | jq -r '.head.vars as $fields | ($fields | @csv), (.results.bindings[] | [.[$fields[]].value] | @csv)' > sparql.csv
 ```
 
