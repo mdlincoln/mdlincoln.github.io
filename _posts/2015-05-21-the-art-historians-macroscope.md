@@ -10,7 +10,10 @@ tags:
 - Digital Humanities
 ---
 
-<aside>Here are the slides and notes for my May 21 talk “The Art Historian's Macroscope: Museum Data and the Academy” at the Cultural Programs of the National Academy of Sciences.</aside>
+<aside>
+<p>Here are the slides and notes for my May 21 talk “The Art Historian's Macroscope: Museum Data and the Academy” at the Cultural Programs of the National Academy of Sciences.</p>
+<p><a href="https://www.youtube.com/watch?v=8zuUoSuGgGw&index=3&list=PLLfdQrZVuMNVd-AK1NKveYrAdA4kibZZE">You may view the video here.</a></p>
+</aside>
 
 <iframe src="//slides.com/matthewlincoln/macroscope/embed?style=light" width="720" height="600" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
@@ -71,6 +74,3 @@ What can universities do?
 1. We've built art historical data for centuries (catalogues raisonné) - let's reimagine how we can describe and permute our knowledge in digital formats.
 2. Macroscopic research can support hypothesis-driven experimentation
 3. See [Sheila Brennan's "DH Centered in Museums"](http://www.lotfortynine.org/2015/03/dh-centered-in-museums/): Museums have done DH for a long time, and they have their own priorities.
-
-
-
