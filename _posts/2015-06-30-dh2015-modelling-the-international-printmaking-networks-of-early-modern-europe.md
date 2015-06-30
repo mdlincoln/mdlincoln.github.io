@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "DH2015: Modelling the (Inter)national Printmaking Networks of Early Modern Europe"
-date: "2015-06-30 21:35"
+date: "2015-06-30 8:00"
 comments: true
 tags:
 - Digital Humanities
