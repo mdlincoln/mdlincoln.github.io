@@ -16,6 +16,6 @@ Below are the slides for my DH2015 talk "Modelling the (Inter)national Printmaki
 
 [View the official abstract in the published proceedings.](http://dh2015.org/abstracts/xml/LINCOLN_Matthew_Modelling_the__Inter_National_Pri/LINCOLN_Matthew_Modelling_the__Inter_National_Printmaki.html)
 
-[You can access the data and visualization code bundled in an R package.](http://artinterp.org/dh2015/dh2015_0.1.tar.gz)
+[Access the data and visualization code bundled in an R package.](http://artinterp.org/dh2015/dh2015_0.1.tar.gz)
 
 <script async class="speakerdeck-embed" data-id="52b80212233c461e95b4e0bf9d7f95da" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
