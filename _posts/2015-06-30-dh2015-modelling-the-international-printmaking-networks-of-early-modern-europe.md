@@ -9,7 +9,9 @@ tags:
 - Art History
 - R
 - Network Analysis
-redirect_from: DH2015.html
+redirect_from:
+  - DH2015.html
+  - dh2015.html
 ---
 
 Below are the slides for my DH2015 talk "Modelling the (Inter)national Printmaking Networks of Early Modern Europe".
