@@ -22,6 +22,9 @@ Below are the slides and speaking notes for my DH2015 talk "Modelling the (Inter
 
 ---
 
+<aside>n.b. These are notes for a more freely-delivered talk, so many of these ideas
+are not a formally articulated as you might expect in a published article.</aside>
+
 One key point in the history early modern Dutch artistic printmaking is the
 formation of what might be called a national school: a shift away from
 internationalized, courtly mannerism such as the Goltzius print above after a
