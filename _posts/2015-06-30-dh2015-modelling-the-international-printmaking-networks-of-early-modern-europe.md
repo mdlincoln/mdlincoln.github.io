@@ -16,6 +16,8 @@ redirect_from:
 
 Below are the slides and speaking notes for my DH2015 talk "Modelling the (Inter)national Printmaking Networks of Early Modern Europe".
 
+This paper was a finalist for the [ADHO Paul Fortier Prize](http://adho.org/awards/paul-fortier-prize) for best paper persentation by an early career researcher.
+
 [View the official abstract in the published proceedings.](http://dh2015.org/abstracts/xml/LINCOLN_Matthew_Modelling_the__Inter_National_Pri/LINCOLN_Matthew_Modelling_the__Inter_National_Printmaki.html)
 
 [Access the data and visualization code bundled in an R package.](http://artinterp.org/dh2015/dh2015_0.1.tar.gz)
