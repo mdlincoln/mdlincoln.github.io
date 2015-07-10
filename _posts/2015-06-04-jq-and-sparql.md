@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: "jq and SPARQL"
+title: "jq and SPARQL to CSV"
 date: 2015-06-04 11:16
 tags:
 - Code
@@ -16,7 +16,7 @@ This great command line utility[^cl] for filtering and re-writing JSON files can
 Just run like so:
 
 {% highlight sh %}
-cat sparql.json | jq -r '.head.vars as $fields | ($fields | @csv), (.results.bindings[] | [.[$fields[]].value] | @csv)' > sparql.csv
+jq -r '.head.vars as $fields | ($fields | @csv), (.results.bindings[] | [.[$fields[]].value] | @csv)' sparql.json > sparql.csv
 {% endhighlight %}
 
 jq will first write the `vars` array to the first line of the CSV, creating a table header.
