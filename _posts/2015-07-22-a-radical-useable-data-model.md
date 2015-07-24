@@ -41,4 +41,12 @@ This has been on my mind as I've been working through revising my practical
 [lesson for humanists on how to use SPARQL][sparql], the query language for
 graph databases.
 
-Take the neighborhood.
+Take Miriam's example of the neighborhood.
+A simplistic classification of neighborhoods might assign it characterize the neighborhood as "majority African-American"
+
+
+ one that she might readily identify as "black", but which another inhabitant may instead view as "Haitian" more specifically.
+
+[posnerkey]:
+
+[keydh]: sceti.library.upenn.edu/KeystoneDH/
