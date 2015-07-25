@@ -168,6 +168,10 @@ object of study is truly difficult to get your hands around. Requiring users to
 spend a great deal of time and attention to understand and use our database
 might be just the kind of radical act we need.
 
+<aside>The code for producing each of the figures in this post is available on
+Github: <a
+href="https://github.com/mdlincoln/radical_rdf">mdlincoln/radical_rdf</a></aside>
+
 [^query]: Much like the graphs I've shown here, the following are pseudo-SPARQL queries, so they're lacking the usual baggage of prefixes and URIs. Again, take a look at my [SPARQL tutorial][sparql] to get a rundown on what is going on here.
 
 [keydh]: http://sceti.library.upenn.edu/KeystoneDH
