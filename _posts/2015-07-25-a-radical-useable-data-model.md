@@ -180,3 +180,15 @@ href="https://github.com/mdlincoln/radical_rdf">mdlincoln/radical_rdf</a></aside
 [sparql]: /2014/07/10/sparql-for-humanists.html
 
 [storify]: https://storify.com/upenn_lib/keystone-digital-humanities
+
+***
+
+**Edit**: Deb Verhoven [brought my
+attention](https://twitter.com/bestqualitycrab/status/625066750237773824) to a
+very relevant paper she has authored on interlinking viewpoints within
+databases: Deb Verhoven, “Doing the Sheep Good: Facilitating Engagement in
+Digital Humanities and Creative Arts Research,” in _Advancing Digital
+Humanities_, ed. Paul Longley Arthur and Katherine Bode (London: Palgrave
+Macmillan, 2014), 206–20,
+<http://www.palgraveconnect.com/doifinder/10.1057/9781137337016>. (Available on
+[Academia.edu](https://www.academia.edu/6904660/Doing_the_Sheep_Good_Facilitating_Engagement_in_Digital_Humanities_and_Creative_Arts_Research))
