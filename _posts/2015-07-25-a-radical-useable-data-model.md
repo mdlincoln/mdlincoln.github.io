@@ -19,12 +19,14 @@ weird-making data models models that resist categorical ontologies.
 
 Of all her examples, I was most struck by the idea of how to model highly
 contingent and contextual properties of our lived experience. To offer an
-ever-extending list of possible values (Miriam pointed to the voluminous
-Facebook gender selection field) avoids the fact that these aren't atomic
+ever-extending list of possible values (Miriam pointed to the [voluminous
+Facebook gender selection field][fb]) avoids the fact that these aren't atomic
 attributes bound to a person's existence. As we all know, these attributes are
 constructed entirely from social context; they only become sensible when viewed
 from a particular perspective seated in personal identity, in time, and in
 space/place.
+
+[fb]:http://www.thedailybeast.com/articles/2014/02/15/the-complete-glossary-of-facebook-s-51-gender-options.html
 
 As part of the talk, Miriam wondered whether existing tools and models can be
 repurposed to suit these kinds of radical data models, or whether we need to
