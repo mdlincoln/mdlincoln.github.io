@@ -2,6 +2,7 @@
 layout: post
 title: "A Radical, Useable Data Model"
 date: 2015-07-25 12:42
+comments: true
 tags:
 - Digital humanities
 - Code
