@@ -7,8 +7,10 @@ tags:
 - Code
 ---
 
-We at [Keystone DH][keydh] were just treated to a fantastic keynote address by
-Miriam Posner. I'll be sure to link to it if/when she posts the text (for the time being you can get a sense of it from the [`#keydh` Storify][storify]).
+Attendees of [Keystone DH][keydh] were just treated to a fantastic keynote
+address by Miriam Posner. I'll be sure to link to it if/when she posts the text
+(for the time being you can get a sense of it from the [`#keydh`
+Storify][storify]).
 
 I find myself both chastened and enlivened by her call for a DH that embraces
 difficult subjects around race, gender, and sexuality (among many others) not
@@ -35,6 +37,8 @@ graph databases. (I won't be doing a full intro to RDF/graph databases here, so 
 
 [^new]: I'd be quite shocked if I were the first person to think of this. If I've been remiss in finding other precedents, please let me know in the comments.
 
+## Radical RDF
+
 In her talk, Miriam gave an example of a neighborhood whose race might be
 constructed very differently depending on one's perspective. A simplistic
 classification of neighborhoods that allows only one value might characterize
@@ -43,21 +47,31 @@ like this:
 
     <Springfield> <has_race> <African-American> .
 
-If visualized in a graph schema, this statement looks like so:
+If visualized like a graph, this statement looks like so:
 
 {% include figure.html src="/assets/images-display/radical1.png" caption="A hopelessly simplistic model of race." %}
 
+This is clearly insufficient. An easy quantitative model might be to list the different proportions of populations within the neighborhood:
 
 {% include figure.html src="/assets/images-display/radical2.png" caption="Ok. Ratios." %}
 
-but this does nothing to address the fact of social construction.
-
- one that she might readily identify as "black", but which another inhabitant
- may instead view as "Haitian" more specifically.
+but this does nothing to address the fact that race is socially constructed. As
+Miriam suggested, she might readily identify the neighborhood "black", but
+another person may instead instead understand it as "Haitian". This kind of
+multi-dimensional relationship is exactly what RDF databases are designed for:
 
 {% include figure.html src="/assets/images-display/radical3.png" caption="A model of race that tries to account for its social construction." %}
 
+Here, perceived race sits in an intermediate position between the neighborhood
+and the subject. Now, the database would need to include even more attributes,
+such as the types of each node:
+
 {% include figure.html src="/assets/images-display/radical4.png" caption="A model with even more attributes." %}
+
+Perhaps one of the greatest strengths of the RDF database is the ability for
+multiple layers (even contradictory ones) to coexist within the same store. That
+census-like information about population ratios? It can live alongside our more
+contextual model for perceived race.
 
 {% include figure.html src="/assets/images-display/radical5.png" caption="All these models we have? They can live together in the same database." %}
 
@@ -127,18 +141,30 @@ contested:
 
 This might be a useful way to think about contested identity; it might be a
 terrible one. Either way, such a computational experiment might spur us to
-further unpack what we mean by "particularly", not to mention "contested". In a
-graph database, however, it is entirely possible for different iterations of a
-data model about constructed race --- even ones that are entirely contradictory ---
-to coexist, _and to be queried against eachother_.
+further unpack what we mean by "particularly", not to mention "contested". By
+using an RDF database, however, it becomes much easier to layer multiple models
+of race on top of one other, querying them against each other and affording a
+whole range of perspectives at the same time, rather than choosing one to
+enforce at the level of the database.
 
 It is probably possible to extend this basic model to factor in time and space,
 as Miriam suggested (though I'm not quite sure how to implement that off the top
 of my head.) Moreover, we might even design a query that has an element of
-chance (Probably involving some clever use of `RAND()` or `SAMPLE()`), such that
-running it on the same data might return a different response.
+chance (probably involving some clever use of `RAND()` or `SAMPLE()`), such that
+running it on the same data might return a different response each time --- a
+highly suggestive engineering decision.
 
-If this seems like a terribly complex database and query method, that's because it is. In her keynote, Miriam alluded to the tension in DH between the desire for elegant user interfaces and visualizations that make arguments as clearly and lucidly as possible, and the desire for highly complex data models and representations. Without minimizing the excellent work done by UX designers in helping to streamline complexity, we also need to acknowledge that, at a certain point, we cannot have our cake and eat it too. I agree with Miriam that there is a logic in advocating for difficult data, interfaces, and visualization when the object of study is truly difficult to get your hands around.
+If this seems like a terribly complex database and query method, that's because
+it is. In her keynote, Miriam alluded to the tension in DH between the desire
+for elegant user interfaces and visualizations that make arguments as clearly
+and lucidly as possible, and the desire for highly complex data models and
+representations. Without minimizing the excellent work done by UX designers in
+helping to streamline complexity, we also need to acknowledge that, at a certain
+point, we cannot have our cake and eat it too. I agree with Miriam that there is
+a logic in advocating for difficult data, interfaces, and visualization when the
+object of study is truly difficult to get your hands around. Requiring users to
+spend a great deal of time and attention to understand and use our database
+might be just the kind of radical act we need.
 
 [^query]: Much like the graphs I've shown here, the following are pseudo-SPARQL queries, so they're lacking the usual baggage of prefixes and URIs. Again, take a look at my [SPARQL tutorial][sparql] to get a rundown on what is going on here.
 
