@@ -29,9 +29,9 @@ proxy for understanding artistic networks from the early modern period. Networks
 are an especially apt frame for thinking about artistic prints, because these
 are often a collaborative process.
 
-Furthermore, the result of this process – the print itself – serves as a great
-index of the existence of a professional relationship at a certain period in
-time, even to the point of being recorded on the print itself!
+Furthermore, the result of this process --- the print itself --- serves as a
+great index of the existence of a professional relationship at a certain period
+in time, even to the point of being recorded on the print itself!
 
 From these surviving prints we can infer a dynamic network of social connections
 between artistic sources, engravers, and publishers, well suited to
@@ -41,15 +41,15 @@ A few years ago the British Museum took the gargantuan step of publishing their
 collections data as LOD, and this seemed like a perfect dataset to adopt for the
 print production question. This is obviously a sample biased by the facts of
 what has survived to us over the last four centuries, and by the historical
-collecting practices of the BM – and I’ll get to ways towards addressing that by
-the end of the talk. As collections go, however, the BM does have two useful
-assets – a particularly broad collection of European prints from this period,
+collecting practices of the BM --- and I’ll get to ways towards addressing that
+by the end of the talk. As collections go, however, the BM does have two useful
+assets --- a particularly broad collection of European prints from this period,
 and a meticulous set of curatorial data.
 
 It wouldn’t be a DH session without a messy-yet-beautiful network graph of all
 these nodes and edges. Obviously this won’t work for us, in large part because
 flattening this dynamic network removes the 250-odd years of history informing
-its evolution. More accurately, time is basically the _only_ thing it shows us –--
+its evolution. More accurately, time is basically the _only_ thing it shows us ---
 artists have been clustered here basically according to which year they were
 born in, because that’s one of the biggest (and maybe most uninteresting)
 predictors for who connects to you.[^scott]
@@ -61,7 +61,7 @@ predictors for who connects to you.[^scott]
 Instead, we need to do dynamic network analysis on a series of temporal
 subgraphs.
 
-The metric I’m interested in today is centralization – did Dutch printmaking
+The metric I’m interested in today is centralization: did Dutch printmaking
 become more or less centralized during the golden age in the seventeenth
 century? On the one hand, the medium of printing demanded a set of artistic and
 technical skills, not to mention a set of social connections and financial
@@ -79,7 +79,7 @@ more decentralized network of print producers.
 Network analysis has a metric for this question: the graph centrality score,
 which helps to characterize in just one number whether your network looks more
 like the star network above, or more like the mesh network below. How does this
-one index – and it is just one index – change over time?
+one index --- and it is just one index --- change over time?
 
 Some quick reactions:
 
@@ -87,11 +87,11 @@ Some quick reactions:
 - Swift re-distribution within a generation, reverting to a low level by 1640s
 - If the golden age helped the network decentralize, economic contraction in 1670s did not lead to an immediate return of centralization
 
-We get both sides of our proposed effects – periods of centralization, but also
-periods of decentralization.
+We get both sides of our proposed effects --- periods of centralization, but
+also periods of decentralization.
 
 Already this is very useful information for us. It helps us to contextualize the
-work of individual printmakers – how Lucas van Leyden became a locus of
+work of individual printmakers --- how Lucas van Leyden became a locus of
 Netherlandish printmaking activity early in the sixteenth century...
 
 And how the next spike of centralization would not come until the Haarlem-based
@@ -140,28 +140,28 @@ dynamic history.
 
 ## BUT WAIT
 
-So far we’ve just done descriptive network analysis – measuring our dataset, and
+So far we’ve just done descriptive network analysis - measuring our dataset, and
 postulating some reasons for why it shows what it does. But this does not test
-if the actual explanation – that Dutch printmakers pursued a rich-gets-richer
-mode of connection – would really create the kind of network trends we see. So
+if the actual explanation --- that Dutch printmakers pursued a rich-gets-richer
+mode of connection --- would really create the kind of network trends we see. So
 far, all we have is a post-facto explanation.
 
 This is where simulation comes in. What we want to do is create a simulation fed
-with the same inputs – the same target numbers of artists and total connections
-made each year – as our “real” observed network, and see how it reacts to the
-connection rules we’ve established. If our simulated network metrics appear
-similar to the observed metrics from our dataset, then we can feel more
-confident about our proposed explanation.
+with the same inputs --- the same target numbers of artists and total
+connections made each year --- as our "real" observed network, and see how it
+reacts to the connection rules we’ve established. If our simulated network
+metrics appear similar to the observed metrics from our dataset, then we can
+feel more confident about our proposed explanation.
 
 I’m going to do two super-simple simulations, probably horribly flawed in many
-ways, but also relatively transparent in their behavior – aka a good place to
-start, which is pretty much where I’m at with this part of the project.
+ways, but also relatively transparent in their behavior; also known as a good
+place to start, which is pretty much where I’m at with this part of the project.
 
 Both of these graphs have 20 nodes and 50 edges. In the Erdos-Renyi graph, edges
 are added completely at random. In the scale-free graph, edges are also added
 randomly, but following a power-law distribution. What does that mean? It means
 that a few nodes (like 19 and 20 here) will receive the bulk of the connections,
-while most will only have a handful – in other words, a rich-get-richer world
+while most will only have a handful; in other words, a rich-get-richer world
 like the one we’ve posited for our Dutch print producers.
 
 What happens when we feed these two simulations with the same number of nodes
@@ -169,21 +169,20 @@ and edges as from the BM data, but no other information about our print
 production network?
 
 Because each simulation is randomized, I run it 100 times for each year we want
-to study, and so instead of one number I get a range of values – here, a 90%
-confidence interval, aka the range that 90 of the centrality scores fall in to –
-hence the ribbons on this plot. The black line you should recognize – it’s our
+to study, and so instead of one number I get a range of values --- here, a 90%
+confidence interval, aka the range that 90 of the centrality scores fall in to ---
+hence the ribbons on this plot. The black line you should recognize: it’s our
 empirically-observed data. What we see is pretty good news for our proposal!
 While the fully random simulation (in red) never really centralizes, the
 scale-free, power-law graph’s centralization (in blue) generally matches the
-observed centralization – it even predicts that huge spike in centralization
+observed centralization. It even predicts that huge spike in centralization
 followed by a quick drop towards relative distribution.
 
 That said, there’s clearly a paradigm shift around 1720 that this model doesn’t
-account for – but that’s also pretty exciting, because it means we need to
-return to our source material – the prints themselves – and ask some new
-questions.
+account for. But that’s also pretty exciting, because it means we need to return
+to our source material --- the prints themselves --- and ask some new questions.
 
-Two take-home points: Printmakers needed expert collaborators – the story of
+Two take-home points: Printmakers needed expert collaborators. The story of
 Dutch printmaking goes well beyond an aggregation of individual engravers and
 etchers, and a lot of it seems to have been driven by expert-seeking behavior.
 
