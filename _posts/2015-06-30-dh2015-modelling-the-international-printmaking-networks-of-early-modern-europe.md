@@ -57,7 +57,7 @@ computational network analysis.
 
 Better yet, promising datasets have already been constructed for us – by
 museums! A few years ago the British Museum took the gargantuan step of
-publishing their collections data as LOD, and this seemd like a perfect dataset
+publishing their collections data as LOD, and this seemed like a perfect dataset
 to adopt for the print production question. This is obviously a sample biased by
 the facts of what has survived to us over the last four centuries, and by the
 historical collecting practices of the BM – and I’ll get to ways towards
