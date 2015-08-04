@@ -8,10 +8,11 @@ tags:
 - Code
 ---
 
-Attendees of [Keystone DH][keydh] were just treated to a fantastic keynote
-address by Miriam Posner. I'll be sure to link to it if/when she posts the text
-(for the time being you can get a sense of it from the [`#keydh`
-Storify][storify]).
+Attendees of [Keystone DH][keydh] were just treated to a [fantastic keynote
+address by Miriam Posner][posner]. (You can also get a sense of the reaction:
+from the [`#keydh` Storify][storify]).
+
+[posner]: http://miriamposner.com/blog/whats-next-the-radical-unrealized-potential-of-digital-humanities/
 
 I find myself both chastened and enlivened by her call for a DH that embraces
 difficult subjects around race, gender, and sexuality (among many others) not
