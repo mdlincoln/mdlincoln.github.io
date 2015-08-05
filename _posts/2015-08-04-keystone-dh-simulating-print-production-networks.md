@@ -107,7 +107,9 @@ But it is also useful to think about lesser-known printmakers like Nicolaes de
 Bruyn, who would have trained during the short generation where the production
 network was rapidly decentralizing. Did this decentralization encourage him to
 define a niche in oversized, fanciful landscape prints in order to stand out in
-a more distributed production network?
+a more distributed production network?[^bruyn]
+
+[^bruyn]: I'm indebted to [Lorena Baines' excellent work](http://www.hollstein.com/nicolaes-de-bruyn-part-i.html) recovering De Bruyn's magnificent prints.
 
 Or we can look to Abraham Blooteling, who still produced prints after a wide
 range of artists, but earned praise for his dedication to the relatively novel
