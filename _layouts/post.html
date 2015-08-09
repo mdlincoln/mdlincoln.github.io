@@ -10,8 +10,12 @@ layout: default
   {{ content }}
 </div>
 
-<p class="meta">Tagged in: {% for tag in page.tags %}<code><a href="/tags/{{ tag | downcase | replace: ' ', '_' }}.html">{{ tag }}</a></code>{% if forloop.last %}{% else %} {% endif %}{% endfor %}</p>
+<hr/>
+<p>Preferred citation:</p>
+<p class="citation">{% include citation.html %}</p>
+<hr/>
 
+<p class="meta">Tagged in: {% for tag in page.tags %}<code><a href="/tags/{{ tag | downcase | replace: ' ', '_' }}.html">{{ tag }}</a></code>{% if forloop.last %}{% else %} {% endif %}{% endfor %}</p>
 
 {% if site.enable_disqus %}
 {% if page.comments %}

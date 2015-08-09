@@ -147,6 +147,12 @@ time {
   font-size: 0.8em;
 }
 
+.citation {
+   font-family: Menlo, Monaco, "Courier New", monospace;
+   color: #aaa;
+   font-size: 0.8em;
+}
+
 .post time {
   display: inline-block;
   margin: 1rem 0;
