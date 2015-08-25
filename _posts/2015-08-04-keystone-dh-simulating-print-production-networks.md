@@ -19,23 +19,33 @@ Below are the slides and speaking notes for my [Keystone DH][keydh] talk "The Tr
 
 ***
 
+<script async class="speakerdeck-embed" data-slide="2" data-id="cfd91c6cf1a04bf4bdb13ae0b8a07e9a" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
 Prints present us with a pretty interesting problem. Like most art museums, the
 British museum is almost 90% prints, at least counting total numbers of objects.
 How can we tell a synthetic story of printmaking when there is just so much
 evidence to grapple with?
+
+<script async class="speakerdeck-embed" data-slide="3" data-id="cfd91c6cf1a04bf4bdb13ae0b8a07e9a" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
 Prints offer an excellent index of their own production, and through that, a
 proxy for understanding artistic networks from the early modern period. Networks
 are an especially apt frame for thinking about artistic prints, because these
 are often a collaborative process.
 
+<script async class="speakerdeck-embed" data-slide="8" data-id="cfd91c6cf1a04bf4bdb13ae0b8a07e9a" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
 Furthermore, the result of this process --- the print itself --- serves as a
 great index of the existence of a professional relationship at a certain period
 in time, even to the point of being recorded on the print itself!
 
+<script async class="speakerdeck-embed" data-slide="9" data-id="cfd91c6cf1a04bf4bdb13ae0b8a07e9a" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
 From these surviving prints we can infer a dynamic network of social connections
 between artistic sources, engravers, and publishers, well suited to
 computational network analysis.
+
+<script async class="speakerdeck-embed" data-slide="10" data-id="cfd91c6cf1a04bf4bdb13ae0b8a07e9a" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
 A few years ago the British Museum took the gargantuan step of publishing their
 collections data as LOD, and this seemed like a perfect dataset to adopt for the
@@ -45,6 +55,8 @@ collecting practices of the BM --- and I’ll get to ways towards addressing tha
 by the end of the talk. As collections go, however, the BM does have two useful
 assets --- a particularly broad collection of European prints from this period,
 and a meticulous set of curatorial data.
+
+<script async class="speakerdeck-embed" data-slide="11" data-id="cfd91c6cf1a04bf4bdb13ae0b8a07e9a" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
 It wouldn’t be a DH session without a messy-yet-beautiful network graph of all
 these nodes and edges. Obviously this won’t work for us, in large part because
@@ -58,8 +70,12 @@ predictors for who connects to you.[^scott]
 
 ## Dynamic network analysis
 
+<script async class="speakerdeck-embed" data-slide="12" data-id="cfd91c6cf1a04bf4bdb13ae0b8a07e9a" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
 Instead, we need to do dynamic network analysis on a series of temporal
 subgraphs.
+
+<script async class="speakerdeck-embed" data-slide="13" data-id="cfd91c6cf1a04bf4bdb13ae0b8a07e9a" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
 The metric I’m interested in today is centralization: did Dutch printmaking
 become more or less centralized during the golden age in the seventeenth
@@ -76,10 +92,14 @@ were able to create their own local connections without relying on a printmaking
 may also have supported print markets in smaller Dutch towns, thus leading to a
 more decentralized network of print producers.
 
+<script async class="speakerdeck-embed" data-slide="14" data-id="cfd91c6cf1a04bf4bdb13ae0b8a07e9a" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
 Network analysis has a metric for this question: the graph centrality score,
 which helps to characterize in just one number whether your network looks more
 like the star network above, or more like the mesh network below. How does this
 one index --- and it is just one index --- change over time?
+
+<script async class="speakerdeck-embed" data-slide="16" data-id="cfd91c6cf1a04bf4bdb13ae0b8a07e9a" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
 Some quick reactions:
 
@@ -90,18 +110,26 @@ Some quick reactions:
 We get both sides of our proposed effects --- periods of centralization, but
 also periods of decentralization.
 
+<script async class="speakerdeck-embed" data-slide="17" data-id="cfd91c6cf1a04bf4bdb13ae0b8a07e9a" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
 Already this is very useful information for us. It helps us to contextualize the
 work of individual printmakers --- how Lucas van Leyden became a locus of
 Netherlandish printmaking activity early in the sixteenth century...
+
+<script async class="speakerdeck-embed" data-slide="18" data-id="cfd91c6cf1a04bf4bdb13ae0b8a07e9a" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
 And how the next spike of centralization would not come until the Haarlem-based
 master Hendrick Goltzius established his studio and trained a vital generation
 of new Dutch printmakers and publishers.
 
+<script async class="speakerdeck-embed" data-slide="19" data-id="cfd91c6cf1a04bf4bdb13ae0b8a07e9a" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
 An engraver and publisher like Claes Visscher, working in a relatively
 centralized print production world at the turn of the century, could command a
 wide sweep of the industry by publishing landscapes, portraits, maps, book
 illustrations, and more.
+
+<script async class="speakerdeck-embed" data-slide="20" data-id="cfd91c6cf1a04bf4bdb13ae0b8a07e9a" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
 But it is also useful to think about lesser-known printmakers like Nicolaes de
 Bruyn, who would have trained during the short generation where the production
@@ -111,13 +139,19 @@ a more distributed production network?[^bruyn]
 
 [^bruyn]: I'm indebted to [Lorena Baines' excellent work](http://www.hollstein.com/nicolaes-de-bruyn-part-i.html) recovering De Bruyn's magnificent prints.
 
+<script async class="speakerdeck-embed" data-slide="21" data-id="cfd91c6cf1a04bf4bdb13ae0b8a07e9a" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
 Or we can look to Abraham Blooteling, who still produced prints after a wide
 range of artists, but earned praise for his dedication to the relatively novel
 technique of mezzotint.
 
+<script async class="speakerdeck-embed" data-slide="22" data-id="cfd91c6cf1a04bf4bdb13ae0b8a07e9a" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
 Moving into the eighteenth century, it is also worth considering the sudden
 return to centralization, perhaps headed by Bernard Picart, the French-born
 printmaker who came to Amsterdam in the 1710s.
+
+<script async class="speakerdeck-embed" data-slide="23" data-id="cfd91c6cf1a04bf4bdb13ae0b8a07e9a" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
 What’s really interesting about all of this is that this tells a rather
 different story than the one we get just from counting active artists, or
@@ -137,10 +171,14 @@ order to maintain a productive network. What is more, rather than this being a
 gradual shift towards decentralization, we instead see a sharp drop in the space
 of just a decade or two.
 
+<script async class="speakerdeck-embed" data-slide="24" data-id="cfd91c6cf1a04bf4bdb13ae0b8a07e9a" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
 The take-home point: Simply counting artists actually masks a more complex and
 dynamic history.
 
 ## BUT WAIT
+
+<script async class="speakerdeck-embed" data-slide="25" data-id="cfd91c6cf1a04bf4bdb13ae0b8a07e9a" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
 So far we’ve just done descriptive network analysis - measuring our dataset, and
 postulating some reasons for why it shows what it does. But this does not test
@@ -148,12 +186,16 @@ if the actual explanation --- that Dutch printmakers pursued a rich-gets-richer
 mode of connection --- would really create the kind of network trends we see. So
 far, all we have is a post-facto explanation.
 
+<script async class="speakerdeck-embed" data-slide="26" data-id="cfd91c6cf1a04bf4bdb13ae0b8a07e9a" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
 This is where simulation comes in. What we want to do is create a simulation fed
 with the same inputs --- the same target numbers of artists and total
 connections made each year --- as our "real" observed network, and see how it
 reacts to the connection rules we’ve established. If our simulated network
 metrics appear similar to the observed metrics from our dataset, then we can
 feel more confident about our proposed explanation.
+
+<script async class="speakerdeck-embed" data-slide="27" data-id="cfd91c6cf1a04bf4bdb13ae0b8a07e9a" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
 I’m going to do two super-simple simulations, probably horribly flawed in many
 ways, but also relatively transparent in their behavior; also known as a good
@@ -170,6 +212,8 @@ What happens when we feed these two simulations with the same number of nodes
 and edges as from the BM data, but no other information about our print
 production network?
 
+<script async class="speakerdeck-embed" data-slide="28" data-id="cfd91c6cf1a04bf4bdb13ae0b8a07e9a" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
 Because each simulation is randomized, I run it 100 times for each year we want
 to study, and so instead of one number I get a range of values --- here, a 90%
 confidence interval, aka the range that 90 of the centrality scores fall in to ---
@@ -184,9 +228,13 @@ That said, there’s clearly a paradigm shift around 1720 that this model doesn�
 account for. But that’s also pretty exciting, because it means we need to return
 to our source material --- the prints themselves --- and ask some new questions.
 
+<script async class="speakerdeck-embed" data-slide="29" data-id="cfd91c6cf1a04bf4bdb13ae0b8a07e9a" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
 Two take-home points: Printmakers needed expert collaborators. The story of
 Dutch printmaking goes well beyond an aggregation of individual engravers and
 etchers, and a lot of it seems to have been driven by expert-seeking behavior.
+
+<script async class="speakerdeck-embed" data-slide="30" data-id="cfd91c6cf1a04bf4bdb13ae0b8a07e9a" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
 There’s also lessons for humanistic network analysis in general. We need to look
 at metrics over time, not only network viz. We also need to eventually test our
