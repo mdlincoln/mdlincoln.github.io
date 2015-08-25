@@ -230,6 +230,8 @@ to our source material --- the prints themselves --- and ask some new questions.
 
 <script async class="speakerdeck-embed" data-slide="29" data-id="cfd91c6cf1a04bf4bdb13ae0b8a07e9a" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
+## Conclusion
+
 Two take-home points: Printmakers needed expert collaborators. The story of
 Dutch printmaking goes well beyond an aggregation of individual engravers and
 etchers, and a lot of it seems to have been driven by expert-seeking behavior.
