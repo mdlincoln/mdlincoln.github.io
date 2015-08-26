@@ -26,7 +26,7 @@ British museum is almost 90% prints, at least counting total numbers of objects.
 How can we tell a synthetic story of printmaking when there is just so much
 evidence to grapple with?
 
-<script async class="speakerdeck-embed" data-slide="3" data-id="cfd91c6cf1a04bf4bdb13ae0b8a07e9a" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-slide="6" data-id="cfd91c6cf1a04bf4bdb13ae0b8a07e9a" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
 Prints offer an excellent index of their own production, and through that, a
 proxy for understanding artistic networks from the early modern period. Networks
