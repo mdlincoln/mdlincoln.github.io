@@ -4,6 +4,8 @@ title: Home
 show_title: false
 ---
 
+<img id="headshot" height="200", width="200" src="/assets/images-display/nga_headshot.jpg" alt="mlincoln headshot" />
+
 I am a PhD candidate in Art History at the [University of Maryland, College Park](http://arthistory.umd.edu/graduate-students/Matthew%20Lincoln) interested in the potential for computer-aided analysis of cultural datasets to help model long-term artistic trends in iconography, art markets, and social relations between artists in the early modern period.
 
 For my [dissertation](/dissertation) research, I use computational network analysis to explore the long-term changes in the organization of print designers, engravers, and publishers in the Netherlands between 1500--1700.
