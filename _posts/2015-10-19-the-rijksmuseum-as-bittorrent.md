@@ -22,8 +22,8 @@ But they really suck at delivering bulk data. ([Yeah, I've been a grump about th
 I've wasted days of my life cranking out scripts to do this for my dissertation research, and I'd rather it not all go to waste.
 So, I've assembled the JSON object data as well as all available web images [as a torrent you can download here][torrent].
 
-- The collections data of 515802 objects are in one JSON file (1.7 GB uncompressed - I recommend [jq](https://stedolan.github.io/jq/) for trawling it.)
-- The 218442 images are about 164 GB, and average around 2500 pixels on the longest side.
+- The collections data of 515,802 objects are in one JSON file (1.7 GB uncompressed - I recommend [jq](https://stedolan.github.io/jq/) for trawling it.)
+- The 218,442 images are about 164 GB, and average around 2500 pixels on the longest side.
 
 This dataset was developed using the Rijksmuseum's API, with images from the
 Rijksmuseum Collection _as downloaded in October 2015_, so be aware that it won't reflect later changes.
