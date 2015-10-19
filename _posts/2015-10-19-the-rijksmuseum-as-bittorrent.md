@@ -8,7 +8,7 @@ tags:
 - LAM
 ---
 
-[Shut up and give me the torrent file.][torrent]
+[Download the torrent file.][torrent]
 
 ---
 
