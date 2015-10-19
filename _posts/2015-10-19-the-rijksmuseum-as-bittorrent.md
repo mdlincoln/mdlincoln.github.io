@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Images & Data from the Rijksmuseum via BitTorrent"
-date: "2015-10-19 21:12"
+date: "2015-10-19 17:00"
 comments: true
 tags:
 - Art History
