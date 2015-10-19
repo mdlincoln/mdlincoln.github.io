@@ -32,4 +32,4 @@ As for licensing, [you're in the clear](https://www.rijksmuseum.nl/en/api/terms-
 
 >All data and all images made available through the API are either in the public domain or are subject to a CC0 license. The data and images are royalty-free and may be copied, distributed, modified and used without the permission of the Rijksmuseum.
 
-[torrent]:
+[torrent]: /assets/docs/rijksmuseum_data.torrent
