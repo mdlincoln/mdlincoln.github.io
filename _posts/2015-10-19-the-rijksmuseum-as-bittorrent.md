@@ -8,7 +8,9 @@ tags:
 - LAM
 ---
 
-[Download the torrent file][torrent] (14 MB) or use the [magnet link][magnet].
+[Download the torrent file][torrent] (1.5 MB) or use the [magnet link][magnet].
+
+_(update 2015-10-20: I've reworked the file structure of this dump to reduce the torrent file size to 1.5MB)_
 
 ---
 
