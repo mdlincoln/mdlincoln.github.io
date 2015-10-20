@@ -36,4 +36,4 @@ As for licensing, [you're in the clear](https://www.rijksmuseum.nl/en/api/terms-
 
 [torrent]: /assets/docs/rijksmuseum_data.torrent
 
-[magnet]: magnet:?xt=urn:btih:734c645052ca83d6339d7c953933a69dc5a78e46&dn=rkm%5Fdata&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969
+[magnet]: magnet:?xt=urn:btih:db3cd9defd6d3f16f0a0e6cd0ada882792b9f782&dn=rijksmuseum%5Fdata&tr=http%3A%2F%2Facademictorrents.com%2Fannounce.php&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969
