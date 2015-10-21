@@ -12,6 +12,8 @@ tags:
 
 _(update 2015-10-20: I've reworked the file structure of this dump to reduce the torrent file size to 1.5MB)_
 
+_(update 2015-10-21: The [Michelle Smith Collaboratory](http://michellesmithcollaboratory.umd.edu/) is now seeding a full copy of this dataset. The more people who download this **and continue to seed it**, the easier it will be for everyone to get a copy!)_ 
+
 ---
 
 Museum APIs [are all the rage][ch].
