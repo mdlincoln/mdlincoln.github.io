@@ -13,7 +13,7 @@ A [recent piece in _The Guardian_][guardian] quotes extensively from Brian Allen
 
 Critics might be quick to point out that this is hardly a new debate; after all, even the article notes that "new art history" and its focus on the social impact of artwork has been around since the 1980s.
 These issues have been aired quite a bit since then, including in a 1999 Clark symposium on "The Two Art Histories"[^haxt]
-That said, the issue certainly has staying power: [ITHAKA's 2014 report on art historical research practices][ithaka] (PDF) echoes interviewees' concern that too much graduate training focuses on theory at the expense of basic research skills.
+That said, the issue certainly has staying power: [Ithaka S+R's 2014 report on art historical research practices][ithaka] (PDF) echoes interviewees' concern that too much graduate training focuses on theory at the expense of basic research skills.
 Ask any recent graduate of a U.S.-based art history PhD program, and they'll also confirm that U.S. museums seem to prefer European-educated scholars for those coveted curatorial posts.
 
 So I'm not here to dismiss Allen's complaints out-of-hand.
