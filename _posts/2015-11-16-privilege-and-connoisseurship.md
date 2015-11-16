@@ -2,6 +2,7 @@
 layout: post
 title: "Privilege and Connoisseurship"
 date: "2015-11-16 12:38"
+comments: true
 tags:
 - Art History
 ---
