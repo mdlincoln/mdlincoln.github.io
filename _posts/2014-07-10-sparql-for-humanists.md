@@ -3,10 +3,14 @@ layout: post
 comments: true
 title: "SPARQL for humanists"
 date: 2014-07-10 18:05:10.862769
-tags: 
+tags:
 - LAM
 - Code
 ---
+
+<aside>
+<p>2015-11-25: You can find a much richer revised version of this lesson at <em><a href="http://programminghistorian.org/lessons/graph-databases-and-SPARQL">The Programming Historian</a></em></p>
+</aside>
 
 As I noted in my [previous post](/2014/06/30/the-things-they-dont-teach-you-image-rights.html), image rights are a perennial challenge for all scholars, and art historians in particular.
 I've been following the Getty/George Mason summer institute ["Rebuidling the Portfolio: DH for Art Historians"](http://arthistory2014.doingdh.org/) on Twitter at [`#doingdah14`](https://twitter.com/search?f=realtime&q=%23doingdah14&src=typd), where the participants spent some time exploring the intersecting problems of image copyright and online image search.
@@ -146,12 +150,12 @@ You can cut and paste this directly into the Europeana SPARQL endpoint to see th
     PREFIX ore:     <http://www.openarchives.org/ore/terms/>
 
     SELECT ?link ?title ?creator
-    WHERE { 
+    WHERE {
 
         # In the WHERE statement, we define the variables
         # we asked for in the SELECT statement, as well as any
         # intermediate variables needed to define those variables.
-        
+
         ?objectInfo dc:title ?title .
         ?objectInfo dc:creator ?creator .
 
@@ -164,13 +168,13 @@ You can cut and paste this directly into the Europeana SPARQL endpoint to see th
 
         # We only want objects of the type "IMAGE". This statement
         # effectively restricts the output of every other statement
-        # in our query. Thus, we'll only get ?titles and ?creators 
+        # in our query. Thus, we'll only get ?titles and ?creators
         # attached to objects that are also images.
 
         ?objectInfo edm:type "IMAGE" .
 
         # Finally, we want to get the canonical Europeana link to the
-        # object. Check the model map and you'll see the name of the 
+        # object. Check the model map and you'll see the name of the
         # predicate (ore:proxyFor) we need to use in order to retrieve
         # that dark blue link
 
@@ -190,8 +194,8 @@ We need to add a few more statements to our query, looping in the *provider aggr
     PREFIX ore:     <http://www.openarchives.org/ore/terms/>
 
     SELECT ?link ?title ?creator
-    WHERE { 
-        
+    WHERE {
+
         ?objectInfo dc:title ?title .
         ?objectInfo dc:creator ?creator .
         ?objectInfo edm:type "IMAGE" .
@@ -203,7 +207,7 @@ We need to add a few more statements to our query, looping in the *provider aggr
         # provider proxy to the provider aggregation, which is in
         # the lower left corner of the map. We'll create another
         # "throwaway" variable called ?objectAgg. Like ?objectInfo,
-        # this link won't show up in our results, but it will let 
+        # this link won't show up in our results, but it will let
         # us restrict what the database returns to us.
 
         ?objectInfo ore:proxyIn ?objectAgg .
@@ -244,7 +248,7 @@ First, let's figure out how to access the names of the data providers and the ri
         ?objectAgg edm:provider ?provider .
         ?objectAgg edm:rights ?edmrights .
 
-        # Remember, we still want to restrict our results to 
+        # Remember, we still want to restrict our results to
         # images only, which means we need to link in the provider
         # proxy section. Note that predicates only work one way,
         # so we need to define ?objectInfo as the subject of the
@@ -286,7 +290,7 @@ This is where our new commands come in.
     GROUP BY ?edmrights ?provider
 
     # And then we have an option of how to sort the results. Let's
-    # sort it by count, from highest to lowest, using DESC(). If 
+    # sort it by count, from highest to lowest, using DESC(). If
     # we just wrote ORDER BY ?count, it would sort from lowest to
     # highest
 
@@ -306,4 +310,3 @@ For a more complete rundown of the commands available in SPARQL, see these links
 
 - [How to SPARQL](http://rdf.myexperiment.org/howtosparql?)
 - [Wikibooks SPARQL tutorial](http://en.wikibooks.org/wiki/XQuery/SPARQL_Tutorial)
-
