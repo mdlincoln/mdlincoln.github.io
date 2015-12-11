@@ -11,5 +11,11 @@
 - venue: The Frick Digital Art History Lab
   location: New York
   url: http://www.frick.org/research/DAHL
-  datestart: 2016-04-07  00:00:00 -0500
-  dateend: 2016-04-08  00:00:00 -0500
+  datestart: 2016-04-07 00:00:00 -0500
+  dateend: 2016-04-08 00:00:00 -0500
+- venue: Columbia University
+  location: New York
+  datestart: 2016-02-19 00:00:00 -0500
+- venue: MoMA Datathon
+  location: New York
+  datestart: 2016-02-20 00:00:00 -0500
