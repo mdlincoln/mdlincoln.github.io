@@ -15,7 +15,7 @@ On this site you can find my [CV](/about), various [blog posts](/archive) on art
 {% if site.data.travel.size > 0 %}
 ***
 
-## Upcoming Presentations
+## Public Appearances
 
 {% include travel.html %}
 
