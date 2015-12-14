@@ -13,7 +13,7 @@ For non-specialists: a video; for the specialists: a full abstract.
 <figcaption><a href="https://vimeo.com/125351302">View it in HD on Vimeo</a></figcaption>
 </figure>
 
-## Modelling the Network of Dutch and Flemish Print Production, 1500--1700
+## Modeling the Network of Dutch and Flemish Print Production, 1550--1750
 
 The wealth of Dutch and Flemish prints that survive from the sixteenth and seventeenth centuries present both a blessing and a curse for art historians.
 On the one hand, this abundance has fueled vital connoisseurial research on individual printmakers and their oeuvres. This cataloging effort has given us crucial insight into one of the prime conduits for images across Europe in this period.
