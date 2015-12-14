@@ -29,6 +29,7 @@ My dissertation will evaluate current narratives about Dutch and Flemish print p
 
 ## Related links
 
+- [MITH Fall 2015 Digital Dialogues](http://mith.umd.edu/podcasts/dd-fall-2015-matthew-lincoln/)
 - [Keystone DH 2015 paper](/2015/08/04/keystone-dh-simulating-print-production-networks.html)
 - [DH2015 Paper](/2015/06/30/dh2015-modelling-the-international-printmaking-networks-of-early-modern-europe.html)
 - [Confabulation in the Humanities](/2015/03/21/confabulation-in-the-humanities.html)
