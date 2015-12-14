@@ -29,7 +29,7 @@ You simply cannot do that kind of research unless you are independently rich (or
 What's more, you'll not get a PhD by becoming an expert on an artist whose oeuvre has already been well-defined.
 New knowledge is, as for every other discipline, the name of the game.
 But the gilded age of art history in the late nineteenth and twentieth centuries has plucked a great deal of that low-hanging fruit.
-Therefore, new connoisseurs are invited to cast themselves headlong into increasingly obscure oeuvres, compounding their already dim prospects of ever getting hired.
+Therefore, new connoisseurs are invited to cast themselves headlong into increasingly obscure oeuvres, compounding their already-dim prospects of ever getting hired.
 
 These structural issues restrict the connoisseurial research Allen favors to only a select few privileged or lucky graduate students --- precisely the kind of academic environment we would like to avoid as we try to argue for art history's relevance.
 It's precisely for these reasons that you'll often hear at conferences: "I'd love to see that research! I just don't want to be the one to do it [because who has that kind of cash?!]"
