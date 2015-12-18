@@ -6,6 +6,7 @@ tags:
 - Visualization
 - R
 - Code
+comments: true
 ---
 
 After running into this neat experiment with [animation and ggplot][ggplot] tucked away in one of Hadley Wickham's wikis, I decided to try my hand at some data animations in the form of GIFs.
