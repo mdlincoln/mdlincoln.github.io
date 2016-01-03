@@ -4,6 +4,15 @@ title: My Dissertation
 show_title: true
 ---
 
+## Related papers
+
+- [MITH Fall 2015 Digital Dialogues](http://mith.umd.edu/podcasts/dd-fall-2015-matthew-lincoln/) (With an excellent [Storified summary](https://storify.com/digdialog/matthew-lincoln-digital-dialogue-at-mith-october-2?utm_campaign=website&utm_source=email&utm_medium=email) by MITH's Stephanie Sapienza)
+- [_Data Praxis_ (Interview)](/2015/10/27/data-praxis-interview.html)
+- [Keystone DH 2015 paper](/2015/08/04/keystone-dh-simulating-print-production-networks.html)
+- [DH2015 Paper](/2015/06/30/dh2015-modelling-the-international-printmaking-networks-of-early-modern-europe.html)
+- [Confabulation in the Humanities](/2015/03/21/confabulation-in-the-humanities.html)
+- [SCSC 2014 poster session](/2014/10/17/foreign-and-domestic-interaction-in-the-early-modern-printmaking-network.html)
+
 For non-specialists: a video; for the specialists: a full abstract.
 
 ## The Three-Minute Rundown
@@ -26,12 +35,3 @@ Network analysis may clarify how the organization of Dutch and Flemish print pro
 While every individual designer, plate cutter, and publisher could potentially exercise a great deal of influence over the production of a single print, their individual decisions (whom to select as an engraver, what subjects to create for a print design, what market to sell to) would have been variously constrained or encouraged by their position in this larger network (Who do they already know? And who, in turn, do their contacts know?)
 The collaborative process of print production, and the large databases of extant prints held in modern museum collections, makes it uniquely well-suited for a network-oriented analysis.
 My dissertation will evaluate current narratives about Dutch and Flemish print production in this period, suggesting new models for thinking about its shifting organization, and help us to better explain the dialogue between artistic decisions and the material and economic demands of printmaking.
-
-## Related links
-
-- [MITH Fall 2015 Digital Dialogues](http://mith.umd.edu/podcasts/dd-fall-2015-matthew-lincoln/) (With an excellent [Storified summary](https://storify.com/digdialog/matthew-lincoln-digital-dialogue-at-mith-october-2?utm_campaign=website&utm_source=email&utm_medium=email) by MITH's Stephanie Sapienza)
-- [_Data Praxis_ (Interview)](/2015/10/27/data-praxis-interview.html)
-- [Keystone DH 2015 paper](/2015/08/04/keystone-dh-simulating-print-production-networks.html)
-- [DH2015 Paper](/2015/06/30/dh2015-modelling-the-international-printmaking-networks-of-early-modern-europe.html)
-- [Confabulation in the Humanities](/2015/03/21/confabulation-in-the-humanities.html)
-- [SCSC 2014 poster session](/2014/10/17/foreign-and-domestic-interaction-in-the-early-modern-printmaking-network.html)
