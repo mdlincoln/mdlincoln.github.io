@@ -2,6 +2,7 @@
 layout: post
 title: "Some Problems with GLAM data on GitHub"
 date: "2016-01-06 07:58"
+comments: true
 tags:
 - LAM
 - code
