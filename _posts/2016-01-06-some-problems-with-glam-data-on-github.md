@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Some Problems with GLAM data on GitHub"
-date: "2016-01-06 07:58"
+date: "2016-01-06 08:58"
 comments: true
 tags:
 - LAM
