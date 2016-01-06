@@ -69,5 +69,5 @@ Was the idea for a GitHub repo something that has zero support in your instituti
 None of these answers (not even the last one) will necessarily render your repo unusable, but each one will affect how a researcher choses to put your data to work.
 
 Look, if we've cloned a GitHub data repository for library/museum collections, you can bet that we understand at least _something_ of the slow, highly contingent pace of data projects in that sector.
-But remember, too, that commit log lets users check your work, so we'll know if you've been exaggerating how often you are really running updates.
+But remember, too, that the commit log lets users check your work, so we'll know if you've been exaggerating how often you are really running updates.
 So try to be honest and specific in your README about future update policies, even if the answer is "basically never" (please, try to have that _not_ be the answer, but if it is, at least say so.)
