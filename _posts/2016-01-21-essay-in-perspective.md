@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Essay in <em>Perspective</em>"
-date: "2017-12-27 16:05"
+date: "2016-01-21 16:05"
 comments: true
 tags:
 - Art history
