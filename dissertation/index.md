@@ -25,13 +25,28 @@ For non-specialists: a video; for the specialists: a full abstract.
 ## Modeling the Network of Dutch and Flemish Print Production, 1550--1750
 
 The wealth of Dutch and Flemish prints that survive from the sixteenth and seventeenth centuries present both a blessing and a curse for art historians.
-On the one hand, this abundance has fueled vital connoisseurial research on individual printmakers and their oeuvres. This cataloging effort has given us crucial insight into one of the prime conduits for images across Europe in this period.
-However, case studies alone are insufficient for understanding how changing patterns of print production may have affected trends in subject matter, style, and even the artistic and intellectual status of prints.
+On the one hand, this abundance has fueled vital connoisseurial research on individual printmakers and their oeuvres, spanning from from Adam Bartsch's first volumes of *Le Peinture Graveur* in 1802 through to the still-expanding *New Hollstein* series.
+This cataloging effort has given us crucial insight into one of the prime conduits for images across Europe in this period.
+However, case studies alone are insufficient for charting how patterns of print production may have changed over the course of the long seventeenth century.
+Only recently have the attentions of artistic print historians turned from the small minority of prints that were produced largely by a single individual, to address the bulk of graphic art resulting from the highly professionalized industry of plate cutting and print publishing, where artistic choices were distributed between many participants.
 The sheer quantity and variety of prints from this period, and the number of individual printmakers and publishers involved, challenge traditional models of art historical argumentation.
 
-I will address this issue by using quantitative methods to analyze large-scale changes in the organizational patterns and artistic strategies of reproductive printmakers and publishers in the Netherlands during the sixteenth and seventeenth centuries.
-Key to my research will be the use of network analysis, a computational method for characterizing the patterns and structures that emerge from a large number of discrete ties between individuals.
-Network analysis may clarify how the organization of Dutch and Flemish print production evolved after its blossoming in the mid-sixteenth century, and how individual artists participated in, and reacted to, this evolution.
+I address this issue by using quantitative methods to analyze large-scale changes in the organizational patterns and artistic strategies of reproductive printmakers and publishers in the early modern Low Countries.
+Key to my research is the use of network analysis, a computational method for characterizing the patterns and structures that emerge from a large number of discrete ties between individuals.
+The collaborative process of print production makes it uniquely well-suited for a network-oriented approach.
 While every individual designer, plate cutter, and publisher could potentially exercise a great deal of influence over the production of a single print, their individual decisions (whom to select as an engraver, what subjects to create for a print design, what market to sell to) would have been variously constrained or encouraged by their position in this larger network (Who do they already know? And who, in turn, do their contacts know?)
-The collaborative process of print production, and the large databases of extant prints held in modern museum collections, makes it uniquely well-suited for a network-oriented analysis.
-My dissertation will evaluate current narratives about Dutch and Flemish print production in this period, suggesting new models for thinking about its shifting organization, and help us to better explain the dialogue between artistic decisions and the material and economic demands of printmaking.
+By treating each print as an index of a relationship between the parties involved in its production, it is possible to infer a large list of the potential connections between designers, printmakers, and print publishers that may have existed in this period---in other words, a dynamic network amenable to formal structural analysis.
+This method offers the opportunity to explore core questions about the material and social constraints of early modern printmaking from a quantitative standpoint:
+
+1. Did these constraints indeed incentivize the inevitable formation of a highly centralized production system powered by mammoth publishing houses, as has been proposed by David Landau and Peter Parshall?
+And how did that structure evolve through the seventeenth century?
+
+2. How did these same incentives affect collaboration between artists, printmakers, and publishers across regional or national borders?
+When, if at all, did different regions develop their own self-sustatining print production infrastructures, and were these changes connected to specific political or artistic turning points?
+
+3. And did printmakers in the Low Countries experience the same pressure to specialize in certain subjects, such as portraiture or landscape, that painters did?
+What professional circumstances distinguishes those printmakers who _did_ specialize from those who took a generalist path instead?
+
+With this novel perspective on _longue durée_ issues in Netherlandish artistic printmaking history, we are better equipped to reassess research on individual artists.
+Beyond bringing new evidence to bear on these contested questions, computational approaches like network analysis and simulation also productively complicate our predilection for neat historical explanations.
+This dissertation ultimately suggests how simple professional incentives endemic to the practice of printmaking may, at long scales, have resulted in quite complex patterns of collaboration.
