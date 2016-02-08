@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: "Adjacency matrix plots with R and ggplot2"
 date: 2014-12-20 13:29
-tags: 
+tags:
 - Code
 - Network Analysis
 - Visualization
@@ -124,7 +124,7 @@ all_nodes <- sort(node_list$name)
 # to this complete list of node names
 plot_data <- edge_list %>% mutate(
         to = factor(to, levels = all_nodes),
-        from = factor(from, levels = all_nodes)))
+        from = factor(from, levels = all_nodes))
 
 # Create the adjacency matrix plot
 ggplot(plot_data, aes(x = from, y = to, fill = group)) +
