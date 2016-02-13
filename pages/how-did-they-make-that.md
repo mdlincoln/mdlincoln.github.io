@@ -69,6 +69,7 @@ Last, and most important:
 - [doParallel](https://cran.r-project.org/web/packages/doParallel/vignettes/gettingstartedParallel.pdf): Helps set up parallel R sessions so you can run multiple jobs at the same time, and collect all their results in one place.
 - [clipr](https://github.com/mdlincoln/clipr): A little utility package I wrote for quickly sending R results to my clipboard for pasting elsewhere, such as [Palladio](http://palladio.designhumanities.org/).
 - [ggplot2](http://docs.ggplot2.org/current/index.html): creates beautiful 2D plots for both screen and page.
+- [animation](https://cran.r-project.org/web/packages/animation/index.html): Makes animated GIFs from ggplot2
 
 ## Services
 
