@@ -5,13 +5,21 @@ show_title: true
 ---
 
 Inspired by Miriam Posner's ["How did they make that?" series](http://miriamposner.com/blog/how-did-they-make-that/).
-The following are links to various software or services
+The following are links to various software, services, and resources that I used during my dissertation research.
+
+## Books
+
+- Hanneman, Robert A., and Mark Riddle. _Introduction to Social Network Methods_. Riverside: Univeristy of California, Riverside, 2005. <http://faculty.ucr.edu/~hanneman/nettext/>.
+- Prell, Christina. _Social Network Analysis: History, Theory and Methodology_. Los Angeles: Sage, 2011.
+- Arnold, Taylor, and Lauren Tilton. _Humanities Data in R: Exploring Networks, Geospatial Data, Images, and Text_. Cham: Springer, 2015.
 
 ## Data sources
 
 - [The Rijksmuseum](http://rijksmuseum.github.io/): JSON-based API
 - [The British Museum](http://collection.britishmuseum.org/): Linked Open Data, accessible as bulk download as well as a SPARQL endpoint.
-- Printed books (I know, old school)
+- Printed books (I know, old school!)
+    - De Vries, Jan. _European Urbanization: 1500-1800_. Cambridge: Harvard University Press, 1984.
+    - van der Waals, Jan. _Prenten in de gouden eeuw: van kunst tot kastpapier_. Rotterdam: Museum Boijmans Van Beuningen, 2006.
 
 ## Data Formats
 
