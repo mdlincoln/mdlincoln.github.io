@@ -4,12 +4,13 @@ title: "<i>How Did They Make That?</i> - Printmaking Networks"
 show_title: true
 ---
 
-Inspired by Miriam Posner's ["How did they make that?" series](http://miriamposner.com/blog/how-did-they-make-that/).
+_Inspired by Miriam Posner's ["How did they make that?" series](http://miriamposner.com/blog/how-did-they-make-that/)!_
+
 The following are links to various software, services, and resources that I used during my dissertation research.
 
 ## Books
 
-- Hanneman, Robert A., and Mark Riddle. _Introduction to Social Network Methods_. Riverside: Univeristy of California, Riverside, 2005. <http://faculty.ucr.edu/~hanneman/nettext/>.
+- Hanneman, Robert A., and Mark Riddle. _Introduction to Social Network Methods_. Riverside: University of California, Riverside, 2005. <http://faculty.ucr.edu/~hanneman/nettext/>.
 - Prell, Christina. _Social Network Analysis: History, Theory and Methodology_. Los Angeles: Sage, 2011.
 - Arnold, Taylor, and Lauren Tilton. _Humanities Data in R: Exploring Networks, Geospatial Data, Images, and Text_. Cham: Springer, 2015.
 
@@ -34,14 +35,14 @@ The following are links to various software, services, and resources that I used
 - [parallel](https://www.gnu.org/software/parallel/parallel_tutorial.html#GNU-Parallel-Tutorial): run lots of curl calls at once, to download from the Rijksmuseum more efficiently
 - [jq](https://stedolan.github.io/jq/): Parse JSON into CSV files
 - [fuseki](https://jena.apache.org/documentation/fuseki2/index.html): Graph database to store a local version of the British Museum LOD
-- [rsync/scp](https://www.digitalocean.com/community/tutorials/how-to-use-rsync-to-sync-local-and-remote-directories-on-a-vps): move data and scripts on and off of Digital Ocean servers
+- [rsync](https://www.digitalocean.com/community/tutorials/how-to-use-rsync-to-sync-local-and-remote-directories-on-a-vps): move data and scripts on and off of Digital Ocean servers
 - [pandoc](http://pandoc.org/README.html): Turn text written in [Markdown](https://daringfireball.net/projects/markdown/) into PDF
 
 ## GUI tools
 
 - [RStudio](https://www.rstudio.com/): an integrated development environment for R
 - [Tabula](http://tabula.technology/): extracts tabular data from scanned PDFs
-- Adobe Acrobat: OCRing PDFs
+- Adobe Acrobat: OCRing PDFs (though this can also be done with open-source [Tesseract](https://github.com/tesseract-ocr/tesseract))
 - [briss](http://briss.sourceforge.net/): Brilliant free little tool for cropping scanned PDFs --- way more intuitive than Acrobat's cropping tools.
 - Excel: It actually has its uses when I need to hand-enter data from a book
 - Powerpoint: latex/markdown presentation templates just do. not. work for me.
@@ -56,7 +57,7 @@ The following are links to various software, services, and resources that I used
 
 Last, and most important:
 
-- [R](https://www.r-project.org/): An open-source language designed for working with tabular data and statistical calculations. Vanilla R is basic ([and kind of weird](http://www.burns-stat.com/documents/books/the-r-inferno/)), but the following packages make it shine:
+- [R](https://www.r-project.org/): An open-source language designed for working with tabular data and statistical calculations. Vanilla R can be ([kind of weird](http://www.burns-stat.com/documents/books/the-r-inferno/)), but the following packages make it shine:
 
 ### R Packages
 
@@ -69,8 +70,8 @@ Last, and most important:
 - [doParallel](https://cran.r-project.org/web/packages/doParallel/vignettes/gettingstartedParallel.pdf): Helps set up parallel R sessions so you can run multiple jobs at the same time, and collect all their results in one place.
 - [clipr](https://github.com/mdlincoln/clipr): A little utility package I wrote for quickly sending R results to my clipboard for pasting elsewhere, such as [Palladio](http://palladio.designhumanities.org/).
 - [ggplot2](http://docs.ggplot2.org/current/index.html): creates beautiful 2D plots for both screen and page.
-- [animation](https://cran.r-project.org/web/packages/animation/index.html): Makes animated GIFs from ggplot2
+- [animation](https://cran.r-project.org/web/packages/animation/index.html): Makes animated GIFs from ggplot2.
 
 ## Services
 
-- [Digital Ocean](https://www.digitalocean.com/): cloud hosting service for quickly spinning up a lot of processors to run R jobs in parallel for relatively low $$$. The only thing I actually had to pay for (though technically it was all free student credit - and yes, MS office and Adobe products I pay for indirectly through UMD and the student technology fee.)
+- [Digital Ocean](https://www.digitalocean.com/): cloud hosting service for quickly spinning up a lot of processors to run R jobs in parallel for relatively low $$$. This was the only software I actually had to directly pay for.
