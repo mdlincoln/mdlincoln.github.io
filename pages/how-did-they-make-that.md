@@ -8,12 +8,6 @@ _Inspired by Miriam Posner's ["How did they make that?" series](http://miriampos
 
 The following are links to various software, services, and resources that I used during my dissertation research.
 
-## Books
-
-- Hanneman, Robert A., and Mark Riddle. _Introduction to Social Network Methods_. Riverside: University of California, Riverside, 2005. <http://faculty.ucr.edu/~hanneman/nettext/>.
-- Prell, Christina. _Social Network Analysis: History, Theory and Methodology_. Los Angeles: Sage, 2011.
-- Arnold, Taylor, and Lauren Tilton. _Humanities Data in R: Exploring Networks, Geospatial Data, Images, and Text_. Cham: Springer, 2015.
-
 ## Data sources
 
 - [The Rijksmuseum](http://rijksmuseum.github.io/): JSON-based API
@@ -75,3 +69,10 @@ Last, and most important:
 ## Services
 
 - [Digital Ocean](https://www.digitalocean.com/): cloud hosting service for quickly spinning up a lot of processors to run R jobs in parallel for relatively low $$$. This was the only software I actually had to directly pay for.
+
+
+## Books
+
+- Hanneman, Robert A., and Mark Riddle. _Introduction to Social Network Methods_. Riverside: University of California, Riverside, 2005. <http://faculty.ucr.edu/~hanneman/nettext/>.
+- Prell, Christina. _Social Network Analysis: History, Theory and Methodology_. Los Angeles: Sage, 2011.
+- Arnold, Taylor, and Lauren Tilton. _Humanities Data in R: Exploring Networks, Geospatial Data, Images, and Text_. Cham: Springer, 2015.
