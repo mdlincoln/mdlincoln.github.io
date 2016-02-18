@@ -55,6 +55,8 @@ Last, and most important:
 
 ### R Packages
 
+[Example code from my dissertation.](https://gist.github.com/mdlincoln/9ba3b6c580f110abadd8)
+
 - [readr](https://github.com/hadley/readr): reads in massive CSV/TSV files very quickly, and with the correct variable types (e.g. `character`, `numeric`, `boolean`)
 - [dplyr](https://cran.rstudio.com/web/packages/dplyr/vignettes/introduction.html): filter, group, aggregate, join, and run operations on tabular data with easy-to-use syntax and impressive speed. Without exaggeration, this may be the most important extension ever written for R.
 - [tidyr](https://github.com/hadley/tidyr): Transform between [wide and narrow](https://en.wikipedia.org/wiki/Wide_and_narrow_data) data tables (don't worry, it's a thing that starts to make sense once you begin to work with tabular data a lot)
