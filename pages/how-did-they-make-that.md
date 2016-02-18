@@ -38,8 +38,7 @@ The following are links to various software, services, and resources that I used
 - [Tabula](http://tabula.technology/): extracts tabular data from scanned PDFs
 - Adobe Acrobat: OCRing PDFs (though this can also be done with open-source [Tesseract](https://github.com/tesseract-ocr/tesseract))
 - [briss](http://briss.sourceforge.net/): Brilliant free little tool for cropping scanned PDFs --- way more intuitive than Acrobat's cropping tools.
-- Excel: It actually has its uses when I need to hand-enter data from a book
-- Powerpoint: latex/markdown presentation templates just do. not. work for me.
+- Excel: Yes, I use it. Easiest option to hand enter a table with just a few dozen rows
 - [Zotero](https://www.zotero.org/): Not technically used for data analysis, but this is my go-to citation manager. I use it in combination with [Better BibTeX](https://zotplus.github.io/zotero-better-bibtex/) for formatting all my citations via Markdown/LaTeX.
 
 ## Languages
