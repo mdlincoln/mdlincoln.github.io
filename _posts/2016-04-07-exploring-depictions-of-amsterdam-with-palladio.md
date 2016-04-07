@@ -62,11 +62,11 @@ You should now see the data loaded into Palladio. Let's call our project name "D
 
 ## Checking our data
 
-The data view shows the fields (i.e. columns) from our spreadsheet, and also shows what typoe of variable Palladio has guessed our data are supposed to be. We've got a few text fields here, as well as date fields, and a special "url" field (we'll see what that does in a moment!)
+The data view shows the fields (i.e. columns) from our spreadsheet, and also shows what type of variable Palladio has guessed our data are supposed to be. We've got a few text fields here, as well as date fields, and a special "url" field (we'll see what that does in a moment!)
 
 Palladio tries to check for some simple irregularities in our data, like odd characters, and it's highlighted those fields with a red dot. We can ignore these dots for now, as all those characters (like commas or dashes in the _title_ field) are there on purpose.
 
-We also have the option to set the Data Type of this field. Normally Palladio will recognize this automatically, but in some cases, we'll find that we need to manually set a field to "Date" when palladio thinks it is only a "Number"
+We also have the option to set the Data Type of this field. Normally Palladio will recognize this automatically, but in some cases, we'll find that we need to manually set a field to "Date" when Palladio thinks it is only a "Number"
 
 ## Let's pull up a gallery!
 
@@ -80,27 +80,27 @@ First we need to establish our settings:
 The settings box shows us each of the elements of the gallery that we can modify, with a menu to assign fields from our data. Let's set it up like so:
 
 - **Title**: `title`
-- **Subtitile**: `primary_maker`
+- **Subtitle**: `primary_maker`
 - **Text**: `object_type`
 - **Link**: `object_url`
 - **Image URL**: `thumb_url`
 - **Sort by**: `start_date`
 
-Once we've dont that, we can start "faceting", or filtering the data based on different variables. Click on the "Facet" button on the lower left corner, and in the lower right corner, use the "Dimensions" menu to select which variable we want to facet by. Try `object_type` first. Palladio will count up how many of each object type are in this dataset, and we can click on a single type to filter the gallery to just display those. Click on the red trash basket icon on the loewr right to dismiss the facet filter.
+Once we've don't that, we can start "faceting", or filtering the data based on different variables. Click on the "Facet" button on the lower left corner, and in the lower right corner, use the "Dimensions" menu to select which variable we want to facet by. Try `object_type` first. Palladio will count up how many of each object type are in this dataset, and we can click on a single type to filter the gallery to just display those. Click on the red trash basket icon on the lower right to dismiss the facet filter.
 
 We can also use the "Timeline" filter to visualize and filter based on date. Palladio should already have recognized the `date` column and created a timeline for us. You can drag and select a particular range if you like, and then drag that range around to see which different objects show up in our view.
 
 ## Add geocoordinates and create a map
 
-In order to map these objects, we'll need to add geo-coordinates to them. Palladio won't figure out coordinates from city names by itself, so you will arleady need to have created these coordinates yourself.
+In order to map these objects, we'll need to add geo-coordinates to them. Palladio won't figure out coordinates from city names by itself, so you will already need to have created these coordinates yourself.
 
 Navigate back to the "Data" menu, and click on the `object_id` field. We can extend these data by uploading a new CSV. Click on "Add a new table" and then drag the `object_locaiton` table into the box, and click "Load". Palladio will find matches between `object_id` in the `object_attributes` table, and the `object_id` column in the `object_location` table, and copy the data accordingly.
 
-Now click on the "Map" button. We'll be prompted to add a data layer. Click on "New Layer". We'll be adding "Points" (the default option). Click on "Places" and select `object_id` (the only option - remember, this is the variable to which we attached our coordinates). For the tooltip label (what we see when we roll over the points), let's start with `place_name`. Check the box to size points, and do so according to `number of rijksmuseum objects`
+Now click on the "Map" button. We'll be prompted to add a data layer. Click on "New Layer". We'll be adding "Points" (the default option). Click on "Places" and select `object_id` (the only option - remember, this is the variable to which we attached our coordinates). For the tooltip label (what we see when we roll over the points), let's start with `place_name`. Check the box to size points, and do so according to `number of Rijksmuseum objects`
 
 Zoom in until Amsterdam fits comfortably on your screen. Just like with the gallery view, we can also facet and use timelines in the map view. Let's try faceting by `place_type`, and then by `primary_maker`. Now try filtering by using the timeline. Note that you can also chose a "group by" variable in the timeline, which will color the histogram based on that variable.
 
-Try scrolling through the timeline to see which lcoations were depicted at differentt imes. Which places show up throught this period? Are there regions of the city that only begin to be depicted in the late 17th century?
+Try scrolling through the timeline to see which locations were depicted at different times. Which places show up throughout this period? Are there regions of the city that only begin to be depicted in the late 17th century?
 
 ## Create networks
 
@@ -108,7 +108,7 @@ One question I was interested in exploring with these data as which places tende
 
 ---
 
-Because we are loading an entirely new base dataset, we'll have to start a new Palladio project. First, let's save our work by clicking the "Download" button at the upper right. This will download a .json file to your computer. NExt time you start up Palladio, you will have the option to input this json file to restore both your data as well as the visuals that you configured from it.
+Because we are loading an entirely new base dataset, we'll have to start a new Palladio project. First, let's save our work by clicking the "Download" button at the upper right. This will download a .json file to your computer. Next time you start up Palladio, you will have the option to input this json file to restore both your data as well as the visuals that you configured from it.
 
 ---
 
@@ -116,7 +116,7 @@ Use your browser reload button to restart Palladio, and upload `paired_locations
 
 Click on the "Graph" option. We need to specify the variables for the source and target dimension - use `site_one_name` and `site_two_name`, respectively, and check the "Size nodes" box. Like the other data views, we can use the facet and timeline options to filter the visualization.
 
-Like we did with the map, see if you can find any patterns when filtering by time. Also, try faceting by `primary_maker` and see what chagnes. Can you figure out why Anna Folkema's prints visualzie the way they do? This is a great opportunity to set up your gallery view again, in order to get back to the images themselves.
+Like we did with the map, see if you can find any patterns when filtering by time. Also, try faceting by `primary_maker` and see what chagnes. Can you figure out why Anna Folkema's prints visualize the way they do? This is a great opportunity to set up your gallery view again, in order to get back to the images themselves.
 
 ## Saving your visualizations
 
