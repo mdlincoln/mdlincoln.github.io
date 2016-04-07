@@ -9,8 +9,6 @@ tags:
 - data
 ---
 
-[Download the set of CSV files that we'll work with.](ter.ps/palladio)
-
 Some tips from [Miriam Posner](http://miriamposner.com/blog/getting-started-with-palladio/) before we begin:
 
 >A reminder that Palladio is still under development, so it can be buggy
@@ -26,7 +24,7 @@ and slow!
 
 ## Download the workshop data
 
-Download the workshop data here: `ter.ps/palladio`
+[Download the set of CSV files that we'll work with.](/assets/docs/palladio_data.zip)
 
 These data describe almost 1,000 objects from the Rijksmuseum made between 1500 and 1750 that depict some location in the city of Amsterdam, as labeled by curatorial teams at the Rijksmuseum.
 There are three different CSV files here, but we'll start out working with just two:
