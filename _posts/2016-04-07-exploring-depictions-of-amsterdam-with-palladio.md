@@ -9,6 +9,8 @@ tags:
 - data
 ---
 
+The following walkthrough was made for a Palladio workshop given at the Frick Digital Art History Lab, April 8th, 2016.
+
 Some tips from [Miriam Posner](http://miriamposner.com/blog/getting-started-with-palladio/) before we begin:
 
 >A reminder that Palladio is still under development, so it can be buggy
