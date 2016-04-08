@@ -108,11 +108,7 @@ Try scrolling through the timeline to see which locations were depicted at diffe
 
 One question I was interested in exploring with these data as which places tended to be depicted together. To do this meant reorganizing the data a bit, so that instead of having one row per object, we would have one row per _pair of locations depicted together in an artwork_.
 
----
-
 Because we are loading an entirely new base dataset, we'll have to start a new Palladio project. First, let's save our work by clicking the "Download" button at the upper right. This will download a .json file to your computer. Next time you start up Palladio, you will have the option to input this json file to restore both your data as well as the visuals that you configured from it.
-
----
 
 Use your browser reload button to restart Palladio, and upload `paired_locations.csv`. Check the fields: you see some object attributes, and then the final 6 fields have to do with the locations depicted.
 
