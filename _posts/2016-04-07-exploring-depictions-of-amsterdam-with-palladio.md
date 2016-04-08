@@ -120,13 +120,15 @@ Like we did with the map, see if you can find any patterns when filtering by tim
 
 Although you cannot export interactive visualizations from Palladio, you can save static images based on your representations. In the Settings menus for any of the visualizations, click the "Download" button to generate an .svg image of your visualization.
 
-## Datasets to explore on your own
+## Work on your own
 
-1. `cushman_collection.csv` This is a dataset of geo-referenced photographs used by [Miriam Posner in her own Palladio tutorial](http://miriamposner.com/blog/getting-started-with-palladio/). Try your hand at uploading and visualizing the data. Check Miriam's tutorial if you need some ideas for how to explore the dataset. For example:
+Here are a few additional challenges that you can try out independently:
+
+1. You can use Palladio to plot networks onto maps, as well. Using the `paired_locations` data, try adding points to the map using the "point to point" layer type.
+1. I've included two "extra credit" datasets to try out: `cushman_collection.csv` is a dataset of geo-referenced photographs used by [Miriam Posner in her own Palladio tutorial](http://miriamposner.com/blog/getting-started-with-palladio/). Try your hand at uploading and visualizing the data. Check Miriam's tutorial if you need some ideas for how to explore the dataset. For example:
   - Create a gallery of the photographs
-  - Map the photographs, and hen filter that map based on the photograph date.
-
-2. `europop.csv` and `euro_city_coords.csv` list the historic populations of European urban centers between 1500 and 1800.
+  - Map the photographs, and then filter that map based on the photograph date.
+1. `europop.csv` and `euro_city_coords.csv` list the historic populations of European urban centers between 1500 and 1800.
   - Practice joining these tables. You'll need to load `europop.csv` first, and then add `euro_city_coords.csv` to the project based on the city name column.
   - Try to map these data, and then filter based on the year of the data.
-  - This dataset is based on a scanned text and automatic geo-referencing, so you may probably find some mis-placed cities. Try faceting the map by `Region` and make note of any misplaced dots :)
+  - This dataset is based on a scanned text and automatic geo-referencing, **so you may probably find some mis-placed cities**. Try faceting the map by `Region` and make note of any misplaced dots by reporting them as issues here: <https://github.com/mdlincoln/europop/issues>
