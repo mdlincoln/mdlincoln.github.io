@@ -58,7 +58,7 @@ Navigate to <http://palladio.designhumanities.org> and click on the "Start" butt
 
 Drag the file `object_attributes.csv` into the window where it says "Load .csv or spreadsheet". You should see text fill the box. Click load.
 
-You should now see the data loaded into Palladio. Let's call our project name "Depicitons of Amsterdam", and the table name "Rijksmuseum objects".
+You should now see the data loaded into Palladio. Let's call our project name "Depictions of Amsterdam", and the table name "Rijksmuseum objects".
 
 ## Checking our data
 
@@ -90,7 +90,7 @@ Once we've don't that, we can start "faceting", or filtering the data based on d
 
 We can also use the "Timeline" filter to visualize and filter based on date. Palladio should already have recognized the `date` column and created a timeline for us. You can drag and select a particular range if you like, and then drag that range around to see which different objects show up in our view.
 
-## Add geocoordinates and create a map
+## Add geo-coordinates and create a map
 
 In order to map these objects, we'll need to add geo-coordinates to them. Palladio won't figure out coordinates from city names by itself, so you will already need to have created these coordinates yourself.
 
@@ -116,7 +116,7 @@ Use your browser reload button to restart Palladio, and upload `paired_locations
 
 Click on the "Graph" option. We need to specify the variables for the source and target dimension - use `site_one_name` and `site_two_name`, respectively, and check the "Size nodes" box. Like the other data views, we can use the facet and timeline options to filter the visualization.
 
-Like we did with the map, see if you can find any patterns when filtering by time. Also, try faceting by `primary_maker` and see what chagnes. Can you figure out why Anna Folkema's prints visualize the way they do? This is a great opportunity to set up your gallery view again, in order to get back to the images themselves.
+Like we did with the map, see if you can find any patterns when filtering by time. Also, try faceting by `primary_maker` and see the clusters of places depicted by different artists. Can you figure out why Anna Folkema's prints visualize the way they do? This is a great opportunity to set up your gallery view again, in order to get back to the images themselves.
 
 ## Saving your visualizations
 
@@ -124,11 +124,11 @@ Although you cannot export interactive visualizations from Palladio, you can sav
 
 ## Datasets to explore on your own
 
-1. `cushman_collection.csv` This is a dataset of georeferenced photographs used by [Miriam Posner in her own Palladio tutorial](http://miriamposner.com/blog/getting-started-with-palladio/). Try your hand at uploading and visualizing the data. Check Miriam's tutorial if you need some ideas for how to explore the dataset. For example:
+1. `cushman_collection.csv` This is a dataset of geo-referenced photographs used by [Miriam Posner in her own Palladio tutorial](http://miriamposner.com/blog/getting-started-with-palladio/). Try your hand at uploading and visualizing the data. Check Miriam's tutorial if you need some ideas for how to explore the dataset. For example:
   - Create a gallery of the photographs
   - Map the photographs, and hen filter that map based on the photograph date.
 
 2. `europop.csv` and `euro_city_coords.csv` list the historic populations of European urban centers between 1500 and 1800.
   - Practice joining these tables. You'll need to load `europop.csv` first, and then add `euro_city_coords.csv` to the project based on the city name column.
   - Try to map these data, and then filter based on the year of the data.
-  - This dataset is based on a scanned text and automatic georeferencing, so you may probably find some mis-placed cities. Try faceting the map by `Region` and make note of any misplaced dots :)
+  - This dataset is based on a scanned text and automatic geo-referencing, so you may probably find some mis-placed cities. Try faceting the map by `Region` and make note of any misplaced dots :)
