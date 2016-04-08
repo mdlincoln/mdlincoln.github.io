@@ -68,7 +68,7 @@ Palladio tries to check for some simple irregularities in our data, like odd cha
 
 We also have the option to set the Data Type of this field. Normally Palladio will recognize this automatically, but in some cases, we'll find that we need to manually set a field to "Date" when Palladio thinks it is only a "Number"
 
-## Let's pull up a gallery!
+## Create a gallery
 
 Time to start visualizing this collection!
 
