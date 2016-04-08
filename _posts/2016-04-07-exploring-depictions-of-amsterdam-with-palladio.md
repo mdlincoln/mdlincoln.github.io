@@ -86,7 +86,9 @@ The settings box shows us each of the elements of the gallery that we can modify
 - **Image URL**: `thumb_url`
 - **Sort by**: `start_date`
 
-Once we've don't that, we can start "faceting", or filtering the data based on different variables. Click on the "Facet" button on the lower left corner, and in the lower right corner, use the "Dimensions" menu to select which variable we want to facet by. Try `object_type` first. Palladio will count up how many of each object type are in this dataset, and we can click on a single type to filter the gallery to just display those. Click on the red trash basket icon on the lower right to dismiss the facet filter.
+After assigning these fields, click on the hamburger button (those three stacked lines) in the upper right to minimize the settings window.
+
+Now we can start "faceting", or filtering the data based on different variables. Click on the "Facet" button on the lower left corner, and in the lower right corner, use the "Dimensions" menu to select which variable we want to facet by. Try `object_type` first. Palladio will count up how many of each object type are in this dataset, and we can click on a single type to filter the gallery to just display those. Click on the red trash basket icon on the lower right to dismiss the facet filter.
 
 We can also use the "Timeline" filter to visualize and filter based on date. Palladio should already have recognized the `date` column and created a timeline for us. You can drag and select a particular range if you like, and then drag that range around to see which different objects show up in our view.
 
