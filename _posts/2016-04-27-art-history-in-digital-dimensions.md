@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Art History in Digital Dimensions"
+title: "CFP: Art History in Digital Dimensions"
 date: "2016-04-27 14:21"
 comments: true
 tags:
