@@ -8,7 +8,7 @@ The projects below include both "traditional" art historical research, papers, a
 
 <!-- Automatic project list generator -->
 
-# Select Publications
+## Select Publications
 {% for project in site.data.projects.articles %}
 <div class="toc">
 <img src="{{ project.avatar }}" class="avatar" />
@@ -17,7 +17,7 @@ The projects below include both "traditional" art historical research, papers, a
 </div>
 {% endfor %}
 
-# Select Digital Projects
+## Select Digital Projects
 {% for project in site.data.projects.dh %}
 <div class="toc">
 <img src="{{ project.avatar }}" class="avatar" />
@@ -26,7 +26,7 @@ The projects below include both "traditional" art historical research, papers, a
 </div>
 {% endfor %}
 
-# Select Research
+## Select Research
 {% for project in site.data.projects.other %}
 <div class="toc">
 <img src="{{ project.avatar }}" class="avatar" />
