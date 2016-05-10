@@ -10,7 +10,7 @@ tags:
 
 In an article just out in *Source: Notes in the History of Art*, I discuss the surprising answer to a seemingly-tiny question that arose during my fellowship last year at the National Gallery of Art's office of Northern Baroque paintings, as we were preparing to publish research on the recent acquisition of Gerrit van Honthorst's [*The Concert*][concert].
 
-![concert_image](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Gerard_van_honthorst_-_the_concert_-_1623.jpg/640px-Gerard_van_honthorst_-_the_concert_-_1623.jpg)
+{% include figure.html src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Gerard_van_honthorst_-_the_concert_-_1623.jpg/640px-Gerard_van_honthorst_-_the_concert_-_1623.jpg" caption="Gerrit van Honthorst, _The Concert_, 1623. Oil on canvas. National Gallery of Art, Washington." %}
 
 [concert]: http://www.nga.gov/content/ngaweb/Collection/art-object-page.163184.html
 
@@ -35,7 +35,7 @@ References to Honthorst can be roughly divided into four categories:
 
 Hand-classifying these names allows us to visualize how the use of different nicknames for Honthorst evolved over time:
 
-![Variations on nicknames for Honthorst over time.](/assets/images-display/honthorst_nickname.svg)
+{% include figure.html src="/assets/images-display/honthorst_nickname.svg" caption="Variations on nicknames for Honthorst over time, comparing the date of the document, the document's country of origin, and the type of nickname used." %}
 
 Of all the nickname types, variations on "Gherardo delle notti" are the only ones that exclusively appear *after* his death (and, as I discuss in the article, the very first mention may not even specifically be to Honthorst!)
 While only Dutch inventories used his Dutch name, it appears that Italians either used "Gherardo" only, or referred to him by his nationality ("Gherardo Fiammingo" or "Gherardo Olandese").
