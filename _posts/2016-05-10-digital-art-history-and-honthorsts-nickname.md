@@ -8,7 +8,9 @@ tags:
 - Articles
 ---
 
-In an article forthcoming in next month's issue of *SOURCE: Notes in the History of Art*, I discuss the surprising answer to a seemingly-tiny question that arose during my fellowship last year at the National Gallery of Art's office of Northern Baroque paintings, as we were preparing to publish research on the recent acquisition of Gerrit van Honthorst's [*The Concert*][concert].
+In an article just out in *Source: Notes in the History of Art*, I discuss the surprising answer to a seemingly-tiny question that arose during my fellowship last year at the National Gallery of Art's office of Northern Baroque paintings, as we were preparing to publish research on the recent acquisition of Gerrit van Honthorst's [*The Concert*][concert].
+
+![concert_image](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Gerard_van_honthorst_-_the_concert_-_1623.jpg/640px-Gerard_van_honthorst_-_the_concert_-_1623.jpg)
 
 [concert]: http://www.nga.gov/content/ngaweb/Collection/art-object-page.163184.html
 
@@ -18,7 +20,7 @@ From the intro to the paper:
 But when did Honthorst actually earn this name?
 An investigation of archival sources suggests that "Gherardo delle Notti" may not be nearly as contemporary as has been assumed.
 
-You can read the [full paper here][source].
+You can read the [published paper here](http://dx.doi.org/10.1086/686710). ([pre-print PDF](/assets/docs/honthorst_preprint.pdf))
 In this post, I'd like to illuminate some of the digital roots of this research.
 
 The [Getty Provenance Index](http://www.getty.edu/research/tools/provenance/search.html)®, J. Paul Getty Trust holds over 270,000 individual art records from 5,200 European archival inventory records made between 1550 and 1840.
@@ -43,4 +45,3 @@ Variations on "Gherardo delle notti" did not become truly popular until the eigh
 The evidence undermines the conventional wisdom that it was Honthorst's contemporaries in Rome that came up with the nickname "delle notti".
 
 Without the digitized index of archival records hosted by the Getty, this kind of synthetic analysis would not have been possible.
-
