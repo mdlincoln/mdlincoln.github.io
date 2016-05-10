@@ -35,7 +35,7 @@ References to Honthorst can be roughly divided into four categories:
 |`dn`   | "Gherardo delle notti" or variant |
 |`other`| Some other name, or as "Gherardo" only |
 
-Classifying these names allows us to visualize how the use of different nicknames for Honthorst evolved over time:
+Hand-classifying these names allows us to visualize how the use of different nicknames for Honthorst evolved over time:
 
 ![Variations on nicknames for Honthorst over time.](/assets/images-display/honthorst_nickname.svg)
 
@@ -44,4 +44,4 @@ While only Dutch inventories used his Dutch name, it appears that Italians eithe
 Variations on "Gherardo delle notti" did not become truly popular until the eighteenth century.
 The evidence undermines the conventional wisdom that it was Honthorst's contemporaries in Rome that came up with the nickname "delle notti".
 
-Without the digitized index of archival records hosted by the Getty, this kind of synthetic analysis would not have been possible.
+Without the digitized index of archival records hosted by the Getty, this kind of synthetic analysis would have been ridiculously time-consuming.
