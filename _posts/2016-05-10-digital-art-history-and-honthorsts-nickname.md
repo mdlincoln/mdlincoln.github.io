@@ -8,7 +8,7 @@ tags:
 - Articles
 ---
 
-In an article just out in *Source: Notes in the History of Art*, I discuss the surprising answer to a seemingly-tiny question that arose during my fellowship last year at the National Gallery of Art's office of Northern Baroque paintings, as we were preparing to publish research on the recent acquisition of Gerrit van Honthorst's [*The Concert*][concert].
+In an article just out in [*Source: Notes in the History of Art*](http://dx.doi.org/10.1086/686710) ([pre-print PDF](/assets/docs/honthorst_preprint.pdf)), I discuss the surprising answer to a seemingly-tiny question that arose during my fellowship last year at the National Gallery of Art's office of Northern Baroque paintings, as we were preparing to publish research on the recent acquisition of Gerrit van Honthorst's [*The Concert*][concert].
 
 {% include figure.html src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Gerard_van_honthorst_-_the_concert_-_1623.jpg/640px-Gerard_van_honthorst_-_the_concert_-_1623.jpg" caption="Gerrit van Honthorst, _The Concert_, 1623. Oil on canvas. National Gallery of Art, Washington." %}
 
@@ -18,7 +18,6 @@ From the intro to the paper:
 
 >According to most modern scholarship, it was during his time in Italy that Honthorst earned the nickname "Gherardo delle Notti," or "Gerrit of the nights," because of his talent for rendering dramatic nighttime images... The attentive reader will notice, however, that none of these texts credit the nickname to a contemporary source. When did Honthorst actually earn this name? An investigation of archival sources suggests that "Gherardo delle Notti" may not be nearly as contemporary as has been assumed.
 
-You can read the [published paper here](http://dx.doi.org/10.1086/686710). ([pre-print PDF](/assets/docs/honthorst_preprint.pdf))
 In this post, I'd like to illuminate some of the digital roots of this research.
 
 The [Getty Provenance Index](http://www.getty.edu/research/tools/provenance/search.html)®, J. Paul Getty Trust holds over 270,000 individual art records from 5,200 European archival inventory records made between 1550 and 1840.
