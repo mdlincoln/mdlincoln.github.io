@@ -1,9 +1,9 @@
 ---
 layout: post
 comments: true
-title: "Digital art history and Honthorst's nickname"
-date: 2015-09-21 09:19
-tags: 
+title: "Digital Art History and Honthorst's nickname"
+date: 2016-05-10 09:19
+tags:
 - Art History
 - Articles
 ---
