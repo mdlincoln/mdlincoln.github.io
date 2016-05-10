@@ -16,9 +16,7 @@ In an article just out in *Source: Notes in the History of Art*, I discuss the s
 
 From the intro to the paper:
 
->According to most modern scholarship, it was during his time in Italy that Gerrit van Honthorst earned the nickname "Gherardo delle Notti," or "Gerrit of the nights," because of his talent for rendering dramatic nighttime images.
-But when did Honthorst actually earn this name?
-An investigation of archival sources suggests that "Gherardo delle Notti" may not be nearly as contemporary as has been assumed.
+>According to most modern scholarship, it was during his time in Italy that Honthorst earned the nickname "Gherardo delle Notti," or "Gerrit of the nights," because of his talent for rendering dramatic nighttime images... The attentive reader will notice, however, that none of these texts credit the nickname to a contemporary source. When did Honthorst actually earn this name? An investigation of archival sources suggests that "Gherardo delle Notti" may not be nearly as contemporary as has been assumed.
 
 You can read the [published paper here](http://dx.doi.org/10.1086/686710). ([pre-print PDF](/assets/docs/honthorst_preprint.pdf))
 In this post, I'd like to illuminate some of the digital roots of this research.
