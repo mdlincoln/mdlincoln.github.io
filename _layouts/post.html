@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+{% include twitter_card.html %}
 {% include coins.html %}
 
 <div class="post">
@@ -9,8 +10,12 @@ layout: default
   {{ content }}
 </div>
 
-<p class="meta">Tagged in: {% for tag in page.tags %}<code><a href="/tags/{{ tag | downcase | replace: ' ', '_' }}.html">{{ tag }}</a></code>{% if forloop.last %}{% else %} {% endif %}{% endfor %}</p>
+<hr/>
+<p>Cite this post:</p>
+<p class="citation">{% include citation.html %}</p>
+<hr/>
 
+<p class="meta">Tagged in: {% for tag in page.tags %}<code><a href="/tags/{{ tag | downcase | replace: ' ', '_' }}.html">{{ tag }}</a></code>{% if forloop.last %}{% else %} {% endif %}{% endfor %}</p>
 
 {% if site.enable_disqus %}
 {% if page.comments %}

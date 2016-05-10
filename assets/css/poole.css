@@ -48,7 +48,7 @@ body {
 }
 
 html {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Lato", sans-serif;
   font-size: 16px;
   line-height: 1.5;
 }
@@ -86,12 +86,13 @@ body a:focus {
 
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
-  margin-bottom: .5rem;
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
-  line-height: 1.25;
+  font-family: "Roboto Slab", serif;
+  font-weight: 400;
   color: #313131;
-  text-rendering: optimizeLegibility;
+  letter-spacing: -.025rem;
 }
+
+
 h1 {
   font-size: 2rem;
 }
@@ -145,6 +146,12 @@ time {
   font-family: Menlo, Monaco, "Courier New", monospace;
   color: #aaa;
   font-size: 0.8em;
+}
+
+.citation {
+   font-family: Menlo, Monaco, "Courier New", monospace;
+   color: #aaa;
+   font-size: 0.8em;
 }
 
 .post time {
@@ -384,7 +391,6 @@ aside {
 .post-title {
   font-size: 2.2rem;
   line-height: 1.5em;
-  font-family: "Ubuntu";
   color: #a00;
 }
 

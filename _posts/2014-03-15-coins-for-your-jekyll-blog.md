@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: "COinS for Your Jekyll Blog"
 date: 2014-03-15 13:13
-tags: 
+tags:
   - Code
   - Publishing
 ---
@@ -17,7 +17,11 @@ If you use WordPress, you can already use a [ScholarPress plugin](http://wordpre
 For those of us using [Jekyll], the easiest way to add these is via the `_includes` system.
 Just pop this snippet into your `_includes` folder and then add `{% raw %}{% include coins.html %}{% endraw %}` in the body of your post layout file:
 
-{% gist 9570842 %}
+{% highlight html %}
+{% raw %}
+<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.title={{ page.title | cgi_escape }}&amp;rft.aulast={{ site.data.contact.name_last | cgi_escape }}&amp;rft.aufirst={{ site.data.contact.name_first | cgi_escape }}&amp;rft.source={{ site.data.site.title | cgi_escape }}&amp;rft.date={{ page.date | date_to_xmlschema }}&amp;rft.type=blogPost&amp;rft.format=text&amp;rft.identifier={{ site.url | cgi_escape }}{{ page.url | cgi_escape }}&amp;rft.language=English"></span>
+{% endraw %}
+{% endhighlight %}
 
 Because everything needs to be escaped as part of a single HTML string, it's a bit hard to read the raw code.
 The important variables here are:

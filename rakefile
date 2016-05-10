@@ -10,7 +10,7 @@ task :new, :title do |t, args|
   puts "Checking out a new draft branch: draft/#{branch}"
   `git checkout -b draft/#{branch}`
 
-  puts "Creating new draft: #{filename}" 
+  puts "Creating new draft: #{filename}"
   open(filename, "w") do |post|
     post.puts "---"
     post.puts "layout: post"
@@ -21,7 +21,7 @@ task :new, :title do |t, args|
     post.puts "---"
   end
 
-  `sublime #{filename}`
+  `atom #{filename}`
 
 end
 
@@ -41,7 +41,7 @@ task :update do |t|
     newfilename = filename.gsub(/(\d{4}-\d{2}-\d{2})/,"#{Time.now.strftime('%Y-%m-%d')}")
     puts "Moving to: #{newfilename}"
     `git mv #{filename} #{newfilename}`
-    
+
   else
     puts "Canceled."
   end

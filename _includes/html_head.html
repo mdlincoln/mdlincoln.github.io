@@ -1,4 +1,4 @@
-<title>{{ page.title }} - {{ site.data.site.title }}</title>
+<title>{{ page.title | strip_html }} - {{ site.data.site.title }}</title>
 
 <!-- Meta tags -->
 <meta charset="utf-8">
@@ -18,9 +18,9 @@
 <!-- CSS -->
 <link rel="stylesheet" href="/assets/css/poole.css">
 <link rel="stylesheet" href="/assets/css/syntax.css">
-<link rel="stylesheet" href="/assets/css/hyde.css">
+<link rel="stylesheet" href="/assets/css/lanyon.css">
 <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
-<link href='http://fonts.googleapis.com/css?family=Ubuntu|PT+Sans:400,700|PT+Serif:400,700,400italic' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:300,300italic,700|Roboto+Slab">
 
 {% if site.enable_analytics %}
 <!-- Google Analytics -->
