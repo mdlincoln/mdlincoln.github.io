@@ -1,7 +1,7 @@
 ---
 layout: "post"
 title: "R packages, secret keys, and testing on Appveyor"
-date: "2016-05-13 17:32"
+date: "2016-05-13 13:32"
 comments: true
 tags:
 - Code
@@ -115,4 +115,4 @@ We'll follow generally the same guidelines that Bryan sets out in setting up enc
 
 _Breathe._
 
-And `git push`! With any luck, your package will now build and test successfully on Appveyor. 
+And `git push`! With any luck, your package will now build and test successfully on Appveyor.
