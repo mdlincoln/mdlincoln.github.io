@@ -24,7 +24,7 @@ Harrison also linked to his [own fascinating rumination on the historical constr
 I was struck by his typology of reactions to scholarly error:
 
 >One response is to attempt to repair the order: to remedy the typo, clarify the crux, rewrite the self-deprecation as sign of mastery.
-Another, as in (2) above, is to peer into the gap, to see what we can learn about the procedures of order from its failure.
+Another [...] is to peer into the gap, to see what we can learn about the procedures of order from its failure.
 The third is to treat the break as somehow conceptually fundamental, as negating our previous understanding of order.
 
 Warren embraces the Type 1 response: taking error as a way to correct the record.
