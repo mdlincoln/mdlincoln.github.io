@@ -3,7 +3,7 @@ layout: "post"
 title: "Linked Open Realities: The Joys and Pains of Using LOD for Research"
 date: "2016-06-06 18:27"
 comments: true
-aside: "I presented this talk at the June 1, 2016 meeting of the [CESTA](https://cesta.stanford.edu/) Graduate Fellows at Stanford University. [You can see the full slides here.](https://speakerdeck.com/mdlincoln/linked-open-realities-the-joys-and-pains-of-using-lod-for-research). What follows is the translation of some very loose and informal notes, along with a subset of the slides, into something more resembling a blog post."
+aside: "I presented this talk at the June 1, 2016 meeting of the [CESTA](https://cesta.stanford.edu/) Graduate Fellows at Stanford University. [You can see the full slides here.](https://speakerdeck.com/mdlincoln/linked-open-realities-the-joys-and-pains-of-using-lod-for-research) What follows is the translation of some very loose and informal notes, along with a subset of the slides, into something more resembling a blog post."
 tags:
   - Data
   - LAM
