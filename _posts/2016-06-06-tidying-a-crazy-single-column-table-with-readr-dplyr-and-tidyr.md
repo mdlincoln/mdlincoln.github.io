@@ -123,7 +123,7 @@ OK, getting better.
 ## Group data about the same records together
 
 But how can we associate the proper record number with each row when each record may have a different number of rows (e.g. only one `Verbatim Artist` entry instead of four)?
-[tidyr]'s `cumsum`, or cumulative sum, function is useful here.
+[dplyr]'s `cumsum`, or cumulative sum, function is useful here.
 
 ```r
 base_sales <- one_col %>%
@@ -254,6 +254,6 @@ base_sales <- one_col %>%
 |      1|2983   |0068   |Stanley (G.)  |Unedited  |1827/06/01 |1827/06/01 |Sold             |52.10 &#124;c £ |Benito Veronese; Carlo Veronese; Gabriel Veronese; Paolo Veronese |The Baptism of Christ by St. John. |Count Altamira |Hume   |
 |      2|14756  |...    |...           |...       |...        |...        |...              |...             |...                                                               |...                                |...            |...    |
 
-Now on to the real show: parsing dates and currencies!
+Now that we've actually created a real table out of this mess of data, we can move on to the real analytical fun: parsing dates and currencies!
 
 {% include figure.html src="http://i.giphy.com/VxaH33bM2xXvW.gif" caption="I am so, so sorry for ending with this GIF." %}
