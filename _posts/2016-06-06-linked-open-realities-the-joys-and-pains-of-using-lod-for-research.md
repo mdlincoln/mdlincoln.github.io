@@ -113,7 +113,7 @@ On the other hand, I could ostensibly give you a series of SPARQL queries format
 
 "Ostensibly" being the operative word.
 
-You see, if you go to <http://collections.britishmuseum.org> right now [at least as of the June 1, 2016 writing of this talk], you get this:
+You see, if you go to <http://collection.britishmuseum.org> right now [at least as of the June 1, 2016 writing of this talk], you get this:
 
 <script async class="speakerdeck-embed" data-slide="20" data-id="2afbe88767dc4a9d842f93b2a11277ea" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
