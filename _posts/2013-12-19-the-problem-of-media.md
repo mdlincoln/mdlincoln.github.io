@@ -113,7 +113,7 @@ We similarly grapple with the relationship between trends in prints and trends i
 If we can't directly compare absolute numbers of prints and paintings as a measure of the influence of an artwork and its iconography, nor can we absolutely dismiss the massive numerical difference between these media in trying to come to terms with a macroscopic view of art history.
 
 This first pass at iconographic charting has left me with several promising avenues of inquiry to test against larger data sets.
-Knowing if this or similar trends will appear in a larger set of data (such as that maintained by the [RKD](www.rkd.nl)), or whether these are just eccentricities of the particular collections at the Rijksmuseum, is vital if we are to draw any larger art historical conclusions from these data.
+Knowing if this or similar trends will appear in a larger set of data (such as that maintained by the [RKD](http://www.rkd.nl)), or whether these are just eccentricities of the particular collections at the Rijksmuseum, is vital if we are to draw any larger art historical conclusions from these data.
 This particular question of the relationship between Dutch print culture and the world of painting is one I hope to explore in my dissertation through this kind of quantitative analysis, as well as through other methods like exploring the networks of print publishers and their relationships with painters, engravers, and etchers.
 
 

@@ -24,7 +24,7 @@ tags:
 </aside>
 
 
-When I [last left off](/2013/09/18/iconclass-and-charting-the-rijksmuseum.html), I was just beginning to dig into a [cumulative chart](/assets/images/iconclass_graph.png) of changing iconographic ratios over time in the collections of the Rijksmuseum. Before I resume, I want to address a nagging issue with that pretty rainbow graph whose ratios add up to a nice crisp %100: not all the Rijksmuseum objects have just one Iconclass code.
+When I [last left off](/2013/09/18/iconclass-and-charting-the-rijksmuseum.html), I was just beginning to dig into a [cumulative chart](/assets/images/rijksmuseum_iconclass_graph.png) of changing iconographic ratios over time in the collections of the Rijksmuseum. Before I resume, I want to address a nagging issue with that pretty rainbow graph whose ratios add up to a nice crisp %100: not all the Rijksmuseum objects have just one Iconclass code.
 
 In fact, a lot of them have quite a few more.
 

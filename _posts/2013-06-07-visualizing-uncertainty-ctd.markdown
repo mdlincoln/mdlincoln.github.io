@@ -8,7 +8,6 @@ title: Visualizing Uncertainty, Ctd.
 wordpress_id: 1121
 tags:
 - Digital Humanities
-- Collaboration
 - THATCamp
 - Visualization
 ---

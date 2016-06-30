@@ -27,7 +27,7 @@ Day 2 of THATCamp Prime 2013! After [narrowly avoiding a single-tracking transit
 
 - Next up was a helpful introductory workshop on [QGIS](http://www.qgis.org), the open-source alternative to products like ArcGIS. This was run by Fred Gibbs, who's posted [a helpful introduciton](http://fredgibbs.net/blog/maps/getting-started-with-qgis/) to the software. I can't wait to [do some georeferencing of my own](https://twitter.com/matthewdlincoln/status/343402096403558400) now.
 
-- Lunch was accompanied by an invigorating discussion with Eric Remy and [Kurt Luther](www.kurtluther.com) about the interactions between histories of art, science, and music.
+- Lunch was accompanied by an invigorating discussion with Eric Remy and [Kurt Luther](http://www.kurtluther.com) about the interactions between histories of art, science, and music.
 
 - I tried my hand at R for a while, but finding it not so relevant to my own work I switched over a group of [guerrilla web archivists](http://chnm2013.thatcamp.org/notepads/swat-team-for-old-dh-sites/). I came in a bit late to the game, but these guys and gals really seem to mean business, so I'd get in touch if you're interested.
 

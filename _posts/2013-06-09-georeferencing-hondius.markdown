@@ -10,7 +10,6 @@ tags:
 - Art History
 - Digital Humanities
 - GIS
-- Maps
 ---
 
 [![A lightly-georeferenced version of Jodocus Hondius'  1611 "Leo Belgicus"][hondius]](http://mlincoln.files.wordpress.com/2013/06/screen-shot-2013-06-08-at-8-00-33-pm.jpg)

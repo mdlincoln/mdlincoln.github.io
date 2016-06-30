@@ -30,7 +30,7 @@ This question will only become more pressing as more and more journals are movin
 
 A new article in *PLoS Computational Biology* on ["Ten Simple Rules for Reproducible Computational Research"](http://dx.doi.org/10.1371/journal.pcbi.1003285) establishes several good precepts for documenting not only the code itself, but your process in developing and using the code on your datasets.
 Among the rules include documenting exactly *how* you reach every result, preferably doing so not just in a textual description but also recording it programmatically --
-that is, writing a small script (or [Rakefile](rake.rubyforge.org)) that will run your scripts in the proper order and on the proper files, automating the reproduction process and essentially self-documenting your analytical process all at the same time.
+that is, writing a small script (or [Rakefile](http://rake.rubyforge.org)) that will run your scripts in the proper order and on the proper files, automating the reproduction process and essentially self-documenting your analytical process all at the same time.
 The authors also recommend you avoid manual manipulation of resulting data in favor of programmatic manipulation, in order to reduce the number of manual steps that one must correctly take in order to reproduce your results.
 (Lincoln Mullen has similarly suggested the need for programmatic data manipulation over at [DHAnswers](http://digitalhumanities.org/answers/topic/what-are-the-best-practices-for-data-curation-in-github).)
 
