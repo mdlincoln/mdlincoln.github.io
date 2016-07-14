@@ -21,8 +21,8 @@ I will be talking about artworks, but from the perspective of human-coded, rathe
 <script async class="speakerdeck-embed" data-slide="2" data-id="362cd4ad6f23413e8aed242e8ae3b131" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
 Many of us here are likely familiar with the challenges of systems for describing artworks – while some institution use a controlled vocabulary like Getty Art & Architecture Thesaurus or ICONCLASS, you more often find a home-grown vocabulary used only by that particular collection database or catalog raisonnée.
-I will NOT be addressing the problem of reconciling these vocabularies today.
-Instead, I want to demonstrate how we can use these heterogeneous structured descriptions, IN SPITE of their conflicts, in order to address some real art historical questions. 
+I will _not_ be addressing the problem of reconciling these vocabularies today.
+Instead, I want to demonstrate how we can use these heterogeneous structured descriptions, _in spite_ of their conflicts, in order to address some real art historical questions. 
 I'll be talking about two projects, first from my research on prints, and then concluding with a preview of a work in progress that deals with some similar issues.
 
 <script async class="speakerdeck-embed" data-slide="3" data-id="362cd4ad6f23413e8aed242e8ae3b131" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
@@ -40,7 +40,7 @@ The economic historian John Michael Montias described the two advantages that sp
 But the story with printmakers is somewhat more unclear. 
 You will find conflicting narratives in the current print scholarship on whether it was advantageous for printmakers to specialize or, on the other hand, to diversify. 
 A printmaker like Nicolaes de Bruyn was able to spend a very long and successful career turning out one type of large-scale narrative landscape print. 
-On the other hand, we can also point to printmakers like Hendrick Hondius who covered an enormous range of portraits, maps, religious images, and mythologies. But what was the balance between these two approaches to printmaking? And did that balance shift significantly over time, as It appears to have done with painters?
+On the other hand, we can also point to printmakers like Hendrick Hondius who covered an enormous range of portraits, maps, religious images, and mythologies. But what was the balance between these two approaches to printmaking? And did that balance shift significantly over time, as it appears to have done with painters?
 
 <script async class="speakerdeck-embed" data-slide="5" data-id="362cd4ad6f23413e8aed242e8ae3b131" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
@@ -103,16 +103,16 @@ On the other hand, we find that printmakers did not experience a parallel declin
 <script async class="speakerdeck-embed" data-slide="14" data-id="362cd4ad6f23413e8aed242e8ae3b131" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
 
-Now again, this is not to say that printmakers NEVER specialized – indeed many did. 
+Now again, this is not to say that printmakers _never_ specialized – indeed many did. 
 Of those printmakers who DID specialize, a pattern is clearly visible: they were almost all painters, as well. Their specialization in printmaking developed alongside their painterly specializations. For example, Ostade and his students Bega and Dusart produced both paintings and prints of peasant life, while seascape printmakers Nooms and Van Everdingen were prolific seascape painters as well. 
 
 <script async class="speakerdeck-embed" data-slide="15" data-id="362cd4ad6f23413e8aed242e8ae3b131" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
-The generalist printmakers, on the other hands, were those like Jonas Suyderhoef who made a living producing plates after a wide range of artists, working for multiple publishers and even, like Hendrick Goltzius, starting their own independent printmaking firms. It seems that those printmakers who made their livelihood almost exclusively through printmaking HAD to be able and willing to render a wide variety of subjects. Such flexibility may have presented an attractive insurance policy both for printmakers themselves, but also for print publishers, who had to continually react to the demands of a quickly-moving market for artistic prints and illustrations.
+The generalist printmakers, on the other hands, were those like Jonas Suyderhoef who made a living producing plates after a wide range of artists, working for multiple publishers and even, like Hendrick Goltzius, starting their own independent printmaking firms. It seems that those printmakers who made their livelihood almost exclusively through printmaking _had_ to be able and willing to render a wide variety of subjects. Such flexibility may have presented an attractive insurance policy both for printmakers themselves, but also for print publishers, who had to continually react to the demands of a quickly-moving market for artistic prints and illustrations.
 
 <script async class="speakerdeck-embed" data-slide="16" data-id="362cd4ad6f23413e8aed242e8ae3b131" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
-So it is possible to extract some useful insights even from unreconicled artwork description databases. But I'm also very interested in applying machine learning to help parse out individual databases with their own highly contextual vocabularies.
+So it is possible to extract some useful insights even from unreconciled artwork description databases. But I'm also very interested in applying machine learning to help parse out individual databases with their own highly contextual vocabularies.
 
 <script async class="speakerdeck-embed" data-slide="17" data-id="362cd4ad6f23413e8aed242e8ae3b131" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
