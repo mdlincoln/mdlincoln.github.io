@@ -29,8 +29,11 @@ I'll be talking about two projects, first from my research on prints, and then c
 
 The first concerns something that has long interested historians of the art of the Low Countries: the phenomenon of genre specialization. 
 It is commonly-accepted that a great number of Dutch and Flemish painters began to specialize in particular genres of paintings in the late 16th and early 17th centuries. Economic concerns may have made specialization an attractive strategy within the relatively open artistic market in the Low Countries. 
-The economic historian John Michael Montias described the two advantages that specialization offered. product innovations that offered novel types of paintings to the market, and process innovations that made the production of each additional painting that much easier. 
-A painter who, for example, specialized in seascapes, would be able to rely on a set of recurring compositions and motifs, and practiced fluency in rendering certain effects and materials.
+
+The economic historian John Michael Montias described the two advantages that specialization offered:
+
+1. product innovations that offered novel types of paintings to the market
+2.  process innovations that made the production of each additional painting that much easier.  A painter who, for example, specialized in seascapes, would be able to rely on a set of recurring compositions and motifs, and practiced fluency in rendering certain effects and materials.
 
 <script async class="speakerdeck-embed" data-slide="4" data-id="362cd4ad6f23413e8aed242e8ae3b131" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
