@@ -9,4 +9,4 @@ License](http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US).
 
 ***
 
-[Matthew D. Lincoln](http://matthewlincoln.net) | Ph.D Student, Department of Art History & Archaeology, University of Maryland, College Park
+[Matthew D. Lincoln](http://matthewlincoln.net) | Getty Research Institute, Los Angeles
