@@ -7,6 +7,9 @@ layout: default
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
   <time datetime="{{ page.date }}">{{ page.date | date_to_string }}</time>
+  {% if page.aside %}
+  <aside>{{ page.aside | markdownify }}</aside>
+  {% endif %}
   {{ content }}
 </div>
 

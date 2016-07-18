@@ -11,6 +11,7 @@ tags:
 - Digital Humanities
 - Publishing
 - THATCamp
+redirect_from: /2013/06/08/thatcamp-prime-2013-day-1.html
 ---
 
 [![A panel excerpted from Sharon Birch's gleeful comic book of THATCamp Prime 2013][book]](https://www.dropbox.com/s/jq39aglfp29erub/Retro.pdf)

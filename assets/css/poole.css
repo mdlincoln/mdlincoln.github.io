@@ -193,8 +193,7 @@ pre {
 }
 code {
   padding: .25em .5em;
-  font-size: 85%;
-  color: #bf616a;
+  font-size: 75%;
   background-color: #f9f9f9;
   border-radius: 3px;
 }
@@ -203,7 +202,7 @@ pre {
   margin-top: 0;
   margin-bottom: 1rem;
   padding: 1rem;
-  font-size: .8rem;
+  font-size: 75%;
   line-height: 1.4;
   white-space: pre;
   white-space: pre-wrap;
@@ -213,7 +212,7 @@ pre {
 }
 pre code {
   padding: 0;
-  font-size: 100%;
+  font-size: 75%;
   color: inherit;
   background-color: transparent;
 }

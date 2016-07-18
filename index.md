@@ -11,7 +11,7 @@ I am a data research specialist at the [Getty Research Institute](http://www.get
 I received my PhD in Art History at the [University of Maryland, College Park](http://arthistory.umd.edu/graduate-students/Matthew%20Lincoln).
 For my [dissertation](/dissertation) research, I used computational network analysis to explore the long-term changes in the organization of print designers, engravers, and publishers in the Netherlands between 1500--1700.
 
-On this site you can find my [CV](/about), various [blog posts](/archive) on art history, humanities computing, and (occasionally) the [Super Mutant Ninja Turtles](/2013/09/10/ninja-turtles.html), as well as the full-text of conference talks on the ['Projects' page](/projects).
+On this site you can find my [CV](/about), various [blog posts](/archive) on art history, humanities computing, and (occasionally) the [Super Mutant Ninja Turtles](/2013/09/10/ninja-turtles.html), as well as articles and conference talks on the ['Projects' page](/projects).
 
 {% if site.data.travel.size > 0 %}
 ***

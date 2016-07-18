@@ -17,4 +17,4 @@ a volume that structures knowledge by enumerating and categorizing artworks such
 Arguments for or against an attribution, or for the location of an artwork within a chronology, rely on the author’s mental model of the artist’s overarching career – a model based on a sense, however tacit, of the numeric distribution of certain features across that oeuvre. In other words, we have always been counting pictures.
 Now we have a chance to engage with that practice more creatively.
 
-[Read the full article here.](http://perspective.revues.org/6021)
+[Read the full article here.](http://perspective.revues.org/6021) ([Post-print PDF](/assets/docs/perspective_interview.pdf))

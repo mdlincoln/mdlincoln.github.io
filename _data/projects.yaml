@@ -1,3 +1,12 @@
+articles:
+  - title: '"Sources for Gerrit van Honthorst''s Italian Nickname," _Source: Notes in the History of Art_ 35, no. 3 (Spring 2016): 244-249'
+    url: /2016/05/10/digital-art-history-and-honthorsts-nickname.html
+    snippet: "A brief note on the non-existent archival evidence for Gerrit van Honthorst's supposed contmpoerary nickname _Gherardo delle Notti_."
+    avatar: /assets/images-display/honthorst_avatar.jpg
+  - title: 'With Johanna Drucker, Anne Helmreich, and Francesca Rose, "Digital Art History: The American Scene," _Perspective_, no. 2, 2015'
+    url: /2016/01/21/essay-in-perspective.html
+    snippet: "An interview with three American art historians about their perspectives on digital developments in the larger discipline."
+    avatar: /assets/images-display/perspective_avatar.png
 other:
   - title: "Marvelous Mechanical Bodies in Sixteenth-Century Joyous Entries In Antwerp and Vienna"
     url: /2014/04/02/marvelous-mechanical-bodies.html
@@ -12,6 +21,11 @@ other:
     snippet: 'A paper examining the intersection of civic pride and memory in paintings by Emanuel de Witte. Versions presented at the 2011 University of Indiana, Bloomington Graduate Art History Symposium, and the 2012 Medieval and Early Modern interdisciplinary conference "Geographies of Desire" at the University of Maryland, College Park.'
     avatar: /assets/images-display/dewitte_avatar.png
 dh:
+  - title: "If Paintings Were Plants: Measuring Genre Diversity in 
+Seventeenth-Century Dutch Painting and Printmaking"
+    url: /2016/07/13/dh2016-measuring-genre-diversity-in-seventeenth-century-dutch-painting-and-printmaking.html
+    snippet: "Presented at the 2016 Digital Humanities Conference in Kraków"
+    avatar: /assets/images-display/dh2016_avatar.png
   - title: "Modelling the (Inter)national Printmaking Networks of Early Modern Europe"
     url: /2015/06/30/dh2015-modelling-the-international-printmaking-networks-of-early-modern-europe.html
     snippet: "Presented at the 2015 Digital Humanities Conference in Syndey"
