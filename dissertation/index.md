@@ -6,6 +6,8 @@ show_title: true
 
 ## Related papers and pages
 
+- [DH2016 Paper](/2016/07/13/dh2016-measuring-genre-diversity-in-seventeenth-century-dutch-painting-and-printmaking.html)
+- [CAA2016 Paper](/2016/02/04/tool-trouble-network-and-spatial-methods-in-art-history.html)
 - [_How Did They Make That?_ --- Printmaking Networks](/pages/how-did-they-make-that.html)
 - [MITH Fall 2015 Digital Dialogues](http://mith.umd.edu/podcasts/dd-fall-2015-matthew-lincoln/) (With an excellent [Storified summary](https://storify.com/digdialog/matthew-lincoln-digital-dialogue-at-mith-october-2?utm_campaign=website&utm_source=email&utm_medium=email) by MITH's Stephanie Sapienza)
 - [_Data Praxis_ (Interview)](/2015/10/27/data-praxis-interview.html)
