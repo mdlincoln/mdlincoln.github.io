@@ -88,7 +88,7 @@ ga <- read_csv("utf_ga.csv")
 
 Already there are some parsing errors.
 Columns `Ref_1` and `Ref_2` are intended to be dates, however they are entered in a slightly ambiguous manner, sometimes as `M/DD/YY`, sometimes as `MM/DD/YY`.
-**In future versions of these data, the authors should conform to the [ISO 8601 standard](https://en.wikipedia.org/wiki/ISO_8601) for endocing dates (`YYYY-MM-DD`), which will reduce this ambiguity.**
+**In future versions of these data, the authors should conform to the [ISO 8601 standard](https://en.wikipedia.org/wiki/ISO_8601) for encoding dates (`YYYY-MM-DD`), which will reduce this ambiguity.**
 
 We will force `read_csv` to treat those columns as character/string columns, and then parse them using the more flexible functions from the `lubridate` package.
 
@@ -306,7 +306,7 @@ Deciding how to handle interactions between these attributes would then be up to
 To be sure, such an ontology would present new challenges.
 Not every building may have a meaningful value for every column.
 However, I believe the affordances would outweigh these obstacles.
-**Having now entered a significant amount of data, the authors should consider reinvesting in a more robust ontology for buidling types that can be spread accross multiple categorical variables, rather than concatenated in to one.**
+**Having now entered a significant amount of data, the authors should consider reinvesting in a more robust ontology for building types that can be spread across multiple categorical variables, rather than concatenated in to one.**
 
 In spite of these questions of categorization, we can still explore the building type variable by considering the density distribution of each type.
 In other words, of all the buildings in the dataset of a given type, where do they fall, proportionally, along the construction timeline?
@@ -334,7 +334,7 @@ This is somewhat defensible: coordinates at the city level do not actually give 
 That said, the authors are clearly interested in spatial analysis (judging by the preliminary maps shown on the project website), and so it is unclear why they would allow themselves to use coordinates, but not afford that possibility to others.
 This means that I must geo-code these locations myself, likely introducing a new error as I do not have the historical contextual knowledge about changing place names that the authors are able to bring to this work.
 
-**If they have performed signifcant correction of automatic geocoding, the authors should provide those coordinates, along with some documentation about the process they used to arrive at these coordinates, and what the level of precision is.**
+**If they have performed significant correction of automatic geocoding, the authors should provide those coordinates, along with some documentation about the process they used to arrive at these coordinates, and what the level of precision is.**
 
 For the time being, however, we can add automatically geocode coordinates in order to do some tentative spatial analysis.
 
@@ -477,7 +477,7 @@ plot(buildyear_disp$dist)
 ![](/assets/images-display/dispersion_buildyear-1.svg)
 
 This first plot is based on the changing median pairwise [orthodomic (or great circle) distance](https://en.wikipedia.org/wiki/Great-circle_distance) of every construction site published between 1914--1924.
-In more familiar terms, this is the distance "as the crow flies" along the surface of a (near-)shperical earth, and is indepndent of any particular origin point or map projection.
+In more familiar terms, this is the distance "as the crow flies" along the surface of a (near-)spherical earth, and is independent of any particular origin point or map projection.
 
 {% include figure.html src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Illustration_of_great-circle_distance.svg" caption="Visualizing great-circle distance. (Source: Wikimedia)" %}
 
@@ -496,7 +496,7 @@ As Saul Steinberg famously captured in his 1976 *New Yorker* cover, experience o
 ![Saul Steinberg, "View of the World from 9th Avenue", _The New Yorker_, 29 March 1976](https://upload.wikimedia.org/wikipedia/en/4/4d/Steinberg_New_Yorker_Cover.png)
 
 That said, just because we are working with computation does not mean we must hamstring ourselves with just one approach to space.
-Although I used great-circle distances for the above caluclation, we could instead use a projection dependent on some specified coordinates (such as the aptly-named `newyorker` projection in R's `mapproject` package) in which distances between points close to a specified viewpoint would be larger than distances between points far from the center.
+Although I used great-circle distances for the above calculation, we could instead use a projection dependent on some specified coordinates (such as the aptly-named `newyorker` projection in R's `mapproject` package) in which distances between points close to a specified viewpoint would be larger than distances between points far from the center.
 
 The question: does the spatial spread of the journal data change based on this  type of re-projection?
 
@@ -507,9 +507,9 @@ multiplot(berlin_disp$map, berlin_disp$dist, cols = 1)
 
 ![](/assets/images-display/dispersion_berlin-1.png)
 
-Here we see the globe reprojected from Berlin, where distances close to the city have been dramatically streched a-la Steinberg, and those far from the city minimized.
+Here we see the globe reprojected from Berlin, where distances close to the city have been dramatically stretched a-la Steinberg, and those far from the city minimized.
 In this projection of space, year-by-year swings in the spatial coverage of new construction appear much larger.
-Most notably, from this perspective, the spatial coverage of construction described in the 1924 volume of the journal appears to have dramatically incrased, rather than decreased, as it had done in the previous calcuation of great-circle distances instead.
+Most notably, from this perspective, the spatial coverage of construction described in the 1924 volume of the journal appears to have dramatically increased, rather than decreased, as it had done in the previous calculation of great-circle distances instead.
 
 By effectively weighting changes *close to Berlin* more heavily than those farther away, we end up with a very different picture of changing spatial coverage of German construction in this period.
 This speculative approach could *evoke*[^evoke] the experience of a German reader who might feel the distances between familiar Berlin and Munich more acutely than the distances between foreign New York and Miami.
@@ -523,10 +523,10 @@ multiplot(ny_disp$map, ny_disp$dist, cols = 1)
 
 ![](/assets/images-display/dispersion_ny-1.png)
 
-The view from *New York City*, on the other hand, offers a more gradual impression of what, from North America, could have appared to be a more steady concentration of construction in the late teens and early 20s - a concentration with a comparative turn towards more international building in 1924.
+The view from *New York City*, on the other hand, offers a more gradual impression of what, from North America, could have appeared to be a more steady concentration of construction in the late teens and early 20s - a concentration with a comparative turn towards more international building in 1924.
 
 I wish to stress that neither the great-cirlce distances, nor the Steinberg-esque projections from Berlin or New York, can be said to be any more "correct" than one another.
-The former apprach embeds the assumption that geographic distance is roughly interchangeable (a 700-mile distance in the United States is equal to a 700-mile distance in Europe), while the latter two views warp these distances based on one's particular location.
+The former approach embeds the assumption that geographic distance is roughly interchangeable (a 700-mile distance in the United States is equal to a 700-mile distance in Europe), while the latter two views warp these distances based on one's particular location.
 Using the `newyorker` projection was not intended to strip bias from our spatial analysis, but to instead *explicitly reorient that bias* in a speculative manner, intended to introduce new questions or nuance into our data interpretation.[^1]
 
 To conclude, in addition to making some adjustments to their data for greater usability, I would also **encourage the authors to explore how they might experiment with the subjective qualities of these data**.
