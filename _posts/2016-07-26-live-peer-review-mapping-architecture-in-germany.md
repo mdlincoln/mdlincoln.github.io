@@ -8,7 +8,7 @@ tags:
 - data
 - gis
 aside: |
-  This post is a response to a call by Paul Jaskot and Ivo van der Graff at the [Center for Advanced Studies in the Visual Arts](http://www.nga.gov/content/ngaweb/research/casva.html) to review an in-progress dataset for their research project ["Historical Journals as Digital Sources: Mapping Architecture in Germany, 1914-1924"](http://www.nga.gov/content/ngaweb/research/casva/Mapping_German_Architecture_1914_1924.html).
+  This post is a response to a call by Paul Jaskot and Ivo van der Graaff at the [Center for Advanced Studies in the Visual Arts](http://www.nga.gov/content/ngaweb/research/casva.html) to review an in-progress dataset for their research project ["Historical Journals as Digital Sources: Mapping Architecture in Germany, 1914-1924"](http://www.nga.gov/content/ngaweb/research/casva/Mapping_German_Architecture_1914_1924.html).
   
   Twitter conversation about this dataset can be found under the hashtag [`#casva_dh`](https://twitter.com/search?q=%23casva_dh).
 ---
