@@ -527,7 +527,7 @@ The view from *New York City*, on the other hand, offers a more gradual impressi
 
 I wish to stress that neither the great-cirlce distances, nor the Steinberg-esque projections from Berlin or New York, can be said to be any more "correct" than one another.
 The former approach embeds the assumption that geographic distance is roughly interchangeable (a 700-mile distance in the United States is equal to a 700-mile distance in Europe), while the latter two views warp these distances based on one's particular location.
-Using the `newyorker` projection was not intended to strip bias from our spatial analysis, but to instead *explicitly reorient that bias* in a speculative manner, intended to introduce new questions or nuance into our data interpretation.[^1]
+Using the `newyorker` projection was not intended to strip bias from our spatial analysis, but to instead *explicitly reorient that bias* in a speculative manner, intended to introduce new questions or nuance into our data interpretation.[^orbis]
 
 To conclude, in addition to making some adjustments to their data for greater usability, I would also **encourage the authors to explore how they might experiment with the subjective qualities of these data**.
 And I hope this explication would not be limited to a narrative aside ("We acknowledge these data are biased, but...").
@@ -535,7 +535,4 @@ Rather, they could actively built subjectivity into an analysis that embraces th
 Creatively computing different perspectives on German construction in this period, whether through spatial re-projection, or some other method, may prove useful for thinking about research problems in architectural history.
 I believe it could also provide a valuable model of humanistic computational analysis that does not establish data and computing as a deterministic or "objective" method, but instead as yet another humanistic approach that [productively transforms its subject of study](http://sappingattention.blogspot.com/2016/07/why-digital-humanists-dont-need-to.html) in order to develop new interpretations.
 
-[^1]: It is also crucial to note that the underlying mean distance calculation still does not account for the practicalities of actually traveling to a given site.
-Such an interpretation which would demand a fully-fledged portrait of the period global transport network.
-(For a project that does this in the ancient Roman world, [see the ORBIS project](http://orbis.stanford.edu/).) Thinking about the spatial extent of German construction in this period may not truly demand that we account for such transit times.
-It is nonetheless valuable to cycle through subjective computations like these re-projections in order to better clarify *for ourselves* what types of questions and perspectives we are hoping to bring to bear on these data.
+[^orbis]: It is also crucial to note that the underlying mean distance calculation still does not account for the practicalities of actually traveling to a given site. Such an interpretation which would demand a fully-fledged portrait of the period global transport network. (For a project that does this in the ancient Roman world, [see the ORBIS project](http://orbis.stanford.edu/).) Thinking about the spatial extent of German construction in this period may not truly demand that we account for such transit times. It is nonetheless valuable to cycle through subjective computations like these re-projections in order to better clarify *for ourselves* what types of questions and perspectives we are hoping to bring to bear on these data.
