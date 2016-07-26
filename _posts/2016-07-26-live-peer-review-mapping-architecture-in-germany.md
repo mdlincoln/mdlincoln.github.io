@@ -479,7 +479,7 @@ plot(buildyear_disp$dist)
 This first plot is based on the changing median pairwise [orthodomic (or great circle) distance](https://en.wikipedia.org/wiki/Great-circle_distance) of every construction site published between 1914--1924.
 In more familiar terms, this is the distance "as the crow flies" along the surface of a (near-)shperical earth, and is indepndent of any particular origin point or map projection.
 
-{% include figure.html caption="Visualizing great-circle distance. (Source: Wikimedia)" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Illustration_of_great-circle_distance.svg" %}
+{% include figure.html src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Illustration_of_great-circle_distance.svg" caption="Visualizing great-circle distance. (Source: Wikimedia)" %}
 
 The gray ribbon indicates the range of a [bootstrapepd 95% confidence interval](https://en.wikipedia.org/wiki/Confidence_interval), which means that we are 95% sure that the real median distance of these points lies somewhere within the ribbon.
 In years where the journal published more samples from which to calculate the mean (like 1919), the CI is narrower, indicating greater certainty.
@@ -493,7 +493,7 @@ Alternate spatial perception
 It is crucial, however, not to confound the great circle distances being computed here with the _perception_ of space or place by journal authors, readers, or living inhabitants of these built environments.
 As Saul Steinberg famously captured in his 1976 *New Yorker* cover, experience of space is subject to far more variables than distance measured "as the crow flies".
 
-{% include src="https://upload.wikimedia.org/wikipedia/en/4/4d/Steinberg_New_Yorker_Cover.png" caption="Saul Steinberg, \"View of the World from 9th Avenue\", _The New Yorker_, 29 March 1976" %}
+![Saul Steinberg, "View of the World from 9th Avenue", _The New Yorker_, 29 March 1976](https://upload.wikimedia.org/wikipedia/en/4/4d/Steinberg_New_Yorker_Cover.png)
 
 That said, just because we are working with computation does not mean we must hamstring ourselves with just one approach to space.
 Although I used great-circle distances for the above caluclation, we could instead use a projection dependent on some specified coordinates (such as the aptly-named `newyorker` projection in R's `mapproject` package) in which distances between points close to a specified viewpoint would be larger than distances between points far from the center.
