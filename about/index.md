@@ -1,5 +1,5 @@
 ---
 title: Contact Information
 layout: redirect
-redirect_to: https://umd.box.com/shared/static/a7pyi4pfmnu6lftkzphww0k0x5hyfzny.pdf
+redirect_to: https://www.dropbox.com/s/u0zohd016rrnwbw/mlincoln_cv.pdf?dl=1
 ---
