@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/mdlincoln
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://matthewlincoln.net
+  * I am mdlincoln (https://keybase.io/mdlincoln) on keybase.
+  * I have a public key with fingerprint 5271 D84C 193A 4B9B 945C  D4AA D3AB 2911 2CAD 6E14
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01011338de3c6b73db121187448b91b7400d817c59fadd02ff23986815bfdce222d30a",
+            "fingerprint": "5271d84c193a4b9b945cd4aad3ab29112cad6e14",
+            "host": "keybase.io",
+            "key_id": "d3ab29112cad6e14",
+            "kid": "01011338de3c6b73db121187448b91b7400d817c59fadd02ff23986815bfdce222d30a",
+            "uid": "cc2ccb6353356ed05c2c65dbe3ee3619",
+            "username": "mdlincoln"
+        },
+        "service": {
+            "hostname": "matthewlincoln.net",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1473218000,
+    "expire_in": 157680000,
+    "prev": "5065ee58e1868e49650f69764b07dac470fd2fe816c715130d515c746ae17d4c",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.56
+Comment: https://keybase.io/crypto
+
+yMIoAnicrZJbSBVBGMePl8xON8OXsIu1RCqebGZn9nYeeii6ZwWRpZSH3ZlZ3dTd
+4znrJa0Iw+iGGZFCXggJxaQMC4TELifDhxCVoIc4IfkUPVQPlQjdZkXfeuxp+L75
+ff/5f998I8uTfP6El4OPO5pTplHC6xcdVb5j440T9YLh0NNCsF4oY3MHK6cs6obK
+LCoEBQABhAiplCEiGwqiBhQhVBWMVUODhoIBoCpUiKSZOqVANE0RaaqsQskwKWGi
+KFIEdCEgmJZdwiLhiGW7XFYSFUhVTKCGdGxohoYlQrGuU6QbogahSHQqM4h5YakT
+9Sq4OUOPsjzL4TkehObs/YP/z76r5uQIEQkxZCQhJMmMAonHskQNhhhDMtQ8MMoi
+tl7BOF1Byy2bOOW2cDYg8HS1RZg3Wa+VBUR33VJWM8/l2czlEuGI4zo85velrhsO
+euXu6bDH1zAjNK8UMiyb8mnygmoWiVqOLQQhJ4lredIQK0iEKgAgILDasBVhIcsj
+JEX2ksB7hlV7fwBkiTFJZZD3zbAmS8CUNUXGBlCoTrACTCqaTIUyUaAEEaASlIiC
+ZZ1BhWIieL1V2o4QxNymXsIlo1aJrbtVESacjT0/kexL8PtSFiV6W+bzL0lb2L3C
+64v/uNOPh+I389Z1n6vpbM1qkh74dx5c3N4+EEhMuJx7ZTavbrj93lTT4Ke+D7X7
+1qVvmtoenz31cFsmGnWHV60PdDU3jo0Xf+kryvoJh3J35H81M44UzuSM9N/ZPYE7
+8vc2xOW0nKahmasosyYFFBUWCP3EmR5tudSSdeMJ7InHf30vaI5eOLDy7XT1qZvn
+2pJT21/9iD0xe1P7s5fWRq/dGvg8eSLGnm39XfEm1hebKtNX95yc3I6PqccH1uwK
+ntl/u663dcPGL4OdyzK+/S5pO3+o8kf6r4F3F2e3HE3P3vPR33V347KJR20NDUlP
+x+KH01a8TxwGpT83m/e7i4UOq3Xf2r/aQUPW
+=CbZ4
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mdlincoln
+
+==================================================================
