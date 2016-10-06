@@ -8,6 +8,9 @@ tags:
 - digital humanities
 - art history
 aside: "These are the slides and notes from my talk at DH2016 in Kraków on July 13, 2016. The notes are mostly unedited, however I have added a short bibliography at the end of the post. [The \"official\" abstract is available here](http://dh2016.adho.org/abstracts/133), however, as often happens, it is now rather out of date compared to the talk!"
+redirect_from:
+- DH2016.html
+- dh2016.html
 ---
 
 <script async class="speakerdeck-embed" data-slide="1" data-id="362cd4ad6f23413e8aed242e8ae3b131" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
