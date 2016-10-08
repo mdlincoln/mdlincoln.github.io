@@ -8,6 +8,7 @@ tags:
 - Art History
 - LAM
 - Digital Humanities
+redirect_from: macroscope.html
 ---
 
 <aside>
