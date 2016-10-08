@@ -7,6 +7,8 @@ aside: "I presented this talk at the June 1, 2016 meeting of the [CESTA](https:/
 tags:
   - Data
   - LAM
+redirect_from:
+  - cesta_lod.html
 ---
 
 [jq]: https://stedolan.github.io/jq/
