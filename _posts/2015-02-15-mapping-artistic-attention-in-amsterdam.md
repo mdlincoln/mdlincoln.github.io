@@ -8,6 +8,9 @@ tags:
 - Art History
 - Conferences
 - Digital Humanities
+redirect_from:
+- caa2015.html
+- CAA2015.html
 ---
 
 <aside>

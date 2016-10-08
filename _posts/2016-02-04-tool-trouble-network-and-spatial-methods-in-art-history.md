@@ -6,6 +6,9 @@ comments: true
 tags:
 - Art History
 - Conferences
+redirect_from: 
+- caa2016.html
+- CAA2016.html
 ---
 
 This talk was presented at the 2016 College Art Association conference at the session ["Digital Art History: New Projects, New Questions"](http://conference.collegeart.org/programs/digital-art-history-new-projects-new-questions/) in response to three papers given by former participants in George Mason University's 2014 digital art history institute.

@@ -9,6 +9,7 @@ tags:
 - Art History
 - R
 - Network Analysis
+redirect_from: keystonedh2016.html
 ---
 
 Below are the slides and speaking notes for my [Keystone DH][keydh] talk "The Trees, the Forest, and the Passion for Prints".
