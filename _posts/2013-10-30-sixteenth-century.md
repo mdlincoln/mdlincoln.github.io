@@ -22,7 +22,7 @@ I've been racing to catch up on work not done during this year's Sixteenth Centu
 
 - Angela Jager of Amsterdam University presented some fascinating research from her dissertation on the low-end painting market in Amsterdam. Working from three inventories of mid-1600s dealers who specialized in cheap (under 5 guilders) paintings, Angela reached some surprising conclusions. One of her most intriguing conclusions was that the plurality of paintings stocked by each of these dealers were *history* paintings, and not landscapes as has generally been deduced from studies of middle- and high-brow dealer inventories.[^chong]
 
-[^chong]: For example, see Alan Chong, “The Market for Landscape Painting in Seventeenth-Century Holland,” in *Masters of Seventeenth-Century Dutch Landscape Painting* (Boston: Museum of Fine Arts, 1987), 104–120.
+[^chong]: For example, see Alan Chong, "The Market for Landscape Painting in Seventeenth-Century Holland," in *Masters of Seventeenth-Century Dutch Landscape Painting* (Boston: Museum of Fine Arts, 1987), 104–120.
 
 There were also four digital humanities sessions and a roundtable discussion at this year's SCSC, organized by [Colin Wilder][cwilder] of the University of South Carolina, roughly divided between mapping, network analysis, and digital discovery/pedagogy. Some of the standouts from these panels: 
 

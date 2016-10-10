@@ -193,7 +193,7 @@ city.[^13]
 **(SLIDE 20)** Even more famed was Leonardo da Vinci’s legendary lion, a
 creation that seems to have transcended historical constraints. As Jill
 Burke has remarked, once one looks into the Leonardo literature,
-“robotic lions start appearing everywhere.”[^14] Accounts of the joyous
+"robotic lions start appearing everywhere."[^14] Accounts of the joyous
 entries of Louis XII into Milan in July of 1509 and the entry of
 François I into Lyons in 1515 both describe a captivating performance by
 a Leonardo device. In both these accounts, a mechanical lion is said to
@@ -256,9 +256,9 @@ their learned retinues.[^17]
 Telescope of Aristotle*, Emanuele Tesauro described the reaction of
 audiences to the mechanical marvels of Gerolamo Cardano, a Italian
 mathematician who is said to have constructed walking automatons in the
-mid-sixteenth century. Tesauro wrote that there was, “so much stupor on
+mid-sixteenth century. Tesauro wrote that there was, "so much stupor on
 the part of the onlookers that they appeared to be statues; and the
-[moving] statues appeared to be onlookers.”[^18] Although composed well
+[moving] statues appeared to be onlookers."[^18] Although composed well
 after the spectacles under consideration, I mention Tesauro’s witty turn
 of phrase because it encapsulates why automata so preoccupied early
 modern thought. Note that he choose to convey the wonder engendered by
@@ -297,12 +297,12 @@ landscape.[^23]
 
 **(SLIDE 28)** From these examples, it seems the most exciting pieces of
 a Renaissance *kunstkammer* were that class of things that the
-sixteenth-century Florentine Vincenzo Borghini asserted, “do not belong
-entirely to nature or entirely to art, but rather are shared by both.”
+sixteenth-century Florentine Vincenzo Borghini asserted, "do not belong
+entirely to nature or entirely to art, but rather are shared by both."
 Automata were considered some of the highest accomplishments of this
 type of artifice, because although they were creations of man, they also
 possessed an internal principle of motion, what Aristotle had called,
-“the primary mark of that which is natural”.[^24] And so it should not
+"the primary mark of that which is natural".[^24] And so it should not
 surprise us to find automatons not only in royal processions, but royal
 collections, too. **(SLIDE 29)** Take this clockwork centerpiece from
 the Vienna Kunsthistorisches museum, whose robotic crew moved and played
@@ -341,11 +341,11 @@ of very presence the animating sovereign.
 References
 ==========
 
-Bauer, Rotraud, and Herbert Haupt. “Das Kunstkammerinventar Kaiser
-Rudolphs II: 1607-1611.” *Jahrbuch Der Kunsthistorischen Sammlungen in
+Bauer, Rotraud, and Herbert Haupt. "Das Kunstkammerinventar Kaiser
+Rudolphs II: 1607-1611." *Jahrbuch Der Kunsthistorischen Sammlungen in
 Wien* 72 (1976): 1–191.
 
-Bedini, Silvio A. “The Role of Automata in the History of Technology.”
+Bedini, Silvio A. "The Role of Automata in the History of Technology."
 *Technology and Culture* 5, no. 1 (1964): 24–42.
 doi:[10.2307/3101120](http://dx.doi.org/10.2307/3101120).
 
@@ -353,14 +353,14 @@ Bredekamp, Horst. *The Lure of Antiquity and the Cult of the Machine:
 The Kunstkammer and the Evolution of Nature, Art, and Technology*.
 Translated by Allison Brown. Princeton: M. Wiener Publishers, 1995.
 
-Bruaene, Anne-Laure van. “Spectacle and Spin for a Spurned Prince: Civic
+Bruaene, Anne-Laure van. "Spectacle and Spin for a Spurned Prince: Civic
 Strategies in the Entry Ceremonies of the Duke of Anjou in Antwerp,
-Bruges and Ghent (1582).” *Journal of Early Modern History* 11, no. 4
+Bruges and Ghent (1582)." *Journal of Early Modern History* 11, no. 4
 (September 2007): 263–84.
 doi:[10.1163/157006507782263308](http://dx.doi.org/10.1163/157006507782263308).
 
-Burke, Jill. “Meaning and Crisis in the Early Sixteenth Century:
-Interpreting Leonardo’s Lion.” *Oxford Art Journal* 29, no. 1 (March
+Burke, Jill. "Meaning and Crisis in the Early Sixteenth Century:
+Interpreting Leonardo’s Lion." *Oxford Art Journal* 29, no. 1 (March
 2006): 77–91.
 doi:[10.1093/oxartj/kci048](http://dx.doi.org/10.1093/oxartj/kci048).
 
@@ -375,7 +375,7 @@ Griffon, 1958.
 Daston, Lorraine, and Katherine Park. *Wonders and the Order of Nature:
 1150-1750*. New York: Zone Books, 1998.
 
-Findlen, Paula. “Cabinets, Collecting and Natural Philosophy.” In
+Findlen, Paula. "Cabinets, Collecting and Natural Philosophy." In
 *Rudolf Ii and Prague: The Court and the City*, edited by Eliska
 Fucíková, 209–19. Prague: Prague Castle Administration, 1997.
 
@@ -399,8 +399,8 @@ Museum, 1992.
 *Regiomontanus: On Triangles*. Translated by Barnabas Hughes. Madison:
 University of Wisconsin Press, 1967.
 
-Kang, Minsoo. “Wonders of Mathematical Magic: Lists of Automata in the
-Transition from Magic to Science, 1533-1662.” *Comitatus* 33 (2002):
+Kang, Minsoo. "Wonders of Mathematical Magic: Lists of Automata in the
+Transition from Magic to Science, 1533-1662." *Comitatus* 33 (2002):
 113–39.
 
 Kaufmann, Thomas <span>DaCosta</span>. *The Mastery of Nature: Aspects
@@ -410,16 +410,16 @@ University Press, 1993.
 Koeppe, Wolfram. *Art of the Royal Court: Treasures in Pietre Dure from
 the Palaces of Europe*. New York: Metropolitan Museum of Art, 2008.
 
-Marin, Louis. “Notes on a Semiotic Approach to Parade, Cortege, and
-Procession.” In *Time Out of Time: Essays on the Festival*, edited by
+Marin, Louis. "Notes on a Semiotic Approach to Parade, Cortege, and
+Procession." In *Time Out of Time: Essays on the Festival*, edited by
 Alessandro Falassi, 220–28. Albuquerque: University of New Mexico Press,
 1987.
 
-Marr, Alexander. “Understanding Automata in the Late Renaissance.” *Le
+Marr, Alexander. "Understanding Automata in the Late Renaissance." *Le
 Journal de La Renaissance* 2, no. 1 (2004): 205–22.
 doi:[10.1484/J.JR.2.300368](http://dx.doi.org/10.1484/J.JR.2.300368).
 
-Nichols, Lawrence W. “The "Pen Works" of Hendrick Goltzius.”
+Nichols, Lawrence W. "The "Pen Works" of Hendrick Goltzius."
 *Philadelphia Museum of Art Bulletin* 88, no. 373 (1992): 4–56.
 
 Rosheim, Mark Elling. *Leonardo’s Lost Robots*. Berlin: Springer, 2006.
@@ -450,14 +450,14 @@ Amsterdam: Elsevier Science Publishing Company, 1990.
 
 [^3]: Bussels, *Spectacle, Rhetoric and Power*, 11–13.
 
-[^4]: Bruaene, “Spectacle and Spin for a Spurned Prince.”
+[^4]: Bruaene, "Spectacle and Spin for a Spurned Prince."
 
 [^5]: Villiers and Vries, *La Ioyeuse [Et] Magnifique Entrée de
     Monseigneur Francoys*.
 
 [^6]: Ibid., 32.
 
-[^7]: Bruaene, “Spectacle and Spin for a Spurned Prince,” 270–271.
+[^7]: Bruaene, "Spectacle and Spin for a Spurned Prince," 270–271.
 
 [^8]: Kaufmann, *The Mastery of Nature*, 136.
 
@@ -467,33 +467,33 @@ Amsterdam: Elsevier Science Publishing Company, 1990.
     board, on which Europe is represented, and which is designed so that
     she can bend her head and knees in a decent and civil motion with
     the rest of her body…(translations by author unless otherwise noted)
-    “Huic tabulae applicata est et superposita, alia singularis et
+    "Huic tabulae applicata est et superposita, alia singularis et
     libera tabula, in qua Europa repraesentatur, ea ita conformata est,
     ut et caput et genua cum decenti et ciuili motu totuis corporis
     flectere possit, atque hac reuerentia, honorifico gestu, ter
     exhibito, saluauit ut excepti accedentem Inuictissimum Imperatorem
-    Rudolphum II.” Fol. 19v from the “Description of the Ceremonial
+    Rudolphum II." Fol. 19v from the "Description of the Ceremonial
     Entry of Emperor Rudolf II into Vienna, 17 July 1577, and of the
     Ehrenpforte erected by the City of Vienna, submitted to the City
     Council by Dr. Paulus Fabritius, Imperial Physician and Court
-    Mathematicus.” (Niederösterreichisches Landesarchiv, Stände Archiv,
+    Mathematicus." (Niederösterreichisches Landesarchiv, Stände Archiv,
     A 9/26, fol. 10r-21r), published in Ibid., 215–216.
 
 [^11]: On the opposite side Austria is pictured in the guise of a
     graceful and elegant girl, dressed in red and white, and which is
-    set up to bow reverentially to his Imperial Majesty. “Ex altero
+    set up to bow reverentially to his Imperial Majesty. "Ex altero
     latere picta est Austria, forma puella venustae ac lepidae, ornata
     veste rubra et alba, ea genibus flexis statuta est ut reuerenter
-    Imperatoriae Maiestati honorem verecunda gestum exhibere uideatur.”
+    Imperatoriae Maiestati honorem verecunda gestum exhibere uideatur."
     Ibid., 216.
 
-[^12]: Bedini, “The Role of Automata in the History of Technology”;
-    Kang, “Wonders of Mathematical Magic”; Marr, “Understanding Automata
-    in the Late Renaissance.”
+[^12]: Bedini, "The Role of Automata in the History of Technology";
+    Kang, "Wonders of Mathematical Magic"; Marr, "Understanding Automata
+    in the Late Renaissance."
 
 [^13]: Hughes, *Regiomontanus*, 17; Zinner, *Regiomontanus*, 135.
 
-[^14]: Burke, “Meaning and Crisis in the Early Sixteenth Century,” 80.
+[^14]: Burke, "Meaning and Crisis in the Early Sixteenth Century," 80.
 
 [^15]: Ibid., 82.
 
@@ -506,13 +506,13 @@ Amsterdam: Elsevier Science Publishing Company, 1990.
 [^18]: Tesauro, *Il Cannocchiale Aristotelico*, 59; Hanafi, *The Monster
     in the Machine*, 76, 191–192.
 
-[^19]: Marin, “Notes on a Semiotic Approach to Parade, Cortege, and
-    Procession,” 223.
+[^19]: Marin, "Notes on a Semiotic Approach to Parade, Cortege, and
+    Procession," 223.
 
-[^20]: Findlen, “Cabinets, Collecting and Natural Philosophy,” 209–19;
+[^20]: Findlen, "Cabinets, Collecting and Natural Philosophy," 209–19;
     Daston and Park, *Wonders and the Order of Nature*, 280.
 
-[^21]: Nichols, “The "Pen Works" of Hendrick Goltzius.”
+[^21]: Nichols, "The "Pen Works" of Hendrick Goltzius."
 
 [^22]: Hendrix and Vignau-Wilberg, *"Mira Calligraphiae Monumenta"*.
 
@@ -524,9 +524,9 @@ Amsterdam: Elsevier Science Publishing Company, 1990.
 [^25]: Video of this piece in action can be seen here:
     <https://www.youtube.com/watch?list=UU4n0woAs2nZXNCTY-Dlo1hw&v=14y_7yNEnG8>
 
-[^26]: “Ein weiblin von metall, welches mit zwo metalline spangen all
-    indiana musicirt und dieselben aneinander schlegt.”; Bauer and
-    Haupt, “Das Kunstkammerinventar Kaiser Rudolphs II: 1607-1611,” n.
+[^26]: "Ein weiblin von metall, welches mit zwo metalline spangen all
+    indiana musicirt und dieselben aneinander schlegt."; Bauer and
+    Haupt, "Das Kunstkammerinventar Kaiser Rudolphs II: 1607-1611," n.
     1965; Bredekamp, *The Lure of Antiquity and the Cult of the
     Machine*, 48.
 

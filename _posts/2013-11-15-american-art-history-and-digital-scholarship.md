@@ -196,7 +196,7 @@ Because this project has been built on a wiki, it is easy to maintain and it can
 
 <figure>
 <img src="/assets/images-display/miller_watercolor.png" alt="Lewis Miller Watercolor" />
-<figcaption>Lewis Miller, “Guide to Central Park,” 2. Watercolor and ink on paper. The Henry Ford, Dearborn, MI.</figcaption>
+<figcaption>Lewis Miller, "Guide to Central Park," 2. Watercolor and ink on paper. The Henry Ford, Dearborn, MI.</figcaption>
 </figure>
 
 The second project is a digital edition of a small watercolor landscape sketch album by Lewis Miller, an American folk artist.

@@ -61,6 +61,6 @@ I suppose the point of this post is to articulate my growing concern that we are
 If I can come up with two perfectly plausible historical scenarios to explain *opposing*, *hypothetical* trends, then we clearly don't have a settled answer to the question already, and it was entirely worth my time to try and [run that humanistic experiment][scsc] to at least find the actual trend before I began to formulate any conclusions.
 
 In closing, it's also worth noting that this is distinct from the issue of testing if our just-so explanations for network analysis observations could *feasibly* return the patterns observed from our data.
-On this, I heartily recommend Shawn Graham and Scott Weingart, “The Equifinality of Archaeological Networks: An Agent-Based Exploratory Lab Approach,” Journal of Archaeological Method and Theory, December 28, 2014, 1–27, doi:[10.1007/s10816-014-9230-y](http://dx.doi.org/10.1007/s10816-014-9230-y).
+On this, I heartily recommend Shawn Graham and Scott Weingart, "The Equifinality of Archaeological Networks: An Agent-Based Exploratory Lab Approach," Journal of Archaeological Method and Theory, December 28, 2014, 1–27, doi:[10.1007/s10816-014-9230-y](http://dx.doi.org/10.1007/s10816-014-9230-y).
 
 [scsc]: /2014/10/17/foreign-and-domestic-interaction-in-the-early-modern-printmaking-network.html

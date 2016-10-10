@@ -39,7 +39,7 @@ This will be a vital prerequisite to thoughtfully bridging the gap between the v
 
 [oldman]: http://www.dlib.org/dlib/july14/oldman/07oldman.html
 
-[^1]: Dominic Oldman et al., “Realizing Lessons of the Last 20 Years: A Manifesto for Data Provisioning and Aggregation Services for the Digital Humanities (A Position Paper),” *D-Lib Magazine* 20, no. 7/8 (July 2014), [doi:10.1045/july2014-oldman](http://dx.doi.org/doi:10.1045/july2014-oldman).
+[^1]: Dominic Oldman et al., "Realizing Lessons of the Last 20 Years: A Manifesto for Data Provisioning and Aggregation Services for the Digital Humanities (A Position Paper)," *D-Lib Magazine* 20, no. 7/8 (July 2014), [doi:10.1045/july2014-oldman](http://dx.doi.org/doi:10.1045/july2014-oldman).
 
 [bmlod]: http://collection.britishmuseum.org/
 

@@ -18,7 +18,7 @@ In a recent [guest post](http://sixdegreesoffrancisbacon.com/post/53595757782/ne
 
 > In many ways, her networks are non-traditional in that they often exist outside of and beyond Cavendish herself…
 
-Of significant interest is that the DNB data shows how important extra-personal (looking for a word that indicates connections beyond the intra-personal) connections are for the network Cavendish constructs, and to the networks that are constructed around the reception and reputation of “Margaret Cavendish,” thus exposing an important structure in the sociable practices at play during the period.
+Of significant interest is that the DNB data shows how important extra-personal (looking for a word that indicates connections beyond the intra-personal) connections are for the network Cavendish constructs, and to the networks that are constructed around the reception and reputation of "Margaret Cavendish," thus exposing an important structure in the sociable practices at play during the period.
 
 
 In other words, it seems that understanding the reception of a figure's work through network graphs requires surveying more than the immediate neighborhood, or ego network, of figures just one edge away from Margaret Cavendish (or Rembrandt van Rijn, for that matter.) It is, of course, the relationships between these first, second, or third-level nodes that actually constitute the public conversation about the root author or artist, the conversation we are so eager to better understand.
@@ -35,7 +35,7 @@ One would have to customize such a scheme depending on what type of influence yo
 
 
 	
-[^1]: Scott B. Weingart, “Demystifying Networks, Parts I & II”, *Journal of Digital Humanities* 1, no. 1 (Winter 2011) ([URL](http://journalofdigitalhumanities.org/1-1/demystifying-networks-by-scott-weingart/))
+[^1]: Scott B. Weingart, "Demystifying Networks, Parts I & II", *Journal of Digital Humanities* 1, no. 1 (Winter 2011) ([URL](http://journalofdigitalhumanities.org/1-1/demystifying-networks-by-scott-weingart/))
 
 	
 [^2]: I am curious how the next version of Gephi (0.9), which will implement [multigraph support](https://gephi.org/2013/rebuilding-gephis-core-for-the-0-9-version/), might aid this process.

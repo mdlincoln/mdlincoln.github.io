@@ -66,9 +66,9 @@ Voila --- you can now incorporate extracted data from an old printed source into
 
 ![Data from the printed plot replotted using ggplot2](/assets/images-display/guilders_plot.png)
 
-[^1]: John Ernest Kratz and Carly Strasser, “Researcher Perspectives on Publication and Peer Review of Data,” *PLoS ONE* 10, no. 2 (February 23, 2015): e0117619, doi:[10.1371/journal.pone.0117619][plos].
+[^1]: John Ernest Kratz and Carly Strasser, "Researcher Perspectives on Publication and Peer Review of Data," *PLoS ONE* 10, no. 2 (February 23, 2015): e0117619, doi:[10.1371/journal.pone.0117619][plos].
 
-[^2]: Marjolein ’t Hart, “The Glorious City: Monumentalism and Public Space in Seventeenth-Century Amsterdam,” in *Urban Achievement in Early Modern Europe: Golden Ages in Antwerp, Amsterdam, and London*, ed. Patrick Karl O’Brien (Cambridge: Cambridge University Press, 2001), fig. 6.1.
+[^2]: Marjolein ’t Hart, "The Glorious City: Monumentalism and Public Space in Seventeenth-Century Amsterdam," in *Urban Achievement in Early Modern Europe: Golden Ages in Antwerp, Amsterdam, and London*, ed. Patrick Karl O’Brien (Cambridge: Cambridge University Press, 2001), fig. 6.1.
 
 [DHNow]: http://digitalhumanitiesnow.org/
 

@@ -36,7 +36,7 @@ Reviewing the early publication of the Iconclass index in 1977,[^becker] Jochen 
 
 > Laborious linear sifting of the literature, transcribing the information on index cards and ultimately publishing the result in book form should give way to computer processing, which would lend much broader scope to documenting both the literature and the pictorial material itself. The resulting bibliography would remain "open" and up-to-date, give access to all the literature encompassed -- and to artists' names, technical data, indeed, everything fed into the program. Print-outs could be made available at any time, both the complete store and any special subject desired.
 
-[^becker]: Becker, Jochen. “Review of Iconclass: An Iconographic Classification System by H. van de Waal; L. D. Couprie; R. H. Fuchs; E. Tholen.” *Simiolus: Netherlands Quarterly for the History of Art* 9, no. 1 (January 1, 1977): 45–47. [doi:10.2307/3780424](http://dx.doi.org/10.2307/3780424).
+[^becker]: Becker, Jochen. "Review of Iconclass: An Iconographic Classification System by H. van de Waal; L. D. Couprie; R. H. Fuchs; E. Tholen." *Simiolus: Netherlands Quarterly for the History of Art* 9, no. 1 (January 1, 1977): 45–47. [doi:10.2307/3780424](http://dx.doi.org/10.2307/3780424).
 
 This computerization would come to pass under the auspices of the [Rijksbureau voor Kunsthistorische Documentatie](http://www.rkd.nl) in the late 2000s, with several institutions such as the [Rijksmuseum](http://rijksmuseum.nl) classifying their collections using the scheme and using it to aid in searching their works. Even in his review thirty years earlier, Becker predicts the benefits of such computerization:
 	

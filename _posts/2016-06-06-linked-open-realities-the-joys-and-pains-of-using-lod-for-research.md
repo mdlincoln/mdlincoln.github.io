@@ -175,7 +175,7 @@ Creating LOD is hard enough for these institutions, so with some more utilities 
 After giving this talk at Stanford, I finally took the time to check out the draft LOD that the Rijksmuseum has been developing.
 They've been at it for a few years, and I must say, the results are not what I'd hoped for.
 
-<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">Unless I’m misreading this <a href="https://twitter.com/rijksmuseum">@rijksmuseum</a> LOD flattens diverse artist-object relationships into “dc:creator” <a href="https://t.co/y0sVFdYa3Y">https://t.co/y0sVFdYa3Y</a></p>&mdash; Matthew Lincoln (@matthewdlincoln) <a href="https://twitter.com/matthewdlincoln/status/738776348915838976">June 3, 2016</a></blockquote>
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">Unless I’m misreading this <a href="https://twitter.com/rijksmuseum">@rijksmuseum</a> LOD flattens diverse artist-object relationships into "dc:creator" <a href="https://t.co/y0sVFdYa3Y">https://t.co/y0sVFdYa3Y</a></p>&mdash; Matthew Lincoln (@matthewdlincoln) <a href="https://twitter.com/matthewdlincoln/status/738776348915838976">June 3, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [You may click through to see a much longer conversation.](https://twitter.com/matthewdlincoln/status/738779325802156032)

@@ -44,4 +44,4 @@ CAA director Linda Downs is [excited](http://www.collegeart.org/art-ed/?p=14) ab
 Me too.
 But we've got a ways to go on the research end, and an increasing number of people asking "where's the beef?"
 
-[^drucker]: Johanna Drucker, “Is There a ‘Digital’ Art History?” *Visual Resources* 29, no. 1--2 (2013): 5--13, [doi:10.1080/01973762.2013.761106](http://dx.doi.org/10.1080/01973762.2013.761106).
+[^drucker]: Johanna Drucker, "Is There a ‘Digital’ Art History?" *Visual Resources* 29, no. 1--2 (2013): 5--13, [doi:10.1080/01973762.2013.761106](http://dx.doi.org/10.1080/01973762.2013.761106).

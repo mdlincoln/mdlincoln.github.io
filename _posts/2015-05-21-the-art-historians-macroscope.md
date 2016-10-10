@@ -12,7 +12,7 @@ redirect_from: macroscope.html
 ---
 
 <aside>
-<p>Here are the slides and notes for my May 21 talk “The Art Historian's Macroscope: Museum Data and the Academy” at the Cultural Programs of the National Academy of Sciences.</p>
+<p>Here are the slides and notes for my May 21 talk "The Art Historian's Macroscope: Museum Data and the Academy" at the Cultural Programs of the National Academy of Sciences.</p>
 <p><a href="https://www.youtube.com/watch?v=8zuUoSuGgGw&index=3&list=PLLfdQrZVuMNVd-AK1NKveYrAdA4kibZZE">You may view the video here.</a></p>
 </aside>
 

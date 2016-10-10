@@ -149,7 +149,7 @@ our own senses on account of Hoefnagel’s displays of visual wit.
 
 **(SLIDE 7)** In these additions to the *MCM*, Hoefnagel draws on the
 tradition of devotional manuscript illumination, in which artists
-negotiated increasingly volumetric and complex images onto the “flat”
+negotiated increasingly volumetric and complex images onto the "flat"
 text-bearing surface of the page.[^11] For example, in this late
 fifteenth-century book of hours, the illuminator depicted pilgrimage
 badges seemingly pinned to the vellum of the page, alluding to the real
@@ -221,10 +221,10 @@ Kunrath, and Oswald Croll.[^17] Paracelsian occultism rejected
 scholastic canonical authorities as a source of hidden truth, saying
 that secret knowledge of the world cannot come from reading human books
 (i.e. secondary sources) but only from reading directly from the
-greatest primary source of all: the “Book of Nature”.[^18] Lee Hendrix
+greatest primary source of all: the "Book of Nature".[^18] Lee Hendrix
 has argued that the *MCM* visualizes Paracelsian philosophy by making
 literal the idea that nature transcended mere written words. Hoefnagel’s
-illuminations, she asserts, “confront the viewer” with the remoteness of
+illuminations, she asserts, "confront the viewer" with the remoteness of
 text compared to the rich immediacy of nature.[^19]
 
 **(SLIDE 13)** However the Cabbalist tradition also had a strong
@@ -306,7 +306,7 @@ worlds on each page dominated by iconic relationships so cohesive that
 Bocskay’s texts cease to be knowledge-conveying language as such,
 becoming images like Hoefnagel’s flora and fauna.
 
-The *MCM*’s “message” is thus not an iconographic one, but a formal one.
+The *MCM*’s "message" is thus not an iconographic one, but a formal one.
 It invites the viewer to contemplate the complex relationships of text
 and nature on the page, and it does so in a way analogous to the
 semiotic relationships explored by Cornelius Agrippa and other
@@ -366,36 +366,36 @@ Press, 2007.
 Evans, Robert John Weston. *Rudolf II and His World: A Study in
 Intellectual History 1576-1612*. Oxford: Clarendon Press, 1973.
 
-Fučiková, Elišká. “The Fate of Rudolf II’s Collections in Light of the
-History of the Thirty Years’ War.” In *1648: War and Peace in Europe*,
+Fučiková, Elišká. "The Fate of Rudolf II’s Collections in Light of the
+History of the Thirty Years’ War." In *1648: War and Peace in Europe*,
 edited by Klaus Bussmann and Heinz Schilling, 2:173–180. Münster:
 Osnabrück, 1999.
 
-Gouk, Penelope. “Natural Philosophy and Natural Magic.” In *Rudolf II
+Gouk, Penelope. "Natural Philosophy and Natural Magic." In *Rudolf II
 and Prague: The Court and the City*, edited by Eliska Fuciková, 231–237.
 Prague: Prague Castle Administration, 1997.
 
-Hendrix, Marjorie Lee, and Thea Vignau-Wilberg. *“Mira calligraphiae
-monumenta”: A Sixteenth-Century Calligraphic Manuscript Inscribed by
+Hendrix, Marjorie Lee, and Thea Vignau-Wilberg. *"Mira calligraphiae
+monumenta": A Sixteenth-Century Calligraphic Manuscript Inscribed by
 Georg Bocskay and Illuminated by Joris Hoefnagel*. Malibu: J. Paul Getty
 Museum, 1992.
 
-Kaufmann, Thomas DaCosta. “Remarks on the Collections of Rudolf II: The
-Kunstkammer as a Form of Representation.” *Art Journal* 38, no. 1 (oct
+Kaufmann, Thomas DaCosta. "Remarks on the Collections of Rudolf II: The
+Kunstkammer as a Form of Representation." *Art Journal* 38, no. 1 (oct
 1978): 22–28. doi:10.2307/776251.
 
 ———. *The Mastery of Nature: Aspects of Art, Science, and Humanism in
 the Renaissance*. Princeton: Princeton University Press, 1993.
 
-———. “Vistas for Rudolfine Research.” In *Hans Von Aachen in Context:
+———. "Vistas for Rudolfine Research." In *Hans Von Aachen in Context:
 Proceedings of the International Conference, Prague, 22-25 September
 2010*, edited by Lubomir Konecny, Stepan Vacha, and Beket Bukovinska,
 245–251. Prague: Artefactum, 2012.
 
-Kaufmann, Thomas DaCosta, and Virginia Roehrig Kaufmann. “The
+Kaufmann, Thomas DaCosta, and Virginia Roehrig Kaufmann. "The
 Sanctification of Nature: Observations on the Origins of Trompe L’Oeil
 in Netherlandish Book Painting of the Fifteenth and Sixteenth
-Centuries.” *The J. Paul Getty Museum Journal* 19 (1991): 43–64.
+Centuries." *The J. Paul Getty Museum Journal* 19 (1991): 43–64.
 <http://www.jstor.org/stable/4166611>.
 
 Lehrich, Christopher I. *The Language of Demons and Angels: Cornelius
@@ -405,18 +405,18 @@ Leiden: Brill, 2003.
 Marshall, Peter H. *The Magic Circle of Rudolf II: Alchemy and Astrology
 in Renaissance Prague*. New York: Walker & Co., 2006.
 
-Neri, Janice L. “From Insect to Icon: Joris Hoefnagel and the ‘Screened
-Objects’ of the Natural World.” In *Ways of Knowing: Ten
+Neri, Janice L. "From Insect to Icon: Joris Hoefnagel and the ‘Screened
+Objects’ of the Natural World." In *Ways of Knowing: Ten
 Interdisciplinary Essays*, edited by Mary Lindemann, 23–51. Brill
 Academic Publishers, 2004.
 
-Szőnyi, György Endre. “The Powerful Image: Towards a Typology of the
-Occult.” In *European Iconography East and West: Selected Papers of the
+Szőnyi, György Endre. "The Powerful Image: Towards a Typology of the
+Occult." In *European Iconography East and West: Selected Papers of the
 Szeged International Conference, June 9-12, 1993*, edited by György
 Endre Szőnyi, 250–263. Leiden: Brill, 1996.
 
-Xerri, Steve. “Script and Image: Review of Mira Calligraphica Monumenta,
-by Lee Hendrix and Thea Vignau-Wilberg, Editors.” *Times Literary
+Xerri, Steve. "Script and Image: Review of Mira Calligraphica Monumenta,
+by Lee Hendrix and Thea Vignau-Wilberg, Editors." *Times Literary
 Supplement* (apr 1993): 18.
 
 [^1]: This talk was developed from a 2012 seminar on Renaissance magic
@@ -427,40 +427,40 @@ Supplement* (apr 1993): 18.
     generously supported by the University of Maryland Department of Art
     History’s Arthur K. Wheelock fellowship.
 
-[^2]: Hendrix and Vignau-Wilberg, *“Mira calligraphiae monumenta”*, vii
+[^2]: Hendrix and Vignau-Wilberg, *"Mira calligraphiae monumenta"*, vii
 
 [^3]: The need for closer study of the connections between Rudolfine art
-    and occult study has recently been noted by Kaufmann in “Vistas for
-    Rudolfine Research,” 249
+    and occult study has recently been noted by Kaufmann in "Vistas for
+    Rudolfine Research," 249
 
-[^4]: Fučiková, “The Fate of Rudolf II’s Collections,” 177–179
+[^4]: Fučiková, "The Fate of Rudolf II’s Collections," 177–179
 
-[^5]: Hendrix and Vignau-Wilberg, *“Mira calligraphiae monumenta”*, 2
+[^5]: Hendrix and Vignau-Wilberg, *"Mira calligraphiae monumenta"*, 2
 
 [^6]: Ibid., 34
 
-[^7]: Kaufmann, “Remarks on the Collections of Rudolf II,” 25; Kaufmann,
+[^7]: Kaufmann, "Remarks on the Collections of Rudolf II," 25; Kaufmann,
     *The Mastery of Nature*, 126–127
 
-[^8]: Hendrix and Vignau-Wilberg, *“Mira calligraphiae monumenta”*, 34,
+[^8]: Hendrix and Vignau-Wilberg, *"Mira calligraphiae monumenta"*, 34,
     48
 
-[^9]: Neri, “From Insect to Icon,” 42
+[^9]: Neri, "From Insect to Icon," 42
 
-[^10]: Hendrix and Vignau-Wilberg, *“Mira calligraphiae monumenta”*, 49
+[^10]: Hendrix and Vignau-Wilberg, *"Mira calligraphiae monumenta"*, 49
 
 [^11]: Ibid., 45.
 
-[^12]: Kaufmann and Kaufmann, “The Sanctification of Nature,” 54–56
+[^12]: Kaufmann and Kaufmann, "The Sanctification of Nature," 54–56
 
-[^13]: Hendrix and Vignau-Wilberg, *“Mira calligraphiae monumenta”*, 48
+[^13]: Hendrix and Vignau-Wilberg, *"Mira calligraphiae monumenta"*, 48
 
-[^14]: This has also been pointed out in Xerri, “Script and Image,” 18
+[^14]: This has also been pointed out in Xerri, "Script and Image," 18
 
 [^15]: Eamon, *Science and the Secrets of Nature*, 221–229
 
-[^16]: Kaufmann, “Remarks on the Collections of Rudolf II,” 25; Gouk,
-    “Natural Philosophy and Natural Magic,” 236
+[^16]: Kaufmann, "Remarks on the Collections of Rudolf II," 25; Gouk,
+    "Natural Philosophy and Natural Magic," 236
 
 [^17]: Marshall, *The Magic Circle of Rudolf II*, 128–137
 
@@ -468,7 +468,7 @@ Supplement* (apr 1993): 18.
     revolution that would come in the mid-seventeenth century; Ebeling,
     *The Secret History of Hermes Trismegistus*, 101–108
 
-[^19]: Hendrix and Vignau-Wilberg, *“Mira calligraphiae monumenta”*, 53
+[^19]: Hendrix and Vignau-Wilberg, *"Mira calligraphiae monumenta"*, 53
 
 [^20]: Marshall, *The Magic Circle of Rudolf II*, 93–95
 
@@ -481,9 +481,9 @@ Supplement* (apr 1993): 18.
 [^24]: Ibid., 135, 141, 161
 
 [^25]: For more on contemporary investigation of the image-like quality
-    of language, see Szőnyi, “The Powerful Image,” pt. 258
+    of language, see Szőnyi, "The Powerful Image," pt. 258
 
-[^26]: Hendrix and Vignau-Wilberg, *“Mira calligraphiae monumenta”*, 36;
+[^26]: Hendrix and Vignau-Wilberg, *"Mira calligraphiae monumenta"*, 36;
     Bocskay probably did not know Hebrew himself, as there are several
     minor orthographic errors in his lettering (noted by Matthew Colvin,
     Cornell University).
