@@ -16,7 +16,7 @@ tags:
 In a recent [guest post](http://sixdegreesoffrancisbacon.com/post/53595757782/networks-as-constructs-the-curious-case-of-margaret) on the Six Degrees of Francis Bacon project, Shawn Moore discusses the curious networks of Maria Cavendish. Moore writes:
 
 
-> In many ways, her networks are non-traditional in that they often exist outside of and beyond Cavendish herself…
+> In many ways, her networks are non-traditional in that they often exist outside of and beyond Cavendish herself...
 
 Of significant interest is that the DNB data shows how important extra-personal (looking for a word that indicates connections beyond the intra-personal) connections are for the network Cavendish constructs, and to the networks that are constructed around the reception and reputation of "Margaret Cavendish," thus exposing an important structure in the sociable practices at play during the period.
 

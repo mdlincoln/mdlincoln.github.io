@@ -47,7 +47,7 @@ publisher)
 
 Furthermore, the result of this process – the print itself – serves as a great
 index of the existence of a professional relationship at a certain period in
-time…
+time...
 
 ...even to the point of being recorded on the print itself!
 

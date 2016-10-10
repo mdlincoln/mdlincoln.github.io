@@ -466,7 +466,7 @@ Amsterdam: Elsevier Science Publishing Company, 1990.
 [^10]: On this [painted] board is superimposed a single independent
     board, on which Europe is represented, and which is designed so that
     she can bend her head and knees in a decent and civil motion with
-    the rest of her body…(translations by author unless otherwise noted)
+    the rest of her body...(translations by author unless otherwise noted)
     "Huic tabulae applicata est et superposita, alia singularis et
     libera tabula, in qua Europa repraesentatur, ea ita conformata est,
     ut et caput et genua cum decenti et ciuili motu totuis corporis

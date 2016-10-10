@@ -90,7 +90,7 @@ As she demonstrates, the experience of the _place_ Chichén Itzá is directly ti
 
 However, I charge everyone here to think carefully before you strike off to "make a map" just because you have latitude and longitude.
 Take this map that shows relative urban populations in Europe in 1650.
-We _can_ create maps that happen to communicate relative populations… but just because these cities have coordinates does not mean that a map is necessarily the best way to think about their populations.
+We _can_ create maps that happen to communicate relative populations... but just because these cities have coordinates does not mean that a map is necessarily the best way to think about their populations.
 
 <script async class="speakerdeck-embed" data-slide="13" data-id="3d6808a0555244f3a204974b5e131588" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
