@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Print Production Networks in <em>IJDAH</em>"
+title: "Print Production Networks in _IJDAH_"
 date: "2016-10-18 06:00"
 comments: true
 tags:

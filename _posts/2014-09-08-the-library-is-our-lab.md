@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: "The Library <em>Is</em> Our Lab"
+title: "The Library _Is_ Our Lab"
 date: 2014-09-08 10:25
 tags: 
 - LAM
