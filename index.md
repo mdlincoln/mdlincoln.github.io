@@ -4,7 +4,7 @@ title: Home
 show_title: false
 ---
 
-<img id="headshot" height="200" width="200" src="/assets/images-display/nga_headshot.jpg" alt="mlincoln headshot" />
+<img id="headshot" height="250" width="250" src="/assets/images-display/getty_headshot.png" alt="mlincoln headshot" />
 
 I am a data research specialist at the [Getty Research Institute](http://www.getty.edu/research/), where I use computer-aided analysis of cultural datasets to help model long-term trends in iconography, art markets, and the social relations between artists.
 
