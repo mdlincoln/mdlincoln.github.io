@@ -1,20 +1,24 @@
 - venue: ACHI-CREATE Conference 2016
   location: Amsterdam
   url: http://www.create.humanities.uva.nl/cfp-achi-create-conference-2016/
-  datestart: 2016-10-27 00:00:00 -0500
-  dateend: 2016-10-29 00:00:00 -0500
+  datestart: 2016-10-27 00:00:00 -0800
+  dateend: 2016-10-29 00:00:00 -0800
 - venue: College Art Association
   location: New York, NY
   url: http://www.collegeart.org/conference/
-  datestart: 2017-02-15 00:00:00 -0500
-  dateend: 2017-02-18 00:00:00 -0500
+  datestart: 2017-02-15 00:00:00 -0800
+  dateend: 2017-02-18 00:00:00 -0800
 - venue: The Renaissance Society of America
   location: Chicago, IL
   url: http://www.rsa.org/page/2017Chicago
-  datestart: 2017-03-30 00:00:00 -0500
-  dateend: 2017-04-01  00:00:00 -0500
+  datestart: 2017-03-30 00:00:00 -0800
+  dateend: 2017-04-01  00:00:00 -0800
 - venue: Emory University
   location: Atlanta, GA
-  datestart: 2016-11-10 00:00:00 -0500
-  dateend: 2016-11-11 00:00:00 -0500
+  datestart: 2016-11-10 00:00:00 -0800
+  dateend: 2016-11-11 00:00:00 -0800
   url: http://arthistory.emory.edu/home/index.html
+- venue: IMLS National Forum, "Library Collections as Data"
+  location: UC Santa Barbara
+  datestart: 2017-02-28 00:00:00 -0800
+  dateend: 2017-03-02 00:00:00 -0800
