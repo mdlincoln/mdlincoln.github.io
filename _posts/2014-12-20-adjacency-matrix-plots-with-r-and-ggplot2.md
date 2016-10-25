@@ -29,7 +29,7 @@ The abundance of crossing links creates a confusing visual pattern that masks th
 Moreover, it is extremely difficult to compare two different networks from these visualizations, which rely on a randomized layout algorithm.
 
 One good alternative is to visualize an [adjacency matrix][matrix] encoding the network relationship data, where, for example, cell *AB* describes an edge connecting node *A* to node *B*.
-[Mike Bostock has implemented this in D3][bostock], using Jacques Bretin's *Les Misérables* co-occurrence network dataset.
+[Mike Bostock has implemented this in D3][bostock], using Jacques Bertin's *Les Misérables* co-occurrence network dataset.
 It is also fairly easy to generate an adjacency matrix visualization using [ggplot2], but it does require that you bite the bullet and finally figure out how to work with [ordered factors][factors].[^2]
 
 (What? No, I'm not projecting at all, why would you say that?)
