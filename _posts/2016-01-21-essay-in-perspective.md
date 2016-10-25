@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Essay in <em>Perspective</em>"
+title: "Essay in _Perspective_"
 date: "2016-01-21 16:05"
 comments: true
 tags:

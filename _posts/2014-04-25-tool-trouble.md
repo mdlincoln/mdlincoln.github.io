@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tool Trouble: Thoughts on <em>differences</em>"
+title: "Tool Trouble: Thoughts on _differences_"
 Date: 2014-05-24
 tags:
 - Digital Humanities
