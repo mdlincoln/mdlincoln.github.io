@@ -6,6 +6,7 @@ show_title: true
 
 ## Related papers and pages
 
+- [_International Journal of Digital Art History_](/2016/10/18/print-production-networks-in-digital-art-history.html)
 - [DH2016 Paper](/2016/07/13/dh2016-measuring-genre-diversity-in-seventeenth-century-dutch-painting-and-printmaking.html)
 - [CAA2016 Paper](/2016/02/04/tool-trouble-network-and-spatial-methods-in-art-history.html)
 - [_How Did They Make That?_ --- Printmaking Networks](/pages/how-did-they-make-that.html)
