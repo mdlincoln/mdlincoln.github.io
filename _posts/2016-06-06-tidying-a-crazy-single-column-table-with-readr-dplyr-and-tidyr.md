@@ -6,6 +6,8 @@ comments: true
 tags:
   - Data
   - R
+aside: |
+  These data powered a paper (co-authored with Abram Fox) on the [seasonal structure of the London art auction](/2016/11/28/temporal-dimensions.html), published with _British Art Studies_ in late 2016.
 ---
 
 Subtitle: How Hadley Wickham saved me from an insane data dump.
