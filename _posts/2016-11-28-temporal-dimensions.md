@@ -29,7 +29,8 @@ What _was_ surprising was to see that this concentration changed somewhat over t
 
 But these early histograms were only hints at a possible finding.
 They were not anything substantial in their own right.
-To really see how this seasonal concentration may have occurred - who was driving it, and for which kinds of sales - we needed to [operationalize]() the way that we gauged seasonality.
+To understand the details of how this seasonal concentration may have occurred - who was driving it, and for which kinds of sales - we needed to [operationalize](https://litlab.stanford.edu/LiteraryLabPamphlet6.pdf) the way that we gauged seasonality.
+By transforming this judgment from a hazy, visual impression of a series of histograms (the original blog post) into a summary metric (the year-to-year change in the coefficient of variation of top sales days), it became possible to calculate that summary metric across a matrix of different variables. This helped us quickly distill which sections of the market, and which players, were driving the effects we saw in the original aggregate.
 
 {% include figure.html caption="Change in the coefficient of variation the of top auction days between 1780 and 1835, from DOI" src="/assets/images-display/bas_cv.png" %}
 
