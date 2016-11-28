@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "#MetadataMondays at the Getty"
+title: "\\#MetadataMondays at the Getty"
 date: "2016-10-24 12:00"
 comments: true
 tags:
