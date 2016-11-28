@@ -36,7 +36,7 @@ This helped us quickly distill which sections of the market, and which players, 
 {% include figure.html caption="Visualizing the change in the coefficient of variation the of top auction days between 1780 and 1835. [View in the context of the paper.](https://doi.org/10.17658/issn.2058-5462/issue-04/afox-mlincoln/figure7)" src="/assets/images-display/bas_cv.png" %}
 
 This is a dead-simple operationalization compared to complex textual or network or image analysis.
-But, [as I discuss more in a standalone post today, I think that even simple operationalizations like this are crucial for our discipline](/2016/11/28/operationalized-art-history-digital-art-history.html).
+But even simple operationalizations like this are crucial for our discipline.
 Already I am looking for ways to improve this study in follow-up work.
 For example, it needs to better account for the uncertainty introduced by missing information.
 [This is a problem we are actively working on now with a wider array of Getty data as part of the Getty Provenance Index Remodeling project.](http://blogs.getty.edu/iris/metadata-specialists-share-their-challenges-defeats-and-triumphs/#matt)
