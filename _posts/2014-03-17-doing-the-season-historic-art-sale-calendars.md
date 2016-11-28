@@ -7,6 +7,8 @@ tags:
 - Digital Humanities
 - Art History
 - R
+aside: |
+    This post eventually inspired a [fully-blown peer-reviewed paper co-authored with Abram Fox](/2016/11/28/temporal-dimensions.html), appearing in 2016 in _British Art Studies_.
 ---
 
 After working on visualizing the Getty's [Art & Architecture Thesaurus][aat] the other week, I decided to poke around some of the other data resources that the Getty has to offer.
