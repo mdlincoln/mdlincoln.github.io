@@ -10,8 +10,8 @@ tags:
 - r
 ---
 
-I'm incredibly pleased to say that a paper co-authored with my awesome UMD colleague Abram Fox is finally out today, open access, in [_British Art Studies_](http://britishartstudies.ac.uk/issues/issue-index/issue-4/london-art-auction-1870-1835)
-The life cycle of this article, by the way - 2.5 years in the making - witnessed two new jobs, an entire dissertation, and (way more impressive) the birth of an honest-to-goodness child.
+I'm incredibly pleased to say that a paper co-authored with my awesome UMD colleague Abram Fox is finally out today, open access, in [_British Art Studies_](http://britishartstudies.ac.uk/issues/issue-index/issue-4/london-art-auction-1870-1835).
+The life cycle of this article, by the way --- 2.5 years in the making --- witnessed two new jobs, an entire dissertation, and (way more impressive) the birth of an honest-to-goodness child.
 
 The abstract:
 
