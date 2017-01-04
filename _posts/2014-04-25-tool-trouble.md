@@ -52,7 +52,7 @@ Yet --- remarkably for a venue like *differences* --- the term passes by all but
 
 <figure>
 <img src="/assets/images-display/dh_grumpy_cat.jpg" alt="DH Grumpy Cat" />
-<figcaption>My spirit animal, DH Grumpy Cat</figcaption>
+<figcaption>My patronus, DH Grumpy Cat</figcaption>
 </figure>
 
 One can hardly blame the authors, though. 
