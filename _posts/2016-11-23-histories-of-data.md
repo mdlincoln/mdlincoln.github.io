@@ -31,7 +31,7 @@ These indices were, in turn, augmented by compiled reports in which cases (medic
 What made Mendelsohn's talk particularly interesting was his many examples in which a kind of early modern "crowdsourcing" -- be it individuals delivering self-created documents to the court, or scientists contributing small notes to a journal --- drove the construction of these databases.
 The organization and use of these troves may certainly have been state-run, but the collection was not as top-down as we may have assumed.
 
-{% include figure.html src="http://blog.constitutioncenter.org/wp-content/uploads/2011/08/SSN-ring.jpg" caption="1938 advertisement for an SSN-engraved ring. [Image Source](http://blog.constitutioncenter.org/2011/08/happy-birthday-social-security/)" %}
+{% include figure.html src="http://blog.constitutioncenter.org/wp-content/uploads/2011/08/SSN-ring.jpg" caption="1938 advertisement for an SSN-engraved ring. [Image Source](http://blog.constitutioncenter.org/2011/08/happy-birthday-social-security/)." %}
 
 Sarah Igo discussed the surprising history of the Social Security Number.
 While today we are cautioned to guard the number carefully from identity theft, the first decades of the SSN were quite different.
@@ -49,7 +49,7 @@ What use was the model if an analyst couldn't express, in real terms, why it mad
 
 {% include figure.html src="/assets/images-display/data_science_venn_diagram.png" caption="'data science venn diagram' results from Google Images." %}
 
-Jones was looked in to this case because he was interested epistemic virtue signaling among the contemporary data science crowd; a conversation, he noted, that often is rendered in [tweeted Venn diagrams](https://www.google.com/search?q=data+science+venn+diagram).
+Jones looked in to this case because he was interested epistemic virtue signaling among the contemporary data science crowd; a conversation, he noted, that often is rendered in [tweeted Venn diagrams](https://www.google.com/search?q=data+science+venn+diagram).
 There is a cacophony of epistemic virtues being signaled by both critics and proponents of big data: that you don't need statistics; that you really do; that you must have specific domain expertise; that data is "theoryless" and thus domain expertise is irrelevant, etc.
 While Jones is particularly curious about this in the context of contemporary history and national security, I think it's a useful reminder for us in the digital humanities that some of the best critiques of data are actually being taken up in data science circles, and, as Ted Underwood frequently reiterates, that [statistics has its own historiography](https://doi.org/10.1177/2053951715602494) which humanists ignore at our own peril.
 
