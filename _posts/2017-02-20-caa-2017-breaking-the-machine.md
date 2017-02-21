@@ -9,6 +9,7 @@ tags:
 redirect_from:
 - CAA2017.html
 - caa2017.html
+- 2017/02/20/caa-2020-breaking-the-machine.html
 aside: "I presented this talk at CAA 2017 in New York on February 17th, 2017. The [data and processing scripts used here can be found on GitHub](https://github.com/mdlincoln/dutchtabletops)."
 ---
 
