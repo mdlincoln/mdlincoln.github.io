@@ -2,7 +2,7 @@
 <html>
     <head>
         {% include html_head.html %}
-        <META http-equiv="refresh" content="5;URL={{ page.redirect.to }}">
+        <META http-equiv="refresh" content="2;URL={{ page.redirect.to }}">
     </head>
     <body class="theme-lincoln">
       {% include sidebar.html %}
@@ -10,7 +10,7 @@
           {% if page.show_title %}
             <h1 class="post-title">{{ page.title }}</h1>
           {% endif %}
-          <p>This page links to an outside site. If your browser does not redirect in 5 seconds, click the link below:</p>
+          <p>This link redirects to a different URL. If your browser does not redirect in 5 seconds, click the link below:</p>
           <p><a href="{{ page.redirect.to }}">{{ page.redirect.to }}</a></p>
         </div>
     </body>
