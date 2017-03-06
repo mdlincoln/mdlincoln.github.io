@@ -109,6 +109,14 @@ img#headshot {
   float: right;
 }
 
+.menu-links {
+  font-family: "Roboto Slab", serif;
+  font-weight: 400;
+  color: #313131;
+  letter-spacing: -.025rem;
+  margin-top: 0.5em;
+}
+
 @media (max-width: 48em) {
   .masthead-title {
     text-align: center;

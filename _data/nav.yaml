@@ -1,10 +1,10 @@
 - title: CV
   url: "https://www.dropbox.com/s/u0zohd016rrnwbw/mlincoln_cv.pdf?dl=1"
-- title: Archive
-  url: "/archive"
-- title: Dissertation
-  url: "/dissertation"
-- title: Projects
+- title: Research
   url: "/projects"
 - title: Speaking
   url: "/speaking"
+- title: Blog
+  url: "/archive"
+- title: Dissertation
+  url: "/dissertation"

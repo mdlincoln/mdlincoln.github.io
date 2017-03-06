@@ -16,11 +16,10 @@
               {% endfor %}
             </span>
           </h3>
-          <span class="menu-links">
+          <div class="menu-links">
             {% for link in site.data.nav %}
-            <a class="menu-links-item" href="{{ link.url }}">{{ link.title }}</a>
-            {% endfor %}
-          </span>
+            <a class="menu-links-item" href="{{ link.url }}">{{ link.title }}</a>{% if forloop.last %}{% else %} &bull; {% endif %}{% endfor %}
+          </div>
         </div>
       </div>
       <div class="content container">
