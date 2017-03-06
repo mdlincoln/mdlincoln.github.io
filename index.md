@@ -25,7 +25,7 @@ On this site you can find my [CV](/about), various [blog posts](/archive) on art
 {% endif %}
 ***
 
-## Most recent posts
+## Recent blog posts
 
 <nav>
 	<ul>
