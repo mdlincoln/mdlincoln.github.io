@@ -5,6 +5,5 @@ permalink: /:year/:month/:day/:title.html
 markdown: kramdown
 future: false
 enable_analytics: true
-enable_disqus: true
 gems:
   - jekyll-redirect-from
