@@ -4,7 +4,6 @@
 				{% include html_head.html %}
 		</head>
 		<body class="theme-lincoln sidebar-overlay">
-			{% include sidebar.html %}
 			<div class="wrap">
       <div class="masthead">
         <div class="container">
@@ -12,39 +11,26 @@
             <a href="/" title="Home">{{ site.data.site.title }}</a>
             <small>{{ site.data.site.tagline }}</small>
             <span class="social-links">
-          {% for nav in site.data.social %}
-          <a href="{{ nav.link }}" title="{{ nav.title }}"><i class="{{ nav.icon }}"></i></a>
-          {% endfor %}
-          </span>
+              {% for nav in site.data.social %}
+              <a href="{{ nav.link }}" title="{{ nav.title }}"><i class="{{ nav.icon }}"></i></a>
+              {% endfor %}
+            </span>
           </h3>
+          <span class="menu-links">
+            {% for link in site.data.nav %}
+            <a class="menu-links-item" href="{{ link.url }}">{{ link.title }}</a>
+            {% endfor %}
+          </span>
         </div>
       </div>
       <div class="content container">
       	{% if page.show_title %}
       	<h1 class="post-title">{{ page.title | markdownify }}</h1>
-					{% endif %}
-					{{ content }}
-					<!-- The idea for a revision history link lifted shamelessly from https://github.com/ricedh/drafts -->
-					<div class="revision"><a href="https://github.com/mdlincoln/mdlincoln.github.io/commits/master/{{ page.path }}" title="version history on GitHub">revision history for this page</a></div>
-				</div>
-				<label for="sidebar-checkbox" class="sidebar-toggle"></label>
-
-    <script>
-      (function(document) {
-        var toggle = document.querySelector('.sidebar-toggle');
-        var sidebar = document.querySelector('#sidebar');
-        var checkbox = document.querySelector('#sidebar-checkbox');
-
-        document.addEventListener('click', function(e) {
-          var target = e.target;
-
-          if(!checkbox.checked ||
-             sidebar.contains(target) ||
-             (target === checkbox || target === toggle)) return;
-
-          checkbox.checked = false;
-        }, false);
-      })(document);
-    </script>
+				{% endif %}
+				{{ content }}
+        <hr/>
+        <div class="revision">
+          <p>All work on "<span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">matthewlincoln.net</span>" by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">{{ site.data.site.title }}</span> is licensed under a <a>Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a> &bull; <a href="/pages/colophon.html">Colophon</a> &bull; <a href="https://github.com/mdlincoln/mdlincoln.github.io/commits/master/{{ page.path }}" title="version history on GitHub">Revision history for this page</a></div>
+        <!-- The idea for a revision history link lifted shamelessly from https://github.com/ricedh/drafts -->
 		</body>
 </html>

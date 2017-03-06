@@ -293,10 +293,12 @@ tbody tr:nth-child(odd) th {
   font-size: 80%
 }
 
-.revision a {
+.revision {
+  text-align: center;
   font-size: 50%;
   font-family: Menlo, Monaco, "Courier New", monospace;
   color: #C1C1C1;
+  margin-bottom: 4em
 }
 
 /*
