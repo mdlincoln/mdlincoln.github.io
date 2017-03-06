@@ -13,6 +13,8 @@ For my [dissertation](/dissertation) research, I used computational network anal
 
 On this site you can find my [CV](/about), various [blog posts](/archive) on art history, humanities computing, and (occasionally) the [Super Mutant Ninja Turtles](/2013/09/10/ninja-turtles.html), as well as articles and conference talks on the ['Projects' page](/projects).
 
+[Contact me about speaking at your institution!](/speaking)
+
 {% if site.data.travel.size > 0 %}
 ***
 
