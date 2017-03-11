@@ -8,6 +8,8 @@ show_title: false
 
 I am a data research specialist at the [Getty Research Institute](http://www.getty.edu/research/), where I use computer-aided analysis of cultural datasets to help model long-term trends in iconography, art markets, and the social relations between artists.
 
+[Read more about the Getty Provenance Index Remodel Project](http://www.getty.edu/research/tools/provenance/provenance_remodel/index.html).
+
 I received my PhD in Art History at the [University of Maryland, College Park](http://arthistory.umd.edu/graduate-students/Matthew%20Lincoln).
 For my [dissertation](/dissertation) research, I used computational network analysis to explore the long-term changes in the organization of print designers, engravers, and publishers in the Netherlands between 1500--1700.
 
