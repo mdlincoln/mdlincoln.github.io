@@ -29,7 +29,7 @@ Some bullet points from my personal experience of [THATCamp Prime 2013](http://c
 
 	- I loved how quick our group was to engage both sides of the visualization coin: the challenge of categorizing, quantifying, and structuring your humanities data; and the difficulty of defining visualization solution(s) that make it usefully accessible.
 
-	- On the definition of dates, I was really excited to be introduced to Bruce Robertson's [Historical Event Markup Language](http://heml.mta.ca/heml-cocoon/)
+	- On the definition of dates, I was really excited to be introduced to Bruce Robertson's [Historical Event Markup Language](http://heml.mta.ca)
 
 	- We also started to lay out the tough choices one must make that will restrict what your visualization offers, but which will allow you to actually create it.
 
@@ -55,4 +55,4 @@ Some bullet points from my personal experience of [THATCamp Prime 2013](http://c
 
 - [Digital Humanities Now](http://digitalhumanitiesnow.org), a weekly showcase of DH news, projects, and job postings.
 
-- An Omkea-based [contract repository](http://contractrepository.omeka.net/), an effort to open up the notoriously opaque genre that is publisher contracts.
+- An Omkea-based [contract repository](http://web.archive.org/web/20130815174533/http://contractrepository.omeka.net), an effort to open up the notoriously opaque genre that is publisher contracts.

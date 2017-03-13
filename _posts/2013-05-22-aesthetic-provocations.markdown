@@ -17,7 +17,7 @@ tags:
 Drucker and Nowviskie see the potential for radical shifts in the union of computing and of humanistic research. They wish to transcend the "concrete" structures of authorities and hierarchical models that dominate present digital humanities practices (think of the [Getty Vocabularies](http://www.getty.edu/research/tools/vocabularies/)) and instead define more flexible spaces for visualization that can lead to new insights and paradigms for interpreting cultural materials. I am interested in one of the challenges facing digital humanists that they set out at the start of their essay: "overcom\[ing\] humanists' long-standing resistance (ranging from passively ignorant to actively hostile) to visual forms of knowledge production." Drucker and Nowviskie characterize current humanities research as deeply ended in textual modes of thinking and argumentation (in their words, a "logocentric" mode).
 
 <figure>
-<p><a href="http://www.rijksmuseum.nl/en/search/objecten?q=rembrandt+boek&amp;js=1&amp;p=3&amp;ps=12#/SK-A-3066,25"><img src="http://mlincoln.files.wordpress.com/2013/05/rembrandt-old-woman-reading-1631-rkm-sk-a-3066.png" title="Rembrandt - Old Woman Reading - 1631 - Rijksmuseum, Amsterdam" alt="Rembrandt - Old Woman Reading - 1631 - Rijksmuseum, Amsterdam" /></a></p>
+<p><a href="https://www.rijksmuseum.nl/en/collection/SK-A-3066"><img src="http://mlincoln.files.wordpress.com/2013/05/rembrandt-old-woman-reading-1631-rkm-sk-a-3066.png" title="Rembrandt - Old Woman Reading - 1631 - Rijksmuseum, Amsterdam" alt="Rembrandt - Old Woman Reading - 1631 - Rijksmuseum, Amsterdam" /></a></p>
 <figcaption>Rembrandt van Rijn, <em>Old Woman Reading</em>, 1631. Rijksmuseum, Amsterdam.</figcaption>
 </figure>
 
