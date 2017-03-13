@@ -1,11 +1,14 @@
 language: ruby
-cache: bundler
+cache: 
+  - bundler
+  - directories:
+    - $TRAVIS_BUILD_DIR/tmp/.htmlproofer
 rvm:
 - 2.3.3
 
 # Assume bundler is being used, therefore
 # the `install` step will run `bundle install` by default.
-script: bundle exec jekyll build && bundle exec htmlproofer ./_site
+script: bundle exec jekyll build && bundle exec htmlproofer --assume-extension --timeframe '30d' ./_site
 
 env:
   global:

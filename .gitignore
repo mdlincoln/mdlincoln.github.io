@@ -2,3 +2,4 @@
 _site
 _drafts
 .jekyll-metadata
+tmp/
