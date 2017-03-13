@@ -7,7 +7,7 @@ future: false
 enable_analytics: true
 gems:
   - jekyll-redirect-from
-exclude
+exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
