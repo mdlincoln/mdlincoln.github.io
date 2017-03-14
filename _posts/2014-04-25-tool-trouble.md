@@ -86,7 +86,7 @@ Or, as Franco Moretti argues in "Operationalizing": to integrate the methodologi
 
 It is for this reason that I really would like to retire "tool" from my own DH vocabulary.
 It seems to me to encourage a "black box" understanding of the digital humanities methods, not to mention obsession with tying oneself to transient platforms and implementations, rather than engaging with the underlying methodologies and theories.[^2]
-We end up with potentially powerful interpretive projects that release merely the first "interesting" results to pop out of their "tool" of choice. (For example, I think here of the [Shakeosphere] network visualization project that [nods to the existence of consequences](http://projects.slis.uiowa.edu/Shakeosphere/about.jsp) of using a network model but has not (yet!) dug into examples in their website of what these implications might actually be.)
+We end up with potentially powerful interpretive projects that release merely the first "interesting" results to pop out of their "tool" of choice. (For example, I think here of the [Shakeosphere] network visualization project that [nods to the existence of consequences](https://shakeosphere.lib.uiowa.edu/about.jsp) of using a network model but has not (yet!) dug into examples in their website of what these implications might actually be.)
 
 [^2]: This is something Michelle Moravec touches on in her ["Tales of an Indiscriminate Tool Adopter"][moravec], a.k.a. "How not to be a tool about your tool" --- although I'd point out her post writ large does fall squarely into the "tool" trap.
 
@@ -119,4 +119,4 @@ All the same, I think the pitfalls of the simplistic, tool-centric outlook on DH
 
 [ProfHacker]: http://chronicle.com/blogs/profhacker/category/software
 
-[Shakeosphere]: http://projects.slis.uiowa.edu/Shakeosphere/index.jsp
+[Shakeosphere]: hhttps://shakeosphere.lib.uiowa.edu/index.jsp

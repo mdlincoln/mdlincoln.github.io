@@ -35,7 +35,7 @@ Europeana is rolling out their datasets as [Linked Open Data](http://labs.europe
 I'll leave it to Europeana to explain why they (and many, many others) are doing this.
 What I want to do is quickly dive in to show off what SPARQL queries allow us to do that we can't do via the visual user interface.
 
-Unfortunately, many tutorials on SPARQL use extremely simplified data models that don't resemble the datasets you'll find in Europeana or other institutions like the [British Museum](http://collections.britishmuseum.org).
+Unfortunately, many tutorials on SPARQL use extremely simplified data models that don't resemble the datasets you'll find in Europeana or other institutions like the [British Museum](http://collection.britishmuseum.org).
 This tutorial tries to give a crash course on SPARQL using a dataset that a humanist might actually find in the wilds of the Internet.
 
 ## Contents
@@ -88,11 +88,11 @@ In learning how to deal with these tricky models, you'll come to understand just
 
 ### Figure out the model
 
-**We will be typing our query into [Europeana's SPARQL endpoint](http://europeana.ontotext.com/sparql), so open that link in a separate window, along with the full version of the data model map below.**
+**We will be typing our query into [Europeana's SPARQL endpoint](http://sparql.europeana.eu/), so open that link in a separate window, along with the full version of the data model map below.**
 
 <figure>
 <a href="/assets/images/europeana_model.png"><img src="/assets/images-display/europeana_model.png" alt="Europeana&#39;s data model" /></a>
-<figcaption>Europeana's data model visualized (<a href="http://europeana.ontotext.com/europeana/tab?uri=http%3A%2F%2Fdata.europeana.eu%2Fitem%2F03486%2FBD917F8C888476E9885B79DCD58E9B4D29A58B5E&amp;role=Graph">source</a>). You may want to open this up in a separate window so you can follow along with the next section.</figcaption>
+<figcaption>Europeana's data model visualized (<a href="http://pro.europeana.eu/page/edm-documentation">source</a>). You may want to open this up in a separate window so you can follow along with the next section.</figcaption>
 </figure>
 
 This is the data model for a single object.

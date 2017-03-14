@@ -24,15 +24,9 @@ Did the rapid growth in printmaking over this period foster *centralization* aro
 Or, alternatively, did networks *decentralize* as technical literacy spread and increasing wealth (particularly in Holland) supported more local artistic markets?
 Rather than trying to use often-deceptive visualizations of the network itself to evaluate these hypotheses, this paper instead seeks to interpret the shifting trends of key network statistics such as global clustering coefficients and the size and number of algorithmically-detected communities.
 
-<figure>
-<a href="/assets/images/print_network_transitivity.svg"><img src="/assets/images/print_network_transitivity.svg" /></a>
-<figcaption>Dynamic clustering coefficient (probability that an individual is connected to one of his colleague's colleagues).</figcaption>
-</figure>
+{% include figure.html src="/assets/images/print_network_transitivity.svg" caption="Dynamic clustering coefficient (probability that an individual is connected to one of his colleague's colleagues)." %}
 
-<figure>
-<a href="/assets/images/print_network_communities.svg"><img src="/assets/images/print_network_communities.svg" /></a>
-<figcaption>Dynamic number of sizable communities (populations in the 50th percentile).</figcaption>
-</figure>
+{% include figure.html src="/assets/images/print_network_communities.svg" caption="Dynamic number of sizable communities (populations in the 50th percentile)" %}
 
 Preliminary results point to an intriguing interaction between these incentives to centralize and decentralize.
 The rising popularity of artistic prints may indeed have encouraged local centralization around established professionals, rather than broad interaction between many artists.
@@ -53,9 +47,6 @@ They do not necessarily describe individuals' direct acquaintance with each othe
 And yet, such a definition does capture something of the diachronic relationships art historians grapple with all the time, with artists referencing decades- or centuries-older models, in effect reinserting those older artists back into the current artistic sphere.
 This poster will present several alternate perspectives on the concept of artistic influence and communication as modeled by social network analysis.
 
-<figure>
-<a href="/assets/images/print_network_rembrandt_degree.svg"><img src="/assets/images/print_network_rembrandt_degree.svg"></a>
-<figcaption>Rembrandt van Rijn's weighted degree (his relative number of print network connections) from 1600 to 1800, with his lifespan (1606-1669) marked in red. Note how his connectivity to the network actually peaks decades after his death.</figcaption>
-</figure>
+{% include figure.html src="/assets/images/print_network_rembrandt_degree.svg" caption="Rembrandt van Rijn's weighted degree (his relative number of print network connections) from 1600 to 1800, with his lifespan (1606-1669) marked in red. Note how his connectivity to the network actually peaks decades after his death." %}
 
 [^moretti]: Moretti, Franco. "'Operationalizing': Or, the Function of Measurement in Modern Literary Theory." *Pamphlets of the Stanford Literary Lab* 6 (December 2013): 1–15.

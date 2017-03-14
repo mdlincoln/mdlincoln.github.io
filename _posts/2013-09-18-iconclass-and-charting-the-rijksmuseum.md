@@ -24,7 +24,7 @@ tags:
 </aside>
 
 
-[In my previous post](/2013/08/26/image-search-for-ukiyo-e.html) I mentioned briefly the idiosyncratic iconography notation schema [Iconclass](http://iconclass.nl). I've been familiarizing myself with the system over the summer in order to figure out how to tackle the great trove of artistic data made available by the [Rijksmuseum](http://rijksmuseum.nl) via their [API](https://www.rijksmuseum.nl/en/api/instructions-for-use) (a computer-friendly way to access their collections data, in layman's terms). In their own words, they invite users to "use objects in their entirety, combine collections, combine our data with other sources, and to sample and quote."
+[In my previous post](/2013/08/26/image-search-for-ukiyo-e.html) I mentioned briefly the idiosyncratic iconography notation schema [Iconclass](http://iconclass.nl). I've been familiarizing myself with the system over the summer in order to figure out how to tackle the great trove of artistic data made available by the [Rijksmuseum](http://rijksmuseum.nl) via their [API](https://www.rijksmuseum.nl/en/api) (a computer-friendly way to access their collections data, in layman's terms). In their own words, they invite users to "use objects in their entirety, combine collections, combine our data with other sources, and to sample and quote."
 
 Over the next week I will be publishing a series of posts summarizing my very initial exploration of these data, with some reflections on future work as well as potential implications for art historical study and the creation and dissemination of cultural data.
 
@@ -120,4 +120,4 @@ This quick and dirty visualization masks quite a bit of the real complexities de
 
 [^scope]: Note that this and all following charts show only the years between 1500 and 1900, the only period from which there are enough artworks in the database to yield useful information.
 
-[^20th]: Due to copyright issues, the dataset provided by the Rijksmuseum API does not include any twentieth-century artworks, though the museum itself does contain many such works. For an interesting read on copyright law and the practice of digital humanities, see [Matthew Sag](http://matthewsag.com/projects/google-book-copyright-the-digital-humanities/) on non-expressive use.
+[^20th]: Due to copyright issues, the dataset provided by the Rijksmuseum API does not include any twentieth-century artworks, though the museum itself does contain many such works. For an interesting read on copyright law and the practice of digital humanities, see [Matthew Sag](http://web.archive.org/web/20140208160650/http://matthewsag.com/projects/google-book-copyright-the-digital-humanities/) on non-expressive use.

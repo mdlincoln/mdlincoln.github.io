@@ -14,7 +14,7 @@ redirect_from:
 ---
 
 <aside>
-<p>These are the slides and notes from the lightning talk I gave at the CAA 2015 session <a href="http://conference.collegeart.org/programs/doing-digital-art-history/">"Doing Digital Art History: Reflections on the Field"</a>, an overview of the work done at the <a href="/2014/01/21/summer-2014-digital-art-history-institutes.html">2014 summer institutes</a> sponsored by the Kress and Getty Foundations.</p>
+<p>These are the slides and notes from the lightning talk I gave at the CAA 2015 session <a href="http://conference2015.collegeart.org/programs/doing-digital-art-history/">"Doing Digital Art History: Reflections on the Field"</a>, an overview of the work done at the <a href="/2014/01/21/summer-2014-digital-art-history-institutes.html">2014 summer institutes</a> sponsored by the Kress and Getty Foundations.</p>
 <p><a href="https://github.com/mdlincoln/middlebury_amsterdam">See the underlying data and processing code here.</a></p>
 <p><a href="http://dx.doi.org/10.5281/zenodo.15461"><img src="https://zenodo.org/badge/5105/mdlincoln/middlebury_amsterdam.svg" alt="DOI" /></a></p>
 </aside>

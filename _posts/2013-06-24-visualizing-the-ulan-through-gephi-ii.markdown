@@ -13,7 +13,7 @@ tags:
 - Network Analysis
 ---
 
-In a recent [guest post](http://sixdegreesoffrancisbacon.com/post/53595757782/networks-as-constructs-the-curious-case-of-margaret) on the Six Degrees of Francis Bacon project, Shawn Moore discusses the curious networks of Maria Cavendish. Moore writes:
+In a recent [guest post](http://web.archive.org/web/20150908012109/http://sixdegreesoffrancisbacon.com/post/53595757782/networks-as-constructs-the-curious-case-of) on the Six Degrees of Francis Bacon project, Shawn Moore discusses the curious networks of Maria Cavendish. Moore writes:
 
 
 > In many ways, her networks are non-traditional in that they often exist outside of and beyond Cavendish herself...
@@ -38,7 +38,7 @@ One would have to customize such a scheme depending on what type of influence yo
 [^1]: Scott B. Weingart, "Demystifying Networks, Parts I & II", *Journal of Digital Humanities* 1, no. 1 (Winter 2011) ([URL](http://journalofdigitalhumanities.org/1-1/demystifying-networks-by-scott-weingart/))
 
 	
-[^2]: I am curious how the next version of Gephi (0.9), which will implement [multigraph support](https://gephi.org/2013/rebuilding-gephis-core-for-the-0-9-version/), might aid this process.
+[^2]: I am curious how the next version of Gephi (0.9), which will implement [multigraph support](http://web.archive.org/web/20140528034556/https://gephi.org/2013/rebuilding-gephis-core-for-the-0-9-version/), might aid this process.
 
 
 

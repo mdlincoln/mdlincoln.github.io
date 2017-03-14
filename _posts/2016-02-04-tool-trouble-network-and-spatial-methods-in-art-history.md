@@ -11,7 +11,7 @@ redirect_from:
 - CAA2016.html
 ---
 
-This talk was presented at the 2016 College Art Association conference at the session ["Digital Art History: New Projects, New Questions"](http://conference.collegeart.org/programs/digital-art-history-new-projects-new-questions/) in response to three papers given by former participants in George Mason University's 2014 digital art history institute.
+This talk was presented at the 2016 College Art Association conference at the session ["Digital Art History: New Projects, New Questions"](http://conference2016.collegeart.org/programs/digital-art-history-new-projects-new-questions/) in response to three papers given by former participants in George Mason University's 2014 digital art history institute.
 
 Daniela Sandler discussed her classroom use of Esri's [Story Maps](https://storymaps.arcgis.com/en/), Claire L. Kovacs her research on expatriate networks in Degas' Paris, and Cynthia B. Kristan-Graham her digital mapping project of Chichén Itzá.
 

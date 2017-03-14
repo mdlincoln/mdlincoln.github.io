@@ -7,7 +7,7 @@ tags:
 - Code
 ---
 
-If you use [Markdown][md] with any frequency, you've likely heard of the command line utility [Pandoc][pandoc] that does a fantastic job of translating between Markdown and a host of formats from HTML to MS Word to EPUB. There's lots of plugins out there to fit Markdown and Pandoc into your favorite text editor, but it can be useful to have the tool ready at hand no matter what variety of apps you're using.
+If you use Markdown with any frequency, you've likely heard of the command line utility [Pandoc][pandoc] that does a fantastic job of translating between Markdown and a host of formats from HTML to MS Word to EPUB. There's lots of plugins out there to fit Markdown and Pandoc into your favorite text editor, but it can be useful to have the tool ready at hand no matter what variety of apps you're using.
 
 I use this scrap of bash code to let me copy any snippet of Markdown to the OS X clipboard and "pipe" the copied text into Pandoc. Not too many tutorials on using the OS X clipboard and Terminal mention that you can pipe the output of that program right back into the clipboard *in one go*:
 

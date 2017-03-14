@@ -13,7 +13,7 @@ These are some live notes from the Smithsonian Institution Archives of American 
 
 Diane Zorich has also created a [great Storify page](http://storify.com/dzorich/american-art-history-and-digital-scholarship-1?utm_medium=sfy.co-twitter&utm_source=t.co&utm_campaign=&awesm=sfy.co_cUSj&utm_content=storify-pingback) of the very active [#AAHDS](https://twitter.com/search?q=aahds) twitter feed.
 
-*(Edit 2014-02-06): Diane has also now published her [formal report (PDF)](http://t.co/uN9RiGyBVz) on the symposium.*
+*(Edit 2014-02-06): Diane has also now published her [formal report (PDF)](http://web.archive.org/web/20160821145657/http://www.aaa.si.edu/files/publications/symposium-report2014_ArchivesofAmericanArt.pdf) on the symposium.*
 
 I've arranged it by session and paper, with a final section of random thoughts. Please comment if you've anything to add from the sessions!
 
@@ -111,7 +111,7 @@ Moreover, Castelli had a tighter network than anyone else, suggesting his own ve
 
 ## The Warhol Timeweb
 
-Jessica Gogan and Tresa Varner from the Any Warhol Museum presented their [Timeweb](http://warhol.gradientlabs.com/) platform for exploring the cultural context of Warhol's artworks, which I think is better seen than read about, so go visit it!
+Jessica Gogan and Tresa Varner from the Any Warhol Museum presented their Timeweb platform for exploring the cultural context of Warhol's artworks, which I think is better seen than read about, so go visit it!
 I did particularly like that they considered museum technology from an education standpoint -- the Warhol museum wants to make sure it uses tech to the utmost, but that it gives visitors a "break" from the technology and its noise when they are looking at the art itself.
 
 # Curating Online
@@ -122,7 +122,7 @@ Richard Powell hates reading papers.
 
 Or rather, he clarifies, he is disappointed at seeing in an increasing number of undergraduate papers only a reflection of students' skill at pulling information from the internet, telling him little else about anything.
 So he has endeavored in his course on African American art to see how he could engage digital technology to reverse this trend.
-Working with the Nasher Museum of Art at Duke University, he identified a group of objects (within a driveable radius of campus to make sure students would be able to see these works face-to-face) in order to create a [digital exhibition](http://closeup.nasher.duke.edu) written by his students.[^infinity]
+Working with the Nasher Museum of Art at Duke University, he identified a group of objects (within a driveable radius of campus to make sure students would be able to see these works face-to-face) in order to create a [digital exhibition](http://web.archive.org/web/20131203062032/http://closeup.nasher.duke.edu/) written by his students.[^infinity]
 
 <figure>
 <img src="/assets/images-display/nasher.png" alt="nasher" />

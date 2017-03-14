@@ -231,7 +231,7 @@ library(visdat)
 vis_miss(ga) + coord_flip()
 ```
 
-![](/assets/images-display/fingerprint-1.png)
+![csv fingerprint](/assets/images-display/fingerprint-1.png)
 
 From this "fingerprint", we can see that some variables are virtually always present, and may be useful to explore first.
 
@@ -319,7 +319,7 @@ ga %>%
   xlim(1900, 1930)
 ```
 
-![](/assets/images-display/construction_date_type-1.svg)
+![construction type by date](/assets/images-display/construction_date_type-1.svg)
 
 "Military manufacturing" construction, for example, was heavily concentrated in 1915, whereas "urban planning" was instead concentrated after 1920.
 With a more robust ontology, it would be easier to visualize interactions between functional and jurisdictional attributes of these buildings.
@@ -380,7 +380,7 @@ anim_map <- ggplot() +
 gg_animate_save(anim_map, filename = "anim_map.gif")
 ```
 
-![](/assets/images-display/anim_map.gif)
+![animated map of german construction](/assets/images-display/anim_map.gif)
 
 There are, to be sure, many different ways to facet this map to include more information, such as filtering or coloring by firm or building type, or by date published in the journal.
 
@@ -474,7 +474,7 @@ buildyear_disp <- boot_dispersion(ga, varname = "journal_year", dist_fun = gdist
 plot(buildyear_disp$dist)
 ```
 
-![](/assets/images-display/dispersion_buildyear-1.svg)
+![spatial dispersion by construction year](/assets/images-display/dispersion_buildyear-1.svg)
 
 This first plot is based on the changing median pairwise [orthodomic (or great circle) distance](https://en.wikipedia.org/wiki/Great-circle_distance) of every construction site published between 1914--1924.
 In more familiar terms, this is the distance "as the crow flies" along the surface of a (near-)spherical earth, and is independent of any particular origin point or map projection.
@@ -505,7 +505,7 @@ berlin_disp <- boot_dispersion(ga, flags = cities, varname = "journal_year", dis
 multiplot(berlin_disp$map, berlin_disp$dist, cols = 1)
 ```
 
-![](/assets/images-display/dispersion_berlin-1.png)
+![dispersion when projected from berlin](/assets/images-display/dispersion_berlin-1.png)
 
 Here we see the globe reprojected from Berlin, where distances close to the city have been dramatically stretched a-la Steinberg, and those far from the city minimized.
 In this projection of space, year-by-year swings in the spatial coverage of new construction appear much larger.
@@ -521,7 +521,7 @@ ny_disp <- boot_dispersion(ga, flags = cities, varname = "journal_year", dist_fu
 multiplot(ny_disp$map, ny_disp$dist, cols = 1)
 ```
 
-![](/assets/images-display/dispersion_ny-1.png)
+![dispersion when projected from ny](/assets/images-display/dispersion_ny-1.png)
 
 The view from *New York City*, on the other hand, offers a more gradual impression of what, from North America, could have appeared to be a more steady concentration of construction in the late teens and early 20s - a concentration with a comparative turn towards more international building in 1924.
 

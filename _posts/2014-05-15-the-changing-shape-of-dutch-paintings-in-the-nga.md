@@ -36,25 +36,16 @@ Even the paintings acquired between Widener's bequest and Arthur's arrival remai
 The works acquired after Arthur joined the gallery, however, cover a far wider range of dates.
 Arthur has also filled out holdings of certain genres, especially still lifes and seascapes, that did not interest Mellon and Widener.
 
-<figure>
-<a href="/assets/images/nga_date_plot.svg"><img src="/assets/images/nga_date_plot.svg"></a>
-<figcaption>Compare the creation dates of artworks entering the gallery in different eras. 95% of the Mellon and Widener collections (marked by the vertical range labeled "Core") fall between the late 1630s and 1670, while 95% of paintings entering the gallery under Wheelock's tenure cover a much wider range.</figcaption>
-</figure>
+{% include figure.html src="/assets/images/nga_date_plot.svg" caption="Compare the creation dates of artworks entering the gallery in different eras. 95% of the Mellon and Widener collections (marked by the vertical range labeled \"Core\") fall between the late 1630s and 1670, while 95% of paintings entering the gallery under Wheelock's tenure cover a much wider range." %}
 
-<figure>
-<a href="/assets/images/nga_genres.svg"><img src="/assets/images/nga_genres.svg"></a>
-<figcaption>Breaking down the collection by genre clearly demonstrates the preferences and preconceptions that Mellon and Widener held about the nature of Dutch art.</figcaption>
-</figure>
+{% include figure.html src="/assets/images/nga_genres.svg" caption="Breaking down the collection by genre clearly demonstrates the preferences and preconceptions that Mellon and Widener held about the nature of Dutch art." %}
 
 While I'd generally understood that the later additions to the Gallery's Dutch paintings were more diverse in date and genre, I had never realized there were patterns in something as basic as *scale*.
 In plotting the paintings by their height and width, it becomes clear how much Mellon preferred paintings of a certain orientation, and a relatively small range of sizes.
 Notably, the one of the few outliers on Mellon's plot is the aforementioned [*Girl with the Red Hat*][vermeer].
 Apparently, not even Andrew Mellon could pass on a painting for being too small if it had been done by Vermeer.[^small]
 
-<figure>
-<a href="/assets/images/nga_sizes.svg"><img src="/assets/images/nga_sizes.svg"></a>
-<figcaption>Even the physical size of paintings can be a matter of taste. Mellon's Dutch collections tended towards similar sizes, and were largely oriented as landscapes. Widener's collection had more diversity of scale, and his core collection of small pieces served as a foundation for Wheelock's many additions that now fill the suitably-scaled cabinet galleries.</figcaption>
-</figure>
+{% include figure.html src="/assets/images/nga_sizes.svg" caption="Even the physical size of paintings can be a matter of taste. Mellon's Dutch collections tended towards similar sizes, and were largely oriented as landscapes. Widener's collection had more diversity of scale, and his core collection of small pieces served as a foundation for Wheelock's many additions that now fill the suitably-scaled cabinet galleries." %}
 
 There are [almost a dozen recent acquisitions][recent] still awaiting full entries.
 When they are posted, you can update these plots yourself by [downloading the web-scraping and visualization code here][ngagit].

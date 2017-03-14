@@ -144,7 +144,7 @@ Henry Duval Gregory, "Tabletop Still Lifes in Haarlem, C. 1610-1660: A Study of 
 
 John Michael Montias, "Cost And Value In Seventeenth-Century Dutch Art," _Art History_ 10, no. 4 (December 1987): 455.
 
-Jari Oksanen et al., "Vegan: Community Ecology Package" (R Package [version 2.2-1], 2015), <http:/cran.r-project.org/package=vegan>.
+Jari Oksanen et al., "Vegan: Community Ecology Package" (R Package [version 2.2-1], 2015), <http://cran.r-project.org/package=vegan>.
 
 Claude Elwood Shannon and Warren Weaver, _The Mathematical Theory of Communication_ (Urbana: University of Illinois Press, 1949).
 
