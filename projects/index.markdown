@@ -29,7 +29,7 @@ The projects below include both "traditional" art historical research, papers, a
 ## Select Research
 {% for project in site.data.projects.other %}
 <div class="toc">
-<img src="{{ project.avatar }}" class="avatar" />
+<img src="{{ project.avatar }}" alt="{{ project.title }}" class="avatar" />
 <a href="{{ project.url }}">{{ project.title | markdownify }}</a>
 <p>{{ project.snippet | markdownify }}</p>
 </div>
