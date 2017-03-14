@@ -21,4 +21,4 @@ Their posts are a must-read for any humanities scholar who struggles with just
 > Why _does_ Henrietta Maria have a community distinct from her husband and those most proximate to her? Why does Jacob Tonson sit so far out to the upper-right hand corner?  Why are certain nodes so evidently out of place?  When and why don’t communities align with proximity, color with clustering?  The problems call out for further explanation, interpretation, and speculation especially by experts with knowledge of the period, of particular figures, or of graph learning and/or visualization.
 
 
-(image credit: [sixdegreesoffrancisbacon.com](http://sixdegreesoffrancisbacon.com/post/47622869519/global-graph))
+(image credit: [sixdegreesoffrancisbacon.com](http://web.archive.org/web/20150908013125/http://sixdegreesoffrancisbacon.com/post/47622869519/global-graph))

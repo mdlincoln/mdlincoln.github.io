@@ -24,7 +24,7 @@ The other is Emily Pugh's and Petra Chu's panel devoted to ["Art Historical Scho
 Our discipline (or, at least, major funders in our discipline) seems to have latched on to *digital publishing*.
 Along with yet another panel on digital publishing, the conference this year will also feature workshops on the digital curation and publishing platforms [Omeka](http://conference2015.collegeart.org/programs/building-scholarly-digital-archives-and-exhibits-with-omeka/) and [Scalar](http://conference2015.collegeart.org/programs/scalar/).
 There will also be a workshop on the [technical problems presented by digital images](http://conference2015.collegeart.org/programs/making-sense-of-digital-images/).
-Notably, CAA 2014 also featured a panel on [digital publishing in art history](http://conference2015.collegeart.org/2014/schedule/program?key=244) largely centered around the Getty's [Online Scholarly Catalog Initiative (OSCI)](http://www.getty.edu/foundation/initiatives/current/osci/).
+Notably, CAA 2014 also featured a panel on digital publishing in art history largely centered around the Getty's [Online Scholarly Catalog Initiative (OSCI)](http://www.getty.edu/foundation/initiatives/current/osci/).
 
 I do not wish to minimize the fantastic, innovative work being done in the OSCI and other digital publishing realms.
 A great deal of the displeasure around the "digital humanities" at the MLA has focused on the privileging of research computation over digitally-inflected publishing and pedagogy.

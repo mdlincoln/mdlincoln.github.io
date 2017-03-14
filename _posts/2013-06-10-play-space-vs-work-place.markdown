@@ -41,7 +41,7 @@ The strength of this particular THATCamp's multi-disciplinarity was, for me, its
 
 I'd emphasize again that I don't think either of these are problems THATCamp ought to *solve*. But I am glad to draw lessons from this first experience, and I will be keeping these limitations in mind when preparing for future un-conferences. I'm eager to see if a discipline-specific version of THATCamp, like [THATCamp CAA](http://caa2013.thatcamp.org) would resolve the disciplinary problems I met this weekend. (I'm sure it would come with its own drawbacks, as well.)
 
-If I propose another session in the future, I will also be more thoughtful in enumerating a smaller or narrower challenge. Far from stifling creativity, I think a little more specificity on my part may have allowed participants to bring their varied and valuable perspectives to bear more *quickly* and *productively*, perhaps producing something as actionable as Jeffery McClurken's [outline for a SWAT Team for abandoned DH websites](http://chnm2013.thatcamp.org/notepads/swat-team-for-old-dh-sites/).
+If I propose another session in the future, I will also be more thoughtful in enumerating a smaller or narrower challenge. Far from stifling creativity, I think a little more specificity on my part may have allowed participants to bring their varied and valuable perspectives to bear more *quickly* and *productively*, perhaps producing something as actionable as Jeffery McClurken's outline for a SWAT Team for abandoned DH websites.
 
 Which is all to say, then, that I am now equally energized both for the hard work to be done on my specific projects, as well as for the possibilities of future THATCamps.
 
