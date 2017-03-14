@@ -26,7 +26,7 @@ Rather than trying to use often-deceptive visualizations of the network itself t
 
 {% include figure.html src="/assets/images/print_network_transitivity.svg" caption="Dynamic clustering coefficient (probability that an individual is connected to one of his colleague's colleagues)." %}
 
-{% include figure.html img src="/assets/images/print_network_communities.svg" caption="Dynamic number of sizable communities (populations in the 50th percentile)" %}
+{% include figure.html src="/assets/images/print_network_communities.svg" caption="Dynamic number of sizable communities (populations in the 50th percentile)" %}
 
 Preliminary results point to an intriguing interaction between these incentives to centralize and decentralize.
 The rising popularity of artistic prints may indeed have encouraged local centralization around established professionals, rather than broad interaction between many artists.

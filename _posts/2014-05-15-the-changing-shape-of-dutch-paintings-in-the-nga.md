@@ -36,7 +36,7 @@ Even the paintings acquired between Widener's bequest and Arthur's arrival remai
 The works acquired after Arthur joined the gallery, however, cover a far wider range of dates.
 Arthur has also filled out holdings of certain genres, especially still lifes and seascapes, that did not interest Mellon and Widener.
 
-{% include figure.html src=" src="/assets/images/nga_date_plot.svg"></a>" caption="Compare the creation dates of artworks entering the gallery in different eras. 95% of the Mellon and Widener collections (marked by the vertical range labeled "Core") fall between the late 1630s and 1670, while 95% of paintings entering the gallery under Wheelock's tenure cover a much wider range." %}
+{% include figure.html src="/assets/images/nga_date_plot.svg" caption="Compare the creation dates of artworks entering the gallery in different eras. 95% of the Mellon and Widener collections (marked by the vertical range labeled \"Core\") fall between the late 1630s and 1670, while 95% of paintings entering the gallery under Wheelock's tenure cover a much wider range." %}
 
 {% include figure.html src="/assets/images/nga_genres.svg" caption="Breaking down the collection by genre clearly demonstrates the preferences and preconceptions that Mellon and Widener held about the nature of Dutch art." %}
 
