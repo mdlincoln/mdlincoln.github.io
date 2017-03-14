@@ -26,7 +26,7 @@ I intend to make future versions of this script that will output a flat CSV that
 
 I'm already using this script to do some bulk processing of the keyword schemae in the Smithsonian art collections. In a future post I'll be talking a bit more in depth about that, but for now here is a pretty teaser of a topic co-occurrence map of the Smithsonian American Art Museum's painting collection, all of it collected using `si-scrape.rb`:
 
-![](/assets/images-display/saam_dated_full.png)
+![Topic co-occurrence map of the Smithsonian American Art Museum's painting collection](/assets/images-display/saam_dated_full.png)
 
 [Download the full ~15MB image](/assets/images/saam_dated_full.png)
 

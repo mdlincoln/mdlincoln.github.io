@@ -25,7 +25,7 @@ Ross Mounce recently posted a cogent argument for [uploading preprints of schola
 > I suspect, like in biology, this practice isn’t yet mainstream in the Arts & Humanities – perhaps just a matter of time before this cultural shift occurs... There is one important caveat to mention with respect to posting preprints – a small minority of conservative, traditional journals will not accept articles that have been posted online prior to submission.
 
 
-[![Some very old school scholarship: Hercules Segers, Three Books, 1615-1630 - Rijksmuseum, Amsterdam, Bruikleen van de Rijksacademie van Beeldende Kunsten (RP-P-H-OB-867)][books]](https://www.rijksmuseum.nl/en/search/objecten?q=drie+boeken&p=1&ps=12&ii=0#/RP-P-H-OB-867,0)
+[![Some very old school scholarship: Hercules Segers, Three Books, 1615-1630 - Rijksmuseum, Amsterdam, Bruikleen van de Rijksacademie van Beeldende Kunsten (RP-P-H-OB-867)][books]](https://www.rijksmuseum.nl/en/collection/RP-P-H-OB-867)
 
 [books]: http://mlincoln.files.wordpress.com/2013/06/segers-three-books-1615-1630-rkm-rp-p-h-ob-867-e1371240274159.jpg?w=625 "Some very old school scholarship: Hercules Segers, Three Books, 1615-1630 - Rijksmuseum, Amsterdam, Bruikleen van de Rijksacademie van Beeldende Kunsten (RP-P-H-OB-867)"
 

@@ -39,7 +39,7 @@ Grouping these sales by month reveals two distinct seasons: a long spring auctio
 </figure>
 
 That the auction calendar cycles between these two poles is not that surprising.
-Even today, art market reporters [start getting breathless](http://www.artnews.com/2010/06/01/spring-art-auctions-confidence-is-back/) with the start of the spring season, vamping up again at the end of the year in [anticipation of November sales](http://www.artnet.com/insights/art-market-trends/auction-market-leading-up-to-november-2013-sales.asp).
+Even today, art market reporters [start getting breathless](http://www.artnews.com/2010/06/01/spring-art-auctions-confidence-is-back/) with the start of the spring season, vamping up again at the end of the year in [anticipation of November sales](https://news.artnet.com/market/auction-market-leading-up-to-november-2013-sales-42552).
 
 What I found remarkable was how far back this seasonal tradition dates.
 Below you can see the same records grouped by month and faceted by decade:

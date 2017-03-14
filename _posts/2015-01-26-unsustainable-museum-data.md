@@ -36,7 +36,7 @@ APIs are also a poor solution for the researcher who would like to analyze the e
 Even when APIs are functioning normally, a researcher interested in downloading the entire database behind that API must spend an inordinate amount of time customizing a script to automate requests, and then hope that nothing breaks in the hours it can take to download everything record by record.
 
 <figure>
-<img src="/assets/images/bm_dumps.png" />
+<img src="/assets/images/bm_dumps.png" alt="british museum triple dumps" />
 <figcaption>Now that's what I call open museum data. (From <a href="http://collection.britishmuseum.org/dumps/">The British Museum</a>)</figcaption>
 </figure>
 
@@ -47,7 +47,7 @@ As is [commonly a problem with these LOD services](https://daverog.wordpress.com
 However, the BM has smartly allowed users to download a dump of their linked data so the information can remain available locally, even when the remote web service is not.
 
 <figure>
-<img src="/assets/images/tate_commit.png" />
+<img src="/assets/images/tate_commit.png" alt="tate commit log" />
 <figcaption>The Tate Gallery uses Git to distribute their database dumps, so changes are tracked and sharable. (From <a href="https://github.com/tategallery/collection/commit/f60339d97b379f5412dada56d07f9d596033a275">github.com/tategallery</a>)</figcaption>
 </figure>
 

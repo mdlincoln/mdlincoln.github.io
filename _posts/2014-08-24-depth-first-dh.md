@@ -12,10 +12,7 @@ tags:
 I spent two wonderful weeks this August at the first [Kress Digital Mapping and Art History Summer Institute][dmah], hosted on the campus of Middlebury College by geographer Anne Knowles and art historian Paul Jaskot.
 It wasn't a bad location to retreat to.
 
-<figure>
-<img src="/assets/images-display/middlebury_adirondack.jpg" />
-<figcaption>Someone had the nice idea to scatter adirondack chairs across the entire campus. <a href="http://www.williams.edu">Williams</a>, let's get on this.</figcaption>
-</figure>
+{% include figure.html src="/assets/images-display/middlebury_adirondack.jpg" caption="Someone had the nice idea to scatter adirondack chairs across the entire campus. <a href="http://www.williams.edu">Williams</a>, let's get on this." %}
 
 This was the summer of digital art history institutes, with the Getty Foundation funding [three separate institutes][dahlist] around the country in addition to the Kress.
 The Kress and the Getty clearly had separate goals with these institutes.

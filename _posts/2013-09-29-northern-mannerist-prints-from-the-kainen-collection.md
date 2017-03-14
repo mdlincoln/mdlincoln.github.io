@@ -16,20 +16,12 @@ Professor Paul Barolsky once remarked that Goltzius is "an art historian's artis
 
 This exhibition is a beautiful demonstration of this argument. Ruth Cole Kainen's bequest adds a number of key works to the National Gallery's collection, most all of them impressions of stunning quality. Though I was delighted to see some old favorites hanging here, like Goltzius' [*Pietà*](http://www.nga.gov/content/ngaweb/Collection/art-object-page.107572.html) that conspicuously imitates the style of Albrecht Dürer, or his showpiece engraving of one of the ancient Roman heroes [*Titus Manlius Toquatus*](http://www.nga.gov/content/ngaweb/Collection/art-object-page.153979.html), I was also glad for the chance to have my first look in person at a series of the four times of day designed by Goltzius and engraved by Jan Saenredam in 1595.
 
-<figure>
-<a href="http://www.nga.gov/content/ngaweb/Collection/art-object-page.154310.html"><img src="/assets/images-display/saenredam_night.png" /></a>
-<figcaption>Jan Saenredam after Hendrick Goltzius, <em>Night</em>, 1595-1598. National Gallery of Art, Gift of Ruth Cole Kainen.</figcaption>
-</figure>
+{% include figure.html src="/assets/images-display/saenredam_night.png" caption="Jan Saenredam after Hendrick Goltzius, _Night-, 1595-1598. [National Gallery of Art, Gift of Ruth Cole Kainen](http://www.nga.gov/content/ngaweb/Collection/art-object-page.154310.html)." %}
 
 In this show, Jan Saenredam comes across as Goltzius' most technically-gifted pupil. More so than his fellow students, Saenredam seems to have inherited his teacher's ability to think about engraving -- an intrinsically mechanical art -- in a fluid and subtle manner. The exceptional impressions in this exhibition showcase these artists' keen understanding that the human eye perceives the *boundaries* between fields of light and dark [more acutely](http://youtu.be/338GgSbZUYU?t=10m34s) than the actual fields themselves. The area behind the woman's shoulder in this detail would, in reality, have less light on it than at the boundary where candlelight falls onto her sleeve. Yet you will notice Saenredam actually uses even denser hatching along this border than in the "dark" zone of shadow behind it, playing on this characteristic of human vision, and so deftly engineering from woven lines of black ink the convincing appearance of candlelight falling across fabric.
 
-
-<figure>
-<a href="http://www.nga.gov/content/ngaweb/Collection/art-object-page.154310.html"><img src="/assets/images-display/saenredam_night_detail.png" /></a>
-<figcaption>Jan Saenredam after Hendrick Goltzius, detail of <em>Night</em>, 1595.</figcaption>
-</figure>
-
-
+{% include figure.html src="/assets/images-display/saenredam_night_detail.png"
+caption="Jan Saenredam after Hendrick Goltzius, detail of _Night_, 1595." %}
 
 You will find more than just technical excellence here, however. Goltzius wittily tucked figures into the background corners of each design (usually glimpsed through a window frame) representing each time of day through their accompanying labors and pleasures, all overseen by an attendant deity in the sky above. Beyond rehearsing this time-tested Renaissance conceit, however, Goltzius and Saenredam invite you into a subtly-observed day in the life of a young, well-to-do couple. Small continuities tie the four scenes to each other: the lace shoulders on the woman's dress, so pert and composed [at the morning meal](http://www.nga.gov/content/ngaweb/Collection/art-object-page.154020.html), wilt ever so slightly through the day; so too does her husband's well-coiffed hair, which [shows signs of sweat](http://www.nga.gov/content/ngaweb/Collection/art-object-page.154021.html) as he labors over a carpentry project in the heat of mid-day, then of being [combed rakishly back into place](http://www.nga.gov/content/ngaweb/Collection/art-object-page.154309.html) before dinner. In spite of all the attention Goltzius lavished on constructing learned and witty compositions to render in print, his keen eye for naturalistic details never faltered.
 

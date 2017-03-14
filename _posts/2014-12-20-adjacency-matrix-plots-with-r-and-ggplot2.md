@@ -21,7 +21,7 @@ tags:
 While the circle-and-line idiom used by many network visualization tools such as [Gephi] can be useful for investigating the structure of small- and medium-scale networks, large-scale network visualizations tend to result in the worst kinds of [spaghetti plots][spaghetti].
 
 <figure>
-<img src="/assets/images-display/spaghetti_example.png" />
+<img src="/assets/images-display/spaghetti_example.png" alt="spaghetti graph" />
 <figcaption>Great. Just great.</figcaption>
 </figure>
 
@@ -59,9 +59,9 @@ I will use the [igraph] package to augment these tables with calculated network 
 
 [print_networks]: /dissertation/
 
-[edge_table]: https://github.com/mdlincoln/adjacency_plot/blob/master/goltzius_graph.csv
+[edge_table]: https://github.com/mdlincoln/adjacency_plot/blob/master/data/csv/goltzius_edges.csv
 
-[node_table]: https://github.com/mdlincoln/adjacency_plot/blob/master/goltzius_nodes.csv
+[node_table]: https://github.com/mdlincoln/adjacency_plot/blob/master/data/csv/goltzius_nodes.csv
 
 [igraph]: http://igraph.org/r/
 

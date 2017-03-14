@@ -122,7 +122,7 @@ Richard Powell hates reading papers.
 
 Or rather, he clarifies, he is disappointed at seeing in an increasing number of undergraduate papers only a reflection of students' skill at pulling information from the internet, telling him little else about anything.
 So he has endeavored in his course on African American art to see how he could engage digital technology to reverse this trend.
-Working with the Nasher Museum of Art at Duke University, he identified a group of objects (within a driveable radius of campus to make sure students would be able to see these works face-to-face) in order to create a [digital exhibition](http://closeup.nasher.duke.edu) written by his students.[^infinity]
+Working with the Nasher Museum of Art at Duke University, he identified a group of objects (within a driveable radius of campus to make sure students would be able to see these works face-to-face) in order to create a [digital exhibition](http://web.archive.org/web/20131203062032/http://closeup.nasher.duke.edu/) written by his students.[^infinity]
 
 <figure>
 <img src="/assets/images-display/nasher.png" alt="nasher" />
