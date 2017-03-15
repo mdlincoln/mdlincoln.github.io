@@ -10,6 +10,7 @@ tags:
 - Digital Humanities
 - THATCamp
 - Visualization
+aside: "As of 2017, the notepad referenced below is no longer online. Sorry!"
 ---
 
-The [communal](http://chnm2013.thatcamp.org/notepads/session-notes/) [notepad](http://chnm2013.thatcamp.org/notepads/session-notes/) for our THATcamp Prime session this morning is online. Go take a look to see what was said! More reflections to come.
+The communal notepad for our THATcamp Prime session this morning is online. Go take a look to see what was said! More reflections to come.

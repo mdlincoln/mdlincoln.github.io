@@ -15,7 +15,7 @@ tags:
 
 Day 2 of THATCamp Prime 2013! After [narrowly avoiding a single-tracking transit disaster](https://twitter.com/matthewdlincoln/status/343357548373614593), it was another packed day:
 
-- First up was a session on using [scripting languages in humanistic research](http://chnm2013.thatcamp.org/notepads/scripting-for-humanists/).
+- First up was a session on using scripting languages in humanistic research.
 
 - The most interesting part of this session for me was the minor methodological debate between making custom, but easy-to-use script GUIs accessible to the just-barely initiated digital humanists, versus pressing DH scholars to learn at least the basics of these core languages and tools much as they would learn a foreign language relevant to their area of study. Though I'd come in an advocate of the former, I found myself swayed to the latter by the end of this session.
 

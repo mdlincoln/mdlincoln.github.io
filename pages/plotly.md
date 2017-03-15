@@ -146,5 +146,5 @@ More advanced tools may be necessary to visualize the kinds of patterns we want 
 
 ## Advanced analysis
 
-Using R, I have generated a web interface that implements some measurements of these questions: [`https://mdlincoln.shinyapps.io/gettysales/`](https://mdlincoln.shinyapps.io/gettysales/) (I will provide the login information during the session)
+Using R, I have generated a web interface that implements some measurements of these questions. (I will provide the login information during the session)
 
