@@ -2,6 +2,8 @@
 layout: post
 date: 2017-03-20T16:14:43-07:00
 title: R Closures and Currency Decimalization
+tags:
+- R
 ---
 
 Among other things, R is known for being a [functional](https://en.wikipedia.org/wiki/Functional_programming) language.
