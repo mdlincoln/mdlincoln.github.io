@@ -81,6 +81,9 @@ This works, but there's a lot of repeated infrastructure: constantly repeating t
 
 This is what closures were born for.
 
+Enter the closure
+-----------------
+
 Above, I described closures as functions produced by functions. Another way to describe them is as functions that store bits of data. In our case, we want to implement the same function pattern with different subunit divisors - different data - for different currencies. To do this, we can write a function that takes those divisors as its arguments. Rather than returning a value, it will return another function - a *closure* - that incorporates those divisors, taking different parts of the monetary amount as its own arguments.
 
 ``` r
