@@ -31,7 +31,7 @@ These indices were, in turn, augmented by compiled reports in which cases (medic
 What made Mendelsohn's talk particularly interesting was his many examples in which a kind of early modern "crowdsourcing" -- be it individuals delivering self-created documents to the court, or scientists contributing small notes to a journal --- drove the construction of these databases.
 The organization and use of these troves may certainly have been state-run, but the collection was not as top-down as we may have assumed.
 
-{% include figure.html src="http://blog.constitutioncenter.org/wp-content/uploads/2011/08/SSN-ring.jpg" caption="1938 advertisement for an SSN-engraved ring. [Image Source](http://blog.constitutioncenter.org/2011/08/happy-birthday-social-security/)." %}
+{% include figure.html src="/assets/images/SSN-ring.jpg" caption="1938 advertisement for an SSN-engraved ring. [Image Source](http://blog.constitutioncenter.org/2011/08/happy-birthday-social-security/)." %}
 
 Sarah Igo discussed the surprising history of the Social Security Number.
 While today we are cautioned to guard the number carefully from identity theft, the first decades of the SSN were quite different.
