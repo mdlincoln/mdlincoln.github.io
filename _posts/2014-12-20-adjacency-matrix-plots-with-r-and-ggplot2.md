@@ -13,8 +13,8 @@ tags:
 <aside>
 <p>TL; DR:</p>
 <ul>
-<li><a href="http://mdlincoln.shinyapps.io/adjacency_plot/">Try different adjacency matrix ordering schemes in a Shiny app</a></li>
-<li><a href="http://github.com/mdlincoln/adjacency_plot">The GitHub repo for the Shiny app</a>.</li>
+<li><a href="https://mdlincoln.shinyapps.io/adjacency_plot/">Try different adjacency matrix ordering schemes in a Shiny app</a></li>
+<li><a href="https://github.com/mdlincoln/adjacency_plot/">The GitHub repo for the Shiny app</a>.</li>
 </ul>
 </aside>
 
