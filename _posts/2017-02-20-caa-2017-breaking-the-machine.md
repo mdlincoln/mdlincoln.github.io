@@ -64,7 +64,11 @@ In the interest of time I’m not going to go into the detailed mechanics of the
 
 In “learning” this dataset, the random forest algorithm must capture many of the overall patterns that appear in these data, including which combinations of variables tend to appear together frequently, and which of those, despite appearing frequently across the entire corpus, rarely appear together. This beautiful Heda, for example, contains many of the motifs common to tabletop still lifes: an extinguished candle, an ornate, overturned tazza, a mince pie, a pile of oyster shells.
 
+<script async class="speakerdeck-embed" data-slide="16" data-id="40a1b447a0cd485798eedda4931cd285" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
 These individual features are quite common – but certain combinations of those features are anything but. For example, take oysters here. They appear with a rolled paper of pepper – a pairing that is common both in this corpus of paintings, but also in period recipe books. Oysters’ aphrodisiacal properties were said to be enhanced by pepper – their combination here underlining the erotic quality of this particular dish. (And a note – proximity here has nothing to do with the placement on this canvas, but rather their proximity within an abstract, multidimensional mathematical space in which motifs that appear together in more paintings are “closer” to each other than those that appear less frequently together.)
+
+<script async class="speakerdeck-embed" data-slide="17" data-id="40a1b447a0cd485798eedda4931cd285" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
 Another common motif, though – the broken glass – almost never appears with oysters. Even more rare is to pair it with multiple overturned vessels like the silver tazza here. Knowing the comparative exceptionalism of this combination should affect an iconographical reading of this work, moving us beyond the argument that the pairing was motivated by conventionality alone. The uncommon juxtaposition of the vanitas trope of the shattered glass with the earthly, carnal delights of oysters becomes all the more pointed in light of this larger awareness of the corpus.
 
