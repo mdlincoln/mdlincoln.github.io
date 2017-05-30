@@ -2,6 +2,7 @@
 title: Projects
 layout: default
 show_title: true
+redirect_from: projects/
 ---
 
 The projects below include both "traditional" art historical research, papers, and conference talks, as well as digital humanities endeavors and tutorials.

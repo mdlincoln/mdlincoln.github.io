@@ -2,6 +2,7 @@
 layout: default
 title: Archive
 show_title: true
+redirect_from: archive/
 ---
 
 
