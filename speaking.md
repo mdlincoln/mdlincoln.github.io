@@ -2,6 +2,13 @@
 title: Invited Speaking
 layout: default
 talks:
+  - year: 2017
+    text: "From Document to Event: Challenges and Opportunities in Remodeling the Getty Provenance Index"
+    place: "Golden Agents: Creative Industries and the Making of the Dutch Golden Age"
+    location: "Huygens ING, Amsterdam"
+    date: 12 April 2017
+    invited: true
+    short: true
   - year: 2016
     text: "Computing with Genre in Paintings, Prints, and Purchases: Questions of Category and Measure"
     place: Department of Art History, Emory University
@@ -49,13 +56,6 @@ talks:
     date: 19 February 2016
     invited: true
     short: true
-  - year: 2015
-    text: "Experimental Models and Art Historical Computing: Networks in the Golden Age of Dutch and Flemish Printmaking"
-    place: "Digital Dialogues, Maryland Institute for Technology in the Humanities"
-    location: College Park, MD
-    date: 27 October 2015
-    url: "http://mith.umd.edu/podcasts/dd-fall-2015-matthew-lincoln"
-    invited: true
   - year: 2015
     text: "The Art Historian's Macroscope: Museum Data and the Academy"
     place: "DASER Forum, National Academy of Sciences"
