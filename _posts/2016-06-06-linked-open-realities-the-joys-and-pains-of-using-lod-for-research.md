@@ -9,13 +9,14 @@ tags:
   - LAM
 redirect_from:
   - cesta_lod.html
+speakerdeck_id: 2afbe88767dc4a9d842f93b2a11277ea
 ---
 
 [jq]: https://stedolan.github.io/jq/
 
 [dplyr]: https://github.com/hadley/dplyr
 
-<script async class="speakerdeck-embed" data-slide="1" data-id="2afbe88767dc4a9d842f93b2a11277ea" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+{% include speakerdeck.html slideno="1" %}
 
 So, you might guess by this image (from [@LegoAcademics](https://twitter.com/legoacademics)!) that I’m something of a linked open data pessimist.
 I’ve just come off of a dissertation that relied for half of its data on a large RDF museum database that was open, rich in complex and nuanced historical information, and rigorously structured... but lacked any real links to other institutions or outside authorities, and more often than not was unavailable due to technical outages.
@@ -24,7 +25,7 @@ These are my joys and pains of trying to use linked open data to drive disciplin
 
 ## Why I Want to Like LOD
 
-<script async class="speakerdeck-embed" data-slide="3" data-id="2afbe88767dc4a9d842f93b2a11277ea" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+{% include speakerdeck.html slideno="3" %}
 
 This will be an opinionated talk: I come at LOD not from the perspective of a systems librarian trying to build an interoperable discovery portal, or an iPhone developer trying to make a museum visitor app.
 Those are really valid use cases --- and they already receive a lot of attention.
@@ -32,12 +33,12 @@ Those are really valid use cases --- and they already receive a lot of attention
 I'm a scholarly researcher, and I use different computational methods to consider old art historical data from new angles.
 After talking a bit about my dissertation, I will walk through some of the ups and downs of using these data, concluding with a few desiderata for research-focused LOD in the future.
 
-<script async class="speakerdeck-embed" data-slide="6" data-id="2afbe88767dc4a9d842f93b2a11277ea" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+{% include speakerdeck.html slideno="6" %}
 
 My [dissertation](/dissertation) uses data about early modern Dutch and Flemish prints to infer network dynamics of early modern etching and engraving production in the Low Countries.
 By taking individual objects as an index of professional relationships at a certain point in time, it became possible to make claims about larger network phenomena in this period; phenomena that had been difficult or impossible for art historians to discern without computational analysis.
 
-<script async class="speakerdeck-embed" data-slide="8" data-id="2afbe88767dc4a9d842f93b2a11277ea" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+{% include speakerdeck.html slideno="8" %}
 
 I pulled data from two excellent sources:
 
@@ -46,20 +47,20 @@ I pulled data from two excellent sources:
 
 ## Complex Data, Complex Queries
 
-<script async class="speakerdeck-embed" data-slide="9" data-id="2afbe88767dc4a9d842f93b2a11277ea" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+{% include speakerdeck.html slideno="9" %}
 
 What I loved about working with the BM linked data, as opposed to the RKM JSON, was that I didn't have to bend the data model over backwards to extract the tables I wanted.
 The RKM's JSON was focused on describing artworks, with artists and their relationships described in embedded objects in each array.
 This meant doing a lot of gymnastics with [jq] and table joins (mostly in R's [dplyr]) to get an edge list of artist-artist relationships.
 Moreover, because the API was built to squirt out info on only 10-100 objects at a time, I had to spend a long time slowly scraping all their data in order to do bulk queries over thousands of objects.
 
-<script async class="speakerdeck-embed" data-slide="10" data-id="2afbe88767dc4a9d842f93b2a11277ea" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+{% include speakerdeck.html slideno="10" %}
 
 Ostensibly, the BM's SPARQL endpoint should solve these problems: it gives access to the entire data dump, along with the ability to compute virtually any table I want with a single, well-written query.
 
 This is easier said than done, of course.
 
-<script async class="speakerdeck-embed" data-slide="11" data-id="2afbe88767dc4a9d842f93b2a11277ea" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+{% include speakerdeck.html slideno="11" %}
 
 SPARQL is difficult to write, because to pull it off, you need to be familiar with the schema of your target database.... which is hard to grok if you can't write SPARQL to query it in the first place.
 
@@ -77,7 +78,7 @@ Part of figuring out an LOD endpoint means not just understanding how to navigat
 
 I learned this the hard way with Anthony van Dyck.
 
-<script async class="speakerdeck-embed" data-slide="17" data-id="2afbe88767dc4a9d842f93b2a11277ea" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+{% include speakerdeck.html slideno="17" %}
 
 One of the joys of LOD is that it allows for complexity like certain properties of a node having multiple values.
 However, there's a difference between knowing this is an abstract possibility, and querying/processing the data with the knowledge of which properties will always have just one value, and which properties _you can and should expect to be multiple (or **missing**) with considerable frequency_.
@@ -102,13 +103,13 @@ Thus, building tools to help _audit_ unfamiliar LOD datasets is also on my list 
 
 ## "Linkable" Open Data
 
-<script async class="speakerdeck-embed" data-slide="18" data-id="2afbe88767dc4a9d842f93b2a11277ea" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+{% include speakerdeck.html slideno="18" %}
 
 Another potential upside of LOD is that it is addressable: that you literally have a URI for a given resource (e.g., the concept of the individual "Anthony van Dyck") which you can point to from anywhere on the web.
 As a researcher, I'm interested in this from a reproducibility standpoint.
 I would like to share my analytical code and derived data, but this also requires sharing the original data tables that I started with.
 
-<script async class="speakerdeck-embed" data-slide="19" data-id="2afbe88767dc4a9d842f93b2a11277ea" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+{% include speakerdeck.html slideno="19" %}
 
 There is no easy way to do this with the JSON-based RKM data, other than packaging the tables I built from their API using [jq].
 On the other hand, I could ostensibly give you a series of SPARQL queries formatted as URLs that are fired at the BM endpoint, retrieving the correct starting tables programmatically.
@@ -117,7 +118,7 @@ On the other hand, I could ostensibly give you a series of SPARQL queries format
 
 You see, if you go to <http://collection.britishmuseum.org> right now [at least as of the June 1, 2016 writing of this talk], you get this:
 
-<script async class="speakerdeck-embed" data-slide="20" data-id="2afbe88767dc4a9d842f93b2a11277ea" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+{% include speakerdeck.html slideno="20" %}
 
 It turns out both roots of my reproducible data analysis tree are poisoned: the JSON is challenging to bulk download, and the RDF/LOD is extremely unreliable.
 Like so much else, Linked Open Data is just data sitting on someone else's computer.
@@ -129,16 +130,16 @@ And the British Museum (as much as I love them) is terrible (_terrible!_) at kee
 So for now, I thank my lucky stars that the BM provides a bulk download of their entire LOD that I can host locally, and from which I can construct and package relevant data tables into sharable research code.
 But this is a realistic reminder that the dream of a just-in-time-style data provisioning isn't sustainable (at least not at the price point that GLAM institutions can pay), and so you as a researcher need to think carefully about how you'll build in fault tolerance into your own data analysis pipeline.
 
-<script async class="speakerdeck-embed" data-slide="21" data-id="2afbe88767dc4a9d842f93b2a11277ea" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+{% include speakerdeck.html slideno="21" %}
 
 ## Data linked... but to what?
 
-<script async class="speakerdeck-embed" data-slide="23" data-id="2afbe88767dc4a9d842f93b2a11277ea" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+{% include speakerdeck.html slideno="23" %}
 
 There's another funny think about my use of BM LOD in my dissertation.
 I didn't ever take advantage of it being "linked" with anything - because it isn't!
 
-<script async class="speakerdeck-embed" data-slide="24" data-id="2afbe88767dc4a9d842f93b2a11277ea" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+{% include speakerdeck.html slideno="24" %}
 
 There are several relevant authorities out there for GLAM data: VIAF, LOC subject headings, DBpedia, GeoNames, not to mention the Getty's AAT, ULAN, and TGN.
 The British Museum links to none of them.
@@ -152,7 +153,7 @@ A consequence of this is that I never merged the BM and RKM databases in my rese
 
 ## LOD Desiderata
 
-<script async class="speakerdeck-embed" data-slide="26" data-id="2afbe88767dc4a9d842f93b2a11277ea" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+{% include speakerdeck.html slideno="26" %}
 
 This goes to show that, at the end of the day, I mainly want access to the underlying data; and the more structure you can give to it, the better.
 
@@ -161,12 +162,12 @@ I don't need them to seamlessly link out to other institutions --- though I woul
 
 But I do need better tools for assessing this data (make your implicit knowledge more explicit) and accessing this data (better query interfaces):
 
-<script async class="speakerdeck-embed" data-slide="28" data-id="2afbe88767dc4a9d842f93b2a11277ea" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+{% include speakerdeck.html slideno="28" %}
 
 I've already mentioned many of my LOD desiderata in the course  of this talk, but my last one would be an exhortation to GLAM institutions to seek out research uses of their data, and not limit their thinking to mere aggregation and dissemination. (A balance that will come up in the [epilogue] shortly.)
 Creating LOD is hard enough for these institutions, so with some more utilities for individual researchers to take advantage of the complex data expressions and queries offered by LOD, hopefully it will be easier for GLAMs to design their data offerings to better support the kind of detailed research that these data projects keep promising to enable.
 
-<script async class="speakerdeck-embed" data-slide="29" data-id="2afbe88767dc4a9d842f93b2a11277ea" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+{% include speakerdeck.html slideno="29" %}
 
 [epilogue]: #epilogue
 
