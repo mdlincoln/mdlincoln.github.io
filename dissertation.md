@@ -2,7 +2,7 @@
 layout: default
 title: My Dissertation
 show_title: true
-redirect_from: dissertation/
+redirect_from: /dissertation/
 ---
 
 ## Related papers and pages

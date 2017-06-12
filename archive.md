@@ -2,7 +2,7 @@
 layout: default
 title: Archive
 show_title: true
-redirect_from: archive/
+redirect_from: /archive/
 ---
 
 
