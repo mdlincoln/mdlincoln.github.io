@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Commensurability: A Response to Bode in _MLQ_"
+title: "Commensurability"
 date: "2017-06-17 13:38"
 tags:
 - Digital Humanities
