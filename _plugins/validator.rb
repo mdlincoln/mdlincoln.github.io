@@ -1,7 +1,7 @@
 # Plugin to validate the YAML headers of lesson pages.
 # Inspired by a very useful answer from Christian: http://stackoverflow.com/a/43909411/3547541
 
-module MyModule
+
 
   class WarningGenerator < Jekyll::Generator
     def generate(site)
@@ -13,7 +13,7 @@ module MyModule
       red = "\e[31m"
       clear = "\e[0m"
 
-      valid_tags = site.pages.keep_if{|p| p.data["layout"] == "taglist" }.map{|p| p.data["tagname"]}.map{|s| s.downcase}
+      valid_tags = site.pages.select{|p| p.data["layout"] == "taglist" }.map{|p| p.data["tagname"]}.map{|s| s.downcase}
 
       site.posts.docs.each do |p|
 
@@ -59,4 +59,4 @@ module MyModule
       end
     end
   end
-end
+
