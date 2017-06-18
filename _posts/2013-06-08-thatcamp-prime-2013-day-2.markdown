@@ -1,7 +1,7 @@
 ---
 author: mlincoln
 comments: true
-date: 2013-06-08 19:48:21+00:00
+date: 2013-06-08
 layout: post
 slug: thatcamp-prime-2013-day-2
 title: THATCamp Prime 2013, day 2

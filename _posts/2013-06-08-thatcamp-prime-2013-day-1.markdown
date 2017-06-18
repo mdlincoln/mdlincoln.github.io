@@ -1,7 +1,7 @@
 ---
 author: mlincoln
 comments: true
-date: 2013-06-08 02:41:40+00:00
+date: 2013-06-08
 layout: post
 slug: thatcamp-prime-2013-day-1
 title: THATCamp Prime 2013, day 1
@@ -11,7 +11,6 @@ tags:
 - Digital Humanities
 - Publishing
 - THATCamp
-redirect_from: /2013/06/08/thatcamp-prime-2013-day-1.html
 ---
 
 [![A panel excerpted from Sharon Birch's gleeful comic book of THATCamp Prime 2013][book]](https://www.dropbox.com/s/jq39aglfp29erub/Retro.pdf)
