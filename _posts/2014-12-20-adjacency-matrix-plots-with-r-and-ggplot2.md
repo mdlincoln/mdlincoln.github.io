@@ -65,7 +65,7 @@ I will use the [igraph] package to augment these tables with calculated network 
 
 [igraph]: http://igraph.org/r/
 
-[dplyr]: http://cran.rstudio.com/web/packages/dplyr/vignettes/introduction.html
+[dplyr]: http://cran.r-project.org/web/packages/dplyr/vignettes/dplyr.html
 
 {% highlight R %}
 
