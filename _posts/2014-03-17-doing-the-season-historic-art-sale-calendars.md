@@ -64,4 +64,4 @@ How much of our modern-day auction patterns are still defined by this centuries-
 [lubridate]: https://github.com/hadley/lubridate
 [aat]: http://matthewlincoln.net/2014/02/21/hierarchies-of-the-getty.html
 [provenance]: http://www.getty.edu/research/tools/provenance/search.html
-[cfp]: http://www.collegeart.org/pdf/2015CallforParticipation.pdf
+[cfp]: http://web.archive.org/web/20150606195523/http://www.collegeart.org/pdf/2015CallforParticipation.pdf
