@@ -48,7 +48,7 @@ For example, I have [written and spoken previously][pains] about the challenges 
 
 [pains]: /cesta_lod
 
-[^merging]: You can read more detail about this in an [article I wrote for IJDAH](http://journals.ub.uni-heidelberg.de/index.php/dah/article/view/25337).
+[^merging]: You can read more detail about this in an [article I wrote for _IJDAH_](http://journals.ub.uni-heidelberg.de/index.php/dah/article/view/25337).
 
 Statistical theories of confidence and sampling, and their theorizing about the gap between one's evidentiary sample and historical reality, have a lot to say about this problem.
 I think Bode is wrong to reject them with a brief hand wave.
