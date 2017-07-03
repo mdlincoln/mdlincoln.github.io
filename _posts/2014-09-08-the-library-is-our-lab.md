@@ -48,6 +48,6 @@ Please, take a minute to [sign our petition][petition].
 
 [hlabsearch]: https://www.google.com/search?q=humanities+lab
 
-[petition]: http://petitions.moveon.org/sign/save-the-university-of-1
+[petition]: http://web.archive.org/web/20160722065747/http://petitions.moveon.org/sign/save-the-university-of-1
 
 [Collaboratory]: http://michellesmithcollaboratory.umd.edu
