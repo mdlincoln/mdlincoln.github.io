@@ -1,8 +1,11 @@
-- venue: "Digital Humanities 2017"
+- venue: Digital Humanities 2017
   location: Montréal
   url: https://dh2017.adho.org/
   datestart: 2017-08-08 00:00:00 -0800
   dateend:  2017-08-11 00:00:00 -0800
+  freetext: |
+    - Pre-Conference Workshop: [Computer Vision in Digital Humanities](https://avindhsig.wordpress.com/program-computer-vision-in-digital-humanities/)
+    - Roundtable Session: Visualizing Futures of Networks in Digital Humanities Research
 - venue: Arguing with Digital History
   location: George Mason University
   datestart: 2017-09-15 00:00:00 -0800
