@@ -15,5 +15,8 @@
 {% else %}
   {{ trip.datestart | date: '%B %-d, %Y' }}
 {% endif %}
+{% if trip.freetext %}
+  {{ trip.freetext | markdownify }}
+{% endif %}
 </p>
 {% endfor %}
