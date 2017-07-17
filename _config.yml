@@ -1,5 +1,5 @@
 # Build options
-url: http://matthewlincoln.net
+url: https://matthewlincoln.net
 timezone: America/Los_Angeles
 permalink: /:year/:month/:day/:title.html
 markdown: kramdown
