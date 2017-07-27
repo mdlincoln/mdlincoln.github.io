@@ -3,7 +3,7 @@ layout: "post"
 title: "Predicting the Past on The Getty _Iris_"
 date: "2017-07-27 11:19"
 comments: true
-categories:
+tags:
 - digital humanities
 - data
 ---
