@@ -4,4 +4,4 @@ bundle exec jekyll build && bundle exec htmlproofer ./_site \
   --assume-extension \
   --timeframe '30d' \
   --http-status-ignore 0,503,302,301 \
-  --url-ignore /https://github.com/mdlincoln/mdlincoln.github.io/commits/*/
+  --url-ignore /https://github.com/mdlincoln/mdlincoln.github.io/commits/*/,/collection.britishmuseum.org/
