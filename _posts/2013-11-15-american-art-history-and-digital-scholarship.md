@@ -9,7 +9,7 @@ tags:
 - LAM
 ---
 
-These are some live notes from the Smithsonian Institution Archives of American Art symposium ["American Art History and Digital Scholarship: New Avenues of Exploration"](http://www.aaa.si.edu/symposium) on Friday November 15, 2013.
+These are some live notes from the Smithsonian Institution Archives of American Art symposium ["American Art History and Digital Scholarship: New Avenues of Exploration"](https://www.aaa.si.edu/american-art-history-and-digital-scholarship-new-avenues-of-exploration) on Friday November 15, 2013.
 
 Diane Zorich has also created a [great Storify page](http://storify.com/dzorich/american-art-history-and-digital-scholarship-1?utm_medium=sfy.co-twitter&utm_source=t.co&utm_campaign=&awesm=sfy.co_cUSj&utm_content=storify-pingback) of the very active [#AAHDS](https://twitter.com/search?q=aahds) twitter feed.
 
@@ -57,7 +57,7 @@ For example, if New York was the most-painted city in American landscapes, why w
 And if this surprises us (as it seemed to do for many in the auditorium), what does this say about lacunae in American art scholarship and about the assumptions that scholars have made about the grand narratives of American landscape painting?
 He ended with a call for museums to release their databases not just in web forms designed for single-record lookup, but in raw forms that allow utterly different kinds of processing.
 
-[iap]: http://americanart.si.edu/research/programs/inventory/
+[iap]: http://americanart.si.edu/research/inventories
 
 ## Computational Analysis of Andy Warhol's Flowers
 

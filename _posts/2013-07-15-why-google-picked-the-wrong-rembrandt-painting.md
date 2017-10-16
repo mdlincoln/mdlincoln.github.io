@@ -12,7 +12,7 @@ tags:
 
 [rembgoogle]: /assets/images-display/rembrandt_google_doodle.png "2013-07-15 Google doodle featuring Rembrandt's 1659 self-portrait now in the National Gallery of Art in Washington DC"
 
-Today's [Google doodle](http://www.google.com/doodles) celebrates Rembrandt van Rijn's birthday 407 years ago in Leiden, and features one of his haunting [late self-portraits](http://www.nga.gov/fcgi-bin/tinfo_f?acc=1937.1.72) that hangs today in the National Gallery of Art in Washington.
+Today's [Google doodle](http://www.google.com/doodles) celebrates Rembrandt van Rijn's birthday 407 years ago in Leiden, and features one of his haunting [late self-portraits](https://purl.org/nga/collection/artobject/79) that hangs today in the National Gallery of Art in Washington.
 
 Sadly, Google missed out on an opportunity to make an even more delightful visual pun with Rembrandt's slightly later c. 1665 self-portrait now in the Kenwood House in London, which features two circles that would fit perfectly into the middle of a large, painterly "G**oo**gle".
 
