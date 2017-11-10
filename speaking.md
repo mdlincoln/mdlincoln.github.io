@@ -3,6 +3,14 @@ title: Invited Speaking
 layout: default
 talks:
   - year: 2017
+    text: "Missing Data in Digital Provenance Research"
+    place: ArtTracks and the Digital Humanities Symposium
+    location: Carnegie Museum of Art, Pittsburgh
+    date: 6 November 2017
+    conference: false
+    short: false
+    invited: true
+  - year: 2017
     text: "From Document to Event: Challenges and Opportunities in Remodeling the Getty Provenance Index"
     place: "Golden Agents: Creative Industries and the Making of the Dutch Golden Age"
     location: "Huygens ING, Amsterdam"
