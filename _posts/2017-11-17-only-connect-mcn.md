@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MCN2017 and the Museum <-> Museum Gap
-date: 2017-11-10
+date: 2017-11-17
 tags:
 - LAM
 - conferences
