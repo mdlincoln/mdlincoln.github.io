@@ -1,7 +1,6 @@
 ---
 layout: post
-title: |
-  Where's the Connect? MCN2017 and the Museum <-> Museum Gap
+title: MCN2017 and the Museum <-> Museum Gap
 date: 2017-11-10
 tags:
 - LAM
@@ -12,7 +11,7 @@ As a first time attendee of MCN last week, I didn't know entirely what to expect
 The program was really quite diverse, and ranged from relatively technical discussions (sometimes dry; sometimes hilarious) to more meta-professional sessions that really did function as a kind of group therapy.
 The latter sessions were clearly necessary for many attendees.
 [Rachel Ropeik starkly describes][ropeik] how this year's MCN teemed with stories of disillusionment, marked by a distressing number of people talking about leaving the field.[^1]
-This post is an attempt to set Ropeik's trenchant observations next to some overarching questions from the pre-conference [Digital Provenance Symposium][dps] hosted by the Carnegie Museum of Art, and highlight some challenges I see for the community.
+This post is an attempt to set Ropeik's trenchant observations next to some overarching questions from the pre-conference [Digital Provenance Symposium][dps] hosted by the Carnegie Museum of Art, and how MCN and the musetech community are doing at actually building shared digital practices.
 
 [^1]: H/T to my UMD compatriot [Nicole Riesenberger for pointing me](https://twitter.com/NRiesenberger/status/931218839152529409) to Ropeik's post.
 
@@ -41,19 +40,19 @@ When it came to bits-on-the-ground technical work, there was lots of "here's wha
 But there was vanishingly little of "a group of us think this is the way to go and we're trying to get others to join, too"
 
 Now, there were some really important exceptions to this: workshops on IIIF, on database-backed publishing, and a session on what it means for museums to open-source.
-And I'm sad to say I had to leave before making the Friday session on collaborative digital projects.
+And I'm sad to say I had to leave before making the Friday session on collaborative digital projects that looks like it did touch on some of these questions more explicitly.
 But my overall impression solidified while I was listening to a [panel on funders' perspectives][funders_panel].
 Here, program officers from the Kress Foundation, the Knight Foundation, and the Pew Center for Arts & Heritage gathered to discuss what they look for in a grant application for digital and technology initiatives in museums.
 One member of the audience asked the $64,000 question: given museums' predilection to build their own bespoke services, how are funders shaping their calls to discourage "reinventing the wheel" and one-off projects, and instead encourage building of reusable systems and infrastructure?
 
-The response from the panel was (and I paraphrase): "When the community looks like it wants that, we'll be there to support it."
+The response from the panel was (and I paraphrase): "When the community looks like it really wants that, we'll be there to support it."
 
 [funders_panel]:  http://conference.mcn.edu/2017/profile.cfm?profile_name=session&master_key=5191A47A-A8AA-DE3B-F1A6-FC79409403BD&page_key=0244AE70-CFED-1DEC-42AB-9041A6F4885D&xtemplate&userLGNKEY=0
 
 [w3c]: https://www.w3.org/community/art/
 
 While one could grumble that this sets up a catch-22, it's hard to disagree with the assessment that MCN and the musetech community still doesn't seem ready to dive into the weeds about growing a _community of practice for building digital services and infrastructure that crosses institutional boundaries_.
-There were many presentations on lovely systems being constructed to serve institutional needs... but little discussion of what components of those systems could be re-deployed by sibling institutions for their own needs.
+There were many presentations on lovely systems being constructed to serve institutional needs (both staff-facing and visitor-facing)... but little discussion of what components of those systems could be re-deployed by sibling institutions for their own uses.
 
 [ch_api]: https://labs.cooperhewitt.org/2014/the-api-at-the-center-of-the-museum/
 
@@ -67,25 +66,25 @@ How do I support visitors and users who don't view my museum as the extent of th
 
 If MCN2017 wasn't taking strides towards addressing these questions, you could see those questions being asked between the lines in sessions like that on the challenges of open sourcing.
 Opening your data, or your source code, may ensure someone is able to access it... but it does not necessarily help them use it.
-For example, how do I implement the [Barnes' particular flavor of computer vision][barnes] for collections browsing, when it's been [baked into the same repository][barnes_gh] as their custom web interface, and I want to use my own existing pages?
+For example, how do I implement the [Barnes' particular flavor of computer vision][barnes] for collections browsing, when it's been [baked into the same repository][barnes_gh] as their custom web interface, rather than split out as its own service component?
 If I'm a visitor who wants to compare collections, how do I know if the [Williams College Museum of Art collections data][wcma_gh] uses the `culture` tag in the same way that the [Carnegie Museum of Art collections data][cmoa_gh] uses `nationality`?
 If I'm a curatorial assistant, do I really have to copy labels out of a PDF generated by a loaning museum's TMS into _my_ TMS by hand? (Raise your hand if you or someone you know has to do this regularly 👋)
 If I want fix some of these problems by working with nascent standards, how can I start to implement the [linked.art] model being established by the American Art Collaborative and the Getty, when it's just little old me and I have fifty other priorities on my to-do list?
 
 At the end of the day, looming over this need for museum-to-museum standards are the realities of understaffing and mixed-up priorities that Ropeik outlined.
-"Build a standard and implement it? In this economy!?"
+In other words: "Help build a standard _and_ implement it? In this economy!?"
 
 <blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">Sketchnotes from the <a href="https://twitter.com/hashtag/mcn2017?src=hash&amp;ref_src=twsrc%5Etfw">#mcn2017</a>-F27 session on collaborative digital projects, linked data and ... operationalizing? /cc <a href="https://twitter.com/ddegler?ref_src=twsrc%5Etfw">@ddegler</a> <a href="https://t.co/AfoeR3j5Q2">pic.twitter.com/AfoeR3j5Q2</a></p>&mdash; Jason Alderman (@justsomeguy) <a href="https://twitter.com/justsomeguy/status/929095662976815105?ref_src=twsrc%5Etfw">November 10, 2017</a></blockquote>
 
-But paradoxically, figuring out how to foster the kinds of communities that develop practical digital standards and tools could actually help the musetech community to dig itself out of the institutional traps that are plainly causing so much pain for the MCN community.
-Rather than acceding to requests to build fancy one-off solutions (the Getty, by the way, is massively guilty of this!), we can start pointing to the work of major communities that are making it practically possible to advocate for tool and standards reuse.
+But paradoxically, figuring out how to foster the kinds of communities that develop practical digital standards and tools could actually help the musetech community to dig itself out of the institutional traps that are plainly causing so much pain.
+Rather than acceding to requests to build fancy one-off solutions (the Getty, by the way, is massively guilty of this!) we can start pointing to the work of [growing communities][w3c] that are making it practically possible to advocate for tool and standards reuse.
 It can ensure that the major investments of staff time and brainpower that places like MoMA or the Getty can afford can _practically_ benefit much smaller institutions relying on a single "digital" staff member.
 
 I'm not yet sure if I'm coming to MCN2018.
 But I don't plan on fleeing the community quite yet.
 I'm hopeful it can turn towards building a community of shared digital practice that matches the incredible and aspirational community of social practice that it has fostered so well in the past few years.
 
-In the meantime, come chime in to the growing [linked.art] community :)
+In the meantime, come chime in on the growing [linked.art] community :)
 
 [linked.art]: http://linked.art
 
