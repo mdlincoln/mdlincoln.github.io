@@ -51,7 +51,7 @@ And last but not least, let's not forget the few, the proud, the SCSC participan
 
 [cwilder]: http://cdh.sc.edu/people/wilder
 
-[atkinson]: http://arthistory.uchicago.edu/faculty/atkinson
+[atkinson]: https://arthistory.uchicago.edu/faculty/profiles/atkinson
 
 [dbrown]: http://dbrownbeta.blogs.cultureplex.ca/
 
