@@ -11,7 +11,7 @@ As a first time attendee of MCN last week, I didn't know entirely what to expect
 The program was really quite diverse, and ranged from relatively technical discussions (sometimes dry; sometimes hilarious) to more meta-professional sessions that really did function as a kind of group therapy.
 The latter sessions were clearly necessary for many attendees.
 [Rachel Ropeik starkly describes][ropeik] how this year's MCN teemed with stories of disillusionment, marked by a distressing number of people talking about leaving the field.[^1]
-This post is an attempt to set Ropeik's trenchant observations next to some overarching questions from the pre-conference [Digital Provenance Symposium][dps] hosted by the Carnegie Museum of Art, and how MCN and the musetech community are doing at actually building shared digital practices.
+This post is an attempt to set Ropeik's trenchant observations next to some overarching questions from the pre-conference [Digital Provenance Symposium][dps] hosted by the Carnegie Museum of Art, and assess how MCN and the musetech community are doing at actually building shared digital practices.
 
 [^1]: H/T to my UMD compatriot [Nicole Riesenberger for pointing me](https://twitter.com/NRiesenberger/status/931218839152529409) to Ropeik's post.
 
@@ -37,7 +37,7 @@ Short answer: no.
 
 I did not see sustained discussions about museum-to-museum functions and processes at this conference.
 When it came to bits-on-the-ground technical work, there was lots of "here's what we do in _our_ museum."
-But there was vanishingly little of "a group of us think this is the way to go and we're trying to get others to join, too"
+But there was vanishingly little of "a group of us think this is the way to go and we're trying to get others to join, too."
 
 Now, there were some really important exceptions to this: workshops on IIIF, on database-backed publishing, and a session on what it means for museums to open-source.
 And I'm sad to say I had to leave before making the Friday session on collaborative digital projects that looks like it did touch on some of these questions more explicitly.
@@ -52,17 +52,18 @@ The response from the panel was (and I paraphrase): "When the community looks li
 [w3c]: https://www.w3.org/community/art/
 
 While one could grumble that this sets up a catch-22, it's hard to disagree with the assessment that MCN and the musetech community still doesn't seem ready to dive into the weeds about growing a _community of practice for building digital services and infrastructure that crosses institutional boundaries_.
-There were many presentations on lovely systems being constructed to serve institutional needs (both staff-facing and visitor-facing)... but little discussion of what components of those systems could be re-deployed by sibling institutions for their own uses.
+There were many presentations on lovely systems being constructed to serve institutional needs (both staff-facing and visitor-facing).
+But there was little discussion of what components of those systems could be re-deployed by sibling institutions for their own uses.
 
 [ch_api]: https://labs.cooperhewitt.org/2014/the-api-at-the-center-of-the-museum/
 
 This was a fascinating inversion of the drumbeat of the conference, which was "find out what your audience/visitors/users actually want."
-If it's crucial to acknowledge that "you are not your visitors", it's likewise important to recognize that visitors are not the only (or even the most predominant) users of your digital systems.
+If it's crucial to acknowledge that "you are not your visitors," it's likewise important to recognize that visitors are not the only (or even the most predominant) users of your digital systems.
 What should my services look like when my own museum and staff are the users?[^2]
 What should my services look like when other museums are my users?
 How do I support visitors and users who don't view my museum as the extent of the known universe, but want to aggregate my collections with other institutions?
 
-[^2]: [See Cooper Hewitt Labs on dogfooding their API][ch_api]
+[^2]: [See Cooper Hewitt Labs on dogfooding their API.][ch_api]
 
 If MCN2017 wasn't taking strides towards addressing these questions, you could see those questions being asked between the lines in sessions like that on the challenges of open sourcing.
 Opening your data, or your source code, may ensure someone is able to access it... but it does not necessarily help them use it.
