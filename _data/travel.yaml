@@ -3,3 +3,14 @@
   datestart: 2018-02-21 00:00:00 -0800
   dateend: 2018-02-24 00:00:00 -0800
   url: http://www.collegeart.org/programs/conference/
+- venue: The Networked Curator
+  location: Los Angeles
+  datestart: 2018-02-08 00:00:00 -0800
+  url: http://networkedcurator.doingdh.org
+- venue: |
+    Searching ThroughSeeing: Optimizing Computer Vision Technology for the Arts
+  location: The Frick Collection
+  datestart: 2018-04-12 00:00:00 -0800
+  dateend:  2018-04-13 00:00:00 -0800
+  url: https://www.frick.org/research/upcoming_symposia
+  
