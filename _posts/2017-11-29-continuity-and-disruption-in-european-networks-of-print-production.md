@@ -14,4 +14,4 @@ For those following along, you may recognize this question from a post I made se
 
 [Read the open access paper here!][purdue]
 
-[purdue]: (https://docs.lib.purdue.edu/artlas/vol6/iss3/2/)
+[purdue]: https://docs.lib.purdue.edu/artlas/vol6/iss3/2/
