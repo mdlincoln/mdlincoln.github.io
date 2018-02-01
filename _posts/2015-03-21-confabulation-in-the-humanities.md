@@ -7,6 +7,8 @@ tags:
 - Digital Humanities
 - Network Analysis
 - Humanities
+aside: |
+  Interested the more finished version of this research? [See my post about the published article a little over two years later.](/2017/11/29/continuity-and-disruption-in-european-networks-of-print-production.html)
 ---
 
 It's a tale as old as the "digital humanities" itself: skeptics rightly asking whether or not we are actually learning anything *new* by using quantitative approaches to historical questions.
