@@ -2,6 +2,11 @@
 title: Invited Speaking
 layout: default
 talks:
+  - year: 2018
+    text: "Linked Open Museum Data: Why Curators Should Care"
+    place: AAMC Networked Curator Workshop
+    location: Getty Research Institute, Los Angeles
+    date: 8 February 2018
   - year: 2017
     text: "Missing Data in Digital Provenance Research"
     place: ArtTracks and the Digital Humanities Symposium
