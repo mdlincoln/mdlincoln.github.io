@@ -3,6 +3,11 @@ layout: "post"
 title: | 
   Continuity and Disruption: Print Production Networks in _Artl@s Bulletin_
 date: "2017-11-29 22:50"
+tags:
+- art history
+- digital humanities
+- articles
+- network analysis
 ---
 
 A great special issue of the _Artl@s Bulletin_ on challenges and opportunities for art historical network analysis is now out, featuring [another component of my research into early modern etching & engraving networks][purdue].
