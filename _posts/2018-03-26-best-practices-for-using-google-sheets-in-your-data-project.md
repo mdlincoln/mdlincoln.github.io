@@ -66,7 +66,7 @@ But it sucks for data entry.
 No user should have to waste time duplicating rows and constantly reminding themselves which property names they need to target in order to fill out this sheet.
 By eliminating all empty cells, a "long" format also makes it much harder for an editor to visually assess how complete the reconciliation of some set of free text terms has been.
 
-On the other hand, a "wide" data format allows our editors to quickly tab through several columns, putting multiple AAT terms into one cell when needed (e.g. a painting made on canvas mounted on panel would need two AAT terms to describe it's "support") by separating them with a semicolon.
+On the other hand, a "wide" data format allows our editors to quickly tab through several columns, putting multiple AAT terms into one cell when needed (e.g. a painting made on canvas mounted on panel would need two AAT terms to describe its "support") by separating them with a semicolon.
 
 {% include figure.html src="/assets/images/wide_aat_table.png" caption="A 'wide' Google Sheet." %}
 
