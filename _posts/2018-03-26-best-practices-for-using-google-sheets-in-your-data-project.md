@@ -135,5 +135,5 @@ Naming individual worksheets and explicitly calling those names when running `go
 These sheets aren't a hardened production system for long-term data entry and storage.
 And I will be happy to leave them behind once our new production system is up and running.
 
-However, they are the right tool for the ad hoc jobs that we need to run _right now_ as we prepared to finally migrate these data into a "real" database.
+However, they are the right tool for the ad hoc jobs that we need to run _right now_ as we prepare to finally migrate these data into a "real" database.
 By combining easy iteration with just the right amount of data validation and formatting tools, and using a flexible approach to data reshaping that favors the editor workflow first and the data science workflow second, we got 90% of the user interface we needed with only 10% of the work of building one from scratch.
