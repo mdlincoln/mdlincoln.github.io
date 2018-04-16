@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Holding out for a CV Hero: The Frick Computer Vision Symposium"
+title: "Holding Out for a CV Hero: The Frick Computer Vision Symposium"
 date: "2018-04-16 10:39"
 tags:
 - art history
