@@ -68,3 +68,26 @@ Not just physical collections, though, but series of well-documented, specialize
   Alongside those solid datasets, I also think good white papers with lessons learned on projects like the early experiments the Frick has run with their photo archive will be invaluable as more institutions begin to develop projects and funding proposals.
 We need realistic numbers about how much training data is needed for certain tasks, expected accuracy rates, reasons for using packaged model training services like [Clarifai](https://www.clarifai.com/) vs. building your own with TensorFlow, and example workflows for assessing results and adding them into existing cataloging systems.
 I suspect that these kinds of solid practicalities will best help drive productive conversations about what ongoing models for collaboration will look like in this field.
+
+## Postscript
+
+Serendipitously, a [marvelous article by Rachel Sanger Buurma and Laura Heffernan on the pioneering quantitative literary work of Josephine Miles](https://modernismmodernity.org/forums/posts/search-and-replace) was making the rounds on Twitter today.
+One of their quotes from Miles (here talking about the contributions of Penny Gee, a punch card operator) struck a chord with me:
+
+>Later, Miles remembered Gee as "very smart and good" and—most importantly—a true collaborator, as opposed to those "IBM people from San Jose" who would arrive periodically to flatly ask, "What can we do to help you?" "I’ve never been able to connect with them," Miles explains, "though I did with Penny Gee. She really taught me."
+
+In my wrap-up remarks on the second day of the conference, I noted that there seemed to be no shortage of computer science and software engineering experts interested in collaborating.
+We heard many variations on "What can we do to help you?"
+However, comparatively few art historians in attendance seemed to be piping up with possible answers.
+The two things that computer vision offers out of the box - multi-label classification and visual search - are exciting for cultural heritage institutions because they have lots of implications for how those institutions catalog and serve their assets.
+But for many art historians, even the digitally curious, this just looks like a scaling up of the usual business.
+We find images, we write about them.
+What computer vision "can do to help us" seems, well, a bit boring at first glance.
+
+A much smaller handful of art historians are engaging with the more methodologically revolutionary affordances of explicitly-model-based historical argumentation.
+Diana Greenwald, for example, highlighted during our discussions at the Frick that the ability to count certain subjects across large image corpora could be an enormous boon for social art history.[^diana]
+I also hold out hopes that the right bouquet of customized models can help art historians begin to do the type of predictive modeling work that can capture varying histories of style akin to the kind of work that Ted Underwood has done on literary prestige.
+[It's the kind of work that I'm conducting right now with Sandra van Ginhoven as we work through the Getty Provenance Index databases](http://blogs.getty.edu/iris/predicting-the-past-digital-art-history-modeling-and-machine-learning/).
+But we long to turn our gaze from data about the production and movements of artworks to computationally consider their visual information as well.
+
+[^diana]: Not incidentally, Greenwald recently published an article on collecting artists that very explicitly uses model-based argumentation: "Colleague Collectors: A Statistical Analysis of Artists’ Collecting Networks in Nineteenth-Century New York," _Nineteenth-Century Art Worldwide_ 17, no. 1 (2018) <http://www.19thc-artworldwide.org/spring18/greenwald-on-artists-collecting-networks-in-nineteenth-century-new-york>
