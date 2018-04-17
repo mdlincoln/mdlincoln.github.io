@@ -30,7 +30,7 @@ But it also reminds us that such rates can be realistically evaluated against th
 The art historian in me was also fascinated by the way that this particular cuff/sheep error suggests lines of inquiry into fashion history as seen through portraiture from this period...
 
 - Speaking of interpretation, this another topic that I left the event wanting to learn more about.
-Deep learning interpretability is a hot topic in machine learning circles: how do we explain why a neural network made a classification for one particular image?
+[Deep learning interpretability is a hot topic in machine learning circles](https://distill.pub/2018/building-blocks): how do we explain why a neural network made a classification for one particular image?
 Moreover, can we "read" the internals of a successfully-trained model to understand what generic visual features allow it to distinguish between, for example, `Man` and `Woman` in nineteenth-century American portraiture?
 Because if so, I'd love to learn how those generic visual signals overlapped, or differed from, the signals distinguishing those tags in eighteenth-century vs. twentieth-century portraiture.
 Tools like pixel activations are letting us get some insight into the former.
