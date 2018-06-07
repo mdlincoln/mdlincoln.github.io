@@ -11,7 +11,7 @@ tags:
 
 These are some live notes from the Smithsonian Institution Archives of American Art symposium ["American Art History and Digital Scholarship: New Avenues of Exploration"](https://www.aaa.si.edu/american-art-history-and-digital-scholarship-new-avenues-of-exploration) on Friday November 15, 2013.
 
-Diane Zorich has also created a [great Storify page](http://storify.com/dzorich/american-art-history-and-digital-scholarship-1?utm_medium=sfy.co-twitter&utm_source=t.co&utm_campaign=&awesm=sfy.co_cUSj&utm_content=storify-pingback) of the very active [#AAHDS](https://twitter.com/search?q=aahds) twitter feed.
+Diane Zorich has also created a great Storify page of the very active [#AAHDS](https://twitter.com/search?q=aahds) twitter feed.
 
 *(Edit 2014-02-06): Diane has also now published her [formal report (PDF)](http://web.archive.org/web/20160821145657/http://www.aaa.si.edu/files/publications/symposium-report2014_ArchivesofAmericanArt.pdf) on the symposium.*
 
@@ -27,7 +27,7 @@ I've arranged it by session and paper, with a final section of random thoughts. 
 
 ## Photogrammar
 
-[Laura Wexler](https://twitter.com/laura_wexler) and [Lauren Tilton](https://twitter.com/NOLauren) presented their [Photogrammar] project that maps the locations of thousands of photographs taken during the Great Depression by the [Farm Security Administration][fsa]. 
+[Laura Wexler](https://twitter.com/laura_wexler) and [Lauren Tilton](https://twitter.com/NOLauren) presented their [Photogrammar] project that maps the locations of thousands of photographs taken during the Great Depression by the [Farm Security Administration][fsa].
 Though the conventional wisdom is that FSA photos focused on the south and the dustbowl region, a national map of the actual photograph locations immediately challenged this assumption, presenting quite a different, diversified picture of where photographs were taken.
 In Wexler's thoughtful words, the FSA project was not a document, but a *simulacrum* of the U.S. -- a representation without an "authentic" original.
 
@@ -42,18 +42,18 @@ In Wexler's thoughtful words, the FSA project was not a document, but a *simulac
 
 Particularly exciting was when Laura Tilton started giving us a tour thought the map.
 By visualizing the locations of each photograph, she made it clear you could closely track individual photographers as they moved across the country.
-Also interesting was confronting the legacy classification tag system that comes with these photos. 
-Intriguingly, different shots of the same scene could be sorted into completely different categories: 
+Also interesting was confronting the legacy classification tag system that comes with these photos.
+Intriguingly, different shots of the same scene could be sorted into completely different categories:
 a portrait-like image of a man is tagged "People as Such -- Middle-aged man", but an image of the *very same person* playing the piano becomes "Entertainment" -- how telling that formal, compositional changes can change completely our perception of the *content* of those images.
 
 ## Schematizing Landscape with the Inventory of American Paintings
 
-[David Sledge](https://twitter.com/djsledge__) ([Williams College](http://www.williams.edu/) represent!) wanted to see how he could use new tools and techniques to better contextualize images of American landscapes. 
+[David Sledge](https://twitter.com/djsledge__) ([Williams College](http://www.williams.edu/) represent!) wanted to see how he could use new tools and techniques to better contextualize images of American landscapes.
 He used the [Inventory of American Paintings][iap] compiled by the Smithsonian as a massive database of American landscape painting writ large.
 
-Sledge was particularly interested in understanding what locations American artists depicted. 
+Sledge was particularly interested in understanding what locations American artists depicted.
 By mining the metadata of the IAP, he could draw out interesting trends in the numbers of artists painting particular subjects at any one time, with results that served as an invitation to new research.
-For example, if New York was the most-painted city in American landscapes, why was Venice, Italy the second-most-painted? 
+For example, if New York was the most-painted city in American landscapes, why was Venice, Italy the second-most-painted?
 And if this surprises us (as it seemed to do for many in the auditorium), what does this say about lacunae in American art scholarship and about the assumptions that scholars have made about the grand narratives of American landscape painting?
 He ended with a call for museums to release their databases not just in web forms designed for single-record lookup, but in raw forms that allow utterly different kinds of processing.
 
@@ -63,12 +63,12 @@ He ended with a call for museums to release their databases not just in web form
 
 Marian Mazzone and Thomas Brady tried to apply computer image processing techniques in order to look at Andy Warhol.
 For an art historian not interested in attribution questions or in differentiating style (as Mazzone said tartly, "I don't need a computer to do that for me, I can use my eyes"), what can computer vision give to us?
-She turned to Warhol's flower series in part because there was a large body of materials (paintings as well as prints) to process, and since the images are based off of a single photograph, the differences between images can be more easily schematized and abstracted. 
+She turned to Warhol's flower series in part because there was a large body of materials (paintings as well as prints) to process, and since the images are based off of a single photograph, the differences between images can be more easily schematized and abstracted.
 
-Since computers are not (yet) useful for classifying "style", Marian decided to simplify and ask basic schematic visual questions like "color". 
-She wondered if we could detect patterns of changing artistic choices (e.g. color, rotation, scale) over a long series of works? 
-Thomas Brady, a computer science undergraduate who partnered with her on this project, discussed how they got the computer to quickly record the flower colors of all the series images. 
-Using this information, they were able to start counting up images with certain characteristics (flower size, flower color.) 
+Since computers are not (yet) useful for classifying "style", Marian decided to simplify and ask basic schematic visual questions like "color".
+She wondered if we could detect patterns of changing artistic choices (e.g. color, rotation, scale) over a long series of works?
+Thomas Brady, a computer science undergraduate who partnered with her on this project, discussed how they got the computer to quickly record the flower colors of all the series images.
+Using this information, they were able to start counting up images with certain characteristics (flower size, flower color.)
 Though Mazzone and Brady didn't share conclusions from these data today, they hope to combine this information with a network analysis of the movement of these images between galleries and collectors to see if any correlation can be found between formal properties and the exchange and distribution of these artworks.
 
 # Networks and Contexts
@@ -118,7 +118,7 @@ I did particularly like that they considered museum technology from an education
 
 ## Student Curators Online
 
-Richard Powell hates reading papers. 
+Richard Powell hates reading papers.
 
 Or rather, he clarifies, he is disappointed at seeing in an increasing number of undergraduate papers only a reflection of students' skill at pulling information from the internet, telling him little else about anything.
 So he has endeavored in his course on African American art to see how he could engage digital technology to reverse this trend.
@@ -133,7 +133,7 @@ Working with the Nasher Museum of Art at Duke University, he identified a group 
 
 Powell presented this material to his students as a research assignment.
 Their work was to identify objects that they would be interested in looking at and researching in depth.
-But they were not just to write about these works. 
+But they were not just to write about these works.
 They were to follow a process of formal analysis, external research, and articulating their own *personal, subjective reaction* to this work -- to add their own genuine content to our thinking about these works.
 
 The students were then supposed to compress that into just 500 words for their contribution to this website -- in other words, a catalog entry!
@@ -158,7 +158,7 @@ The virtual version of this room also makes the space more dynamic than possible
 Their site also chronicles Freer's world journeys to understand *wehre* these Peacock Room objects came from.
 Finally, users can add their own comments and tags to these works -- they report a German scholar alerting them to a dating error on one of their ceramic objects, which allowed them to make a correction in their own catalog system in the Smithsonian.
 
-The Peacock Room site has also been developed as an [iOS app](http://t.co/DqRDjy2g2H) with zoomable, interactive panoramas of the peacock room. 
+The Peacock Room site has also been developed as an [iOS app](http://t.co/DqRDjy2g2H) with zoomable, interactive panoramas of the peacock room.
 In a departure from the Warhol Museum, the Freer and Sackler want people to engage with their technology *while in front of the objects*.
 By doing so, they argue, they can allow visitors to "dive deep" into the collection information without having to clutter the room with labels or stationary computer kiosks to the detriment of the overall aesthetic experience of the space -- one of Freer's original priorities.
 (I'm glad to note that iPads are also loaned out for free to visitors who don't have their own!)

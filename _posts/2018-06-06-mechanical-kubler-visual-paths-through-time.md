@@ -31,11 +31,11 @@ Using [a R package I wrote to generate nearest-neighbor paths through numeric ma
 These ideal points in the VGG-18 feature space can't be directly translated back into images[^dream] - alone, they're just separate lists of 512 numbers.
 But it _is_ possible to search through the real objects to find those whose own 512-number long feature vectors are very close to the ideal points.
 
-[^dream]: Well, not without a lot of work. For more on what it entails to reverse-engineer new pixels out of feature vectors, see Chris Olah et al., “The Building Blocks of Interpretability,” Distill 3, no. 3 (March 6, 2018): e10, [doi:10.23915/distill.00010](https://doi.org/10.23915/distill.00010).
+[^dream]: Well, not without a lot of work. For more on what it entails to reverse-engineer new pixels out of feature vectors, see Chris Olah et al., “The Building Blocks of Interpretability,” Distill 3, no. 3 (March 6, 2018): e10, doi:[10.23915/distill.00010](https://doi.org/10.23915/distill.00010).
 
 [^vgg16]: Karen Simonyan and Andrew Zisserman, "Very Deep Convolutional Networks for Large-Scale Image Recognition," ArXiv:1409.1556 [Cs], September 4, 2014, <http://arxiv.org/abs/1409.1556>.
 
-{% include figure.html src="https://mechanical-kubler.github.io/assets/images/88735e8915ee1900340d62ec278018bf.png" caption="Visualizing the ideal path versus the less-straight path of real objects. (Note that the objects are actually much closer to the ideal path than they appear in this two-dimensional projection of the 512-dimensional space.)" %}
+{% include figure.html src="https://mechanical-kubler.github.io/assets/images/88735e8915ee1900340d62ec278018bf.png" caption="Visualizing the ideal linear path versus the less-straight path of real objects. (Note that the objects are actually much closer to the ideal path than they appear in this two-dimensional projection of the 512-dimensional space.)" %}
 
 So while it's impossible to see what  these "prime object" points look like, we can get a glimpse of that path via real objects acting as surrogates for those points.
 
