@@ -7,12 +7,12 @@ tags:
 - conferences
 ---
 
-On November 18-19th, 2016, the Huntington Library hosted a conference on ["Histories of Data and the Database"](http://www.huntington.org/historiesofdata/), convened by [Soraya de Chadarevian](http://socgen.ucla.edu/people/soraya-de-chadarevian/) and [Ted Porter](http://www.history.ucla.edu/faculty/theodore-porter) of UCLA. 
+On November 18-19th, 2016, the Huntington Library hosted a conference on ["Histories of Data and the Database"](http://www.huntington.org/historiesofdata/), convened by [Soraya de Chadarevian](http://socgen.ucla.edu/people/soraya-de-chadarevian/) and [Ted Porter](http://www.history.ucla.edu/faculty/theodore-porter) of UCLA.
 Their aims:
 
 >In the age of internet searches and social media, data has become hot—and not for the first time. An international group of historians will consider the promises, fears, practices, and technologies for recording and transmitting data in the 18th century to the present, including the implications for the lives of citizens and subjects.
 
-I did a [selective livetweet of the conference](https://storify.com/matthewdlincoln/histories); some even more selective reflections follow.
+I did a [selective livetweet of the conference](https://twitter.com/search?q=matthewdlincoln%20%23historiesofdata&src=typd); some even more selective reflections follow.
 
 This was a fun event to attend as an erstwhile DHer.
 While these talks suffered from no lack of thoughtful critique, they were free of the anxious signaling that accompanies a lot of DH-adjacent presentations (my own included) in which data has to be both problematized as well as defanged just enough to be used in the context of a humanistic question.
@@ -53,7 +53,7 @@ Jones looked in to this case because he was interested epistemic virtue signalin
 There is a cacophony of epistemic virtues being signaled by both critics and proponents of big data: that you don't need statistics; that you really do; that you must have specific domain expertise; that data is "theoryless" and thus domain expertise is irrelevant, etc.
 While Jones is particularly curious about this in the context of contemporary history and national security, I think it's a useful reminder for us in the digital humanities that some of the best critiques of data are actually being taken up in data science circles, and, as Ted Underwood frequently reiterates, that [statistics has its own historiography](https://doi.org/10.1177/2053951715602494) which humanists ignore at our own peril.
 
-[^bb]: Random forests are really only black-box-_ish_ because there _are_ some useful methods for visualizing the complex variable interactions that random forest models are so good at capturing, and which many scholars (humanists included) are so fond of asking for. 
+[^bb]: Random forests are really only black-box-_ish_ because there _are_ some useful methods for visualizing the complex variable interactions that random forest models are so good at capturing, and which many scholars (humanists included) are so fond of asking for.
     See, for example, the [forestfloor package](https://cran.r-project.org/package=forestFloor) for R.
 
 
