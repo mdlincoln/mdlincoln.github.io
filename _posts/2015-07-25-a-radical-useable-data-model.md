@@ -9,8 +9,7 @@ tags:
 ---
 
 Attendees of [Keystone DH][keydh] were just treated to a [fantastic keynote
-address by Miriam Posner][posner]. (You can also get a sense of the reaction:
-from the [`#keydh` Storify][storify]).
+address by Miriam Posner][posner].
 
 [posner]: http://miriamposner.com/blog/whats-next-the-radical-unrealized-potential-of-digital-humanities/
 
@@ -179,8 +178,6 @@ href="https://github.com/mdlincoln/radical_rdf">mdlincoln/radical_rdf</a></aside
 [keydh]: http://sceti.library.upenn.edu/KeystoneDH
 
 [sparql]: /2014/07/10/sparql-for-humanists.html
-
-[storify]: https://storify.com/upenn_lib/keystone-digital-humanities
 
 ***
 
