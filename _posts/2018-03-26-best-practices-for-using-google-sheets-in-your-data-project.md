@@ -54,13 +54,13 @@ By making our Google sheets slightly _un_-Tidy, we vastly increased quality of l
 [aat]: http://www.getty.edu/research/tools/vocabularies/aat/
 
 For example, one of our key tasks is reconciling dozens of free text fields to the [Getty's Art & Architecture Thesaurus][aat], a controlled vocabulary of cultural heritage concepts.
-Any given set of plain text terms about, say, artwork materials, has a one to many relationship with AAT concepts. 
+Any given set of plain text terms about, say, artwork materials, has a one to many relationship with AAT concepts.
 It might take anywhere from two to a dozen different terms to represent this free text via AAT.
 In a "Tidy" table, this would mean repeating the original plain text terms over multiple rows, pairing them with one AAT concept and one property type (e.g. materials, support type, object type, technique) per row.
 
 {% include figure.html src="/assets/images/long_aat_table.png" caption="A 'long' Google Sheet." %}
 
-This format makes it a breeze to programmatically join those terms back onto artwork records. 
+This format makes it a breeze to programmatically join those terms back onto artwork records.
 But it sucks for data entry.
 
 No user should have to waste time duplicating rows and constantly reminding themselves which property names they need to target in order to fill out this sheet.
@@ -100,7 +100,7 @@ It's commonly accepted that you should not use formatting like color or font fac
 This isn't wrong; from my perspective as the data scientist, formatting was useless for our data transformation code.
 
 However, it was _anything_ but useless for our editors.
-A spreadsheet is just like any graphical user interface. 
+A spreadsheet is just like any graphical user interface.
 Spatial, color, and other formatting cues are vital tools for facilitating user comprehension.
 In another data enhancement problem, we needed to link together disparate records that were actually talking about the same object.
 While a lot of this work could be automated through careful parsing of editorial notes, we still have a few thousand ambiguous cases where I couldn't match records through scripting alone.
@@ -137,3 +137,12 @@ And I will be happy to leave them behind once our new production system is up an
 
 However, they are the right tool for the ad hoc jobs that we need to run _right now_ as we prepare to finally migrate these data into a "real" database.
 By combining easy iteration with just the right amount of data validation and formatting tools, and using a flexible approach to data reshaping that favors the editor workflow first and the data science workflow second, we got 90% of the user interface we needed with only 10% of the work of building one from scratch.
+
+***
+
+_Update: 2018-06-11_
+
+I'm delighted to see this post featured in two great data science resources:
+
+- [Hadley Wickham's "Readings in Applied Data Science" course](https://github.com/hadley/stats337#readings)
+- [On a _DataFramed_ podcast interview with Jenny Bryan](https://www.datacamp.com/community/podcast/spreadsheets-data-science)
