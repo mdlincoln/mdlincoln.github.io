@@ -6,12 +6,9 @@ show_title: false
 
 <img id="headshot" height="250" width="250" src="/assets/images-display/getty_headshot.png" alt="mlincoln headshot" />
 
-I am a data research specialist at the [Getty Research Institute](http://www.getty.edu/research/), where I use computer-aided analysis of cultural datasets to help model long-term trends in iconography, art markets, and the social relations between artists.
+I am the digital humanities developer at the at the [dSHARP lab at Carnegie Mellon University](http://dsharp.library.cmu.edu/), where I collaborate with scholars to plan and implement computational approaches to humanities research.
 
-[Read more about the Getty Provenance Index Remodel Project](http://www.getty.edu/research/tools/provenance/provenance_remodel/index.html).
-
-I received my PhD in Art History at the [University of Maryland, College Park](http://arthistory.umd.edu/graduate-students/Matthew%20Lincoln).
-For my [dissertation](/dissertation) research, I used computational network analysis to explore the long-term changes in the organization of print designers, engravers, and publishers in the Netherlands between 1500--1700.
+My current book project with Sandra van Ginhoven uses [data-driven analysis to illuminate patterns in the history of the art market and collecting](http://blogs.getty.edu/iris/predicting-the-past-digital-art-history-modeling-and-machine-learning/). (Forthcoming, Getty Publications)
 
 [Contact me about speaking at your institution!](/speaking)
 
