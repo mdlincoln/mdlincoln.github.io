@@ -78,7 +78,7 @@ talks:
     invited: true
 ---
 
-I'm delighted to come speak at your institution about **digital art history**, the use and abuse of **network analysis and machine learning** in historical study, as well as **collections data infrastructure for supporting research**. Contact me at [@matthewdlincoln](https://twitter.com/matthewdlincoln) or by [email](&#109;&#097;&#105;&#108;&#116;&#111;:&#109;&#108;&#105;&#110;&#099;&#111;&#108;&#110;&#064;&#103;&#101;&#116;&#116;&#121;&#046;&#101;&#100;&#117;)!
+I'm delighted to come speak at your institution about **digital art history**, the use and abuse of **network analysis and machine learning** in historical study, as well as **collections data infrastructure for supporting research**. Contact me at [@matthewdlincoln](https://twitter.com/matthewdlincoln) or by [email](mailto:mlincoln@andrew.cmu.edu)!
 
 ## Recent invited lectures
 
