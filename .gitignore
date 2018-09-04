@@ -3,3 +3,6 @@ _site
 _drafts
 .jekyll-metadata
 tmp/
+
+.bundle/
+vendor/
