@@ -17,7 +17,7 @@ I... actually don't have a problem with what the Tate is doing.
 {% include figure.html src='/assets/images/tate_pollock_wikipedia.png' caption="A screenshot of the Tate's citation of Wikipedia [on an overview web page for Jackson Pollock](https://www.tate.org.uk/art/artists/jackson-pollock-1785)." %}
 
 Except for a few unique institutions founded around a single artist's estate, very few art museums really have the authority, or, frankly, the mission, to be _authorities on the biographies of the artist in their collections_.
-It would be one thing if the Tate were deferring to Wikipedia articles about the unique objects within it's collection.
+It would be one thing if the Tate were deferring to Wikipedia articles about the unique objects within its collection.
 [Bendor Grovesnor erroneously suggests that the Tate copying and pasting this for their collection catalog entries](https://twitter.com/arthistorynews/status/1038383135556358144), but they are not.
 Instead, they're using it for that most unsatisfying categories of copy expelled by art museums: the artist biography.
 
