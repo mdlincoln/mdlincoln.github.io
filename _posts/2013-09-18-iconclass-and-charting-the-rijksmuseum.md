@@ -39,11 +39,11 @@ Reviewing the early publication of the Iconclass index in 1977,[^becker] Jochen 
 [^becker]: Becker, Jochen. "Review of Iconclass: An Iconographic Classification System by H. van de Waal; L. D. Couprie; R. H. Fuchs; E. Tholen." *Simiolus: Netherlands Quarterly for the History of Art* 9, no. 1 (January 1, 1977): 45–47. [doi:10.2307/3780424](http://dx.doi.org/10.2307/3780424).
 
 This computerization would come to pass under the auspices of the [Rijksbureau voor Kunsthistorische Documentatie](http://www.rkd.nl) in the late 2000s, with several institutions such as the [Rijksmuseum](http://rijksmuseum.nl) classifying their collections using the scheme and using it to aid in searching their works. Even in his review thirty years earlier, Becker predicts the benefits of such computerization:
-	
+
 > Most importantly, questions and answers would no longer have to be linear. Let us take as an example a question about "broken jugs" (`33C4211`) -- what has been written on this theme? Alternatively, the question might be where the theme of the "broken jug" may be found depicted, as well as where it occurs in primary and secondary sources. ... If there were an appropriate computer program and store, the question could be much more specific -- where would one find "broken jugs" in 18th century French art, and are there any reference? What about the 17th-century Netherlands? Does the "broken" jug theme occur in pottery? In the school of Rembrandt?
 
 <figure>
-<a href="http://www.rijksmuseum.nl/media/assets/SK-C-216"><img src="/assets/images-display/rembrandt_isaac_rebekah.png" alt="Rembrandt, Portrait of a Couple as Isaac and Rebekah"/></a>
+<a href="https://www.rijksmuseum.nl/en/collection/SK-C-216"><img src="/assets/images-display/rembrandt_isaac_rebekah.png" alt="Rembrandt, Portrait of a Couple as Isaac and Rebekah"/></a>
 <figcaption>Rembrandt van Rijn, <i>Portrait of a Couple as Isaac and Rebekah</i>, c. 1664-1669, Rijksmuseum, Amsterdam.</figcaption>
 </figure>
 
@@ -58,7 +58,7 @@ Iconclass is specifically structured to allow the search and retrieval of visual
 
 This built-in hierarchy allows a kind of "fuzzy search" for related images. From an image of Isaac and Rebekah, I could also find images of other Genesis stories, or of the Old Testament even more generally, or of the Bible more generally still.
 
-While Becker's questions remain important, they can essentially be resolved by performing individual lookups on an image database categorized according to Iconclass. While this process may certainly be aided by computers, it is nothing that a persistent scholar couldn't do with printed indexes and a good pencil and notebook (not to mention hermetic focus and patience.) Yet the contributions of computerized records and indexes need not be limited to *speeding* regular queries. They offer entirely new paradigms for using this data. 
+While Becker's questions remain important, they can essentially be resolved by performing individual lookups on an image database categorized according to Iconclass. While this process may certainly be aided by computers, it is nothing that a persistent scholar couldn't do with printed indexes and a good pencil and notebook (not to mention hermetic focus and patience.) Yet the contributions of computerized records and indexes need not be limited to *speeding* regular queries. They offer entirely new paradigms for using this data.
 
 In the past year, the Rijksmusem in Amsterdam has opened not only their images, but all the associated data of more than 100,000 objects from their collection, for open download and manipulation. This publication of a vast trove of structured, computer-readable information allows us to ask questions that Becker did not consider in the 70s. We have the capacity to do large-scale analysis of *all of this data at once*. By essentially counting paintings, rather than trying to look closely at each and every one them, can we visualize decades- or centuries-long trends in art history?
 
