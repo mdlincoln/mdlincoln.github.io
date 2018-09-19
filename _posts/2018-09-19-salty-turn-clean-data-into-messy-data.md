@@ -18,7 +18,7 @@ clean data with problems often found in datasets in the wild, such as:
   - unpredictable punctuation in numeric fields
   - missing values or empty strings
 
-{% include figure.html src="/assets/images/tron_salt_bae.gif" %}
+{% include figure.html src="/assets/images/tron_salt_bae.gif" caption="Salt Bae 5000" %}
 
 ## Installation
 
