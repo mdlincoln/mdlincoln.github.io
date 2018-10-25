@@ -5,6 +5,6 @@
   url: http://calendar.duke.edu/show?fq=id%3ACAL-2c918085-65748a7f-0165-86d53cf2-00004131demobedework%40mysite.edu
 - venue: The Curatorial Voice
   location: University of Sussex
-  datestart: 2019-02-26
-  dateend: 2019-02-27
+  datestart: 2019-02-26 00:00:00 -0800
+  dateend: 2019-02-27 00:00:00 -0800
   url: https://curatorialvoice.github.io/
