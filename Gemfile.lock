@@ -16,7 +16,7 @@ GEM
     colorize (0.8.1)
     commonmarker (0.17.13)
       ruby-enum (~> 0.5)
-    concurrent-ruby (1.0.5)
+    concurrent-ruby (1.1.1)
     dnsruby (1.61.2)
       addressable (~> 2.5)
     em-websocket (0.5.1)
@@ -220,7 +220,7 @@ GEM
     octokit (4.13.0)
       sawyer (~> 0.8.0, >= 0.5.3)
     parallel (1.12.1)
-    pathutil (0.16.1)
+    pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (2.0.5)
     rb-fsevent (0.10.3)
@@ -259,4 +259,4 @@ DEPENDENCIES
   jekyll-redirect-from
 
 BUNDLED WITH
-   1.16.4
+   1.16.5
