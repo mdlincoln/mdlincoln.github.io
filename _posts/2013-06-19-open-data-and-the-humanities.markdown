@@ -10,7 +10,7 @@ tags:
 - Digital Humanities
 ---
 
-Tim Sherratt's [keynote address to the Digisam conference](http://wraggelabs.com/shed/presentations/digisam/#/text) on Open Heritage Data in the Nordic Region (entitled "A map and some pins") is helping me cope with some of my own frustratingly messy data:
+Tim Sherratt's [keynote address to the Digisam conference](http://web.archive.org/web/20160603234838/http://wraggelabs.com/shed/presentations/digisam/#/text) on Open Heritage Data in the Nordic Region (entitled "A map and some pins") is helping me cope with some of my own frustratingly messy data:
 
 
 > One of the things I love about being a historian is that the more we focus in on the past the more complicated it gets. People don’t always do what we expect them to, and that’s both infuriating and wonderful.

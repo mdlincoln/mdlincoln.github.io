@@ -7,7 +7,7 @@ tags:
 - conferences
 ---
 
-On November 18-19th, 2016, the Huntington Library hosted a conference on ["Histories of Data and the Database"](http://www.huntington.org/historiesofdata/), convened by [Soraya de Chadarevian](http://socgen.ucla.edu/people/soraya-de-chadarevian/) and [Ted Porter](http://www.history.ucla.edu/faculty/theodore-porter) of UCLA.
+On November 18-19th, 2016, the Huntington Library hosted a conference on ["Histories of Data and the Database"](http://web.archive.org/web/20161121223723/http://www.huntington.org/historiesofdata/), convened by [Soraya de Chadarevian](http://socgen.ucla.edu/people/soraya-de-chadarevian/) and [Ted Porter](http://www.history.ucla.edu/faculty/theodore-porter) of UCLA.
 Their aims:
 
 >In the age of internet searches and social media, data has become hot—and not for the first time. An international group of historians will consider the promises, fears, practices, and technologies for recording and transmitting data in the 18th century to the present, including the implications for the lives of citizens and subjects.
