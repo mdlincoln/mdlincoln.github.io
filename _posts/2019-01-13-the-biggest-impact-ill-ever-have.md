@@ -8,7 +8,7 @@ tags:
 - R
 ---
 
-[^abrupt]: For better or worse, _all_ messages from CRAN tend to be abrupt.
+[^abrupt]: For better or worse, [_all_ messages from CRAN tend to be abrupt](http://r-pkgs.had.co.nz/release.html#release-submission).
 
 [clipr]: https://github.com/mdlincoln/clipr
 
