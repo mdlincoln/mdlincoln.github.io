@@ -172,7 +172,7 @@ She also raised the dangers of an overly-slick app that gives a directed, simpli
 
 Joan Saab discussed the evolution of the platform [Scalar], a free open-source platform that allows authors to write born-digital (and non-linear) scholarship online.
 
-[Scalar]: http://scalar.usc.edu/scalar/
+[Scalar]: https://scalar.me/anvc/scalar/
 
 Her own project followed the dissemination of the mural imagery of David Alfaro Siqueiros, a project she has come to call *Searching for Siqueiros*.
 One of the exciting challenges of this project was the multimedia nature of Siqueiros reception -- not just books and articles, but film, posters, blogs, even Facebook pages.

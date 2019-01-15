@@ -7,7 +7,7 @@ tags:
 - conferences
 aside: |
   I'm publishing my position statement for ["Arguing with Digital History"](https://rrchnm.org/news/arguing-with-digital-history-workshop-to-address-a-central-problem-in-digital-history/), a workshop being held at George Mason University in September. We were asked to respond to the following questions:
-  
+
   - How is argumentation in digital history different from other forms of history, and how is it the same?
   - Should DH argumentation be inherently disciplinary, or should it be interdisciplinary?
   - Why is there not more digital history that makes explicit arguments in conversation with the scholarly literature, for an academic audience? What are the barriers to making arguments in digital history? If possible, include examples from your projects.
@@ -59,6 +59,6 @@ It is far less common (in _history_, at least) to see collaborative teams of a h
 A final note on digital presentation of these arguments:
 While I am very interested to see how thoughtfully-implemented interactivity can help explain the methodology behind an article (for example, [this explanation of decision tree construction](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)), I am less convinced that interactivity is useful for presenting the results of an analysis.
 Historical argumentation relies on selectivity and framing - not a strength of "open ended" visualization tools like infinitely zooming graphs or continually scrolling maps.
-I suspect the more successful forms of scholarly argument will actually hew _closer_ to linear argumentation than non-linear approaches such as [Scalar](http://scalar.usc.edu/scalar/).
+I suspect the more successful forms of scholarly argument will actually hew _closer_ to linear argumentation than non-linear approaches such as [Scalar](https://scalar.me/anvc/scalar/).
 
 [^prestige]: One touchstone example in my own scholarly development has been Ted Underwood and Jordan Sellers, “How Quickly Do Literary Standards Change?,” 2015, doi:[10.6084/m9.figshare.1418394](http://dx.doi.org/10.6084/m9.figshare.1418394).
