@@ -1,7 +1,7 @@
 ---
 layout: post
 title: |
-  The biggest impact I'll ever have
+  Little package, big dependency
 date: 2019-01-13 16:26:12
 tags:
 - code
@@ -13,7 +13,7 @@ tags:
 [clipr]: https://github.com/mdlincoln/clipr
 
 Last week, I got an abrupt message from CRAN, the R community package repository.[^abrupt]
-Due to [a bothersome property of the way clipboards work on some Linux systems](https://github.com/mdlincoln/clipr/issues/38), a little package I wrote a few years ago - [clipr] - to provide cross-platform functions for reading from and writing to the clipboard from R was now in danger of being removed from CRAN.
+Due to [a bothersome property of the way clipboards work on some Linux systems](https://github.com/mdlincoln/clipr/issues/38), [clipr], a little package I wrote a few years ago to provide cross-platform functions for reading from and writing to the clipboard from R, was now in danger of being summarily removed from CRAN.
 
 This is not the first time that I've had to go back in and fix up problems with clipr.
 You'd think that a package that has two basic core functions, `read_clip` and `write_clip`, would not need all that much development after its initial release.
@@ -35,4 +35,7 @@ Now, this was hardly a Manhattan Project's worth of effort.
 A few hours of coding, mostly spent on trying to engieer and run the right tests on multiple systems, fixed us up just fine.
 But it was sobering to realize the sheer number of computers that had now downloaded this tiny library, and would continue to download it as part of its integration with the tidyverse.
 
-It was, and will continue to be, far, far more than have ever downloaded my academic papers
+It was, and will certainly continue to be, far, far more than have ever downloaded my academic papers.
+By sheer numbers, it probably even beats the eyes on my techincal work on [_The Programming Historian_](https://programminghistorian.org/).
+And it's been funny for me to think about this in the context of my recent job shift from the Getty to Carnegie Mellon University - from the world of art historical post-doc-ery to being a research programmer and software developer for the libraries and the humanities college here.
+There is little reason to try and produce a minimally-functioning "piece of scholarship".
