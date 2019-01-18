@@ -57,7 +57,7 @@ Like most network analysis, we start with an [edge table][edge_table] for your n
 You may also have an additional table of [node attributes][node_table]; in my case, I am using a table with the birth years for each artist.
 I will use the [igraph] package to augment these tables with calculated network statistics.
 
-[print_networks]: /dissertation/
+[print_networks]: /dissertation
 
 [edge_table]: https://github.com/mdlincoln/adjacency_plot/blob/master/data/csv/goltzius_edges.csv
 
