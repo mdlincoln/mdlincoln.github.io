@@ -22,4 +22,4 @@ Two things really stand out for me on this map.
 
 2. Take a look at the Zuider Zee as described by Hondius is 1611, and compare it to the coastline now to see just how extensively the Dutch have reshaped the contours of their country. What is quite amazing is how much of this land had been reclaimed as early as the mid-seventeenth century.
 
-If you want to geo-reference your own historical maps, take a look as these tutorials for doing it in [ArcGIS](http://spatialhistory.wordpress.com/2013/08/14/georeferencing-historic-maps-going-further/) or [QGIS](http://qgis.spatialthoughts.com/2012/02/tutorial-georeferencing-topo-sheets.html) (the free, open-source alternative to ArcGIS).
+If you want to geo-reference your own historical maps, take a look as these tutorials for doing it in [ArcGIS](http://spatialhistory.wordpress.com/2013/08/14/georeferencing-historic-maps-going-further/) or [QGIS](https://www.qgistutorials.com/en/docs/georeferencing_basics.html) (the free, open-source alternative to ArcGIS).
