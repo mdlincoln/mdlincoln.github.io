@@ -5,4 +5,4 @@ These are the markdown files and template for my blog, reachable at <https://mat
 
 ***
 
-[Matthew D. Lincoln](https://matthewlincoln.net) | Getty Research Institute, Los Angeles
+[Matthew D. Lincoln](https://matthewlincoln.net)
