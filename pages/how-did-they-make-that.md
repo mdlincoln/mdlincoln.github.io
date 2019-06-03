@@ -24,7 +24,6 @@ The following are links to various software, services, and resources that I used
 
 ## Command line tools
 
-- [Intro to the command line](http://cli.learncodethehardway.org/book/)
 - [curl](https://curl.haxx.se/): download JSON from Rijksmuseum API
 - [parallel](https://www.gnu.org/software/parallel/parallel_tutorial.html#GNU-Parallel-Tutorial): run lots of curl calls at once, to download from the Rijksmuseum more efficiently
 - [jq](https://stedolan.github.io/jq/): Parse JSON into CSV files

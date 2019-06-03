@@ -51,4 +51,4 @@ Balancing between the scholarly drive to extend the possibilities of our communi
 clipr isn't nearly interesting enough to be part of that work directly, being at once way too small and also way too big.
 But it's a nice, and now very popular, mile-marker for me to think about when designing the work that we are going to build out here.
 
-[^rsk]: Rebecca Sutton Koeser and Benjamin Hicks spoke about this last summer: "Bridging Digital Humanities Internal and Open Source Software Projects through Reusable Building Blocks" (DH 2018, Mexico City: Alliance of Digital Humanities Organizations, 2018), <https://dh2018.adho.org/en/bridging-digital-humanities-internal-and-open-source-software-projects-through-reusable-building-blocks/>.
+[^rsk]: Rebecca Sutton Koeser and Benjamin Hicks spoke about this last summer: "Bridging Digital Humanities Internal and Open Source Software Projects through Reusable Building Blocks" (DH 2018, Mexico City: Alliance of Digital Humanities Organizations, 2018), <https://cdh.princeton.edu/updates/2018/06/29/dh2018-reusable-software/>.
