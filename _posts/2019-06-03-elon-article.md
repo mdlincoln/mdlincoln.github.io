@@ -1,7 +1,7 @@
 ---
 layout: post
 title: |
-  Little package, big dependency
+  Reading the art market with machines
 date: 2019-06-03 13:26:12
 tags:
 - art history
