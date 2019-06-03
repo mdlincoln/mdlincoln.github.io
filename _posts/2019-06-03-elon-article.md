@@ -4,7 +4,8 @@ title: |
   Little package, big dependency
 date: 2019-06-03 13:26:12
 tags:
-- research
+- art history
+- humanities
 ---
 
 A few months back I had the pleasure of speaking to students at Elon University.
