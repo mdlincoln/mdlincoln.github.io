@@ -4,11 +4,6 @@
   datestart: 2020-02-06 00:00:00 -0800
   dateend: 2020-02-07 00:00:00 -0800
   url: https://sites.haa.pitt.edu/digitalcriticalmethods/sawyer-seminar-ay-2019-2020/
-- venue: ACH Annual Conference
-  location: Pittsburgh
-  datestart: 2019-07-23 00:00:00 -0800
-  dateend: 2019-07-26 00:00:00 -0800
-  url: http://ach2019.ach.org/
 - venue: |
     Network Analysis + Digital Art History: A Getty Advanced Workshop
   location: Pittsburgh
@@ -19,3 +14,7 @@
   location: Washington, DC
   datestart: 2019-10-24 00:00:00 -0800
   dateend: 2019-10-25 00:00:00 -0800
+- venue: Department of Art History
+  location: Princeton University
+  datestart: 2019-10-16 00:00:00 -0800
+  dateend: 2019-10-17 00:00:00 -0800
