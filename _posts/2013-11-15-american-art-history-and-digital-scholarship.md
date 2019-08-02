@@ -158,7 +158,7 @@ The virtual version of this room also makes the space more dynamic than possible
 Their site also chronicles Freer's world journeys to understand *wehre* these Peacock Room objects came from.
 Finally, users can add their own comments and tags to these works -- they report a German scholar alerting them to a dating error on one of their ceramic objects, which allowed them to make a correction in their own catalog system in the Smithsonian.
 
-The Peacock Room site has also been developed as an [iOS app](http://t.co/DqRDjy2g2H) with zoomable, interactive panoramas of the peacock room.
+The Peacock Room site has also been developed as an iOS app with zoomable, interactive panoramas of the peacock room.
 In a departure from the Warhol Museum, the Freer and Sackler want people to engage with their technology *while in front of the objects*.
 By doing so, they argue, they can allow visitors to "dive deep" into the collection information without having to clutter the room with labels or stationary computer kiosks to the detriment of the overall aesthetic experience of the space -- one of Freer's original priorities.
 (I'm glad to note that iPads are also loaned out for free to visitors who don't have their own!)
