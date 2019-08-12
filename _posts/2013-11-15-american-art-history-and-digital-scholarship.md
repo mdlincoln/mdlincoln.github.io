@@ -207,7 +207,7 @@ This linking allows the authors to bring so much more evidence to bear on their 
 
 ## Art History Online
 
-Emily Pugh (also of CASVA), discussed the digital research and publishing initiative that is [*Nineteenth-Century Art Worldwide*](http://19thc-artworldwide.org), an open-access, online, peer-reviewed publication supported by the Mellon Foundation.
+Emily Pugh (also of CASVA), discussed the digital research and publishing initiative that is [*Nineteenth-Century Art Worldwide*](https://19thc-artworldwide.org), an open-access, online, peer-reviewed publication supported by the Mellon Foundation.
 While not seeking to change the format of the journal as a whole, they decided they wanted to devote at least one article per issue to scholarship whose generation and presentation involved digital tools.
 You can see their [standing CFP for digital art history projects here](http://19thc-artworldwide.org/call-for-proposals).
 

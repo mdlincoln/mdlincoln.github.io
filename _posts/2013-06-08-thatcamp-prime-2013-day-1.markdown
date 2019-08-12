@@ -50,7 +50,7 @@ Some bullet points from my personal experience of [THATCamp Prime 2013](http://c
 *(edit) Leftover links I forgot from yesterday:*
 
 
-- *Debates in the Digital Humanities* (University of Minnesota Press, 2012) can now be read on a [slick online site](http://dhdebates.gc.cuny.edu/debates) that allows for collaborative annotation and indexing. Even better, its plaform is [available on GitHub](https://github.com/castiron/didh)
+- *Debates in the Digital Humanities* (University of Minnesota Press, 2012) can now be read on a [slick online site](http://dhdebates.gc.cuny.edu) that allows for collaborative annotation and indexing. Even better, its plaform is [available on GitHub](https://github.com/castiron/didh)
 
 - [Digital Humanities Now](http://digitalhumanitiesnow.org), a weekly showcase of DH news, projects, and job postings.
 
