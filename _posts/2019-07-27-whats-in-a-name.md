@@ -6,6 +6,7 @@ date: 2019-07-27 13:26:12
 tags:
 - code
 - digital humanities
+- us-rse
 aside: |
   This post comes out of a talk I gave at a roundtable on ["The State of Digital Humanities Software Development"](https://www.conftool.org/ach2019/index.php?page=browseSessions&form_session=139&presentations=show) at the ACH conference in Pittsburgh on July 26th, 2019.
   The purpose of the panel was to bring together DH software devs from different contexts and at different points in their careers in order to discuss key challenges and questions about how we practice software development and data science support in the digital humanities.
