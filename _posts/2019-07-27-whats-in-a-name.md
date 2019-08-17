@@ -105,6 +105,6 @@ When PIs see how including developer time consumes a surprisingly large amount o
 This is totally understandable on the part of the PI.
 When this cutting drops us into the uncanny valley, though, I'll propose instead to substantially change my involvement so that we drop down into the "short engagement" green zone.
 I might suggest that I aid in a limited, but intensive architecture workshop with them to whiteboard out a project plan.
-But I would not commit to actually executing that plan on that particular grant, instead suggesting that they use that white-boarding, along with their other wok on that grant, to get the project to a state where it can afford fuller software development work.
+But I would not commit to actually executing that plan on that particular grant, instead suggesting that they use that white-boarding, along with their other work on that grant, to get the project to a state where it can afford fuller software development work.
 
 By framing this conversation in a productive manner, demonstrating why I don't want to consume a project's budget without being able to deliver something that will be useful to the project team, we've been able to effectively stay out of the uncanny valley.
