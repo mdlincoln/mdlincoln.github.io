@@ -26,7 +26,7 @@ collections:
       - name: "tags"
         label: "Tags"
         widget: "select"
-        options: ["academia", "art_history", "articles", "books", "code", "computer_vision", "conferences", "data", "digital_humanities", "gis", "humanities", "lam", "network_analysis", "publishing", "r", "teaching", "thatcamp", "us-rse", "visualization"]
+        options: ["Academia", "Art History", "Articles", "Books", "Code", "Computer Vision", "Conferences", "Data", "Digital Humanities", "GIS", "Humanities", "LAM", "Network Analysis", "Publishing", "R", "Teaching", "THATCamp", "US-RSE", "Visualization"]
         multiple: true
       - name: "aside"
         label: "Aside"
