@@ -1,11 +1,9 @@
----
----
 backend:
   name: github
   repo: mdlincoln/mdlincoln.github.io
 publish_mode: editorial_workflow
 media_folder: "assets/images"
-public_folder: "{{ 'assets/images' | relative_url }}"
+public_folder: "assets/images"
 site_url: https://matthewlincoln.net
 display_url: https://matthewlincoln.net
 collections:
