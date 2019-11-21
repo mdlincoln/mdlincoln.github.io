@@ -1,13 +1,13 @@
 entries:
-  - venue: |
-      Sawyer Seminar: "Information Ecosystems"
+  - dateend: Invalid date
+    datestart: '2020-02-06 00:02:00 -05:00'
     location: University of Pittsburgh
-    datestart: 2020-02-06 00:00:00 -0800
-    dateend: 2020-02-07 00:00:00 -0800
-    url: https://www.infoecosystems.pitt.edu/
-  - venue: Penn DREAM LAB 2020
+    url: 'https://www.infoecosystems.pitt.edu/'
+    venue: |
+      Sawyer Seminar: "Information Ecosystems"
+  - dateend: '2020-06-04 00:06:00 -04:00'
+    datestart: '2020-06-01 00:06:00 -04:00'
     location: |
       University of Pennsylvania, Philadelphia
-    datestart: 2020-06-01 00:00:00 -0800
-    dateend: 2020-06-04 00:00:00 -0800
-    url: http://web.sas.upenn.edu/dream-lab/tidydataforhumanists/
+    url: 'http://web.sas.upenn.edu/dream-lab/tidydataforhumanists/'
+    venue: Penn DREAM LAB 2020
