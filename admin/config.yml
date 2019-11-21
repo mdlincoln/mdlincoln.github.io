@@ -51,6 +51,6 @@ collections:
               - {name: venue, label: venue, widget: string}
               - {name: location, label: location, widget: string}
               - {name: url, label: url, widget: string}
-              - {name: datestart, label: Start date, widget: datetime, format: YYYY-MM-DD HH:MM:SS Z}
-              - {name: dateend, label: End date, widget: datetime,default: "", format: YYYY-MM-DD HH:MM:SS Z}
+              - {name: datestart, label: Start date, widget: datetime}
+              - {name: dateend, label: End date, widget: datetime,default: "", required: false}
 
