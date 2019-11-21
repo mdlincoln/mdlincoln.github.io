@@ -52,5 +52,5 @@ collections:
               - {name: location, label: location, widget: string}
               - {name: url, label: url, widget: string}
               - {name: datestart, label: datestart, widget: datetime}
-              - {name: dateend, label: dateend, widget: datetime}
+              - {name: dateend, label: dateend, widget: datetime, required: false}
 
