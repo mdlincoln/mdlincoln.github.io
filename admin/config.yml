@@ -36,7 +36,9 @@ collections:
         label: "Aside"
         widget: markdown
         required: false
-  - name: Settings
+  - name: settings
+    label: Settings
+    description: Site settings
     files:
       - label: Travel
         name: travel
