@@ -23,12 +23,8 @@ collections:
       - name: body
         label: Content
         widget: markdown
-      - name: layout
-        label: Layout
-        widget: hidden
-        default: post
-      - name: "tag"
-        label: "Tag"
+      - name: "tags"
+        label: "Tags"
         widget: "select"
         options: ["academia", "art_history", "articles", "books", "code", "computer_vision", "conferences", "data", "digital_humanities", "gis", "humanities", "lam", "network_analysis", "publishing", "r", "teaching", "thatcamp", "us-rse", "visualization"]
         multiple: true
@@ -36,4 +32,7 @@ collections:
         label: "Aside"
         widget: markdown
         required: false
-
+      - name: layout
+        label: Layout
+        widget: hidden
+        default: post
