@@ -25,10 +25,6 @@ collections:
         widget: "select"
         options: ["Academia", "Art History", "Articles", "Books", "Code", "Computer Vision", "Conferences", "Data", "Digital Humanities", "GIS", "Humanities", "LAM", "Network Analysis", "Publishing", "R", "Teaching", "THATCamp", "US-RSE", "Visualization"]
         multiple: true
-      - name: "aside"
-        label: "Aside"
-        widget: markdown
-        required: false
       - name: layout
         label: Layout
         widget: hidden
@@ -36,3 +32,7 @@ collections:
       - name: body
         label: Content
         widget: markdown
+      - name: "aside"
+        label: "Aside"
+        widget: markdown
+        required: false
