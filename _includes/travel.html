@@ -10,7 +10,7 @@
   {% if trip.location %}
   {{ trip.location }}:
   {% endif %}
-  {% if trip.dateend %}
+  {% if trip.dateend != '' %}
   {{ trip.datestart | date: '%B %-d, %Y' }} - {{ trip.dateend | date: '%B %-d, %Y' }}
   {% else %}
   {{ trip.datestart | date: '%B %-d, %Y' }}
