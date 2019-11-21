@@ -23,7 +23,7 @@ collections:
       - name: "tags"
         label: "Tags"
         widget: "select"
-        options: ["Academia", "Art History", "Articles", "Books", "Code", "Computer Vision", "Conferences", "Data", "Digital Humanities", "GIS", "Humanities", "LAM", "Network Analysis", "Publishing", "R", "Teaching", "THATCamp", "US-RSE", "Visualization"]
+        options: ["Academia", "Art History", "Articles", "Books", "Code", "Computer Vision", "Conferences", "Data", "Digital Humanities", "GIS", "Humanities", "LAM", "Network Analysis", "Publishing", "R", "Teaching", "THATCamp", "US-RSE", "Visualization", "CMU DH"]
         multiple: true
       - name: layout
         label: Layout
