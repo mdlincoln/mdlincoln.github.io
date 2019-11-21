@@ -49,8 +49,8 @@ collections:
             widget: list
             fields:
               - {name: venue, label: venue, widget: string}
-              - {name: location, label: location, widget: string}
-              - {name: url, label: url, widget: string}
+              - {name: location, label: location, widget: string, required: false}
+              - {name: url, label: url, widget: string, required: false}
               - {name: datestart, label: Start date, widget: datetime}
               - {name: dateend, label: End date, widget: datetime,default: "", required: false}
 
