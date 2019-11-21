@@ -36,3 +36,19 @@ collections:
         label: "Aside"
         widget: markdown
         required: false
+  - name: Settings
+    files:
+      - label: Travel
+        name: travel
+        file: "_data/travel.yaml"
+        fields:
+          - label: entries
+            name: entries
+            widget: list
+            fields:
+              - {name: venue, label: venue, widget: string}
+              - {name: location, label: location, widget: string}
+              - {name: url, label: url, widget: string}
+              - {name: datestart, label: datestart, widget: datetime}
+              - {name: dateend, label: dateend, widget: datetime}
+

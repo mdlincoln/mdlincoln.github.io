@@ -1,22 +1,22 @@
-{% assign trips = site.data.travel | sort: 'datestart' %}
+{% assign trips = site.data.travel.entries | sort: 'datestart' %}
 {% for trip in trips %}
 <p>
-{% if trip.url %}
+  {% if trip.url %}
   <a href="{{ trip.url }}">{{ trip.venue }}</a>
-{% else %}
+  {% else %}
   {{ trip.venue }}
-{% endif %}
-<br>
-{% if trip.location %}
-  {{ trip.location }}: 
-{% endif %}
-{% if trip.dateend %}
+  {% endif %}
+  <br>
+  {% if trip.location %}
+  {{ trip.location }}:
+  {% endif %}
+  {% if trip.dateend %}
   {{ trip.datestart | date: '%B %-d, %Y' }} - {{ trip.dateend | date: '%B %-d, %Y' }}
-{% else %}
+  {% else %}
   {{ trip.datestart | date: '%B %-d, %Y' }}
-{% endif %}
-{% if trip.freetext %}
+  {% endif %}
+  {% if trip.freetext %}
   {{ trip.freetext | markdownify }}
-{% endif %}
+  {% endif %}
 </p>
 {% endfor %}
