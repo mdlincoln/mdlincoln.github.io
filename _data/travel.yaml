@@ -11,3 +11,8 @@ entries:
       University of Pennsylvania, Philadelphia
     url: 'http://web.sas.upenn.edu/dream-lab/tidydataforhumanists/'
     venue: Penn DREAM LAB 2020
+  - dateend: ''
+    datestart: 2020-02-24T19:57:40.333Z
+    location: Carnegie Mellon University Libraries
+    url: 'https://cmu.libcal.com/event/6019637'
+    venue: R for Twitter Data
