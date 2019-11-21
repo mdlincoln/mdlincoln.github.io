@@ -27,3 +27,13 @@ collections:
         label: Layout
         widget: hidden
         default: post
+      - name: "tag"
+        label: "Tag"
+        widget: "select"
+        options: ["academia", "art_history", "articles", "books", "code", "computer_vision", "conferences", "data", "digital_humanities", "gis", "humanities", "lam", "network_analysis", "publishing", "r", "teaching", "thatcamp", "us-rse", "visualization"]
+        multiple: true
+      - name: "aside"
+        label: "Aside"
+        widget: markdown
+        required: false
+
