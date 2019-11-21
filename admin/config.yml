@@ -20,9 +20,6 @@ collections:
       - name: date
         label: Date
         widget: datetime
-      - name: body
-        label: Content
-        widget: markdown
       - name: "tags"
         label: "Tags"
         widget: "select"
@@ -36,3 +33,6 @@ collections:
         label: Layout
         widget: hidden
         default: post
+      - name: body
+        label: Content
+        widget: markdown
