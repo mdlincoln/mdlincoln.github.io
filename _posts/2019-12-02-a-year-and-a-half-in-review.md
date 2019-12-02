@@ -10,7 +10,7 @@ aside: >
   has worked on during my first 18 months at Carnegie Mellon University.
 
 
-  [See all posts in the series](/tags/digital_humanities.html)
+  [See all posts in the series](/tags/cmu_dh.html)
 ---
 One could do worse than [imitate Quinn Dombrowski](https://digitalhumanities.stanford.edu/dlcl-ats-round-summer-2019).
 
