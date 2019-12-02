@@ -64,4 +64,4 @@ And if you like [@MechaKubler] you should also take a look at some forebears lik
 Hopefully this can encourage us to revisit Kubler's ideas about how to write histories of visual morphologies even in the absence of social context - ideas all the more important in an age where more images are being looked at by machines than by humans.
 It's definitely prompted me to look more closely at more objects than I've done in some time.
 
-[Replica]: https://dhlab.epfl.ch/page-128334-en.html
+[Replica]: http://web.archive.org/web/20180308041327/https://dhlab.epfl.ch/page-128334-en.html
