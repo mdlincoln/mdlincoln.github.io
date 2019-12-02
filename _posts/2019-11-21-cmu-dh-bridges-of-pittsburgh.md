@@ -10,7 +10,7 @@ aside: >-
   has worked on during my first 18 months at Carnegie Mellon University.
 
 
-  [See all posts in the series](/tags/digital_humanities.html)
+  [See all posts in the series](/tags/cmu_dh.html)
 ---
 The very first project that landed in my lap upon arriving here at the end of August 2019 was something called the _Bridges of Pittsburgh_ project:
 
