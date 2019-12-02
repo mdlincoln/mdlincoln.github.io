@@ -1,6 +1,6 @@
 ---
 title: 'CMU DH: Bridges of Pittsburgh'
-date: 2019-12-02 10:23:12
+date: 2019-12-02T15:15:43.320Z
 tags:
   - Digital Humanities
   - CMU DH
