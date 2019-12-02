@@ -1,6 +1,6 @@
 ---
 title: 'CMU DH: Bridges of Pittsburgh'
-date: 2019-12-02T14:00:00.000Z
+date: 2019-12-02 10:23:12
 tags:
   - Digital Humanities
   - CMU DH
@@ -10,7 +10,7 @@ aside: >-
   has worked on during my first 18 months at Carnegie Mellon University.
 
 
-  [See all posts in the series](/tags/digital_humanities.html)
+  [See all posts in the series](/tags/cmu_dh.html)
 ---
 The very first project that landed in my lap upon arriving here at the end of August 2019 was something called the _Bridges of Pittsburgh_ project:
 
@@ -18,7 +18,7 @@ The very first project that landed in my lap upon arriving here at the end of Au
 
 How _very_ Carnegie Mellon, I thought! Local interest, large and complex data, plus an NP-hard computing problem.
 
-As in most things, though, the real time spent wasn't so much on fancy math, but on data wrangling. 
+As in most things, though, the real time spent wasn't so much on fancy math, but on data wrangling.
 
 [As I write on our project site](https://bridgesofpittsburgh.net/posts/cleaning-open-street-map-data/):
 
@@ -36,7 +36,7 @@ Our [Bridges of Pittsburgh site](https://bridgesofpittsburgh.net/posts) hosts "t
 
 ![Community detection visualization on the Pittsburgh road network](/assets/images/colored-network-copy_lesswhitespace.png)
 
-I'm also proud to say that this project resulted in a handful of R packages that solve different components of this problem. One of my goals in this position is, when possible, to spin out reusable packages or libraries from specific projects. BoP presented a handful of issues that weren't solved by existing packages: 
+I'm also proud to say that this project resulted in a handful of R packages that solve different components of this problem. One of my goals in this position is, when possible, to spin out reusable packages or libraries from specific projects. BoP presented a handful of issues that weren't solved by existing packages:
 
 1. How to manage very large dumps of XML data from OpenStreetMap - solved by <https://github.com/cmu-lib/bigosm>
 2. How to run a greedy search across a set of _bundles_ of edges in a generic graph - solved by <https://github.com/cmu-lib/pathfinder>
