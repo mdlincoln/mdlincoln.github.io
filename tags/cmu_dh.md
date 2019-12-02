@@ -1,5 +1,5 @@
 ---
 layout: taglist
-tagname: "CMU_DH"
+tagname: "CMU DH"
 title: "CMU Digital Humanities"
 ---
