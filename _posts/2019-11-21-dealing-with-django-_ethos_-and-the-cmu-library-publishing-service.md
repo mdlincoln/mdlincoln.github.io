@@ -1,6 +1,6 @@
 ---
 title: 'Dealing with Django: _ETHOS_ and the CMU Library Publishing Service'
-date: 2019-12-05T20:23:36.632Z
+date: 2019-12-05T14:23:36.632Z
 tags:
   - CMU DH
   - Code
