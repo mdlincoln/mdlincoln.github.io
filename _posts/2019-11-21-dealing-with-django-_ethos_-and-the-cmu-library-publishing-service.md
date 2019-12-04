@@ -12,7 +12,7 @@ aside: >-
   has worked on during my first 18 months at Carnegie Mellon University.
 
 
-  [See all posts in the series](/tags/digital_humanities.html)
+  [See all posts in the series](/tags/cmu_dh.html)
 ---
 When I interviewed for this job, I made clear that web development was the least developed corner of my programming skills.
 In fact, one of the main reasons the CMU position was so appealing to me was that it was a chance to build a broader foundation of skills.
