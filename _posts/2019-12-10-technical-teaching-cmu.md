@@ -20,6 +20,8 @@ Every Wednesday afternoon, we get together in "the Den" in Sorrels Library where
 The questions can be anything from how to find the command line on their computer, to setting up Git or R, or bigger-picture discussions about text analysis or mapping demographic data, you name it.
 These regular office hours have been a good place to channel the occasional requests for help that come my way - it would sadly be impossible to carry out the actual projects I'm responsible for if I scheduled one-on-one consults with everyone who made inquiries, but having a dedicated time and place for them where I can also introduce people to colleagues in digital publishing and open science has been an ideal way to balance my programming responsibilities with the broader mission of working at, well, a university library.
 
+{% include figure.html src="/assets/images/dhsarp_sign.jpg" caption="The dSHARP sign outside of Sorrells Library" %}
+
 My other teaching has been in the form of short but intensive workshops.
 
 - With David Brown (CMU English), I co-taught a three-course series on text analysis in R, which was a great experience for me as I got much more familiar with the `Corpus` object system used by [quanteda](https://quanteda.io/) than I ever would have without needing to teach it. [We have posted the materials and data onto GitHub](https://github.com/browndw/cmu_workshop), including a link to a Binder that will let you load up the entirely environment in your browser without needing to install R at all. I'm not sure if I'd do it the same way again next time - it might be more useful to students to do live-coding rather than prepared workbooks.
