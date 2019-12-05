@@ -1,6 +1,6 @@
 ---
 title: _Shakespeare VR_ and uncommon research data
-date: 2019-12-13T14:34:00.000Z
+date: 2019-12-06T14:34:00.000Z
 tags:
   - CMU DH
   - Data
