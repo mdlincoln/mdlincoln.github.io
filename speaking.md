@@ -23,8 +23,7 @@ talks:
     date: 26 July 2019
     conference: true
   - year: 2019
-    text: |
-      "Creating Tidy Humanities Data that Sparks Joy," Digital Humanities Literacy Workshop, Carnegie Mellon University
+    text: '"Creating Tidy Humanities Data that Sparks Joy," Digital Humanities Literacy Workshop, Carnegie Mellon University'
     date: 28 May--30 May 2019
     teaching: true
   - year: 2018
