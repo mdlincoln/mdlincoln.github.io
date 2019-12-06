@@ -2,6 +2,31 @@
 title: Invited Speaking
 layout: default
 talks:
+  - year: 2019
+    text: "The Auctioneer's Genre: Digital Approaches to Category Construction and the Rhetoric of the 18th Century Art Market"
+    place: Department of Art History
+    location: Princeton University
+    date: 18 October 2019
+    invited: true
+    short: true
+  - year: 2019
+    text: "'Linked Open Data for Art Historians' and 'Dealing with Uncertain and Missing Data'"
+    place: Getty Foundation "Network Analysis + Digital Art History" Advanced Workshop
+    location: University of Pittsburgh
+    date: 29 July - 2 August 2019
+    invited: true
+  - year: 2019
+    preamble: Chair
+    text: "The State of Digital Humanities Software Development"
+    place: ACH Conference
+    location: Pittsburgh
+    date: 26 July 2019
+    conference: true
+  - year: 2019
+    text: |
+      "Creating Tidy Humanities Data that Sparks Joy," Digital Humanities Literacy Workshop, Carnegie Mellon University
+    date: 28 May--30 May 2019
+    teaching: true
   - year: 2018
     text: "Linked Open Museum Data: Why Curators Should Care"
     place: AAMC Networked Curator Workshop
@@ -69,13 +94,6 @@ talks:
     date: 19 February 2016
     invited: true
     short: true
-  - year: 2015
-    text: "The Art Historian's Macroscope: Museum Data and the Academy"
-    place: "DASER Forum, National Academy of Sciences"
-    location: "Washington, DC"
-    date: 21 May 2015
-    url: "http://matthewlincoln.net/macroscope"
-    invited: true
 ---
 
 I'm delighted to come speak at your institution about **digital art history**, the use and abuse of **network analysis and machine learning** in historical study, as well as **collections data infrastructure for supporting research**. Contact me at [@matthewdlincoln](https://twitter.com/matthewdlincoln) or by [email](mailto:mlincoln@andrew.cmu.edu)!
