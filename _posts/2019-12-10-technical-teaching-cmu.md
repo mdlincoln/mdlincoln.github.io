@@ -1,5 +1,5 @@
 ---
-title: Technical Teaching
+title: Technical Teaching at CMU
 date: 2019-12-10T14:34:00.000Z
 tags:
   - CMU DH
