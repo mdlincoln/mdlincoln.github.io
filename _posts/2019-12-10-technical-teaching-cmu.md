@@ -18,7 +18,8 @@ My DH work at CMU isn't limited to programming - I do, on occasion, teach and co
 One way this happens is through weekly office hours held by dSHARP, a group of CMU Libraries faculty and staff committed to fostering the digital scholarship community across the University through events and teaching.
 Every Wednesday afternoon, we get together in "the Den" in Sorrels Library where we co-work and field drop-in questions from anyone in the Pittsburgh community who wants to come chat.
 The questions can be anything from how to find the command line on their computer, to setting up Git or R, or bigger-picture discussions about text analysis or mapping demographic data, you name it.
-These regular office hours have been a good place to channel the occasional requests for help that come my way - it would sadly be impossible to carry out the actual projects I'm responsible for if I scheduled one-on-one consults with everyone who made inquiries, but having a dedicated time and place for them where I can also introduce people to colleagues in digital publishing and open science has been an ideal way to balance my programming responsibilities with the broader mission of working at, well, a university library.
+These regular office hours have been a good place to channel the occasional requests for help that come my way - it would be impossible to carry out the actual projects I'm responsible for if I scheduled one-on-one consults with everyone who made inquiries (not really something I want to do, anyway.)
+But having a dedicated time and place for them where I can also introduce people to colleagues in digital publishing and open science has been an ideal way to balance my primary work with the broader mission of working at a university library.
 
 {% include figure.html src="/assets/images/dhsarp_sign.jpg" caption="The dSHARP sign outside of Sorrells Library" %}
 
