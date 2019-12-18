@@ -30,7 +30,7 @@ The _DHLG_, as we like to call it, is one of the key outputs of the A.W. Mellon 
 It's a summation of many of the resources and research that is taught at the [summer DH workshops](/2019/12/10/technical-teaching-cmu.html).
 To quote from Scott Weingart's description of it:
 
->The DHLG is your slim guidebook into this world, like the tourist map they give you when you check in at a hotel. Use it to get your bearings, plot your course, and find the resources that will help you explore further.
+>The _DHLG_ is your slim guidebook into this world, like the tourist map they give you when you check in at a hotel. Use it to get your bearings, plot your course, and find the resources that will help you explore further.
 
 Although we had most of the technical expertise to do this project in-house, we (well, I) just didn't have the full amount of time needed to engineer it all myself alongside our other active projects.
 That's why we contracted with [Agile Humanities](https://agilehumanities.ca/), a DH development shop based out of Toronto, to help drive both the site architecture as well as the visual design and implementation of the project.
