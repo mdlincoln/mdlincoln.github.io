@@ -69,6 +69,7 @@ Although their are algorithmic aids for collating variants of a text, it is stil
 Elisa bravely spearheaded this task, in which she iteratively used the aid of CollateX alongside close manual reading, a human-computer loop that gradually refined collated "chunks" from the first sections of the novel, up through chapter 4.
 
 Next, this TEI is all well and good for machines to read, but we need to render it in some way to make it easier for human readers to navigate. This is where innovative work by Raff and the [Agile Humanities Agency](http://agilehumanities.ca/) on rendering TEI docs into your browser via javascript (rather than using XSLT to create an entirely separate static HTML file) comes in to play.
+The result is [_The Frankenstein Variorum_ prototype viewer](https://frankensteinvariorum.github.io).
 
 {% include figure.html src="/assets/images/fv_viewer.png" caption="A screenshot of the prototype _Frankenstein Variorum_ viewer." %}
 
