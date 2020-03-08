@@ -5,13 +5,23 @@ entries:
       University of Pennsylvania, Philadelphia
     url: 'http://web.sas.upenn.edu/dream-lab/tidydataforhumanists/'
     venue: Penn DREAM LAB 2020
-  - dateend: ''
-    datestart: 2020-02-24T19:57:40.333Z
-    location: Carnegie Mellon University Libraries
-    url: 'https://cmu.libcal.com/event/6019637'
-    venue: R for Twitter Data
+  - dateend: 2020-04-19T05:00:00.000Z
+    datestart: 2020-04-16T05:00:00.000Z
+    venue: Art + Data Symposium
+    location: Williams College Museum of Art
+    url: https://artmuseum.williams.edu/wcma-digital-project/
   - venue: US-RSE Community Building Workshop
     location: Princeton University
     datestart: 2020-04-21T05:00:00.000Z
     dateend: 2020-04-22T05:00:00.000Z
     url: https://us-rse.org/2020-april-workshop/
+  - venue: DH2020
+    location: University of Ottawa
+    datestart: 2020-07-21T05:00:00.000Z
+    dateend: 2020-07-25T05:00:00.000Z
+    url: https://dh2020.adho.org
+  - venue: code4lib
+    location: Pittsburgh
+    datestart: 2020-03-08T05:00:00.000Z
+    dateend: 2020-03-11T05:00:00.000Z
+    url: https://2020.code4lib.org/
