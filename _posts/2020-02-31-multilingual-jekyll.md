@@ -8,7 +8,7 @@ tags:
 layout: post
 ---
 
-One of my roles as the technical lead of _The Programming Historian_ is to help train up all the members of our full technical team so that they are comfortable troubleshooting when things go wrong, and capable of building out new features on their own.
+One of my roles as the technical lead of [_The Programming Historian_](https://programminghistorian.org) is to help train up all the members of our full technical team so that they are comfortable troubleshooting when things go wrong, and capable of building out new features on their own.
 
 This post really got its start as an internal walkthrough of how PH's multilingual setup actually works on Jekyll, but I thought it was probably applicable enough to other Jekyllers out there that it was worth writing in public.
 
