@@ -10,11 +10,6 @@ entries:
     venue: Art + Data Symposium
     location: Williams College Museum of Art
     url: https://artmuseum.williams.edu/wcma-digital-project/
-  - venue: US-RSE Community Building Workshop
-    location: Princeton University
-    datestart: 2020-04-21T05:00:00.000Z
-    dateend: 2020-04-22T05:00:00.000Z
-    url: https://us-rse.org/2020-april-workshop/
   - venue: DH2020
     location: University of Ottawa
     datestart: 2020-07-21T05:00:00.000Z
