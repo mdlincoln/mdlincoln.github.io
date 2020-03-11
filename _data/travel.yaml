@@ -15,8 +15,3 @@ entries:
     datestart: 2020-07-21T05:00:00.000Z
     dateend: 2020-07-25T05:00:00.000Z
     url: https://dh2020.adho.org
-  - venue: code4lib
-    location: Pittsburgh
-    datestart: 2020-03-08T05:00:00.000Z
-    dateend: 2020-03-11T05:00:00.000Z
-    url: https://2020.code4lib.org/
