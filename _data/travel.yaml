@@ -5,11 +5,6 @@ entries:
       University of Pennsylvania, Philadelphia
     url: 'http://web.sas.upenn.edu/dream-lab/tidydataforhumanists/'
     venue: Penn DREAM LAB 2020
-  - dateend: 2020-04-19T05:00:00.000Z
-    datestart: 2020-04-16T05:00:00.000Z
-    venue: Art + Data Symposium
-    location: Williams College Museum of Art
-    url: https://artmuseum.williams.edu/wcma-digital-project/
   - venue: DH2020
     location: University of Ottawa
     datestart: 2020-07-21T05:00:00.000Z
