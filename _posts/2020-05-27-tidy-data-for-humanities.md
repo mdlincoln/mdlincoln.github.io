@@ -2,7 +2,7 @@
 layout: post
 title: |
   Tidy Data for the Humanities
-date: 2020-05-24
+date: 2020-05-27
 tags:
   - data
   - digital humanities
