@@ -40,7 +40,7 @@ Some bullet points from my personal experience of [THATCamp Prime 2013](http://c
 
 - I soon switched to a panel on new horizons in humanities publishing, in which I heard for the first time a debate over whether Twitter should count as a scholarly production. I am glad that this notion was [strongly rebuffed](https://twitter.com/savasavasava/status/343087808719749121).
 
-- At this point [I started pining](https://twitter.com/matthewdlincoln/status/343063910745788417) for other art historians, as I often find myself doing in these kinds of multi-disciplinary events. Luckily I found [at least one](http://chnm2013.thatcamp.org/author/eblake/).
+- At this point [I started pining](https://twitter.com/matthewdlincoln/status/343063910745788417) for other art historians, as I often find myself doing in these kinds of multi-disciplinary events.
 
 - I had to check out a bit early to get back to DC for other engagements, but now I'm just ready to get as much sleep as possible before trucking all the way back out to Fairfax for more tomorrow. Stay tuned.
 

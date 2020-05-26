@@ -24,7 +24,7 @@ What is required, Bode argues, is an approach to corpus construction similar to 
 
 A raft of these literary datasets might provide a more solid foundation for what she terms "data-rich" history (a term I rather like!)
 
-[hathitrust]: https://wiki.htrc.illinois.edu/display/COM/Extracted+Features+Dataset
+[hathitrust]: http://web.archive.org/web/20200209221825/https://wiki.htrc.illinois.edu/display/COM/Extracted+Features+Dataset
 
 Bode's approach to historical datasets as critical editions is a useful reminder (albeit one in a field now quite full of them) that dataset construction is an historical argument.
 However, her argument ends before grappling with the problem of recombination and commensurability.
@@ -40,7 +40,7 @@ How will we arbitrate which corpora we are allowed to compare and combine?
 
 Bode gestures to this issue implicitly, invoking Alan Liu:
 
->Describing the relationship of postmodern historicism to the database, Liu notes that of neither form does one ask, what is the meaning of this whole? Rather, the question becomes, how does this complex system I am investigating appear from this particular perspective or this one? 
+>Describing the relationship of postmodern historicism to the database, Liu notes that of neither form does one ask, what is the meaning of this whole? Rather, the question becomes, how does this complex system I am investigating appear from this particular perspective or this one?
 
 Bringing together multiple collections, with their multiple perspectives, in service of a common question is a crucial way of identifying collection-specific biases, while similarly understanding which features of one's results are robust across different datasets.[^merging]
 In the history of art (more so, perhaps, than even in literary studies), we are painfully dependent on _multiple_ collections and their expression as structured data.[^cad]

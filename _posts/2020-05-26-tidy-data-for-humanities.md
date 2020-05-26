@@ -37,7 +37,7 @@ Although the course got cancelled well before I could pull together the full les
 
 I love to start out with [Palladio](https://hdlab.stanford.edu/palladio/) because it is designed to draw your attention to oddities in the construction of your data, more so than to be the primary tool that leads you to a publication-ready visualization.
 
-[In my tutorial for Palladio](/mapping-knoedler-palladio/), I use an extract of data from the Knoedler Archive held by the Getty Research Institute because
+[In my tutorial for Palladio](https://matthewlincoln.net/mapping-knoedler-palladio/), I use an extract of data from the Knoedler Archive held by the Getty Research Institute because
 
 1. It has categorical and numeric data, coordinates, dates, and network relationships: everything we need to get a feel for Palladio's possibilities
 2. It promises to hold insights into the history of the art market in New York City - about genres, prices, relationships between buyers and sellers, or locations of collectors over time...
@@ -74,7 +74,7 @@ I'm a major fan of the Mark Merry's _Designing Databases for Historical Research
 >
 > Ultimately, historians will need to steer a middle course between the two extreme models, perhaps with a slight tendency to lean towards the Source-oriented approach. When making decisions about what information you need from your sources to go into the database, it is important to take into account that your needs may change over the course of a project that might take a number of years.
 
-[For the starter exercise in this lesson](/tidy-dh-data), I have small groups try their hand at coming up with a spreadsheet to capture relevant info from a primary source, and then we have the groups compare the different schemas they came up with. By giving the different groups different objectives (say, to try to create data for comparing artwork descriptions versus data that could be sued to investigate patterns of sales) they'll explore the delicate balance between trying to create a comprehensive encoding of a source, versus creating an easily-usable (for a certain definition of "use") database.
+[For the starter exercise in this lesson](https://matthewlincoln.net/tidy-dh-data/), I have small groups try their hand at coming up with a spreadsheet to capture relevant info from a primary source, and then we have the groups compare the different schemas they came up with. By giving the different groups different objectives (say, to try to create data for comparing artwork descriptions versus data that could be sued to investigate patterns of sales) they'll explore the delicate balance between trying to create a comprehensive encoding of a source, versus creating an easily-usable (for a certain definition of "use") database.
 
 ### Time, Space, Uncertainty
 
