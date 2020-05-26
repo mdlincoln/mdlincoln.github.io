@@ -2,16 +2,16 @@
 layout: post
 title: |
   Tidy Data for the Humanities
-date: 2020-05-27
+date: 2020-05-26
 tags:
   - data
   - digital humanities
   - teaching
 ---
 
-In an alternate universe, I'd be at the University of Pennsylvania in just a few weeks teaching a four-day course at [Penn's DREAM Lab on "Tidy Data for the Humanities."](http://web.archive.org/web/20200307162929/http://web.sas.upenn.edu/dream-lab/tidydataforhumanists/) Obviously, that's not happening.
+In an alternate universe, I'd be at the University of Pennsylvania next week teaching a four-day course at [Penn's DREAM Lab on "Tidy Data for the Humanities."](http://web.archive.org/web/20200307162929/http://web.sas.upenn.edu/dream-lab/tidydataforhumanists/) Obviously, that's not happening.
 
-Instead, the wonderful folks at the Price Lab for Digital Humanities have organized a podcast with episodes for many of the courses, alongside what materials and readings each instructor could assembled to at least give an impression of what the course might have been.
+Instead, the wonderful folks at the Price Lab for Digital Humanities have organized a podcast with episodes for many of the courses, alongside what materials and readings each instructor could assembled to at least give an impression of what the course might have been. While we wait for the podcast to come out, I'm posting up a kind of annotated reading/workshop list for my course.
 
 ## Why "tidy" data?
 
@@ -30,7 +30,7 @@ So like tying to train your ability to sense "joy" in your personal belongings, 
 
 ## Annotated Readings and Lessons
 
-Although the course got cancelled well before I could pull together the full lesson plan, I'd like to give the general outline of the syllabus. My planned structure was a daily mix of hands-on work with some sample sources and accessible tools, followed by discussion about a reading or two where we'd try to bring the morning's practice into conversation with more theoretical discussions about structuring data.
+Although the course got cancelled well before I could pull together the full lesson plan, I'd like to give the general outline of the syllabus. My planned structure was a daily mix of hands-on work with some sample sources and accessible tools, followed by discussion about a reading or two where we'd try to bring the morning's practice into conversation with more theoretical discussions about structuring data. Given that this planning got suspended early on, some of these sections are more complete while others are more sketchy.
 
 ### What is tidying?
 
