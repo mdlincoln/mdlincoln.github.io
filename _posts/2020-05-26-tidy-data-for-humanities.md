@@ -22,22 +22,21 @@ The more I listen to humanists working through data issues and challenges, I see
 1. We know that all data is a reductive construction
 2. We also worry a lot about creating data that's clean and usable enough to share, which would seem to imply we've already compromised on point 1.
 
-The reason I leaned on the word "tidy" of course, partly from Marie Kondo's _Tidying Up_, newly popularized in the United States from the Netflix special last year. Marie Kondo's tidiness is not an absolute, but instead contextual. In _your_ home, what matters most? Answering that question isn't a prerequisite to starting to tidy - it's an ongoing discovery that happens during the process of tidying.
+I leaned on the word "tidy" in part due to Marie Kondo's _Tidying Up_, newly popularized in the United States from the Netflix special last year. Marie Kondo's tidiness is not an absolute, but instead contextual. In _your_ home, what matters most? Answering that question isn't a prerequisite to starting to tidy - it's an ongoing discovery that happens during the process of tidying.
 
-This was the way I wanted to train my students to approach the task humanities data tidying. There's a really artificial construct in a lot of intro DH advice that constantly reminds students to "figure out your research question before you blindly start using network graphs" or whatever. I get where that's coming from, but we all know that "the research question" isn't something that appears fully formed like Minerva emerging from your Zeus-like skull. It's something that takes months of toying around to even start to articulate.
+This was the way I wanted to train my students to approach humanities data tidying. There's a really artificial construct in a lot of intro DH advice that constantly reminds students to "figure out your research question before you blindly start using network graphs" or whatever. I get where that's coming from, but we all know that "the research question" isn't something that appears fully formed like Athena emerging from your Zeus-like skull. It's something that takes months of toying around in primary and secondary sources for you to even start to articulate.
 
-So like tying to train your ability to sense "joy" in your personal belongings, I hoped to help our students hone their sense of what data will be most important for them to collect from their sources in order to get to their larger goals. And that we would do this knowing that we might not yet be able to definitively say that our project will involve text analysis versus parsing time series data.
+So like tying to train your ability to sense "joy" in your personal belongings, I hoped to help our students hone their sense of what data will be most important for them to generate from their sources in order to get to their larger goals. And that we would do this knowing that we might not yet be able to definitively say that our project will involve text analysis versus parsing time series data versus making a network graph versus just counting some records in a bar graph.
 
 ## Annotated Readings and Lessons
 
-Although the course got cancelled well before I could pull together the full lesson plan, I'd like to give the general outline of the syllabus. My planned structure was a daily mix of hands-on work with some sample sources and accessible tools, followed by discussion about a reading or two where we'd try to bring the morning's practice into conversation with more theoretical discussions about structuring data. Given that this planning got suspended early on, some of these sections are more complete while others are more sketchy.
+Although the course got cancelled well before I could pull together the full lesson plan, I'd like to give the general outline of the syllabus. My planned structure was a daily mix of hands-on work with some sample sources and accessible tools, followed by discussion about a reading or two where we'd try to bring the morning's practice into conversation with theoretical discussions in humanities and information science literature. Given that this planning got suspended early on, some of these sections are more complete, while others are more sketchy.
 
 ### What is tidying?
 
+I love to start out with [Palladio](https://hdlab.stanford.edu/palladio/) because it is designed to draw your attention to oddities in the construction of your data, more so than to be a full-featured tool that leads you to a publication-ready visualization.
 
-I love to start out with [Palladio](https://hdlab.stanford.edu/palladio/) because it is designed to draw your attention to oddities in the construction of your data, more so than to be the primary tool that leads you to a publication-ready visualization.
-
-[In my tutorial for Palladio](https://matthewlincoln.net/mapping-knoedler-palladio/), I use an extract of data from the Knoedler Archive held by the Getty Research Institute because
+[In my tutorial for Palladio](https://matthewlincoln.net/mapping-knoedler-palladio/), I use an extract of data from the Knoedler Archive held by the Getty Research Institute because:
 
 1. It has categorical and numeric data, coordinates, dates, and network relationships: everything we need to get a feel for Palladio's possibilities
 2. It promises to hold insights into the history of the art market in New York City - about genres, prices, relationships between buyers and sellers, or locations of collectors over time...
@@ -45,20 +44,20 @@ I love to start out with [Palladio](https://hdlab.stanford.edu/palladio/) becaus
 
 Every time I teach with it, students quickly grasp its utility as a data inspector. The ease of faceting categories or making quick histograms or timelines highlights typos; very fast maps show you where your geocoding may have gone sideways; equally simple network graph visualizations unearth misplaced values or the dominance of `ANONYMOUS` in your dataset.
 
-After jump-starting our course with some direct work in Palladio with some tricky historical data, I wanted to anchor everyon in the foundantional texts for this class: Katie Rawson and Trevor Muñoz's ["Against Cleaning"](https://doi.org/10.5749/j.ctvg251hk.26), and the ["Tidy Data"](https://doi.org/10.18637/jss.v059.i10) paper they cite by statistician Hadley Wickham. Although the former comes from a humanistic / librarian perspective, and the latter a statistical and programming perspective, I believe they are in fundamental agreement.
+After jump-starting our course with some direct work in Palladio with some tricky historical data, I wanted to anchor everyone in the foundational texts for this class: Katie Rawson and Trevor Muñoz's ["Against Cleaning"](https://doi.org/10.5749/j.ctvg251hk.26), and the ["Tidy Data"](https://doi.org/10.18637/jss.v059.i10) paper they cite by statistician Hadley Wickham. Although the former comes from a humanistic / librarian perspective, and the latter a statistical and programming perspective, I believe they are in fundamental agreement.
 
-Rawson and Muñoz deep dive in to the process of preparing encoded data from the NYPL's vast collection of historical menus, walking through, in painstaking detail, decisions big and small that happen at every step of the way from physical paper menus to a searchable database that could be use to ask questions about popular ingredients or methods over time.
+Rawson and Muñoz dive deep in to the process of preparing encoded data from the NYPL's vast collection of historical menus. In painstaking detail, they walk through decisions big and small that happen at every step of the way from physical paper menus to a searchable database that could be use to ask questions about popular ingredients or preferred methods over time.
 
-Wickham's paper, published in the Journal of Statistical Software, has been fairly called a manifesto, as it strongly advocates for more attention towards the "mundane data manipulation chores" that precede any kind of analytical work.
+Wickham's paper, published in the *Journal of Statistical Software*, has been fairly called a manifesto, as it strongly advocates for more attention towards the "mundane data manipulation chores" that precede any kind of analytical work.
 
 > Tidy datasets are easy to manipulate, model and visualize, and have a specific structure: each variable is a column, each observation is a row, and each type of observational unit is a table.
 
-What I draw most on from Wickham isn't the purity of some kind of logical form (it's no different than one of Codd's [normal forms]() from 50 years earlier), but his emphasis on why this format is crucial _in practice_: because it allows you to more rapidly iterate on questions and ideas.
+What I draw most on from Wickham isn't the purity of some kind of logical form (it's no different than one of Codd's [normal forms](https://en.wikipedia.org/wiki/Database_normalization#Normal_forms) from 50 years earlier), but his emphasis on why this format is crucial _in practice_: because it allows you to more rapidly iterate on questions and ideas.
 For most problems, computational power isn't the bottleneck - it's the cognitive power of the programmer.
 "Tidy" in Wickham's sense doesn't mean that the data are representative, accurate, or complete enough for your research - that's not something that software will fix.
 However, shaping data in the tidy format makes it vastly easier to iterate through different filters and analyses, often more quickly revealing holes or problems in your data that would be hidden in a less normalized format.
-What was important about the Knoedler data being "tidy" wasn't that it was puritanically clean, but instead that it allowed students to try a large number of queries against the data with much less effort than if they had been working with, for example, a word document transcribing the stock books into paragraphs.
-In this way, tidy data goes hand in hand with the deep questiond that Rawson and Muñoz pose about the notion of "clean" data.
+What was important about the Knoedler data being "tidy" wasn't that it was somehow "clean" in a Platonic sense of being a pure representation of historical reality, but instead that the well-defined relationships between is various fields and records allowed students to try a large number of queries against the data with much less effort than if they had been working with, for example, a word document transcribing the stock books into paragraphs.
+In this way, Wickham's "tidy data" goes hand in hand with the deep questions that Rawson and Muñoz pose about the notion of "clean" data.
 
 ### Let's Get Ontological
 
@@ -95,6 +94,10 @@ But I do emphasize the importance of _reconciliation_: connecting entities in th
 
 In addition to helping with data cleaning, OpenRefine has a pretty good user interface for reconciling columns in your data to controlled authorities. This lesson shows how to use it with the Getty's varied vocabularies. Almost no researcher will find a vocabulary that has identities for ALL the people or concepts they wish to reference, but the point is not to replace your local identifer system. Rather, it's to augment your data so that others can much more easily integrate it with their own information, and so that you don't have to take on data entry and encoding tasks that have already been done by the community.
 
+### Other crucial reads
+
+I hadn't yet decided how these might fit into the practical workshops, but these are some other core readings and presentations that grapple with creating data representations of our sources and objects of study:
+
 - Miriam Posner's 2015 talk ["What’s Next: The Radical, Unrealized Potential of Digital Humanities"](https://miriamposner.com/blog/whats-next-the-radical-unrealized-potential-of-digital-humanities/)
 
   This keynote at Keystone DH is still a keystone (🤣) in my intellectual makeup. I particularly appreciate the call for data structures that give different answers based on the context of the observer/inquirer. It was enough to make me [run my own thought experiment about it in response](/2015/07/25/a-radical-useable-data-model.html) and it was important for me to make clear to students that such a database is entirely possible, but comes with the tradeoffs of much greater complexity, and far, far more labor in data entry and software-building.
@@ -105,4 +108,4 @@ In addition to helping with data cleaning, OpenRefine has a pretty good user int
 
 - Rob Sanderson, ["Tiers of Abstraction and Audience in Cultural Heritage Data Modeling"](https://www.slideshare.net/azaroth42/tiers-of-abstraction-and-audience-in-cultural-heritage-data-modeling-230217697)
 
-  This one is on the more advanced end, and aimed at information science professionals, but I wanted to give my students some impression of what these data construction conversations look like from the perspective of collecting institutions and the systems and software programmers that use them.
+  This one is on the more advanced end, and aimed at information science professionals, but I wanted to give my students some impression of what these data construction conversations look like from the perspective of collecting institutions that are responsible for publishing and managing data about their collections, and the systems engineers and software programmers that think about much larger universes of data than we do in our single projects.
