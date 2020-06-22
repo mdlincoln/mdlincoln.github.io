@@ -11,7 +11,9 @@ tags:
 
 In an alternate universe, I'd be at the University of Pennsylvania next week teaching a four-day course at [Penn's DREAM Lab on "Tidy Data for the Humanities."](http://web.archive.org/web/20200307162929/http://web.sas.upenn.edu/dream-lab/tidydataforhumanists/) Obviously, that's not happening.
 
-Instead, the wonderful folks at the Price Lab for Digital Humanities have organized a podcast with episodes for many of the courses, alongside what materials and readings each instructor could assembled to at least give an impression of what the course might have been. While we wait for the podcast to come out, I'm posting up a kind of annotated reading/workshop list for my course.
+Instead, the wonderful folks at the Price Lab for Digital Humanities have organized a podcast with episodes for many of the courses, alongside what materials and readings each instructor could assembled to at least give an impression of what the course might have been.
+
+[The podcast has been published](https://soundcloud.com/price-lab/dream-lab-podcast-episode-2-matthew-lincoln-tidy-data), and below you can read a kind of annotated reading/workshop list for my course.
 
 ## Why "tidy" data?
 
