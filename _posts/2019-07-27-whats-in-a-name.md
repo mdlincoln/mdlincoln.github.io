@@ -8,7 +8,7 @@ tags:
 - digital humanities
 - us-rse
 aside: |
-  This post comes out of a talk I gave at a roundtable on ["The State of Digital Humanities Software Development"](https://www.conftool.org/ach2019/index.php?page=browseSessions&form_session=139&presentations=show) at the ACH conference in Pittsburgh on July 26th, 2019.
+  This post comes out of a talk I gave at a roundtable on "The State of Digital Humanities Software Development" at the ACH conference in Pittsburgh on July 26th, 2019.
   The purpose of the panel was to bring together DH software devs from different contexts and at different points in their careers in order to discuss key challenges and questions about how we practice software development and data science support in the digital humanities.
 
   I was joined by [Zoe LeBlanc](https://twitter.com/Zoe_LeBlanc), [Rebecca Sutton Koeser](https://twitter.com/suttonkoeser) ([read her talk](https://rlskoeser.github.io/2019/07/26/best-practices/)), and [Jamie Folsom](https://twitter.com/jamiefolsom), and we had a wonderful audience [live-tweeting the panel.](https://twitter.com/search?q=%23ACH2019%20%23SI5&src=typd)

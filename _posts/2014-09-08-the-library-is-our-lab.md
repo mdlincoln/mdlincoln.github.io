@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: "The Library _Is_ Our Lab"
 date: 2014-09-08 10:25
-tags: 
+tags:
 - LAM
 - Academia
 - Humanities
@@ -42,7 +42,7 @@ If you shutter our library and disperse our collections, you are closing our lab
 
 Please, take a minute to [sign our petition][petition].
 
-[^1]: Richardson, "The medieval library", *Harper's*, April 1905. Full text: <http://historyreadings.com/uk/med_lib/002.html>
+[^1]: Richardson, "The medieval library", *Harper's*, April 1905. Full text: <http://web.archive.org/web/20190412060958/http://historyreadings.com/uk/med_lib/002.html>
 
 [humanitieslabs]: https://www.insidehighered.com/views/2005/10/26/
 
