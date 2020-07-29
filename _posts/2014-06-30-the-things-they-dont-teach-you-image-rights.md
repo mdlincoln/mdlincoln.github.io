@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: "The Things They Don't Teach You: Image Rights"
 date: 2014-06-30 14:02:34.052402
-tags: 
+tags:
 - Art History
 - Publishing
 ---
@@ -38,7 +38,7 @@ Far from reducing humanities graduate education to a professional degree, I thin
 
 [dhn]: http://digitalhumanitiesnow.org/editors-corner/
 
-[chron]: http://chronicle.com/article/At-Mellon-Signs-of-Change/147363/
+[chron]: http://chronicle.com/article/At-Mellon-Signs-of-Change/
 
 [rights]: http://www.wordsinspace.net/wordpress/2014/06/17/rights-clearances-a-method-to-the-mind-numbing-madness/
 
