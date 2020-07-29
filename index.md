@@ -12,7 +12,7 @@ My current book project with Sandra van Ginhoven uses [data-driven analysis to i
 
 [Contact me about speaking at your institution!](/speaking)
 
-{% if site.data.travel.size > 0 %}
+{% if site.data.travel.entries.size > 0 %}
 ***
 
 ## Upcoming Public Appearances
