@@ -11,7 +11,7 @@ show_title: true
 - [DH2016 Paper](/2016/07/13/dh2016-measuring-genre-diversity-in-seventeenth-century-dutch-painting-and-printmaking.html)
 - [CAA2016 Paper](/2016/02/04/tool-trouble-network-and-spatial-methods-in-art-history.html)
 - [_How Did They Make That?_ --- Printmaking Networks](/pages/how-did-they-make-that.html)
-- [MITH Fall 2015 Digital Dialogues](http://mith.umd.edu/podcasts/dd-fall-2015-matthew-lincoln/) (With an excellent [Storified summary](http://web.archive.org/web/20180507150745/http://storify.com/digdialog/matthew-lincoln-digital-dialogue-at-mith-october-2/embed?border=false) by MITH's Stephanie Sapienza)
+- [MITH Fall 2015 Digital Dialogues](https://archive.mith.umd.edu/mith-2020/index.html%3Fp=14794.html) (With an excellent [Storified summary](http://web.archive.org/web/20180507150745/http://storify.com/digdialog/matthew-lincoln-digital-dialogue-at-mith-october-2/embed?border=false) by MITH's Stephanie Sapienza)
 - [_Data Praxis_ (Interview)](/2015/10/27/data-praxis-interview.html)
 - [Keystone DH 2015 paper](/2015/08/04/keystone-dh-simulating-print-production-networks.html)
 - [DH2015 Paper](/2015/06/30/dh2015-modelling-the-international-printmaking-networks-of-early-modern-europe.html)

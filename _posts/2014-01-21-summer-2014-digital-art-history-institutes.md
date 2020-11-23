@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: "Summer 2014 Digital Art History Institutes"
 date: 2014-01-21 10:52
-tags: 
+tags:
     - Digital Humanities
     - Art History
 ---
@@ -25,7 +25,7 @@ The [Getty Foundation](http://www.getty.edu/foundation/) is funding three separa
 The [Kress Foundation](http://www.kressfoundation.org/) is sponsoring one institute.
 Fellowships pay for tuition, room, board, and provide a travel stipend for all participants:
 
-- August 3--15, 2014: [Summer Institute on Digital Mapping and Art History at Middlebury](http://www.kressfoundation.org/news/Article.aspx?id=35544&blogid=132): "Co-directed by Paul B. Jaskot (DePaul University) and Anne Kelly Knowles (Middlebury College), the Summer Institute will emphasize how digital mapping of art historical evidence can open up new veins of research in art history as a whole." (Applications open now, due March 3, 2014)
+- August 3--15, 2014: [Summer Institute on Digital Mapping and Art History at Middlebury](https://web.archive.org/web/20200811055622/http://www.kressfoundation.org/news/Article.aspx?id=35544&blogid=132): "Co-directed by Paul B. Jaskot (DePaul University) and Anne Kelly Knowles (Middlebury College), the Summer Institute will emphasize how digital mapping of art historical evidence can open up new veins of research in art history as a whole." (Applications open now, due March 3, 2014)
 
 Several people have also written in about the "Visualizing Venice" summer workshop:
 

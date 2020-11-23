@@ -11,7 +11,7 @@ As a first time attendee of MCN last week, I didn't know entirely what to expect
 The program was really quite diverse, and ranged from relatively technical discussions (sometimes dry; sometimes hilarious) to more meta-professional sessions that really did function as a kind of group therapy.
 The latter sessions were clearly necessary for many attendees.
 [Rachel Ropeik starkly describes][ropeik] how this year's MCN teemed with stories of disillusionment, marked by a distressing number of people talking about leaving the field.[^1]
-This post is an attempt to set Ropeik's trenchant observations next to some overarching questions from the pre-conference [Digital Provenance Symposium][dps] hosted by the Carnegie Museum of Art, and assess how MCN and the musetech community are doing at actually building shared digital practices.
+This post is an attempt to set Ropeik's trenchant observations next to some overarching questions from the pre-conference Digital Provenance Symposium hosted by the Carnegie Museum of Art, and assess how MCN and the musetech community are doing at actually building shared digital practices.
 
 [^1]: H/T to my UMD compatriot [Nicole Riesenberger for pointing me](https://twitter.com/NRiesenberger/status/931218839152529409) to Ropeik's post.
 
@@ -30,8 +30,6 @@ And how will we deal - both technically and socially - with the perils of OPP: O
 
 [arttracks]: http://www.museumprovenance.org/
 
-[dps]: http://conference.mcn.edu/2017/DigiProvConf.cfm
-
 Did the sessions at MCN proper fill the gaps in this conversation?
 Short answer: no.
 
@@ -41,13 +39,11 @@ But there was vanishingly little of "a group of us think this is the way to go a
 
 Now, there were some really important exceptions to this: workshops on IIIF, on database-backed publishing, and a session on what it means for museums to open-source.
 And I'm sad to say I had to leave before making the Friday session on collaborative digital projects that looks like it did touch on some of these questions more explicitly.
-But my overall impression solidified while I was listening to a [panel on funders' perspectives][funders_panel].
+But my overall impression solidified while I was listening to a panel on funders' perspectives.
 Here, program officers from the Kress Foundation, the Knight Foundation, and the Pew Center for Arts & Heritage gathered to discuss what they look for in a grant application for digital and technology initiatives in museums.
 One member of the audience asked the $64,000 question: given museums' predilection to build their own bespoke services, how are funders shaping their calls to discourage "reinventing the wheel" and one-off projects, and instead encourage building of reusable systems and infrastructure?
 
 The response from the panel was (and I paraphrase): "When the community looks like it really wants that, we'll be there to support it."
-
-[funders_panel]:  http://conference.mcn.edu/2017/profile.cfm?profile_name=session&master_key=5191A47A-A8AA-DE3B-F1A6-FC79409403BD&page_key=0244AE70-CFED-1DEC-42AB-9041A6F4885D&xtemplate&userLGNKEY=0
 
 [w3c]: https://www.w3.org/community/art/
 
