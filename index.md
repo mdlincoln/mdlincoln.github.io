@@ -4,7 +4,7 @@ title: Home
 show_title: false
 ---
 
-<img id="headshot" height="250" width="250" src="/assets/images-display/getty_headshot.png" alt="mlincoln headshot" />
+<img id="headshot" height="250" width="250" src="/assets/images-display/luxembourg_headshot.jpeg" alt="mlincoln headshot" />
 
 I am a research software engineer at [Carnegie Mellon University Libraries](http://library.cmu.edu/), where I collaborate with scholars to plan and implement computational approaches to humanities research.
 
