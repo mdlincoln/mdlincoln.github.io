@@ -66,7 +66,7 @@ artists have been clustered here basically according to which year they were
 born in, because that’s one of the biggest (and maybe most uninteresting)
 predictors for who connects to you.[^scott]
 
-[^scott]: Thanks to [Scott Weingart](http://www.scottbot.net/) for pointing this out!
+[^scott]: Thanks to [Scott Weingart](https://www.scottbot.net/) for pointing this out!
 
 ## Dynamic network analysis
 

@@ -66,7 +66,7 @@ This can be a creative tension, I hope, but it is a distinction that I think we 
 We have spent the last few years just getting comfortable with data-rich methods for carefully-curated scholarly datasets.[^again]
 One of our next major challenges will be navigating how to recombine (and recontextualize through that recombination,) _multiple_ curated scholarly datasets.
 
-[^again]: Or just getting comfortable _again_ with data-rich methods, as [Scott Weingart reminds us](http://scottbot.net/lessons-from-digital-historys-antecedents/).
+[^again]: Or just getting comfortable _again_ with data-rich methods, as [Scott Weingart reminds us](https://scottbot.net/lessons-from-digital-historys-antecedents/).
 
 Productive work in this area (e.g. [Langmead et al. 2016](https://dx.doi.org/10.3366/ijhac.2016.0157)) is coming out of information science - a field that was surprisingly absent from Bode's citations (though I suspect that may say more about _MLQ_ than about Bode's own perspective.)
 I'll be interested to see if and how disciplines engage with this problem of commensurability - not only in literary studies, but also in [physical cultural heritage](https://www.slideshare.net/azaroth42/introduction-to-the-linked-art-data-model).
