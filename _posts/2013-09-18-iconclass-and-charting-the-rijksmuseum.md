@@ -30,7 +30,7 @@ Over the next week I will be publishing a series of posts summarizing my very in
 
 # Iconclass
 
-The art historian Henri van de Waal began to develop Iconclass [in the early 1950s](http://iconclass.nl/about-iconclass/history-of-iconclass) to provide "a systematic overview of subjects, themes, and motifs in Western art," with a particular emphasis on *systematic*. An Iconclass notation comprises a string of digits and characters (with possible additional tags or attributes) meant to accurately and authoritatively classify iconography in European art.
+The art historian Henri van de Waal began to develop Iconclass [in the early 1950s](http://web.archive.org/web/20200219220855/http://iconclass.nl/about-iconclass/history-of-iconclass) to provide "a systematic overview of subjects, themes, and motifs in Western art," with a particular emphasis on *systematic*. An Iconclass notation comprises a string of digits and characters (with possible additional tags or attributes) meant to accurately and authoritatively classify iconography in European art.
 
 Reviewing the early publication of the Iconclass index in 1977,[^becker] Jochen Becker prophetically prescribes a way to address the shortcomings of its print version:
 
