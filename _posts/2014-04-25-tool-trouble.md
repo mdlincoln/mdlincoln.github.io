@@ -55,7 +55,7 @@ Yet --- remarkably for a venue like *differences* --- the term passes by all but
 <figcaption>My patronus, DH Grumpy Cat</figcaption>
 </figure>
 
-One can hardly blame the authors, though. 
+One can hardly blame the authors, though.
 The damn term pops up *everywhere* in the DH sphere.
 From the [Bamboo DiRT] project that seeks to catalog digital "tools" for humanities scholarship, to introductory sessions on DH "tools" in almost any [THATCamp], to the [One Week | One Tool][owot] project, to the *Chronicle*'s [ProfHacker] blog absolutely lousy with "tools" to help your academic labor, the "tool" has become absolutely ubiquitous.
 
@@ -80,7 +80,7 @@ After all, we just can't seem to shut up about how great all these "tools" are.
 As in many things, I tried to channel Elijah Meeks when he talks and writes about the [ORBIS] and [Kindred Britain] projects.
 He has argued that these digital constructions are "tools" only in the way that a monograph or a scholarly article are "tools".
 If I understand Elijah correctly, he means that a mature work of computational scholarship in the humanities not only acknowledges the methodological assumptions underpinning its models and logic (down to level of code architecture), but actually presents a theoretical model for understanding its subject.
-The models underlying network structures, GIS, topic modeling through R or MALLET, etc. simply don't provide evidence for an argument *per se*. 
+The models underlying network structures, GIS, topic modeling through R or MALLET, etc. simply don't provide evidence for an argument *per se*.
 Properly deployed, these models *become an argument*.
 Or, as Franco Moretti argues in "Operationalizing": to integrate the methodologies of these analytical models with your own is to claim that your objects of research can be usefully conceptualized as such, and also requires you to acknowledge that, yes, you are in fact *transforming* those objects.
 
@@ -117,6 +117,6 @@ All the same, I think the pitfalls of the simplistic, tool-centric outlook on DH
 
 [owot]: http://oneweekonetool.org/
 
-[ProfHacker]: http://chronicle.com/blogs/profhacker/category/software
+[ProfHacker]: http://web.archive.org/web/20190723190731/http://chronicle.com/blogs/profhacker/category/software
 
 [Shakeosphere]: hhttps://shakeosphere.lib.uiowa.edu/index.jsp
