@@ -13,3 +13,7 @@ exclude:
   - vendor
   - .bundle
   - _local_config.yml
+  - node_modules
+  - package-lock.json
+  - package.json
+  - assets/js/main.js

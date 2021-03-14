@@ -1,0 +1,42 @@
+---
+layout: default
+title: EDTF Converter
+---
+<div class="edtf-wrapper">
+  <div class="one">
+    <p>Input</p>
+    <textarea id="edtf_input"></textarea>
+  </div>
+  <div class="two">
+    <p>Lower range</p>
+    <textarea id="edtf_lower" readonly></textarea>
+  </div>
+  <div class="three">
+    <p>Upper range
+    </p>
+    <textarea id="edtf_upper" readonly></textarea>
+  </div>
+</div>
+
+<script src="/assets/js/bundle.js"></script>
+
+<style lang="css">
+  .edtf-wrapper {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+  }
+
+  .one {
+    grid-column: 1;
+  }
+
+  .two {
+    grid-column: 2;
+  }
+
+  .three {
+    grid-column: 3;
+  }
+
+</style>
