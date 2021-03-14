@@ -5,7 +5,7 @@ const lower_field = document.getElementById('edtf_lower')
 const upper_field = document.getElementById('edtf_upper')
 
 const onlyDateToString = function (d) {
-  return d.toISOString().substring(0, 9)
+  return d.toISOString().substring(0, 10)
 }
 
 const parse_boundaries = function (edtf_string) {
