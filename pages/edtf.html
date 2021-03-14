@@ -2,26 +2,38 @@
 layout: default
 title: EDTF Converter
 ---
+
+<h1>EDTF Min/Max Calculator</h1>
+
+<p><a href="https://www.loc.gov/standards/datetime/">Extended Date/Time Format</a> is particularly useful for entering
+  date ranges or dates with varying
+  precision. Many data visualization and analysis tools, though, like well-behaved, fully-qualified dates. This tool
+  accepts a list of EDTF-formatted strings (one per line) and returns the lowest date and the highest date implied by
+  the
+  original EDTF string.</p>
+<p><strong>None of your data leaves your computer.</strong> The parsing happens locally, in your browser,
+  thanks to Sylvester Keil's JavaScript
+  library, <a href="https://github.com/inukshuk/edtf.js">edtf.js</a>.</p>
+
 <div class="edtf-wrapper">
   <div class="one">
-    <p>Input</p>
-    <textarea id="edtf_input"></textarea>
+    <label for="edtf_input">Input strings</label>
+    <textarea name="edtf_input" autofocus rows=50 placeholder="2010-05-04&#10;2011-12&#10;1999/2010"></textarea>
   </div>
   <div class="two">
-    <p>Lower range</p>
-    <textarea id="edtf_lower" readonly></textarea>
+    <label for="edtf_lower">Earliest day</label>
+    <textarea name="edtf_lower" readonly placeholder="2010-05-04&#10;2011-12-01&#10;1999-01-01" rows=50></textarea>
   </div>
   <div class="three">
-    <p>Upper range
-    </p>
-    <textarea id="edtf_upper" readonly></textarea>
+    <label for="edtf_upper">Latest day</label>
+    <textarea name="edtf_upper" readonly placeholder="2010-05-04&#10;2011-12-31&#10;2010-12-31" rows=50></textarea>
   </div>
 </div>
 
-1987
-2001
+<p>Summary: <span id="n_values_entered"></span> values parsed, <span id="n_blanks"></span> blanks skipped, <span
+    id="n_errors"></span> errors encountered.</p>
 
-2012-01/2019-05-23
+<ol id="input_errors"></ol>
 
 <script src="/assets/js/bundle.js"></script>
 
@@ -29,7 +41,6 @@ title: EDTF Converter
   .edtf-wrapper {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    gap: 10px;
   }
 
   .one {

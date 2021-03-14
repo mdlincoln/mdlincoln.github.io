@@ -17,3 +17,4 @@ exclude:
   - package-lock.json
   - package.json
   - assets/js/main.js
+  - assets/js/bundle.js.tmp*
