@@ -40,6 +40,6 @@ Far from reducing humanities graduate education to a professional degree, I thin
 
 [chron]: http://chronicle.com/article/At-Mellon-Signs-of-Change/
 
-[rights]: http://www.wordsinspace.net/wordpress/2014/06/17/rights-clearances-a-method-to-the-mind-numbing-madness/
+[rights]: https://web.archive.org/web/20150401150701/http://www.wordsinspace.net/wordpress/2014/06/17/rights-clearances-a-method-to-the-mind-numbing-madness/
 
 [umdgaha]: https://sites.google.com/site/umdgaha/

@@ -15,7 +15,7 @@ I use this scrap of bash code to let me copy any snippet of Markdown to the OS X
 pbpaste | pandoc -f markdown -t html | pbcopy
 {% endhighlight %}
 
-To make it dead easy on yourself, add this snippet as an alias in your `~/.bash_profile` ([what does that mean?][terminal]) like so:
+To make it dead easy on yourself, add this snippet as an alias in your `~/.bash_profile` like so:
 
 
 {% highlight bash %}
@@ -28,5 +28,3 @@ So now I just need to type `md` to swap the Markdown in my clipboard for HTML, r
 [md]: http://daringfireball.net/projects/Markdown/
 
 [pandoc]: http://johnmacfarlane.net/pandoc/
-
-[terminal]: http://mac.tutsplus.com/tutorials/terminal/speed-up-your-terminal-workflow-with-command-aliases-and-profile/
