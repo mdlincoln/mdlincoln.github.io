@@ -1,19 +1,35 @@
 const edtf = require('edtf');
 
-var input_field = document.getElementById('edtf_input');
-
+const input_field = document.getElementById('edtf_input');
 const lower_field = document.getElementById('edtf_lower')
 const upper_field = document.getElementById('edtf_upper')
 
-const update_dates = function (edtf_input) {
-  const edtf_string = edtf_input.target.value
+const onlyDateToString = function (d) {
+  return d.toISOString().substring(0, 9)
+}
+
+const parse_boundaries = function (edtf_string) {
   if (!!edtf_string) {
-    var parsed_date = edtf(edtf_string);
-    var lower_date = new Date(parsed_date.min)
-    var upper_date = new Date(parsed_date.max)
-    lower_field.value = lower_date.toISOString();
-    upper_field.value = upper_date.toISOString();
+    const parsed_date = edtf(edtf_string);
+    const bottom = new Date(parsed_date.min)
+    const top = new Date(parsed_date.max)
+    return { lower_date: onlyDateToString(bottom), upper_date: onlyDateToString(top) }
+  } else {
+    return { lower_date: "", upper_date: "" }
   }
 }
 
-input_field.addEventListener('input', update_dates);
+const render_all_dates = function (all_input) {
+  const input_string = all_input.target.value
+  var lower_dates = new Array
+  var upper_dates = new Array
+  input_string.split("\n").forEach(e => {
+    const lims = parse_boundaries(e)
+    lower_dates.push(lims.lower_date)
+    upper_dates.push(lims.upper_date)
+  })
+  lower_field.value = lower_dates.join("\n")
+  upper_field.value = upper_dates.join("\n")
+}
+
+input_field.addEventListener('input', render_all_dates);
