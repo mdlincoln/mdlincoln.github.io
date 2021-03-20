@@ -31,7 +31,7 @@ One strategy to deal with assertions like these when computing is to create a pa
 3. The person was within the city at some time between 1930-04-02 and 1934-11-30
 4. The probate inventory was made between 1731-02-10 and 1731-02-19
 
-With these boundaries, we can search through uncertain dates, visualize possible time ranges and overlaps with tools like [Palladio](/mapping-knoedler-palladio), and more. But it is a tremendous pain to manage so many different columns during data entry and cleaning.
+With these boundaries, we can search through uncertain dates, visualize possible time ranges and overlaps with tools like [Palladio](https://matthewlincoln.net/mapping-knoedler-palladio/), and more. But it is a tremendous pain to manage so many different columns during data entry and cleaning.
 
 The [Extended Date/Time Format (EDTF) Specification](https://www.loc.gov/standards/datetime/), or ISO 8601-2, is an expressive update to the strict precision of ISO 8601-1, specifying notation for dates and date ranges of varying precision and certainty. From our examples above, we could succinctly write:
 
