@@ -40,4 +40,7 @@ The [Extended Date/Time Format (EDTF) Specification](https://www.loc.gov/standar
 3. 1930-04-02/1934-11
 4. 1731-02-1X
 
-and tools / code libraries for parsing EDTF can understand each of these cases and compute the possible earliest/latest dates (along with many other properties) for further use in search, computing, or visualization. But if you aren't able to easily use the [Python](https://github.com/ixc/python-edtf) or [JavaScript](https://github.com/inukshuk/edtf.js) EDTF libraries, you can paste a list of EDTF dates into [my EDTF converter][edtfconverter] and it'll calculate the earliest and latest date boundaries (as well as alert you if any of your date strings are invalid.)
+and tools / code libraries for parsing EDTF can understand each of these cases and compute the possible earliest/latest dates (along with many other properties) for further use in search, computing, or visualization.
+[My EDTF converter][edtfconverter] lets you paste in a list of EDTF dates and it'll calculate the earliest and latest date boundaries (as well as alert you if any of your date strings are invalid.)
+
+There's a lot more to EDTF than the examples shown here, and the various parsing libraries can do more than pull out early/late date boundaries. I recommend you read more about the EDTF spec and try out the the [Python](https://github.com/ixc/python-edtf) or [JavaScript](https://github.com/inukshuk/edtf.js) EDTF libraries.
