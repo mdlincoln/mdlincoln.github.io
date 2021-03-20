@@ -15,25 +15,31 @@ title: EDTF Converter
   thanks to Sylvester Keil's JavaScript
   library, <a href="https://github.com/inukshuk/edtf.js">edtf.js</a>.</p>
 
-<div class="edtf-wrapper">
+<form class="edtf-wrapper" action="javascript:void(0);">
   <div class="one">
     <label for="edtf_input">Input strings</label>
-    <textarea name="edtf_input" autofocus rows=50 placeholder="2010-05-04&#10;2011-12&#10;1999/2010"></textarea>
+    <textarea name="edtf_input" autofocus cols=25 rows=50 placeholder="2010-05-04&#10;2011-12&#10;1999/2010"></textarea>
   </div>
   <div class="two">
     <label for="edtf_lower">Earliest day</label>
-    <textarea name="edtf_lower" readonly placeholder="2010-05-04&#10;2011-12-01&#10;1999-01-01" rows=50></textarea>
+    <textarea name="edtf_lower" readonly placeholder="2010-05-04&#10;2011-12-01&#10;1999-01-01" cols=25
+      rows=50></textarea>
   </div>
   <div class="three">
     <label for="edtf_upper">Latest day</label>
-    <textarea name="edtf_upper" readonly placeholder="2010-05-04&#10;2011-12-31&#10;2010-12-31" rows=50></textarea>
+    <textarea name="edtf_upper" readonly placeholder="2010-05-04&#10;2011-12-31&#10;2010-12-31" cols=25
+      rows=50></textarea>
   </div>
-</div>
+  <button class="submitter" id="convert_btn">Convert</button>
+</form>
 
 <p>Summary: <span id="n_values_entered"></span> values parsed, <span id="n_blanks"></span> blanks skipped, <span
     id="n_errors"></span> errors encountered.</p>
 
-<ol id="input_errors"></ol>
+<div id="error_div" class="error_list hidden">
+  <p id="error_header">Input Errors</p>
+  <ol id="input_errors"></ol>
+</div>
 
 <script src="/assets/js/bundle.js"></script>
 
@@ -53,6 +59,20 @@ title: EDTF Converter
 
   .three {
     grid-column: 3;
+  }
+
+  .submitter {
+    grid-column: 1 / 4;
+    grid-row: 1;
+  }
+
+  .hidden {
+    display: none;
+  }
+
+  .error_list {
+    padding: 0.5em;
+    background-color: lightcoral;
   }
 
 </style>

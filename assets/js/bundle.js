@@ -3,8 +3,9 @@ const edtf = require('edtf');
 const input_field = document.getElementsByName('edtf_input')[0];
 const lower_field = document.getElementsByName('edtf_lower')[0];
 const upper_field = document.getElementsByName('edtf_upper')[0];
+const error_div = document.getElementById('error_div');
 const error_list = document.getElementById('input_errors');
-
+const submit_btn = document.getElementById('convert_btn');
 
 const n_values_entered_el = document.getElementById("n_values_entered");
 const n_blanks_el = document.getElementById("n_blanks");
@@ -18,8 +19,22 @@ n_values_entered_el.textContent = n_values_entered;
 n_blanks_el.textContent = n_blanks;
 n_errors_el.textContent = n_errors;
 
+const reset_metrics = function () {
+  n_values_entered = 0
+  n_blanks = 0
+  n_errors = 0
+}
+
 const onlyDateToString = function (d) {
   return d.toISOString().substring(0, 10)
+}
+
+const show_errors = function (bool) {
+  if (bool) {
+    error_div.setAttribute("class", "error_list")
+  } else {
+    error_div.setAttribute("class", "error_list hidden")
+  }
 }
 
 const parse_boundaries = function (edtf_string) {
@@ -34,7 +49,7 @@ const parse_boundaries = function (edtf_string) {
     catch (e) {
       // When line is error, update errors
       var parse_error = document.createElement("li")
-      parse_error.innerHTML = `<code>${edtf_string}</code> invalid`
+      parse_error.innerHTML = `<code>${edtf_string}</code>`
       error_list.appendChild(parse_error)
       n_errors += 1;
     }
@@ -44,15 +59,14 @@ const parse_boundaries = function (edtf_string) {
   return { lower_date: "", upper_date: "" }
 }
 
-const render_all_dates = function (all_input) {
-  n_values_entered = 0
-  n_blanks = 0
-  n_errors = 0
+const render_all_dates = function () {
+  reset_metrics()
+  show_errors(false)
   // Clear error list on update
   while (error_list.firstChild) {
     error_list.removeChild(error_list.firstChild);
   }
-  const input_string = all_input.target.value
+  const input_string = input_field.value
   var lower_dates = new Array
   var upper_dates = new Array
   input_string.split(/\r?\n/).forEach(e => {
@@ -65,9 +79,12 @@ const render_all_dates = function (all_input) {
   n_values_entered_el.textContent = n_values_entered;
   n_blanks_el.textContent = n_blanks;
   n_errors_el.textContent = n_errors;
+  if (error_list.firstChild) {
+    show_errors(true)
+  }
 }
 
-input_field.addEventListener('input', render_all_dates);
+submit_btn.onclick = render_all_dates;
 },{"edtf":3}],2:[function(require,module,exports){
 'use strict';
 /* eslint indent: 4 */
