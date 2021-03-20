@@ -33,7 +33,7 @@ One strategy to deal with assertions like these when computing is to create a pa
 
 With these boundaries, we can search through uncertain dates, visualize possible time ranges and overlaps with tools like [Palladio](https://matthewlincoln.net/mapping-knoedler-palladio/), and more. But it is a tremendous pain to manage so many different columns during data entry and cleaning.
 
-The [Extended Date/Time Format (EDTF) Specification](https://www.loc.gov/standards/datetime/), or ISO 8601-2, is an expressive update to the strict precision of ISO 8601-1, specifying notation for dates and date ranges of varying precision and certainty. From our examples above, we could succinctly write:
+The [Extended Date/Time Format (EDTF) Specification](https://www.loc.gov/standards/datetime/) (core features of which are adopted by ISO 8601-2,) is an expressive update to the strict precision of ISO 8601-1, specifying notation for dates and date ranges of varying precision and certainty. From our examples above, we could succinctly write:
 
 1. 1653
 2. 1801-08
