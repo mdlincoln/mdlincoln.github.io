@@ -1,1 +1,12 @@
-entries: []
+entries:
+  - venue: |
+      Dream Lab: Tidy Humanities Data
+    location: University of Pennsylvanita
+    datestart: 2021-06-14
+    dateend: 2021-06-17
+    url: https://web.sas.upenn.edu/dream-lab/tidy-data-2021/
+  - venue: |
+      Making Research Data Public: Workshopping Data Management for Digital Humanities
+    location: University of Ottawa Library
+    datestart: 2021-05-21
+    dateend: 2021-05-28
