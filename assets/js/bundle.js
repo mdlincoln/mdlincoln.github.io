@@ -37,7 +37,7 @@ const show_errors = function (bool) {
   }
 }
 
-const parse_boundaries = function (edtf_string) {
+const parse_boundaries = function (edtf_string, i) {
   n_values_entered += 1;
   if (!!edtf_string) {
     try {
@@ -49,7 +49,7 @@ const parse_boundaries = function (edtf_string) {
     catch (e) {
       // When line is error, update errors
       var parse_error = document.createElement("li")
-      parse_error.innerHTML = `<code>${edtf_string}</code>`
+      parse_error.innerHTML = `line ${i + 1}: <code>${edtf_string}</code>`
       error_list.appendChild(parse_error)
       n_errors += 1;
     }
@@ -69,8 +69,8 @@ const render_all_dates = function () {
   const input_string = input_field.value
   var lower_dates = new Array
   var upper_dates = new Array
-  input_string.split(/\r?\n/).forEach(e => {
-    const lims = parse_boundaries(e)
+  input_string.split(/\r?\n/).forEach((e, i) => {
+    const lims = parse_boundaries(e, i)
     lower_dates.push(lims.lower_date)
     upper_dates.push(lims.upper_date)
   })

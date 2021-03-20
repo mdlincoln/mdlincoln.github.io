@@ -21,12 +21,12 @@ title: EDTF Converter
     <textarea name="edtf_input" autofocus cols=25 rows=50 placeholder="2010-05-04&#10;2011-12&#10;1999/2010"></textarea>
   </div>
   <div class="two">
-    <label for="edtf_lower">Earliest day</label>
+    <label for="edtf_lower">Output: earliest day</label>
     <textarea name="edtf_lower" readonly placeholder="2010-05-04&#10;2011-12-01&#10;1999-01-01" cols=25
       rows=50></textarea>
   </div>
   <div class="three">
-    <label for="edtf_upper">Latest day</label>
+    <label for="edtf_upper">Output: latest day</label>
     <textarea name="edtf_upper" readonly placeholder="2010-05-04&#10;2011-12-31&#10;2010-12-31" cols=25
       rows=50></textarea>
   </div>
@@ -38,7 +38,7 @@ title: EDTF Converter
 
 <div id="error_div" class="error_list hidden">
   <p id="error_header">Input Errors</p>
-  <ol id="input_errors"></ol>
+  <ul id="input_errors"></ul>
 </div>
 
 <script src="/assets/js/bundle.js"></script>
@@ -51,14 +51,17 @@ title: EDTF Converter
 
   .one {
     grid-column: 1;
+    grid-row: 2;
   }
 
   .two {
     grid-column: 2;
+    grid-row: 2;
   }
 
   .three {
     grid-column: 3;
+    grid-row: 2;
   }
 
   .submitter {
