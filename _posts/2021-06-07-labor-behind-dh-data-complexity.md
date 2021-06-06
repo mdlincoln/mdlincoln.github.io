@@ -7,7 +7,7 @@ tags:
   - data
   - digital humanities
 aside: |
-  This is an edited version of a talk that I gave at the May 21, 2021 workshop "Making Research Data Public: Workshopping Data Management for Digital Humanities," hosted by the University of Ottawa Library. [The complete slides are available here.](https://doi.org/10.1184/R1/14740440)
+  This is an edited version of a talk that I gave at the May 21, 2021 workshop ["Making Research Data Public: Workshopping Data Management for Digital Humanities,"](https://biblio.uottawa.ca/en/news/making-research-data-public-workshopping-data-curation-digital-humanities-projects)_ hosted by the University of Ottawa Library. [The complete slides are available here.](https://doi.org/10.1184/R1/14740440)
 ---
 
 This started out as some quick remarks about a specific project, but soon turned into a bit of a polemic about data and labor. There's more to be said than can be done in fifteen minutes, so I hope it's enough for me to raise some questions now, particularly because I don't have all the answers for them yet.
@@ -72,14 +72,14 @@ But these upsides of added data labor do not come automatically. It only worked 
 
 ## References and Related Works
 
-Boyles, Christina, Anne Cong-Huyen, Carrie Johnston, Jim McGrath, and Amanda Phillips. “Precarious Labor and the Digital Humanities.” American Quarterly 70, no. 3 (2018): 693–700. https://doi.org/10.1353/aq.2018.0054.
+Boyles, Christina, Anne Cong-Huyen, Carrie Johnston, Jim McGrath, and Amanda Phillips. “Precarious Labor and the Digital Humanities.” American Quarterly 70, no. 3 (2018): 693–700. <https://doi.org/10.1353/aq.2018.0054>.
 
-Langmead, Alison, Tracey Berg-Fulton, Thomas Lombardi, David Newbury, and Christopher Nygren. “A Role-Based Model for Successful Collaboration in Digital Art History.” International Journal for Digital Art History, no. 3 (July 27, 2018). https://doi.org/10.11588/dah.2018.3.34297.
+Langmead, Alison, Tracey Berg-Fulton, Thomas Lombardi, David Newbury, and Christopher Nygren. “A Role-Based Model for Successful Collaboration in Digital Art History.” International Journal for Digital Art History, no. 3 (July 27, 2018). <https://doi.org/10.11588/dah.2018.3.34297>.
 
-Morgan, Paige C. "Building Collectivity in Digital Humanities Through Working With Data," presented at *Recovering the US Hispanic Literary Heritage*, January 25, 2021. https://www.youtube.com/watch?v=QxGIxppyPdw.
+Morgan, Paige C. "Building Collectivity in Digital Humanities Through Working With Data," presented at *Recovering the US Hispanic Literary Heritage*, January 25, 2021. <https://www.youtube.com/watch?v=QxGIxppyPdw>.
 
-Posner, Miriam. “What’s Next: The Radical, Unrealized Potential of Digital Humanities.” Miriam Posner’s Blog, July 27, 2015. http://miriamposner.com/blog/whats-next-the-radical-unrealized-potential-of-digital-humanities/.
+Posner, Miriam. “What’s Next: The Radical, Unrealized Potential of Digital Humanities.” Miriam Posner’s Blog, July 27, 2015. <http://miriamposner.com/blog/whats-next-the-radical-unrealized-potential-of-digital-humanities/>.
 
-Terras, Melissa, and Julianne Nyhan. “Father Busa’s Female Punch Card Operatives.” In Debates in the Digital Humanities 2016, edited by Matthew K. Gold and Lauren F. Klein, 60–65. University of Minnesota Press, 2016. https://www.jstor.org/stable/10.5749/j.ctt1cn6thb.9.
+Terras, Melissa, and Julianne Nyhan. “Father Busa’s Female Punch Card Operatives.” In Debates in the Digital Humanities 2016, edited by Matthew K. Gold and Lauren F. Klein, 60–65. University of Minnesota Press, 2016. <https://www.jstor.org/stable/10.5749/j.ctt1cn6thb.9>.
 
-Weber, Chela, Martha Conway, Nicholas Martin, Gioia Stevens, and Brigette Kamsler. “Total Cost of Stewardship: Responsible Collection Building in Archives and Special Collections,” 2021. https://doi.org/10.25333/ZBH0-A044.
+Weber, Chela, Martha Conway, Nicholas Martin, Gioia Stevens, and Brigette Kamsler. “Total Cost of Stewardship: Responsible Collection Building in Archives and Special Collections,” 2021. <https://doi.org/10.25333/ZBH0-A044>.
