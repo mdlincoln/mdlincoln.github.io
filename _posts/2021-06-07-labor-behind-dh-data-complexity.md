@@ -46,7 +46,7 @@ So rather than normalizing all our author names, we maintained them as given in 
 
 Already, this introduces complexity in understanding the website: there are more boxes, more hyperlinks, more text on the page that may look more complex than users expect.
 
-But this increased data complexity also directly resulted in a lengthier data entry workflow for our project team. It included a lot of additional time spent training and troubleshooting with our student workers, and more of my own time spent customizing data entry interfaces; time I could not spent on refining the public-facing side of the website that most people would see.
+But this increased data complexity also directly resulted in a lengthier data entry workflow for our project team. It included a lot of additional time spent training and troubleshooting with our student workers, and more of my own time spent customizing data entry interfaces; time I could not spend on refining the public-facing side of the website that most people would see.
 
 This meant a lot of additional developer time configuring a database and web application where author names as well as their affiliations were not simple properties of the person, but assertions made by specific conference programs.
 
