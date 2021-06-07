@@ -1,13 +1,13 @@
 ---
 layout: post
 title: |
-  The Labor Behind DH Data Complexity: Balancing Priorities as a Real-Life Researcher
+  The Labor Behind DH Data Complexity
 date: 2021-06-07
 tags:
   - data
   - digital humanities
 aside: |
-  This is an edited version of a talk that I gave at the May 21, 2021 workshop ["Making Research Data Public: Workshopping Data Management for Digital Humanities,"](https://biblio.uottawa.ca/en/news/making-research-data-public-workshopping-data-curation-digital-humanities-projects)_ hosted by the University of Ottawa Library. [The complete slides are available here.](https://doi.org/10.1184/R1/14740440)
+  This is an edited version of a talk that I gave at the May 21, 2021 workshop ["Making Research Data Public: Workshopping Data Management for Digital Humanities,"](https://biblio.uottawa.ca/en/news/making-research-data-public-workshopping-data-curation-digital-humanities-projects) hosted by the University of Ottawa Library. [The complete slides are available here.](https://doi.org/10.1184/R1/14740440)
 ---
 
 This started out as some quick remarks about a specific project, but soon turned into a bit of a polemic about data and labor. There's more to be said than can be done in fifteen minutes, so I hope it's enough for me to raise some questions now, particularly because I don't have all the answers for them yet.
@@ -24,9 +24,9 @@ Six years ago when I was still a PhD student, I had the joy of attending [Keysto
 
 **Because embedded in the decision to add more complexity to data is a decision to invest more labor at many levels.** I am not saying this to dissuade such complexity – as I hope to demonstrate, the labor and results are often deeply rewarding. But I think we often elide the many kinds of labor that are affected by these decisions.
 
-I suspect much of this audience is painfully aware of the labor of data entry, reconciliation, and verification. I hope you are also thinking about the ways that this labor can be fairly or unfairly distributed. Here I show a picture of the largely-uncredited punch card operators for Roberto Busa's famous Index Thomisticus - a common example of the pejorative feminiziation of data entry in the earliest history of DH recently illuminated by [Melissa Terras and Julianne Nyhan](https://www.jstor.org/stable/10.5749/j.ctt1cn6thb.9).
+I suspect much of this audience is painfully aware of the labor of data entry, reconciliation, and verification. I hope you are also thinking about the ways that this labor can be fairly or unfairly distributed. Here I show a picture of the largely-uncredited punch card operators for Roberto Busa's *Index Thomisticus* - a common example of the pejorative feminiziation of data entry in the earliest history of DH recently illuminated by [Melissa Terras and Julianne Nyhan](https://www.jstor.org/stable/10.5749/j.ctt1cn6thb.9).
 
-{% include figure.html src='/assets/images/terras_nyhan.jpg' caption='Livia Canestraro (L) and another punch card operator for the Index Thomisticus. Published in [Terras and Nyhan 2016](https://www.jstor.org/stable/10.5749/j.ctt1cn6thb.9)' %}
+{% include figure.html src='/assets/images/terras_nyhan.jpg' caption='Livia Canestraro (L) and another punch card operator for the *Index Thomisticus*. Published in [Terras and Nyhan 2016](https://www.jstor.org/stable/10.5749/j.ctt1cn6thb.9)' %}
 
 But there are additional kinds of labor that come with increased complexity:
 
