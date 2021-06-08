@@ -56,7 +56,7 @@ When they are posted, you can update these plots yourself by [downloading the we
 
 [oed]: http://www.nga.gov/content/ngaweb/research/online-editions/17th-century-dutch-paintings.html
 
-[celebration]: http://arthistory.umd.edu/department-celebrate-professor-arthur-k-wheelock-jr-daylong-symposium-saturday-may-17th
+[celebration]: http://web.archive.org/web/20180506055111/http://arthistory.umd.edu/department-celebrate-professor-arthur-k-wheelock-jr-daylong-symposium-saturday-may-17th
 
 [ngagit]: https://github.com/mdlincoln/nga_dutch_collections
 

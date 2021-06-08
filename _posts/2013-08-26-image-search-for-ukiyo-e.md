@@ -10,7 +10,7 @@ tags:
 
 John Resig, lead developer of [jQuery](http://jquery.com/) (!) happens to be an avid *ukiyo-e* print collector. Lucky for us, because he has been putting his considerable programming skills to work developing a [database of *ukiyo-e* prints](http://ukiyo-e.org/) that you can search by *uploading a digital image of a print*, with the service returning prints from dozens of different museums and dealers that match yours.
 
-I tried it out with a Hiroshige print that we had discussed last spring in a graduate seminar on continuity and change in the Japanese visual arts by Drs. [Yui Suzuki](http://arthistory.umd.edu/faculty/Yui%20Suzuki) and [Alicia Volk](http://arthistory.umd.edu/faculty/Alicia%20Volk).
+I tried it out with a Hiroshige print that we had discussed last spring in a graduate seminar on continuity and change in the Japanese visual arts by Drs. [Yui Suzuki](http://web.archive.org/web/20210412194116/http://arthistory.umd.edu/faculty/Yui%20Suzuki) and [Alicia Volk](http://web.archive.org/web/20210103115750/http://arthistory.umd.edu/faculty/Alicia%20Volk).
 
 <figure>
 <a href="http://data.ukiyo-e.org/met/images/DP122119.jpg"><img src="/assets/images-display/hiroshige_biwa.png" alt="Hiroshige Vesper Bell at Mii Temple, 1835, Metropolitan Museum of Art" /></a>
