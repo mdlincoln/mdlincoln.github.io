@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <meta name="viewport" content="width=device-width">
 <meta name="author" content="{{ site.data.contact.name }}">
-<meta name="keywords" content="{{ page.tags | join: "," }}">
+<meta name="keywords" content="{{ page.tags | join: " ," }}">
 
 <link rel="icon" type="image/png" href="/favicon.png">
 
@@ -21,7 +21,9 @@
 <link rel="stylesheet" href="/assets/css/lanyon.css">
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.12/css/all.css"
   integrity="sha384-G0fIWCsCzJIMAVNQPfjH08cyYaUtMwjJwqiRKxxE/rx96Uroj1BtIQ6MLJuheaO9" crossorigin="anonymous">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:300,300italic,700|Roboto+Slab">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400&family=Roboto+Slab&display=swap"
+  rel="stylesheet">
 
 {% if site.enable_analytics %}
 <!-- Google Analytics -->
