@@ -7,3 +7,4 @@ tmp/
 .bundle/
 vendor/
 node_modules/
+.vscode/
