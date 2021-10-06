@@ -11,7 +11,7 @@ tags:
 ---
 
 <aside>
-	<p>This is from part of a series of posts on my <a href="http://michellesmithcollaboratory.umd.edu/summer-gas-set-high-bar">work this summer</a> in the Michelle Smith Collaboratory exploring possibilities for digital art historical practice:</p>
+	<p>This is from part of a series of posts on my <a href="http://web.archive.org/web/20210228072458/http://michellesmithcollaboratory.umd.edu/summer-gas-set-high-bar">work this summer</a> in the Michelle Smith Collaboratory exploring possibilities for digital art historical practice:</p>
 
 
 	<ol>

@@ -11,7 +11,7 @@ tags:
 ---
 
 <aside>
-	<p>This is from part of a series of posts on my <a href="http://michellesmithcollaboratory.umd.edu/summer-gas-set-high-bar">work this summer</a> in the Michelle Smith Collaboratory exploring possibilities for digital art historical practice:</p>
+	<p>This is from part of a series of posts on my <a href="http://web.archive.org/web/20210228072458/http://michellesmithcollaboratory.umd.edu/summer-gas-set-high-bar">work this summer</a> in the Michelle Smith Collaboratory exploring possibilities for digital art historical practice:</p>
 
 
 	<ol>
@@ -49,7 +49,7 @@ This frequency list offered me a very useful path into the imposing swath of rec
 <figcaption>"45 - warfare; military affairs" ratios over time, annotated with key dates.</figcaption>
 </figure>
 
-I was not shocked to find that the trends in artworks tagged `45 -- warfare; military affairs` appears to confirm the assumption that the onset of military conflict would result in more artwork with military imagery -- what surprised me was that the correlation even stronger than I had expected! 
+I was not shocked to find that the trends in artworks tagged `45 -- warfare; military affairs` appears to confirm the assumption that the onset of military conflict would result in more artwork with military imagery -- what surprised me was that the correlation even stronger than I had expected!
 
 There is a sudden surge in warfare tags during the onset of iconoclasm and revolt in 1568, a small dip in such works during the 1609-1611 "Twelve-year truce" brokered with Spain after reaching a stalemate in fighting, and an even stronger drop following the 1648 Treaty of Münster that formally ended the war. The alarming spike in war imagery seen a few decades later seems to correspond to the 1672 "Rampjaar", or disaster year, which witnessed the outbreak of war between the Netherlands and both France and England (here, the 20-year moving average I have applied to the trend line shows a misleadingly-early rise in this imagery: **40%** of Rijksmuseum artworks from 1672 are tagged "warfare" compared to **3%** the year earlier.) Presumably there are similar correlations to wars of the eighteenth and nineteenth centuries (if you see anything striking, please add a comment below.)
 
@@ -66,7 +66,7 @@ Not quite, it seems. If anything, I am intrigued by the persistence of these kin
 One seeming-exception to the non-relation of these trends is a noticeable drop in amusement images at the same time that we see a spike in warfare images at the end of the 12 year truce in 1621. Why would the trend in amusement images be more responsive to these changes in the political situation than to the massive shift in the 1560s and 70s when the revolt broke out?
 
 
-Another intriguing classification near the top of the frequency table was `46 -- social and economic life, transport and communication`, a broad category that includes imagery of market scenes and trading ships. 
+Another intriguing classification near the top of the frequency table was `46 -- social and economic life, transport and communication`, a broad category that includes imagery of market scenes and trading ships.
 
 <figure>
 <a href="/assets/images-display/war_money.svg"><img src="/assets/images-display/war_money.svg" alt="Ratios of war and recreation imagery" /></a>
@@ -98,7 +98,7 @@ The steady rise in the ratio of images of material aspects of daily life tracks 
 
 In each of these examples I have been actively searching for explanations for apparent trends in iconography over time. Starting from the close correlation between the onset and conclusion of historical conflicts and the changing ratios of war imagery in Dutch art, I looked through a handful of other subcategories of "Society and Civilization" as defined by Iconclass that were 1) both common enough in the collections of the Rijksmuseum that we could meaningfully visualize them, and 2) might have some relationship to military conflict.
 
-While some of these trends seemed to respond to conflict more than others, you'll note none of them perfectly corresponds over the five hundred years of artwork records that I checked. This is reassuring. What we are seeing is an instance of artwork genres reconfiguring over time, an issue with which scholars who develop topic models of literature must grapple. As [Benjamin Schmidt](http://journalofdigitalhumanities.org/2-1/words-alone-by-benjamin-m-schmidt/), among others, has pointed out, there is no ur-list of cultural topics that remains static over centuries, with only their relative ratios changing. Though different from topic modeling driven by [LDA], in which topic classifications are not preset by the researcher but generated algorithmically, Iconclass' model of iconography operates on a similar assumption that iconographic categories are stable over time. 
+While some of these trends seemed to respond to conflict more than others, you'll note none of them perfectly corresponds over the five hundred years of artwork records that I checked. This is reassuring. What we are seeing is an instance of artwork genres reconfiguring over time, an issue with which scholars who develop topic models of literature must grapple. As [Benjamin Schmidt](http://journalofdigitalhumanities.org/2-1/words-alone-by-benjamin-m-schmidt/), among others, has pointed out, there is no ur-list of cultural topics that remains static over centuries, with only their relative ratios changing. Though different from topic modeling driven by [LDA], in which topic classifications are not preset by the researcher but generated algorithmically, Iconclass' model of iconography operates on a similar assumption that iconographic categories are stable over time.
 
 I'll discuss this a bit more in my next post, but it does remind us that the use of certain iconography at one point in time may have had a rather different meaning than it does a century later. The possible relationships *between* different iconographic trends is particularly interesting for art historians. For example, what does our chart comparing images of economic and social life with those of material goods really have to tell us? Though these would seem to be logically connected subjects, their disjoint after the mid-1600s suggests that whatever drove images of "public" prosperity in particular (market scenes, seascapes filled with trading vessels, linen bleaching fields) may actually have been quite distinct from what drove images of "private" prosperity (still-lifes, domestic interiors), even as both certainly saw a boost from the economic growth witnessed by the Dutch Republic during its golden age.
 

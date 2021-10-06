@@ -11,7 +11,7 @@ tags:
 ---
 
 <aside>
-	<p>This is from part of a series of posts on my <a href="http://michellesmithcollaboratory.umd.edu/summer-gas-set-high-bar">work this summer</a> in the Michelle Smith Collaboratory exploring possibilities for digital art historical practice:</p>
+	<p>This is from part of a series of posts on my <a href="http://web.archive.org/web/20210228072458/http://michellesmithcollaboratory.umd.edu/summer-gas-set-high-bar">work this summer</a> in the Michelle Smith Collaboratory exploring possibilities for digital art historical practice:</p>
 
 
 	<ol>
@@ -74,7 +74,7 @@ Biblical prints appear to surge around 1500, and then again in the 1550s.
 Biblical paintings also have two surges, one in the 1520s and another in the 1620s.
 This is not quite the same "lag-time" that seems to occur in the war iconography trends.
 It is interesting to note that the first sudden drop in biblical *prints* comes in the years after the outbreak of the Protestant reformation, and experiences another uptick with the start of the Catholic Counter-Reformation, after which biblical prints decline until they are only a small minority of the prints being made through the seventeenth century.
-It seems likely that this historical context may explain some or most of this observed rise and fall. 
+It seems likely that this historical context may explain some or most of this observed rise and fall.
 
 But is it significant that the ratio of biblical *paintings* appears to increase shortly after each of these drops?
 It is revealing to look at the [list of biblical paintings from 1600 to 1660](/assets/docs/biblical-paintings.html) that actually comprise the latter of these upward swings.
