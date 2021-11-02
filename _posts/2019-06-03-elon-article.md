@@ -15,4 +15,4 @@ From an newspaper article on the talk:
 
 >"It's the kind of thing we can only do because we have this massive data collection effort in the first place," Lincoln said. "If I leave you with anything at this talk it is to not be afraid of the idea of putting categories on things if you can explain how they got there. If you make all of that available, it allows this kind of work, where you have the originals, you have the modern day way of classifying them, and it lets us apply these techniques that get us not to flatten things but to actually tell that more complicated story and that parallel history that simply wasn't visible when we were looking at one auctioneer or one sale at a time."
 
-[Read more here.](https://www.thetimesnews.com/news/20190301/art-world-meets-big-data-in-elon-speakers-world?template=ampart)
+[Read more here.](https://web.archive.org/web/20200804170120/https://www.thetimesnews.com/news/20190301/art-world-meets-big-data-in-elon-speakers-world)
