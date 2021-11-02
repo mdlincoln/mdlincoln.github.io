@@ -6,6 +6,8 @@ show_title: true
 
 ## Related papers and pages
 
+- [Proposing my digital humanities dissertation](/2021/11/02/dh-dissertation-proposal.html)
+- ["Tangled Metaphors: Network Thinking and Network Analysis in the History of Art"](/2020/05/17/tangled-metaphors.html)
 - [_Artl@s Bulletin_](/2017/11/29/continuity-and-disruption-in-european-networks-of-print-production.html)
 - [_International Journal of Digital Art History_](/2016/10/18/print-production-networks-in-digital-art-history.html)
 - [DH2016 Paper](/2016/07/13/dh2016-measuring-genre-diversity-in-seventeenth-century-dutch-painting-and-printmaking.html)
