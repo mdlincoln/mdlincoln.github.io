@@ -82,7 +82,7 @@ What happens if my sources or data tell a very different story from the one I th
 How do I manage the very real risks of maintaining my funding and juggling the deadlines at the department, college, and university level?
 
 In my case, I framed my quantitative questions as "either/or" questions in a very broad sense: Did the Netherlands become more centralized later in the seventeenth century? Or less?
-Did Dutch printmakers overall become more intertwined with international printmaking partnerships after the revolt, or mor inward facing?
+Did Dutch printmakers overall become more intertwined with international printmaking partnerships after the revolt, or more inward facing?
 
 Of course the complete answers to these questions were not simple binaries, but using these broad strokes helped me establish the stakes.
 It clarified the big implications for our historical narratives based on what my data-driven analysis turned up.
