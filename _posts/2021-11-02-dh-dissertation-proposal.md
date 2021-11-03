@@ -8,7 +8,7 @@ tags:
   - academia
 ---
 
-Spurred on by [some of my colleagues](https://twitter.com/heatherfro/status/1453754613962772489) as well as a virtual visit I just had with current students at my PhD alma mater, I'm finally writing up my experience proposing my digital humanities dissertation, including **[sharing the proposal document itself][proposal]**.
+Spurred on by [some of my colleagues](https://twitter.com/heatherfro/status/1453754613962772489) as well as a virtual visit I just had with current students at my PhD alma mater, I'm finally writing up my experience proposing my digital humanities dissertation, including **[sharing the proposal document itself][proposal]** from fall 2014, for a dissertation that I defended in spring 2016.
 
 [proposal]: https://doi.org/10.17613/89ez-a675
 
@@ -18,7 +18,7 @@ Spurred on by [some of my colleagues](https://twitter.com/heatherfro/status/1453
 
 This was *my* experience, which I offer up as *one possible* model for a DH dissertation. Expectations around proposals in particular can vary heavily not only between fields, but between individual departments, so your mileage might vary. To put some big-picture qualifiers out there at the start:
 
-1. My research was heavily inclined towards what is increasingly called [cultural analytics](https://culturalanalytics.org/about) i.e. data-driven analysis of humanities data to drive arguments about cultural history. My work is just one slice of the possible modes of digital humanities research, and of formats of DH dissertation. I'll discuss the ramifications of this for my own proposal and writing process.
+1. My research was heavily inclined towards what is increasingly called [cultural analytics](https://culturalanalytics.org/about) i.e. computational analysis of humanities data to drive arguments about cultural history. My work is just one slice of the possible modes of digital humanities research, and of formats of DH dissertation. I'll discuss the ramifications of this for my own proposal and writing process.
 2. I was based in a decently-ranked but non-Ivy art history department at a public university in the U.S., with an advisor who was also a prominent art museum curator. I believe both of these facts contributed to my success in getting this proposal and dissertation accepted, where I may have run in to more resistance at a more elite program.
 3. As I'll note in the discussion about my work schedule, I had a generous fellowship structure, with dedicated research and travel funding, that also set me up for success.
 
