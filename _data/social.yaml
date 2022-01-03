@@ -1,12 +1,12 @@
 - title: Twitter
-  icon: "fab fa-twitter"
-  link: "https://twitter.com/matthewdlincoln"
+  icon: 'fab fa-twitter'
+  link: 'https://twitter.com/matthewdlincoln'
 - title: GitHub
-  icon: "fab fa-github"
-  link: "https://github.com/mdlincoln"
+  icon: 'fab fa-github'
+  link: 'https://github.com/mdlincoln'
 - title: RSS
-  icon: "fas fa-rss"
-  link: "/feed.xml"
+  icon: 'fas fa-rss'
+  link: '/feed.xml'
 - title: Email
-  icon: "fas fa-envelope"
-  link: "mailto:mlincoln@andrew.cmu.edu"
+  icon: 'fas fa-envelope'
+  link: 'mailto:matthew.d.lincoln@gmail.com'
