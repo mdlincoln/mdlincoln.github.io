@@ -19,7 +19,7 @@ But I'm glad to start the new year off with two finally-public projects.
 
 After almost two years of work, CMU Libraries has launched its new digital collections platform right before Christmas last year: <https://digitalcollections.library.cmu.edu/>
 
-{% include figure.html src='/assets/images/cmu_digital_collections.png' %}
+{% include figure.html src='/assets/images/cmu_digital_collections.png' caption='Homepage of Carnegie Mellon University Libraries Digital Collections platform' %}
 
 The new database is built on Islandora 8, an open source repository system.
 As with any migration project, it is still very much in-progress, but it was a real milestone to be able to launch it for the public.
