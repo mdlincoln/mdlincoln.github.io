@@ -7,6 +7,7 @@ tags:
   - digital humanities
   - academia
   - LAM
+  - CMU DH
 ---
 
 Scrolling through the reverse chronological [archive of this blog](/archive), I've clearly had less and less time to write up posts over the years!

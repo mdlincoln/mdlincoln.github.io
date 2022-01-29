@@ -6,7 +6,7 @@ show_title: false
 
 <img id="headshot" height="250" width="250" src="/assets/images-display/luxembourg_headshot.jpeg" alt="mlincoln headshot" />
 
-I am the Collections Information Architect at [Carnegie Mellon University Libraries](http://library.cmu.edu/), where I design infrastructure to make cultural heritage data usable by students, researchers, and developers alike.
+I am a software engineer for text & data mining at [JSTOR Labs](https://labs.jstor.org), where I build infrastructure to make their text and image collections usable as data by students, researchers, and developers alike.
 
 [Contact me about speaking at your institution!](/speaking)
 
