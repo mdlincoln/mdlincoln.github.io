@@ -12,7 +12,7 @@ tags:
 
 Scrolling through the reverse chronological [archive of this blog](/archive), I've clearly had less and less time to write up posts over the years!
 Although part of that is to do with time, the other is due to the nature of my work projects, which have continually increased in size and complexity.
-They take longer in total to be ready for public consumption, and so fewer and fewer changes for in-progress reports.
+They take longer in total to be ready for public consumption, and so fewer and fewer chances for in-progress reports.
 
 But I'm glad to start the new year off with two finally-public projects.
 
