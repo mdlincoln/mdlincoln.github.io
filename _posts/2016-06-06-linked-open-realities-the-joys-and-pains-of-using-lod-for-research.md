@@ -65,7 +65,7 @@ This is easier said than done, of course.
 SPARQL is difficult to write, because to pull it off, you need to be familiar with the schema of your target database.... which is hard to grok if you can't write SPARQL to query it in the first place.
 
 I’m going to show you a screencast trying to write a simple query on the Getty Union List of Artist Names: how many different nationalities are represented in that database of artists born between 1600 and 1700, and how many of each nationality are recorded therein?
-This was recorded by a colleague at the [Harvard MetaLab institute _Beautiful Data 2_](http://beautifuldata.metalab.harvard.edu/2015/) who wanted to understand LOD a bit better.
+This was recorded by a colleague at the [Harvard MetaLab institute _Beautiful Data 2_](https://web.archive.org/web/20210512180723/http://beautifuldata.metalab.harvard.edu/2015/) who wanted to understand LOD a bit better.
 In real time, this apparently took about 20 minutes, with me talking through it the whole time.
 The sped-up screencast will just show about 3 minutes.
 
