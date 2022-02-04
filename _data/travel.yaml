@@ -1,1 +1,7 @@
 entries:
+  - venue: |
+      Dream Lab: Tidy Humanities Data
+    location: University of Pennsylvania
+    datestart: 2022-06-13
+    dateend: 2022-06-16
+    url: https://web.sas.upenn.edu/dream-lab/tidy-data-for-humanists-2022/
