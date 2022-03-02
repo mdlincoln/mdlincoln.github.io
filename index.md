@@ -23,11 +23,11 @@ I am a software engineer for text & data mining at [JSTOR Labs](https://labs.jst
 ## Recent blog posts
 
 <nav>
-	<ul>
-	{% for post in site.posts limit:5 %}
-	  {% include postlink.html %}
-	{% endfor %}
-	</ul>
+    <ul>
+    {% for post in site.posts limit:5 %}
+        {% include postlink.html %}
+    {% endfor %}
+    </ul>
 </nav>
 
 [See more...](/archive)
