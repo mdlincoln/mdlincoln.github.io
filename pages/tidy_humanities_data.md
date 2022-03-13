@@ -1,6 +1,6 @@
 ---
 title: Tidy Humanities Data
-layout: redirect
+layout: default
 redirect_from: /tidy_humanities_data
 ---
 
