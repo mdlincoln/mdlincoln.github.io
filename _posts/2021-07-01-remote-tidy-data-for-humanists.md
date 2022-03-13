@@ -11,7 +11,7 @@ tags:
 
 Last year, the University of Pennsylvania's DREAM Lab was cancelled due to the pandemic, and instead of trying to rapidly revise our courses to go remote, we put out [some of our course materials and a podcast](/2020/05/26/tidy-data-for-humanities.html).
 
-This year, we committed to a fully-remote DREAM Lab, **and you can see the course website and materials here: <https://matthewlincoln.net/tidy_humanities_data/>**
+This year, we committed to a fully-remote DREAM Lab, **and you can see the course website and materials here: <https://matthewlincoln.net/tidy_humanities_data>**
 
 ## What worked well
 
@@ -35,7 +35,7 @@ This year, we committed to a fully-remote DREAM Lab, **and you can see the cours
 
   By walking through these lists of best practices while looking together at a real set of humanities data, we anchored the abstract concepts to a concrete example. I was also pleasantly surprised at the number of questions that came up during these sessions as well - what I feared would be non-interactive and boring was apparently quite engaging.
 
-- **Settle on a single example dataset to use across all the instruction modules.** I ended up using 3 different exapmle datasets during course, and in retrospect I realize that I started them out with [one of the most complex ones first](https://matthewlincoln.net/tidy_humanities_data/units/palladio), in an effort to show them the kinds of data visualization they could do with well-tidied data - a motivator for the rest of the course.
+- **Settle on a single example dataset to use across all the instruction modules.** I ended up using 3 different exapmle datasets during course, and in retrospect I realize that I started them out with [one of the most complex ones first](https://matthewlincoln.net/tidy_humanities_data_2021/units/palladio), in an effort to show them the kinds of data visualization they could do with well-tidied data - a motivator for the rest of the course.
 
   While I still like the idea of "starting at the end" by showing off data visualization with tidied data, I'd want to scaffold it better, and then make sure for the following units on good data practices that we use a consistent dataset that becomes familiar to the class over the short time we're together.
 

@@ -1,7 +1,7 @@
 ---
 title: Tidy Humanities Data
 layout: default
-redirect_from: /tidy_humanities_data
+redirect_from: /tidy_humanities_data.html
 ---
 
 Tidy Humanities Data course links
