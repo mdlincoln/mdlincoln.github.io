@@ -16,7 +16,7 @@ There are several different summer institutes being offered this year in digital
 Most are open to scholars of all levels and specialties, and they seek applicants of all digital skill levels.
 For the sake of convenience, I've pulled together quick links and descriptions for all of the institutes here.
 
-The [Getty Foundation](http://www.getty.edu/foundation/) is funding three separate institutes. All of these offer stipends covering travel and housing:
+The [Getty Foundation](https://www.getty.edu/foundation/) is funding three separate institutes. All of these offer stipends covering travel and housing:
 
 - June 16--June 27, 2014: [Beautiful Data at Harvard's metaLAB](http://web.archive.org/web/20160415131706/http://metalab.harvard.edu/2014/01/beautiful-data-a-summer-institute-for-telling-stories-with-open-art-collections/). "Participants will be exposed to the core concepts, skills and practices necessary to make imaginative use of open collections data and assets, and to develop new forms of art-historical argument and storytelling that involve visualization, interactive media, expanded definitions of curatorial description, and hybrid analog/digital approaches to exhibition design and teaching." (Applications open now)
 - July 7--18, 2014: [Rebuilding the Portfolio: DH for Art Historians](http://arthistory2014.doingdh.org/schedule/) "is designed for 20 art historians, from different stages of their careers and from varied backgrounds, including faculty, curators, art librarians, and archivists who are eager to explore the digital turn in the humanities. We seek applications from individuals who have had very limited or no training in using digital methods and tools, or in computing." (Applications open now, due March 14, 2014)
