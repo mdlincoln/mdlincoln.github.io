@@ -10,3 +10,6 @@
 - title: Email
   icon: 'fas fa-envelope'
   link: 'mailto:matthew.d.lincoln@gmail.com'
+- title: Mastodon
+  icon: 'fab fa-mastodon'
+  link: https://mstdn.social/@mdlincoln"

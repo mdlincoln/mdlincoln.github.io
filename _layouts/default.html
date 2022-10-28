@@ -1,10 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
-		<head>
-				{% include html_head.html %}
-		</head>
-		<body class="theme-lincoln sidebar-overlay">
-			<div class="wrap">
+
+  <head>
+    {% include html_head.html %}
+  </head>
+
+  <body class="theme-lincoln sidebar-overlay">
+    <div class="wrap">
       <div class="masthead">
         <div class="container">
           <h3 class="masthead-title">
@@ -12,24 +14,29 @@
             <small>{{ site.data.site.tagline }}</small>
             <span class="social-links">
               {% for nav in site.data.social %}
-              <a href="{{ nav.link }}" title="{{ nav.title }}"><i class="{{ nav.icon }}"></i></a>
+              <a rel="me" href="{{ nav.link }}" title="{{ nav.title }}"><i class="{{ nav.icon }}"></i></a>
               {% endfor %}
             </span>
           </h3>
           <div class="menu-links">
             {% for link in site.data.nav %}
-            <a class="menu-links-item" href="{{ link.url }}">{{ link.title }}</a>{% if forloop.last %}{% else %} &bull; {% endif %}{% endfor %}
+            <a class="menu-links-item" href="{{ link.url }}">{{ link.title }}</a>{% if forloop.last %}{% else %} &bull;
+            {% endif %}{% endfor %}
           </div>
         </div>
       </div>
       <div class="content container">
-      	{% if page.show_title %}
-      	<h1 class="post-title">{{ page.title | markdownify }}</h1>
-				{% endif %}
-				{{ content }}
-        <hr/>
+        {% if page.show_title %}
+        <h1 class="post-title">{{ page.title | markdownify }}</h1>
+        {% endif %}
+        {{ content }}
+        <hr />
         <div class="revision">
-          <p>{% include license.html %} &bull; <a href="/pages/colophon.html">Colophon</a> &bull; <a href="https://github.com/mdlincoln/mdlincoln.github.io/commits/master/{{ page.path }}" title="version history on GitHub">Revision history for this page</a></div>
+          <p>{% include license.html %} &bull; <a href="/pages/colophon.html">Colophon</a> &bull; <a
+              href="https://github.com/mdlincoln/mdlincoln.github.io/commits/master/{{ page.path }}"
+              title="version history on GitHub">Revision history for this page</a>
+        </div>
         <!-- The idea for a revision history link lifted shamelessly from https://github.com/ricedh/drafts -->
-		</body>
+  </body>
+
 </html>
