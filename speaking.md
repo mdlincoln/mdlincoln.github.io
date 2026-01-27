@@ -2,6 +2,35 @@
 title: Invited Speaking
 layout: default
 talks:
+  - year: 2023
+    text: What is non-consumptive data and what can you do with it?
+    place: NISO+
+    date: 14 February 2023
+    tech: true
+  - year: 2021
+    text: |
+      Digital Art History, Network Analysis, and DH Dissertations
+    place: Michelle Smith Collaboratory for Visual Culture
+    location: University of Maryland
+    date: 1 November 2021
+    invited: true
+  - year: 2021
+    text: |
+      The Labor Behind DH Data Complexity
+    place: |
+      Making Research Data Public: Workshopping Data Management for Digital Humanities
+    location: University of Ottawa Library
+    date: 21 May 2021
+    invited: true
+    url: https://doi.org/10.1184/R1/14740440
+  - year: 2021
+    preamble: With Julia Corrin, Emily Davis, and Scott B. Weingart
+    text: |
+      Centering the Human Expert: Experiments in Computer Vision Infrastructure for Digital Collection Management
+    place: CNI Spring 2021 Virtual Membership Meeting
+    conference: true
+    url: https://doi.org/10.1184/R1/14216609
+    date: 15 March 2021
   - year: 2021
     text: |
       From Social Networks to Ontological Networks: The Tricky Relationship Between DH and GLAM Data
