@@ -1,6 +1,3 @@
-- title: Twitter
-  icon: 'fab fa-twitter'
-  link: 'https://twitter.com/matthewdlincoln'
 - title: GitHub
   icon: 'fab fa-github'
   link: 'https://github.com/mdlincoln'
@@ -10,6 +7,3 @@
 - title: Email
   icon: 'fas fa-envelope'
   link: 'mailto:matthew.d.lincoln@gmail.com'
-- title: Mastodon
-  icon: 'fab fa-mastodon'
-  link: 'https://mstdn.social/@mdlincoln'
