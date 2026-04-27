@@ -6,8 +6,7 @@ show_title: false
 
 <img id="headshot" height="250" width="250" src="/assets/images-display/luxembourg_headshot.jpeg" alt="mlincoln headshot" />
 
-I am the manager for software engineering at [JSTOR Labs](https://labs.jstor.org).
-Our team prototypes novel technologies that grow access to cultural heritage and scholarly knowledge by all.
+I am a software engineer for [Prolific](https://prolific.com), working to make verified human expert data available to researchers of all stripes.
 
 [Contact me about speaking at your institution!](/speaking)
 
